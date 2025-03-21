@@ -1,0 +1,81 @@
+# Dev.to Publishing Workflow
+
+This repository contains a GitHub Actions workflow that automatically publishes your Markdown articles to Dev.to whenever you push changes to the `main` branch.
+
+## Setup Instructions
+
+1. **Get your Dev.to API key**:
+   - Log in to your Dev.to account
+   - Go to Settings > Account > DEV API Keys
+   - Create a new API key with an appropriate description
+   - Copy the generated API key
+
+2. **Add the API key to your repository secrets**:
+   - Go to your GitHub repository
+   - Navigate to Settings > Secrets and variables > Actions
+   - Click "New repository secret"
+   - Name the secret `DEVTO_API_KEY`
+   - Paste your Dev.to API key as the value
+   - Click "Add secret"
+
+3. **Set up your repository structure**:
+   ```
+   ├── .github/
+   │   ├── workflows/
+   │   │   └── devto-publish.yml
+   │   └── scripts/
+   │       └── publish-to-devto.js
+   ├── content/
+   │   └── posts/
+   │       ├── article-1.md
+   │       ├── article-2.md
+   │       └── ...
+   └── README.md
+   ```
+
+4. **Install required dependencies**:
+   - Run `npm init -y` to create a package.json file if you don't have one
+   - Run `npm install axios front-matter js-yaml` to install required dependencies
+
+## Article Format
+
+Your Markdown articles should include a YAML front matter at the top. Here's an example:
+
+```markdown
+---
+title: "My Awesome Article"
+description: "A brief description of this article"
+tags: ["javascript", "webdev", "tutorial"]
+published: true
+# Optional fields:
+# series: "My Article Series"
+# cover_image: "https://example.com/my-image.jpg"
+# canonical_url: "https://mysite.com/original-article"
+# devto_id: 123456 # Added automatically after first publish
+---
+
+Your article content goes here...
+```
+
+## How It Works
+
+1. When you push changes to your `main` branch, the workflow checks for modified `.md` files in the `content/posts/` directory
+2. For each modified file, the script:
+   - Reads the file content and parses the front matter
+   - Checks if the article should be published or is a draft
+   - Determines whether to create a new article or update an existing one
+   - Makes the appropriate API call to Dev.to
+   - Updates the front matter with the Dev.to article ID for future updates
+
+## Troubleshooting
+
+If you encounter issues:
+
+1. Check the GitHub Actions logs for error messages
+2. Verify your Dev.to API key is correctly set in repository secrets
+3. Make sure your Markdown files have valid front matter
+4. Confirm that the file paths in the workflow match your repository structure
+
+## License
+
+[MIT License](LICENSE)
