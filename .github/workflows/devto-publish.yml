@@ -1,0 +1,38 @@
+name: Publish to Dev.to
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/posts/**'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for detecting changes
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install axios front-matter
+
+      - name: Detect changed files
+        id: changed-files
+        run: |
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^content/posts/' | grep '\.md$')
+          echo "::set-output name=files::$CHANGED_FILES"
+
+      - name: Publish to Dev.to
+        if: steps.changed-files.outputs.files != ''
+        run: node .github/scripts/publish-to-devto.js
+        env:
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
