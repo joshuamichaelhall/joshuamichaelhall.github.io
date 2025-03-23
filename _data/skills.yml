@@ -1,0 +1,73 @@
+# Technical Skills
+categories:
+  - name: "Languages"
+    skills:
+      - name: "Ruby"
+        level: 85
+        description: "Primary language learned at Launch School"
+      - name: "Python"
+        level: 70
+        description: "Secondary language for data analysis"
+      - name: "JavaScript"
+        level: 60
+        description: "Frontend development and interactive web applications"
+      - name: "SQL"
+        level: 75
+        description: "Database querying and management"
+      - name: "Shell Scripting"
+        level: 80
+        description: "Task automation and development workflow"
+
+  - name: "Technologies"
+    skills:
+      - name: "Neovim"
+        level: 90
+        description: "Primary text editor and development environment"
+      - name: "tmux"
+        level: 85
+        description: "Terminal multiplexer for session management"
+      - name: "Git"
+        level: 80
+        description: "Version control and collaboration"
+      - name: "PostgreSQL"
+        level: 75
+        description: "Relational database management"
+      - name: "Linux/Unix"
+        level: 80
+        description: "Operating system and environment"
+
+  - name: "Frameworks"
+    skills:
+      - name: "Sinatra"
+        level: 75
+        description: "Lightweight web framework"
+      - name: "Rails"
+        level: 60
+        description: "Full-stack web framework"
+      - name: "RSpec"
+        level: 80
+        description: "Testing framework for Ruby"
+      - name: "Pandas"
+        level: 70
+        description: "Data analysis library for Python"
+      - name: "NumPy"
+        level: 65
+        description: "Scientific computing library for Python"
+
+  - name: "Domain Knowledge"
+    skills:
+      - name: "Software Engineering"
+        level: 80
+        description: "Strong fundamentals in software design and architecture"
+      - name: "Data Analysis"
+        level: 65
+        description: "Processing and deriving insights from data"
+      - name: "Mathematics"
+        level: 60
+        description: "Algebra, statistics, and foundations for ML"
+      - name: "Finance"
+        level: 50
+        description: "Basic understanding of financial markets and instruments"
+      - name: "Machine Learning"
+        level: 40
+        description: "Foundations and applied techniques (in progress)"
