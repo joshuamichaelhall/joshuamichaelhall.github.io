@@ -1,0 +1,20 @@
+{% for category in site.data.skills.categories %}
+<div class="skills-category">
+  <h3>{{ category.name }}</h3>
+  <div class="skills-grid">
+    {% for skill in category.skills %}
+    <div class="skill-item">
+      <div class="skill-header">
+        <h4>{{ skill.name }}</h4>
+        <div class="skill-level">
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: {{ skill.level }}%"></div>
+          </div>
+        </div>
+      </div>
+      <p class="skill-description">{{ skill.description }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}

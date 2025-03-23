@@ -1,0 +1,32 @@
+# Portfolio Projects
+- title: "Terminal Environment Setup"
+  description: "A fully customized development environment using Neovim, tmux, and command-line tools optimized for software engineering and data analysis workflows."
+  technologies: ["Neovim", "tmux", "Shell Scripting", "Git"]
+  github: "https://github.com/JoshuaMichaelHall/terminal-setup"
+  image: "/assets/images/terminal-setup.png"
+  featured: true
+  category: "development-tools"
+
+- title: "Ruby Data Processing Pipeline"
+  description: "ETL pipeline built in Ruby for processing and transforming datasets, with data validation and reporting components."
+  technologies: ["Ruby", "RSpec", "PostgreSQL"]
+  github: "https://github.com/JoshuaMichaelHall/ruby-data-pipeline"
+  image: "/assets/images/ruby-pipeline.png"
+  featured: true
+  category: "backend"
+
+- title: "Python Data Analysis Framework"
+  description: "Framework for analyzing financial datasets, including data cleaning, transformation, and visualization components."
+  technologies: ["Python", "Pandas", "NumPy", "Matplotlib"]
+  github: "https://github.com/JoshuaMichaelHall/python-data-analysis"
+  image: "/assets/images/python-analysis.png"
+  featured: false
+  category: "data-science"
+
+- title: "RESTful API Service"
+  description: "Backend service implementing RESTful principles for data management and retrieval with comprehensive test coverage."
+  technologies: ["Ruby", "Sinatra", "PostgreSQL", "RSpec"]
+  github: "https://github.com/JoshuaMichaelHall/rest-api"
+  image: "/assets/images/rest-api.png"
+  featured: false
+  category: "backend"
