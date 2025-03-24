@@ -1,6 +1,6 @@
 // assets/js/github-integration.js
 document.addEventListener('DOMContentLoaded', function() {
-  fetch('https://api.github.com/users/JoshuaHallTech/repos?sort=updated')
+  fetch('https://api.github.com/users/JoshuaMichaelHall/repos?sort=updated')
     .then(response => response.json())
     .then(data => {
       const container = document.getElementById('github-projects');
