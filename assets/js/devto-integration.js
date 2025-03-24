@@ -1,6 +1,6 @@
 // assets/js/devto-integration.js
 document.addEventListener('DOMContentLoaded', function() {
-  fetch('https://dev.to/api/articles?username=yourusername')
+fetch('https://dev.to/api/articles?username=joshuamichaelhall')
     .then(response => response.json())
     .then(data => {
       const container = document.getElementById('devto-articles');
