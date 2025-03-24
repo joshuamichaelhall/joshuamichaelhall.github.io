@@ -83,7 +83,7 @@ I believe in:
 
 ## Connect With Me
 
-- [GitHub](https://github.com/JoshuaMichaelHall)
+- [GitHub](https://github.com/JoshuaHallTech)
 - [LinkedIn](https://linkedin.com/in/joshuamichaelhall)
 - [Dev.to](https://dev.to/joshuamichaelhall)
 - [Medium](https://medium.com/@joshuamichaelhall)
