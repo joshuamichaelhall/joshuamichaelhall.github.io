@@ -6,7 +6,7 @@ description: >-
   focused on mastery-based learning at Launch School with a career path toward ML/finance.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuamichaelhall.com"
-twitter_username: JoshuaMichaelHall
+twitter_username: JoshuaHallTech
 github_username: JoshuaMichaelHall
 linkedin_username: joshuamichaelhall
 
@@ -64,3 +64,6 @@ exclude:
   - .github/
   - README.md
   - post_template
+
+  # Google Analytics
+google_analytics: G-H2DLTHZZ3C  # Replace with your tracking ID
