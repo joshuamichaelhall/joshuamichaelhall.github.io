@@ -12,7 +12,7 @@ I'm interested in discussing technical challenges, collaborative opportunities, 
 
 - **Email**: <a href="mailto:contact@joshuamichaelhall.com">contact@joshuamichaelhall.com</a>
 - **LinkedIn**: [joshuamichaelhall](https://linkedin.com/in/joshuamichaelhall)
-- **GitHub**: [JoshuaHallTech](https://github.com/JoshuaHallTech)
+- **GitHub**: [JoshuaMichaelHall](https://github.com/JoshuaMichaelHall)
 - **Dev.to**: [joshuamichaelhall](https://dev.to/joshuamichaelhall)
 
 ## Contact Form
