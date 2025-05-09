@@ -1184,3 +1184,90 @@ a {
     }
   }
 } 
+
+.site-header {
+  background-color: $light-gray;
+  padding: 15px 0;
+  
+  .site-nav-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .site-nav {
+    .nav-links {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      
+      .page-link {
+        font-weight: 600;
+        font-size: 1.1rem;
+        color: $secondary-color;
+        
+        &:hover {
+          color: $primary-color;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .site-header .site-nav .nav-links {
+    gap: 15px;
+
+    .page-link {
+      font-size: 1rem;
+    }
+  }
+}
+
+.social-media-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  
+  .social-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+    
+    a {
+      display: flex;
+      align-items: center;
+      color: $secondary-color;
+      
+      &:hover {
+        color: $primary-color;
+        text-decoration: none;
+      }
+    }
+    
+    .social-icon {
+      display: flex;
+      align-items: center;
+      margin-right: 10px;
+    }
+  }
+}
+
+.footer-links {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  
+  li {
+    margin-bottom: 12px;
+    
+    a {
+      color: $secondary-color;
+      
+      &:hover {
+        color: $primary-color;
+      }
+    }
+  }
+}

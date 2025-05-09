@@ -7,10 +7,10 @@ title: Home
   <div class="hero-content">
     <h1>Joshua Michael Hall</h1>
     <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
-    <p>Building a high-paying career through mastery of DevOps/SRE fundamentals with specialized expertise in financial services infrastructure.</p>
+    <p>Building secure, reliable infrastructure through automation, containerization, and DevOps practices.</p>
     <div class="hero-links">
       <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
-      <a href="/about" class="btn secondary-btn">About Me</a>
+      <a href="/contact" class="btn secondary-btn">Contact Me</a>
     </div>
   </div>
 </div>
@@ -37,47 +37,17 @@ title: Home
   </div>
 </section>
 
-<section class="home-section" id="featured-projects">
-  <h2>Featured Projects</h2>
-  <div class="featured-projects-grid">
-    <div class="project-card">
-      <h3>Infrastructure as Code for Multi-Environment Deployment</h3>
-      <p>Production-grade infrastructure modules for dev/test/prod environments with security controls for financial services compliance.</p>
-      <p class="technologies">
-        <strong>Technologies:</strong> Terraform, AWS, GitHub Actions
-      </p>
-      <div class="project-links">
-        <a href="https://github.com/JoshuaMichaelHall/finapp-infrastructure" target="_blank" class="btn project-btn">View on GitHub</a>
-      </div>
-    </div>
-    <div class="project-card">
-      <h3>Containerized Microservices Platform</h3>
-      <p>Multi-service application containerization with Kubernetes deployment, monitoring, and security implementation.</p>
-      <p class="technologies">
-        <strong>Technologies:</strong> Docker, Kubernetes, Prometheus, Grafana
-      </p>
-      <div class="project-links">
-        <a href="https://github.com/JoshuaMichaelHall/container-platform" target="_blank" class="btn project-btn">View on GitHub</a>
-      </div>
-    </div>
-  </div>
+<section class="home-section" id="projects">
+  <h2>Projects</h2>
+  <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
   </div>
 </section>
 
-<section class="home-section" id="latest-posts">
-  <h2>Latest Articles</h2>
-  <div class="latest-posts-grid">
-    {% for post in site.posts limit:3 %}
-    <div class="post-card">
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
-      <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-      <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
-    </div>
-    {% endfor %}
-  </div>
+<section class="home-section" id="articles">
+  <h2>Articles</h2>
+  <div id="devto-articles"></div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">View All Articles</a>
   </div>

@@ -1,21 +1,58 @@
-// assets/js/github-integration.js
+// assets/js/github-integration.js - Updated version
 document.addEventListener('DOMContentLoaded', function() {
   fetch('https://api.github.com/users/JoshuaMichaelHall/repos?sort=updated')
     .then(response => response.json())
     .then(data => {
       const container = document.getElementById('github-projects');
-      const repos = data.slice(0, 6); // Show top 6 projects
       
-      repos.forEach(repo => {
+      // Filter out unwanted repositories and limit to 6
+      const filteredRepos = data
+        .filter(repo => repo.name !== '.github') // Filter out .github repository
+        .slice(0, 6);
+      
+      if (filteredRepos.length === 0) {
+        container.innerHTML = '<p>No projects available at this time.</p>';
+        return;
+      }
+      
+      container.innerHTML = ''; // Clear any existing content
+      
+      // Default descriptions for specific repositories if they're missing
+      const defaultDescriptions = {
+        'joshuamichaelhall.github.io': 'My professional portfolio site built with Jekyll, showcasing DevOps projects and technical articles.',
+        'anki-converter': 'Command-line tool that converts Markdown notes to CSV files for efficient Anki flashcard creation.',
+        'articles': 'Collection of technical articles on DevOps, infrastructure automation, and cloud architecture.',
+        'JoshuaMichaelHall': 'Configuration and profile customization for my GitHub account with DevOps focus.'
+      };
+      
+      // Default languages for repositories that might not have a language specified
+      const defaultLanguages = {
+        'joshuamichaelhall.github.io': 'HTML/SCSS',
+        'articles': 'Markdown',
+        'JoshuaMichaelHall': 'Markdown'
+      };
+      
+      filteredRepos.forEach(repo => {
         const projectDiv = document.createElement('div');
         projectDiv.className = 'project-card';
+        
+        // Use default description if none is available
+        const description = repo.description || defaultDescriptions[repo.name] || 'DevOps/SRE project in development.';
+        
+        // Use default language if none is specified
+        const language = repo.language || defaultLanguages[repo.name] || 'Not specified';
+        
         projectDiv.innerHTML = `
           <h3><a href="${repo.html_url}">${repo.name}</a></h3>
-          <p>${repo.description || 'No description available'}</p>
-          <p>Language: ${repo.language || 'Not specified'}</p>
+          <p>${description}</p>
+          <p>Language: ${language}</p>
+          <a href="${repo.html_url}" class="btn project-btn">View on GitHub</a>
         `;
         container.appendChild(projectDiv);
       });
     })
-    .catch(error => console.error('Error fetching GitHub projects:', error));
+    .catch(error => {
+      console.error('Error fetching GitHub projects:', error);
+      document.getElementById('github-projects').innerHTML = '<p>Unable to load GitHub projects. Please check back later.</p>';
+    });
 });
