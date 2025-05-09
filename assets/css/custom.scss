@@ -1231,25 +1231,15 @@ a {
   padding-left: 0;
   
   .social-item {
-    display: flex;
-    align-items: center;
     margin-bottom: 12px;
     
     a {
-      display: flex;
-      align-items: center;
       color: $secondary-color;
       
       &:hover {
         color: $primary-color;
         text-decoration: none;
       }
-    }
-    
-    .social-icon {
-      display: flex;
-      align-items: center;
-      margin-right: 10px;
     }
   }
 }

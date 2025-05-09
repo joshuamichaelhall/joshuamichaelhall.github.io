@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
       
       // Filter out unwanted repositories and limit to 6
       const filteredRepos = data
-        .filter(repo => repo.name !== '.github') // Filter out .github repository
+        .filter(repo => repo.name !== '.github' && repo.name !== 'joshuamichaelhall.github.io') // Filter out .github and personal site repos
         .slice(0, 6);
       
       if (filteredRepos.length === 0) {
@@ -19,7 +19,6 @@ document.addEventListener('DOMContentLoaded', function() {
       
       // Default descriptions for specific repositories if they're missing
       const defaultDescriptions = {
-        'joshuamichaelhall.github.io': 'My professional portfolio site built with Jekyll, showcasing DevOps projects and technical articles.',
         'anki-converter': 'Command-line tool that converts Markdown notes to CSV files for efficient Anki flashcard creation.',
         'articles': 'Collection of technical articles on DevOps, infrastructure automation, and cloud architecture.',
         'JoshuaMichaelHall': 'Configuration and profile customization for my GitHub account with DevOps focus.'
@@ -27,7 +26,6 @@ document.addEventListener('DOMContentLoaded', function() {
       
       // Default languages for repositories that might not have a language specified
       const defaultLanguages = {
-        'joshuamichaelhall.github.io': 'HTML/SCSS',
         'articles': 'Markdown',
         'JoshuaMichaelHall': 'Markdown'
       };
