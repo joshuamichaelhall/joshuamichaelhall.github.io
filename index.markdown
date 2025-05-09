@@ -6,8 +6,8 @@ title: Home
 <div class="hero-section">
   <div class="hero-content">
     <h1>Joshua Michael Hall</h1>
-    <h2>Software Engineer | Future ML Specialist</h2>
-    <p>Building a high-paying career through mastery of software engineering fundamentals with a path toward ML/AI in finance.</p>
+    <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
+    <p>Building a high-paying career through mastery of DevOps/SRE fundamentals with specialized expertise in financial services infrastructure.</p>
     <div class="hero-links">
       <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
       <a href="/about" class="btn secondary-btn">About Me</a>
@@ -19,20 +19,20 @@ title: Home
   <h2>Technical Focus</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Backend Development</h3>
-      <p>Specialized in Ruby and Python with strong focus on clean, maintainable code and comprehensive testing.</p>
+      <h3>Infrastructure as Code</h3>
+      <p>Building automated, reproducible infrastructure with Terraform and AWS CloudFormation for financial environments.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Terminal-Based Workflow</h3>
+      <h3>Containerization & Orchestration</h3>
+      <p>Docker containerization and Kubernetes orchestration with focus on security and high availability.</p>
+    </div>
+    <div class="tech-focus-item">
+      <h3>CI/CD Automation</h3>
+      <p>Continuous integration and delivery pipelines with GitHub Actions, Jenkins, and automated testing.</p>
+    </div>
+    <div class="tech-focus-item">
+      <h3>Terminal-Centric Workflow</h3>
       <p>Optimized development environment using Neovim, tmux, and CLI tools for maximum productivity.</p>
-    </div>
-    <div class="tech-focus-item">
-      <h3>Data Analysis</h3>
-      <p>Processing and analyzing data with Python libraries including Pandas and NumPy.</p>
-    </div>
-    <div class="tech-focus-item">
-      <h3>Financial Applications</h3>
-      <p>Building toward specialized knowledge in financial data processing and ML applications in finance.</p>
     </div>
   </div>
 </section>
@@ -40,21 +40,26 @@ title: Home
 <section class="home-section" id="featured-projects">
   <h2>Featured Projects</h2>
   <div class="featured-projects-grid">
-    {% assign featured_projects = site.data.projects | where: "featured", true | limit: 2 %}
-    {% for project in featured_projects %}
     <div class="project-card">
-      <h3>{{ project.title }}</h3>
-      <p>{{ project.description }}</p>
+      <h3>Infrastructure as Code for Multi-Environment Deployment</h3>
+      <p>Production-grade infrastructure modules for dev/test/prod environments with security controls for financial services compliance.</p>
       <p class="technologies">
-        <strong>Technologies:</strong> {{ project.technologies | join: ", " }}
+        <strong>Technologies:</strong> Terraform, AWS, GitHub Actions
       </p>
       <div class="project-links">
-        {% if project.github %}
-        <a href="{{ project.github }}" target="_blank" class="btn project-btn">View on GitHub</a>
-        {% endif %}
+        <a href="https://github.com/JoshuaMichaelHall/finapp-infrastructure" target="_blank" class="btn project-btn">View on GitHub</a>
       </div>
     </div>
-    {% endfor %}
+    <div class="project-card">
+      <h3>Containerized Microservices Platform</h3>
+      <p>Multi-service application containerization with Kubernetes deployment, monitoring, and security implementation.</p>
+      <p class="technologies">
+        <strong>Technologies:</strong> Docker, Kubernetes, Prometheus, Grafana
+      </p>
+      <div class="project-links">
+        <a href="https://github.com/JoshuaMichaelHall/container-platform" target="_blank" class="btn project-btn">View on GitHub</a>
+      </div>
+    </div>
   </div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
@@ -84,25 +89,25 @@ title: Home
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h3>2026-2028: Software Engineer</h3>
-        <p>Initial software engineering role with focus on backend development and data processing.</p>
-        <p class="target">Target: $120-150K</p>
+        <h3>2025: Mid-Level DevOps Engineer</h3>
+        <p>Initial DevOps/SRE role with focus on infrastructure automation and container orchestration.</p>
+        <p class="target">Target: $90K-$150K</p>
       </div>
     </div>
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h3>2028-2031: ML Engineer</h3>
-        <p>Transition to machine learning engineering roles with focus on financial applications.</p>
-        <p class="target">Target: $150-200K</p>
+        <h3>2026-2027: Senior DevOps Engineer</h3>
+        <p>Advanced DevOps role with expanded responsibilities in platform engineering.</p>
+        <p class="target">Target: $120K-$170K</p>
       </div>
     </div>
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h3>2031+: Senior ML Engineer</h3>
-        <p>Lead ML engineer positions focused on trading strategies and financial systems.</p>
-        <p class="target">Target: $350K+</p>
+        <h3>2028+: Senior Platform Engineer</h3>
+        <p>Platform engineering leadership focused on financial services compliance and infrastructure.</p>
+        <p class="target">Target: $140K-$200K+</p>
       </div>
     </div>
   </div>

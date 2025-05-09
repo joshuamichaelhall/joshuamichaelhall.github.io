@@ -1,32 +1,48 @@
 # Portfolio Projects
-- title: "Terminal Environment Setup"
-  description: "A fully customized development environment using Neovim, tmux, and command-line tools optimized for software engineering and data analysis workflows."
-  technologies: ["Neovim", "tmux", "Shell Scripting", "Git"]
-  github: "https://github.com/JoshuaMichaelHall/terminal-setup"
-  image: "/assets/images/terminal-setup.png"
+- title: "Infrastructure as Code for Multi-Environment Deployment"
+  description: "Production-grade infrastructure modules for dev/test/prod environments with state management, security controls, and compliance documentation for financial services."
+  technologies: ["Terraform", "AWS", "GitHub Actions", "IAM", "VPC", "S3", "RDS"]
+  github: "https://github.com/JoshuaMichaelHall/finapp-infrastructure"
+  image: "/assets/images/terraform-aws.png"
   featured: true
-  category: "development-tools"
+  category: "infrastructure"
 
-- title: "Ruby Data Processing Pipeline"
-  description: "ETL pipeline built in Ruby for processing and transforming datasets, with data validation and reporting components."
-  technologies: ["Ruby", "RSpec", "PostgreSQL"]
-  github: "https://github.com/JoshuaMichaelHall/ruby-data-pipeline"
-  image: "/assets/images/ruby-pipeline.png"
+- title: "Containerized Microservices Platform"
+  description: "Multi-service application containerization with Kubernetes deployment manifests, monitoring integration, and security implementation focusing on high availability."
+  technologies: ["Docker", "Kubernetes", "Prometheus", "Grafana", "RBAC"]
+  github: "https://github.com/JoshuaMichaelHall/container-platform"
+  image: "/assets/images/kubernetes.png"
   featured: true
-  category: "backend"
+  category: "containers"
 
-- title: "Python Data Analysis Framework"
-  description: "Framework for analyzing financial datasets, including data cleaning, transformation, and visualization components."
-  technologies: ["Python", "Pandas", "NumPy", "Matplotlib"]
-  github: "https://github.com/JoshuaMichaelHall/python-data-analysis"
-  image: "/assets/images/python-analysis.png"
+- title: "Security Automation Suite"
+  description: "Infrastructure security scanning automation and compliance reporting tools for financial regulations with audit logging and evidence collection."
+  technologies: ["AWS Security Hub", "Terraform", "Python", "CloudWatch"]
+  github: "https://github.com/JoshuaMichaelHall/security-automation"
+  image: "/assets/images/security-automation.png"
   featured: false
-  category: "data-science"
+  category: "security"
 
-- title: "RESTful API Service"
-  description: "Backend service implementing RESTful principles for data management and retrieval with comprehensive test coverage."
-  technologies: ["Ruby", "Sinatra", "PostgreSQL", "RSpec"]
-  github: "https://github.com/JoshuaMichaelHall/rest-api"
-  image: "/assets/images/rest-api.png"
+- title: "DevOps Monitoring Dashboard"
+  description: "Comprehensive monitoring and alerting solution for infrastructure and applications with financial services focus, including SLO tracking."
+  technologies: ["Prometheus", "Grafana", "Alertmanager", "ELK Stack"]
+  github: "https://github.com/JoshuaMichaelHall/monitoring-dashboard"
+  image: "/assets/images/monitoring-dashboard.png"
   featured: false
-  category: "backend"
+  category: "monitoring"
+
+- title: "CI/CD Pipeline Implementation"
+  description: "Complete CI/CD pipeline for application deployment with testing, security scanning, and automated rollbacks with approval workflows."
+  technologies: ["GitHub Actions", "AWS", "Docker", "Terraform"]
+  github: "https://github.com/JoshuaMichaelHall/cicd-pipeline"
+  image: "/assets/images/cicd-pipeline.png"
+  featured: false
+  category: "infrastructure"
+
+- title: "Kubernetes Operator for Financial Applications"
+  description: "Custom Kubernetes operator for managing financial application deployments with compliance controls and automated validation."
+  technologies: ["Kubernetes", "Go", "Operator SDK"]
+  github: "https://github.com/JoshuaMichaelHall/fin-k8s-operator"
+  image: "/assets/images/kubernetes-operator.png"
+  featured: false
+  category: "containers"

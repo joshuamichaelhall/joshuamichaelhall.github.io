@@ -2,8 +2,8 @@
 title: Joshua Michael Hall
 email: contact@joshuamichaelhall.com
 description: >-
-  Software Engineer specializing in backend development with Ruby and Python,
-  focused on mastery-based learning at Launch School with a career path toward ML/finance.
+  DevOps/SRE Engineer specializing in infrastructure automation, containerization, and 
+  platform engineering for financial services with a focus on secure, reliable systems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuamichaelhall.com"
 twitter_username: JoshuaHallTech
@@ -16,6 +16,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Navigation
 header_pages:
