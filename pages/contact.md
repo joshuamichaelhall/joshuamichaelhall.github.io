@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact
-
 I'm interested in discussing DevOps/SRE opportunities, technical challenges, or collaboration in building secure, reliable infrastructure for financial services.
 
 ## Get in Touch
