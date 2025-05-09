@@ -20,6 +20,7 @@ plugins:
 
 # Navigation
 header_pages:
+  - index.markdown
   - pages/portfolio.md
   - pages/blog.md
   - pages/about.md
