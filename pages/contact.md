@@ -39,7 +39,7 @@ I'm interested in discussing DevOps/SRE opportunities, technical challenges, or 
     <h3>Contact Form</h3>
     <form action="https://formspree.io/f/your-formspree-id" method="POST" class="contact-form">
       <div class="form-group">
-        <label for="name">Name  r</label>
+        <label for="name">Name  </label>
         <input type="text" name="name" id="name" required>
       </div>
       
