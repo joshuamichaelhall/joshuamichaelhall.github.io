@@ -6,16 +6,17 @@ permalink: /about/
 
 # About Me
 
-I'm a software engineering student at Launch School, dedicated to mastering the fundamentals of web development and software engineering. My career vision involves progressing from a remote software engineer to a specialized AI/ML engineer in the finance sector.
+I'm a software engineer transitioning to a DevOps/SRE career path, focused on building reliable, secure infrastructure for financial services. My approach centers on mastery of fundamentals and deliberate skill development.
 
 ## Professional Background
 
-I'm currently focused on building a strong technical foundation through Launch School's mastery-based curriculum. My background includes:
+I'm currently focused on building a comprehensive skill set in DevOps and Site Reliability Engineering:
 
-- Software Engineering studies at Launch School with focus on Ruby backend development
-- Project Management certification
-- Business development experience from founding TimothyTek
-- Technical content creation on Medium and Dev.to
+- Developing expertise in AWS cloud infrastructure
+- Mastering Infrastructure as Code with Terraform
+- Building containerization skills with Docker and Kubernetes
+- Implementing CI/CD pipelines with GitHub Actions
+- Former IT company founder with experience building systems for 40+ businesses
 
 ## Technical Environment
 
@@ -24,52 +25,51 @@ My development workflow is centered around terminal-based tools that maximize pr
 - **macOS** as primary operating system
 - **Neovim** as primary text editor/IDE
 - **tmux** for terminal multiplexing and session management
-- **Command-line tools** for development, data analysis, and content creation
+- **Command-line tools** for infrastructure management and automation
 - **Shell scripting** for automation and workflow optimization
 - **Git** for version control and documentation
 
 ## Skills
 
-{% for category in site.data.skills.categories %}
-<div class="skills-category">
-  <h3>{{ category.name }}</h3>
-  <div class="skills-grid">
-    {% for skill in category.skills %}
-    <div class="skill-item">
-      <div class="skill-header">
-        <h4>{{ skill.name }}</h4>
-        <div class="skill-level">
-          <div class="skill-bar">
-            <div class="skill-progress" style="width: {{ skill.level }}%"></div>
-          </div>
-        </div>
-      </div>
-      <p class="skill-description">{{ skill.description }}</p>
-    </div>
-    {% endfor %}
-  </div>
-</div>
-{% endfor %}
+### Infrastructure & Cloud
+- **AWS**: EC2, VPC, S3, IAM, RDS, CloudFormation
+- **Terraform**: Infrastructure as Code, state management, modules
+- **Docker**: Containerization, image optimization, multi-stage builds
+- **Kubernetes**: Deployments, services, RBAC, monitoring
+- **CI/CD**: GitHub Actions, Jenkins, automated testing
+
+### Security & Monitoring
+- **Cloud Security**: IAM, security groups, network ACLs
+- **Compliance**: Financial services regulatory requirements
+- **Monitoring**: Prometheus, Grafana, alerting
+- **Logging**: ELK stack, log aggregation
+
+### Development
+- **Languages**: Ruby, Python, Bash/Shell Scripting
+- **Version Control**: Git, GitHub
+- **Testing**: Automated infrastructure testing, integration testing
 
 ## Career Path
 
 My career development plan follows this trajectory:
 
-### Launch School Phase (Now-2026)
-- Complete Ruby backend curriculum
-- Learn Python for data analysis
-- Master JavaScript/frontend development
-- Participate in Capstone Program
+### Foundation Building (Current)
+- Master core DevOps skills (AWS, Terraform, Docker, Linux)
+- Build production-grade portfolio projects
+- Earn key certifications (AWS Solutions Architect, Terraform Associate)
+- Develop specialized financial services knowledge
 
-### Initial Employment & OMSCS Preparation (2026-2028)
-- Secure initial software engineering role ($120-150K)
-- Prepare for Georgia Tech OMSCS program
-- Develop specialized ML skills
+### Mid-Level Position (2025-2026)
+- Secure mid-level DevOps Engineer role ($90-150K)
+- Apply skills in production environments
+- Expand platform engineering expertise
+- Deepen financial services domain knowledge
 
-### OMSCS & Career Growth (2028-2030)
-- Complete ML specialization
-- Transition to ML roles in finance
-- Progress to senior technical positions ($350K+)
+### Senior Advancement (2027+)
+- Progress to senior platform engineering roles
+- Focus on high-availability architecture
+- Specialize in financial compliance automation
+- Target top-tier compensation ($140-200K+)
 
 ## Learning Philosophy
 
@@ -87,3 +87,5 @@ I believe in:
 - [LinkedIn](https://linkedin.com/in/joshuamichaelhall)
 - [Dev.to](https://dev.to/joshuamichaelhall)
 - [Medium](https://medium.com/@joshuamichaelhall)
+
+My favorite quote: "Master the basics. Then practice them every day without fail." - John C. Maxwell

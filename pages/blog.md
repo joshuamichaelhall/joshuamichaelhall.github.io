@@ -6,7 +6,16 @@ permalink: /blog/
 
 # Technical Blog
 
-I write about software engineering, terminal-based development workflows, mathematics for programming, and the path to ML in finance.
+I write about DevOps practices, infrastructure automation, containerization, and platform engineering for financial services.
+
+## Featured Articles
+
+<div class="featured-article">
+  <h2>Terminal-Based Development with Neovim, tmux, and CLI Tools</h2>
+  <p class="post-date">March 23, 2025</p>
+  <p>A detailed look at my terminal-based development environment and how it enhances productivity for DevOps engineering tasks, including infrastructure management, containerization, and cloud operations.</p>
+  <a href="/blog/2025/03/23/terminal-based-development-environment/" class="btn outlined-btn">Read Article</a>
+</div>
 
 ## Local Articles
 
@@ -27,6 +36,28 @@ I write about software engineering, terminal-based development workflows, mathem
     <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
   </div>
   {% endfor %}
+</div>
+
+## Upcoming Articles
+
+<div class="upcoming-articles">
+  <div class="upcoming-article">
+    <h3>Infrastructure as Code Best Practices for Financial Services</h3>
+    <p>A comprehensive guide to implementing secure, compliant infrastructure using Terraform and AWS services for financial applications.</p>
+    <p class="coming-soon">Coming Soon</p>
+  </div>
+  
+  <div class="upcoming-article">
+    <h3>Kubernetes Security for Regulated Environments</h3>
+    <p>Deep dive into implementing secure Kubernetes deployments that meet financial services compliance requirements.</p>
+    <p class="coming-soon">Coming Soon</p>
+  </div>
+  
+  <div class="upcoming-article">
+    <h3>CI/CD Pipeline Security: Protecting the Deployment Process</h3>
+    <p>Strategies for securing the entire CI/CD pipeline from development to production deployment.</p>
+    <p class="coming-soon">Coming Soon</p>
+  </div>
 </div>
 
 ## Dev.to Articles
@@ -74,3 +105,52 @@ I write about software engineering, terminal-based development workflows, mathem
       });
   });
 </script>
+
+<style>
+  .featured-article {
+    background-color: #f6f8fa;
+    padding: 30px;
+    border-radius: 8px;
+    margin-bottom: 40px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .featured-article h2 {
+    margin-top: 0;
+    color: #0366d6;
+  }
+  
+  .featured-article .post-date {
+    color: #586069;
+    margin-bottom: 15px;
+  }
+  
+  .upcoming-articles {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .upcoming-article {
+    background-color: #f6f8fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+  
+  .upcoming-article h3 {
+    margin-top: 0;
+    color: #24292e;
+  }
+  
+  .coming-soon {
+    display: inline-block;
+    background-color: #0366d6;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    margin-top: 10px;
+  }
+</style>
