@@ -9,25 +9,31 @@
         <h2 class="footer-heading">Connect</h2>
         <ul class="social-media-list">
           {% if site.github_username %}
-          <li>
+          <li class="social-item">
             <a href="https://github.com/{{ site.github_username }}">
-              <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>
+              <span class="social-icon">
+                <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>
+              </span>
               <span class="username">GitHub</span>
             </a>
           </li>
           {% endif %}
           {% if site.linkedin_username %}
-          <li>
+          <li class="social-item">
             <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
-              <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>
+              <span class="social-icon">
+                <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>
+              </span>
               <span class="username">LinkedIn</span>
             </a>
           </li>
           {% endif %}
           {% if site.twitter_username %}
-          <li>
+          <li class="social-item">
             <a href="https://twitter.com/{{ site.twitter_username }}">
-              <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg>
+              <span class="social-icon">
+                <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg>
+              </span>
               <span class="username">Twitter</span>
             </a>
           </li>
