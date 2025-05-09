@@ -4,8 +4,6 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Technical Portfolio
-
 This portfolio showcases my DevOps/SRE projects, focusing on infrastructure automation, containerization, and financial services compliance. Each project demonstrates my commitment to mastery-based learning and building secure, reliable infrastructure.
 
 ## Featured Projects
