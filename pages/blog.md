@@ -4,6 +4,8 @@ title: Technical Blog
 permalink: /blog/
 ---
 
+# Technical Blog
+
 I write about DevOps practices, infrastructure automation, containerization, and platform engineering for financial services.
 
 ## Featured Articles
