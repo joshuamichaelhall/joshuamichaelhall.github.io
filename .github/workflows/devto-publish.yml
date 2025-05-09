@@ -23,16 +23,17 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm install axios front-matter
+        run: npm install axios front-matter js-yaml
 
       - name: Detect changed files
         id: changed-files
         run: |
           CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^content/posts/' | grep '\.md$')
-          echo "::set-output name=files::$CHANGED_FILES"
+          echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
 
       - name: Publish to Dev.to
         if: steps.changed-files.outputs.files != ''
         run: node .github/scripts/publish-to-devto.js
         env:
           DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+          CHANGED_FILES: ${{ steps.changed-files.outputs.files }}
