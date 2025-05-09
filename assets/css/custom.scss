@@ -1271,3 +1271,234 @@ a {
     }
   }
 }
+
+.availability-section {
+  margin-top: 50px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  border: 1px solid $border-color;
+  
+  h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: $secondary-color;
+    font-weight: 700;
+    font-size: 1.6rem;
+  }
+  
+  h3 {
+    margin: 25px 0 15px 0;
+    color: $secondary-color;
+    font-weight: 600;
+    font-size: 1.3rem;
+  }
+  
+  .availability-status {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: rgba($success-color, 0.1);
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  .status-indicator {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    margin-right: 15px;
+    
+    &.available {
+      background-color: $success-color;
+      box-shadow: 0 0 0 4px rgba($success-color, 0.2);
+    }
+    
+    &.limited {
+      background-color: #f7b955;
+      box-shadow: 0 0 0 4px rgba(#f7b955, 0.2);
+    }
+    
+    &.unavailable {
+      background-color: $warning-color;
+      box-shadow: 0 0 0 4px rgba($warning-color, 0.2);
+    }
+  }
+  
+  .availability-status p {
+    margin: 0;
+    font-weight: 500;
+  }
+  
+  .current-focus {
+    background-color: $light-gray;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 25px;
+    
+    ul {
+      margin-bottom: 0;
+      padding-left: 20px;
+      
+      li {
+        margin-bottom: 8px;
+        position: relative;
+        
+        &:last-child {
+          margin-bottom: 0;
+        }
+        
+        &::before {
+          content: "";
+          position: absolute;
+          left: -20px;
+          top: 9px;
+          width: 8px;
+          height: 8px;
+          background-color: $primary-color;
+          border-radius: 50%;
+        }
+      }
+    }
+  }
+}
+/* Contact Page Styling */
+.contact-container {
+  display: flex;
+  gap: 40px;
+  margin: 30px 0;
+  
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+.contact-info {
+  flex: 1;
+  background-color: white;
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  border: 1px solid $border-color;
+  
+  .contact-methods {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+    li {
+      margin-bottom: 20px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid $border-color;
+      
+      &:last-child {
+        margin-bottom: 0;
+        padding-bottom: 0;
+        border-bottom: none;
+      }
+      
+      strong {
+        display: inline-block;
+        min-width: 80px;
+        font-weight: 600;
+        color: $secondary-color;
+      }
+      
+      a {
+        color: $primary-color;
+        font-weight: 500;
+        
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+.contact-form-container {
+  flex: 2;
+  
+  h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: $secondary-color;
+  }
+}
+
+.contact-form {
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  border: 1px solid $border-color;
+  
+  .form-group {
+    margin-bottom: 25px;
+    
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 600;
+      color: $secondary-color;
+    }
+    
+    input, textarea {
+      width: 100%;
+      padding: 12px;
+      border: 2px solid $border-color;
+      border-radius: 6px;
+      font-size: 1rem;
+      font-family: inherit;
+      transition: all 0.2s ease;
+      
+      &:focus {
+        outline: none;
+        border-color: $primary-color;
+        box-shadow: 0 0 0 3px rgba($primary-color, 0.2);
+      }
+    }
+    
+    textarea {
+      resize: vertical;
+      min-height: 150px;
+    }
+  }
+  
+  .submit-button {
+    background-color: $primary-color;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background-color: darken($primary-color, 10%);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    }
+    
+    &:active {
+      transform: translateY(0);
+    }
+  }
+}
+
+.note {
+  background-color: $light-gray;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 30px;
+  border-left: 4px solid $primary-color;
+  
+  p {
+    margin: 0;
+    font-size: 0.95rem;
+  }
+}
