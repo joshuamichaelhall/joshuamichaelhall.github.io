@@ -1464,3 +1464,121 @@ input:focus, textarea:focus, select:focus {
   border-bottom: 1px solid var(--border-color);
   padding-bottom: 30px;
 }
+
+/* Make header and footer navigation links brighter */
+.site-nav .page-link {
+  color: var(--text-color);
+  opacity: 0.9; /* Increase from default (likely 0.7 or 0.8) */
+  font-weight: 500; /* Slightly increase font weight */
+}
+
+.footer-links li a, 
+.social-media-list li a {
+  color: var(--text-color);
+  opacity: 0.9; /* Increase from default */
+  font-weight: 500; /* Slightly increase font weight */
+}
+
+/* Keep hover state distinct but related */
+.site-nav .page-link:hover,
+.footer-links li a:hover, 
+.social-media-list li a:hover {
+  opacity: 1;
+  font-weight: 600;
+}
+
+/* Enhanced styling for hero buttons */
+.hero-links {
+  margin-top: 30px;
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
+
+.hero-links .btn {
+  padding: 12px 24px;
+  border-radius: 8px; /* Rounded corners */
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  border: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Create gradient fade effect */
+.hero-links .primary-btn {
+  background: linear-gradient(90deg, 
+    rgba(3, 102, 214, 0.9) 0%,
+    rgba(3, 102, 214, 1) 50%,
+    rgba(3, 102, 214, 0.9) 100%
+  );
+  color: white;
+}
+
+.hero-links .secondary-btn {
+  background: linear-gradient(90deg, 
+    rgba(111, 66, 193, 0.9) 0%,
+    rgba(111, 66, 193, 1) 50%,
+    rgba(111, 66, 193, 0.9) 100%
+  );
+  color: white;
+}
+
+/* Hover effects */
+.hero-links .btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.hero-links .primary-btn:hover {
+  background: linear-gradient(90deg, 
+    rgba(3, 102, 214, 1) 0%,
+    rgba(3, 102, 214, 1) 50%,
+    rgba(3, 102, 214, 1) 100%
+  );
+}
+
+.hero-links .secondary-btn:hover {
+  background: linear-gradient(90deg, 
+    rgba(111, 66, 193, 1) 0%,
+    rgba(111, 66, 193, 1) 50%,
+    rgba(111, 66, 193, 1) 100%
+  );
+}
+
+/* Dark theme adjustments */
+.dark-theme .hero-links .primary-btn {
+  background: linear-gradient(90deg, 
+    rgba(31, 111, 235, 0.9) 0%,
+    rgba(31, 111, 235, 1) 50%,
+    rgba(31, 111, 235, 0.9) 100%
+  );
+}
+
+.dark-theme .hero-links .secondary-btn {
+  background: linear-gradient(90deg, 
+    rgba(110, 64, 201, 0.9) 0%,
+    rgba(110, 64, 201, 1) 50%,
+    rgba(110, 64, 201, 0.9) 100%
+  );
+}
+
+/* Optional: Add a subtle animation on hover */
+@keyframes pulse {
+  0% {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  50% {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  }
+  100% {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.hero-links .btn:hover {
+  animation: pulse 2s infinite;
+}
