@@ -1230,6 +1230,60 @@ section h2:after,
   }
 }
 
+/* Timeline details styling */
+.timeline-details-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 15px;
+  justify-content: space-between;
+}
+
+.timeline-skills, .timeline-certs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.skill-tag {
+  background-color: var(--target-bg);
+  border: 1px solid var(--target-border);
+  border-radius: 20px;
+  padding: 4px 10px;
+  font-size: 0.85rem;
+  color: var(--accent-text);
+  display: inline-block;
+}
+
+.cert-badge {
+  background-color: rgba(3, 102, 214, 0.1);
+  border: 1px solid rgba(3, 102, 214, 0.2);
+  border-radius: 20px;
+  padding: 4px 10px;
+  font-size: 0.85rem;
+  color: var(--primary-color);
+  display: inline-block;
+}
+
+.dark-theme .skill-tag {
+  background-color: rgba(46, 164, 79, 0.15);
+  border: 1px solid rgba(46, 164, 79, 0.25);
+  color: var(--accent-text);
+}
+
+.dark-theme .cert-badge {
+  background-color: rgba(88, 166, 255, 0.15);
+  border: 1px solid rgba(88, 166, 255, 0.25);
+  color: var(--primary-color);
+}
+
+@media (max-width: 768px) {
+  .timeline-details-row {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
 .timeline-content h3 {
   color: var(--primary-color);
   border-bottom: 1px solid var(--border-color);
