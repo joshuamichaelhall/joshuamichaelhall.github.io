@@ -1,5 +1,5 @@
 {% for category in site.data.skills.categories %}
-<div class="skills-category">
+<div class="skills-category {% if forloop.last == false %}with-divider{% endif %}">
   <h3>{{ category.name }}</h3>
   <div class="skills-grid">
     {% for skill in category.skills %}

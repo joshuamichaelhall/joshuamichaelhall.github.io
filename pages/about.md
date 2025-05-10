@@ -57,7 +57,7 @@ I'm a software engineer transitioning to a DevOps/SRE career path, focused on bu
     </ul>
   </div>
 
-  <div class="skill-category no-divider">
+  <div class="skill-category">
     <h3>Development</h3>
     <ul>
       <li><strong>Languages</strong>: Ruby, Python, Bash/Shell Scripting</li>
@@ -114,7 +114,7 @@ I'm a software engineer transitioning to a DevOps/SRE career path, focused on bu
   </ul>
 </div>
 
-<div class="content-section no-divider">
+<div class="content-section">
   <h2>Connect With Me</h2>
   <ul class="connect-list">
     <li><a href="https://github.com/JoshuaMichaelHall">GitHub (Personal)</a></li>
