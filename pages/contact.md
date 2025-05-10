@@ -16,33 +16,13 @@ I'm interested in discussing DevOps/SRE opportunities, technical challenges, or 
     <li><strong>GitHub Personal</strong>: <a href="https://github.com/JoshuaMichaelHall">JoshuaMichaelHall</a></li>
     <li><strong>GitHub Organization</strong>: <a href="https://github.com/JoshuaMichaelHall-Tech">JoshuaMichaelHall-Tech</a></li>
     <li><strong>Dev.to</strong>: <a href="https://dev.to/joshuamichaelhall">joshuamichaelhall</a></li>
+    <li><strong>Medium</strong>: <a href="https://medium.com/@michael.joshua.hall">@michael.joshua.hall</a></li>
+    <li><strong>X</strong>: <a href="https://x.com/JoshuaHallTech">@JoshuaHallTech</a></li>
   </ul>
 </div>
 
 <div class="content-section with-divider">
   <h2>Contact Form</h2>
-  
-  <div class="contact-container">
-    <div class="contact-info">
-      <ul class="contact-methods">
-        <li>
-          <strong>Email:</strong> <a href="mailto:contact@joshuamichaelhall.com">contact@joshuamichaelhall.com</a>
-        </li>
-        <li>
-          <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/joshuamichaelhall" target="_blank">joshuamichaelhall</a>
-        </li>
-        <li>
-          <strong>GitHub (Personal):</strong> <a href="https://github.com/JoshuaMichaelHall" target="_blank">JoshuaMichaelHall</a>
-        </li>
-        <li>
-          <strong>GitHub (Organization):</strong> <a href="https://github.com/JoshuaMichaelHall-Tech" target="_blank">JoshuaMichaelHall-Tech</a>
-        </li>
-        <li>
-          <strong>Dev.to:</strong> <a href="https://dev.to/joshuamichaelhall" target="_blank">joshuamichaelhall</a>
-        </li>
-      </ul>
-    </div>
-  
     <div class="contact-form-container">
       <h3>Send a Message</h3>
       <form action="https://formspree.io/f/your-formspree-id" method="POST" class="contact-form">
