@@ -1935,24 +1935,26 @@ input:focus, textarea:focus, select:focus {
 
 /* Make header and footer navigation links brighter */
 .site-nav .page-link {
-  color: var(--text-color);
-  opacity: 0.9; /* Increase from default (likely 0.7 or 0.8) */
-  font-weight: 500; /* Slightly increase font weight */
+  color: var(--primary-color); /* Change to primary color for better contrast */
+  opacity: 1; /* Full opacity for better visibility */
+  font-weight: 600; /* Increase font weight for better visibility */
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.5); /* Add subtle text shadow for better contrast */
 }
 
-.footer-links li a, 
+.footer-links li a,
 .social-media-list li a {
-  color: var(--text-color);
-  opacity: 0.9; /* Increase from default */
-  font-weight: 500; /* Slightly increase font weight */
+  color: var(--primary-color); /* Change to primary color for better contrast */
+  opacity: 1; /* Full opacity */
+  font-weight: 600; /* Increase font weight */
 }
 
 /* Keep hover state distinct but related */
 .site-nav .page-link:hover,
-.footer-links li a:hover, 
+.footer-links li a:hover,
 .social-media-list li a:hover {
-  opacity: 1;
-  font-weight: 600;
+  opacity: 0.8; /* Slight opacity change on hover */
+  transform: translateY(-1px); /* Subtle lift effect */
+  text-decoration: none;
 }
 
 /* Enhanced styling for hero buttons */
@@ -2268,18 +2270,23 @@ input:focus, textarea:focus, select:focus {
 /* Enhanced contact form styling */
 .contact-form-container {
   max-width: 700px;
+  width: 100%;
   margin: 0 auto;
   padding: 25px 30px;
   background-color: var(--bg-content);
   border-radius: 10px;
   border: 1px solid var(--border-color);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  box-sizing: border-box; /* Ensure padding is included in width calculation */
+  overflow: hidden; /* Prevent content from overflowing */
 }
 
 .contact-form {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
+  width: 100%; /* Ensure form uses full width of container */
+  box-sizing: border-box; /* Include padding in width calculation */
 }
 
 .form-group {
@@ -2308,6 +2315,9 @@ input:focus, textarea:focus, select:focus {
   font-size: 1rem;
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
   appearance: none; /* Remove default arrow in some browsers */
+  width: 100%; /* Ensure inputs use full width */
+  box-sizing: border-box; /* Include padding in width calculation */
+  max-width: 100%; /* Prevent overflow */
 }
 
 .form-group input:focus,
@@ -2620,16 +2630,36 @@ optgroup {
 
 /* Responsive styles for services tabs */
 @media (max-width: 768px) {
+  .services-tabs {
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+
   .services-tabs .tab-headers {
     flex-wrap: wrap;
     gap: 8px;
+    width: 100%;
+    box-sizing: border-box;
   }
 
   .services-tabs .tab-button {
     flex: 1;
-    min-width: 120px;
+    min-width: 100px;
     text-align: center;
     padding: 8px 15px;
+    font-size: 0.9rem;
+  }
+
+  .services-tabs .tab-content {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .services-tabs .services-box {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px 15px;
   }
 }
 
@@ -2637,11 +2667,20 @@ optgroup {
   .services-tabs .tab-headers {
     flex-direction: column;
     gap: 5px;
+    width: 100%;
   }
 
   .services-tabs .tab-button {
     width: 100%;
     padding: 10px;
+  }
+
+  .services-tabs .services-box h3 {
+    font-size: 1.2rem;
+  }
+
+  .services-tabs .services-box h4 {
+    font-size: 1rem;
   }
 }
 
@@ -2657,6 +2696,27 @@ optgroup {
 
   .contact-info {
     grid-template-columns: 1fr;
+  }
+
+  /* Improve mobile display for content sections */
+  .content-section {
+    padding: 20px 15px;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+
+  /* Ensure form container is properly sized on mobile */
+  .contact-form-container {
+    padding: 20px 15px;
+  }
+
+  /* Adjust padding for form elements on mobile */
+  .form-group input,
+  .form-group textarea,
+  .form-group select {
+    padding: 10px 12px;
+    font-size: 0.95rem;
   }
 }
 

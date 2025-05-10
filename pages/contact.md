@@ -110,7 +110,7 @@ permalink: /contact/
   <h2>Send a Message</h2>
 
   <div class="contact-form-container" id="contact-form">
-    <form action="https://formspree.io/f/xdorydnr" method="POST" class="contact-form" id="contactForm" onsubmit="return validateForm(event)">
+    <form action="https://formspree.io/f/mvgaqjak" method="POST" class="contact-form" id="contactForm" onsubmit="return validateForm(event)">
       <div class="form-group">
         <label for="name">Name</label>
         <input type="text" name="name" id="name" placeholder="Your name" required>
