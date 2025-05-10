@@ -57,24 +57,21 @@
       <div class="timeline-marker"></div>
       <div class="timeline-content">
         <h3>2025: Mid-Level DevOps Engineer</h3>
-        <p>Initial DevOps/SRE role with focus on infrastructure automation and container orchestration.</p>
-        <p class="target">Target: $90K-$150K</p>
+        <p>Implementing infrastructure automation, containerization, and CI/CD pipelines with a focus on security and financial compliance.</p>
       </div>
     </div>
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
         <h3>2026-2027: Senior DevOps Engineer</h3>
-        <p>Advanced DevOps role with expanded responsibilities in platform engineering.</p>
-        <p class="target">Target: $120K-$170K</p>
+        <p>Architecting scalable cloud platforms, implementing advanced security controls, and optimizing infrastructure for financial services.</p>
       </div>
     </div>
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
         <h3>2028+: Senior Platform Engineer</h3>
-        <p>Platform engineering leadership focused on financial services compliance and infrastructure.</p>
-        <p class="target">Target: $140K-$200K+</p>
+        <p>Leading platform architecture, driving infrastructure innovation, and implementing enterprise-scale solutions for financial services.</p>
       </div>
     </div>
   </div>

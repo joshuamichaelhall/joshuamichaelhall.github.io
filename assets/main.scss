@@ -1789,3 +1789,200 @@ input:focus, textarea:focus, select:focus {
     margin-top: 5px;
   }
 }
+
+/* Profile Styling */
+.profile-header {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.profile-image {
+  flex: 0 0 220px;
+}
+
+.profile-image img {
+  width: 220px;
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-summary {
+  flex: 1;
+}
+
+.profile-summary p {
+  margin-bottom: 15px;
+  line-height: 1.7;
+  font-size: 1.1rem;
+}
+
+/* Expertise Grid */
+.expertise-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 25px;
+  margin-top: 20px;
+}
+
+.expertise-item {
+  background-color: var(--bg-content);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
+  border: 1px solid var(--border-color);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.expertise-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.expertise-item h3 {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 1.3rem;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+/* Certifications Grid */
+.certifications-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 25px;
+  margin-top: 20px;
+}
+
+.certification-item {
+  background-color: var(--bg-content);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
+  border: 1px solid var(--border-color);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.certification-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.certification-item h3 {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 1.3rem;
+}
+
+.certification-status {
+  font-size: 0.9rem;
+  margin-bottom: 15px;
+  padding: 5px 10px;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.certification-item.completed .certification-status {
+  background-color: rgba(46, 164, 79, 0.15);
+  border: 1px solid rgba(46, 164, 79, 0.3);
+  color: #2ea44f;
+}
+
+.certification-item.upcoming .certification-status {
+  background-color: rgba(3, 102, 214, 0.15);
+  border: 1px solid rgba(3, 102, 214, 0.3);
+  color: #0366d6;
+}
+
+/* Career Development */
+.career-stage {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.career-stage:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.career-stage h3 {
+  color: var(--primary-color);
+  margin-bottom: 15px;
+  font-size: 1.4rem;
+}
+
+.career-stage ul {
+  padding-left: 20px;
+}
+
+.career-stage ul li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .profile-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .profile-image {
+    margin-bottom: 20px;
+  }
+  
+  .expertise-grid,
+  .certifications-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Fix code block styling */
+.post-content pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 15px;
+  overflow-x: auto;
+  margin: 20px 0;
+}
+
+.post-content code,
+.post-content pre code {
+  font-family: 'Consolas', 'Monaco', 'Andale Mono', 'Ubuntu Mono', monospace;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text-color);
+}
+
+/* Dark theme adjustments */
+.dark-theme .post-content pre {
+  background-color: #1e2329;
+}
+
+.dark-theme .post-content code,
+.dark-theme .post-content pre code {
+  color: #c9d1d9;
+}
+
+/* Specifically for Prism syntax highlighting */
+pre[class*="language-"] {
+  font-size: 14px !important;
+  line-height: 1.5 !important;
+}
+
+code[class*="language-"] {
+  font-size: 14px !important;
+  line-height: 1.5 !important;
+  font-family: 'Consolas', 'Monaco', 'Andale Mono', 'Ubuntu Mono', monospace !important;
+}
