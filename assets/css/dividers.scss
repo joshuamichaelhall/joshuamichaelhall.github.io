@@ -1,0 +1,302 @@
+---
+---
+
+/* Enhanced section dividers that will work across browsers */
+
+/* Global section styling with explicit dividers */
+.home-section, section {
+  margin-bottom: 60px;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  border: 1px solid #e1e4e8;
+  position: relative;
+  
+  /* Adding this pseudo-element as an explicit divider that will render in all browsers */
+  &:after {
+    content: "";
+    position: absolute;
+    bottom: -30px;
+    left: 10%;
+    width: 80%;
+    height: 1px;
+    background: linear-gradient(90deg, 
+      rgba(225, 228, 232, 0),
+      rgba(225, 228, 232, 1) 20%,
+      rgba(225, 228, 232, 1) 80%,
+      rgba(225, 228, 232, 0)
+    );
+  }
+  
+  /* Remove divider from last section */
+  &:last-of-type:after {
+    display: none;
+  }
+}
+
+/* Project cards with enhanced borders */
+.project-card {
+  background-color: #f8f9fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 10px;
+  padding: 25px;
+  margin-bottom: 25px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  h3 {
+    margin-top: 0;
+    color: #24292e;
+    font-weight: 600;
+    font-size: 1.4rem;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #e1e4e8;
+    margin-bottom: 15px;
+  }
+  
+  .technologies {
+    margin: 15px 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    padding: 12px;
+    background-color: rgba(3, 102, 214, 0.05);
+    border-radius: 6px;
+    border: 1px solid rgba(3, 102, 214, 0.1);
+  }
+  
+  .project-links {
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #e1e4e8;
+  }
+}
+
+/* Blog post previews with explicit borders */
+.blog-post-preview {
+  margin-bottom: 40px;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #f8f9fa;
+  border: 1px solid #e1e4e8;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  position: relative;
+  
+  /* Add divider after each preview except the last */
+  &:not(:last-child):after {
+    content: "";
+    position: absolute;
+    bottom: -20px;
+    left: 10%;
+    width: 80%;
+    height: 1px;
+    background: linear-gradient(90deg, 
+      rgba(225, 228, 232, 0),
+      rgba(225, 228, 232, 1) 20%,
+      rgba(225, 228, 232, 1) 80%,
+      rgba(225, 228, 232, 0)
+    );
+  }
+  
+  h2 {
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 1.6rem;
+    
+    &:after {
+      display: none;
+    }
+    
+    a {
+      color: #24292e;
+      
+      &:hover {
+        color: #0366d6;
+      }
+    }
+  }
+  
+  .post-date {
+    color: #6a737d;
+    font-size: 0.9rem;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #e1e4e8;
+    padding-bottom: 15px;
+  }
+  
+  .post-categories, .post-tags {
+    margin-bottom: 15px;
+  }
+}
+
+/* Fix for timeline items */
+.timeline-item {
+  position: relative;
+  padding-left: 120px;
+  margin-bottom: 50px;
+  
+  /* Add visible connecting line between timeline items */
+  &:before {
+    content: "";
+    position: absolute;
+    left: 40px;
+    top: 0;
+    bottom: -30px;
+    width: 2px;
+    background-color: #e1e4e8;
+  }
+  
+  /* Circle marker for timeline */
+  .timeline-marker {
+    position: absolute;
+    left: 31px;
+    top: 20px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #0366d6;
+    border: 4px solid #f6f8fa;
+    z-index: 2;
+  }
+  
+  /* Last timeline item should not extend line */
+  &:last-child:before {
+    bottom: 40px;
+  }
+  
+  .timeline-content {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e1e4e8;
+    
+    h3 {
+      margin-top: 0;
+      color: #0366d6;
+      margin-bottom: 15px;
+      font-weight: 600;
+      font-size: 1.4rem;
+      padding-bottom: 12px;
+      border-bottom: 1px solid #e1e4e8;
+    }
+    
+    .target {
+      background-color: rgba(46, 164, 79, 0.1);
+      border: 1px solid rgba(46, 164, 79, 0.2);
+      border-radius: 4px;
+      padding: 8px 15px;
+      display: inline-block;
+      margin-top: 15px;
+    }
+  }
+}
+
+/* Style for section headers with explicit dividers */
+.home-section h2, section h2, .page-content h2 {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 2rem;
+  position: relative;
+  font-weight: 700;
+  color: #0366d6;
+  
+  &:after {
+    content: "";
+    display: block;
+    width: 80px;
+    height: 4px;
+    background: linear-gradient(90deg, #0366d6, #6f42c1);
+    margin: 15px auto 0;
+    border-radius: 2px;
+  }
+}
+
+/* Fix for skills categories to ensure dividers are visible */
+.skills-category {
+  margin-bottom: 50px;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  border: 1px solid #e1e4e8;
+  position: relative;
+  
+  /* Explicit divider after each category */
+  &:not(:last-child):after {
+    content: "";
+    position: absolute;
+    bottom: -25px;
+    left: 10%;
+    width: 80%;
+    height: 1px;
+    background: linear-gradient(90deg, 
+      rgba(225, 228, 232, 0),
+      rgba(225, 228, 232, 1) 20%,
+      rgba(225, 228, 232, 1) 80%,
+      rgba(225, 228, 232, 0)
+    );
+  }
+  
+  h3 {
+    margin-top: 0;
+    margin-bottom: 25px;
+    position: relative;
+    padding-bottom: 15px;
+    font-weight: 700;
+    font-size: 1.6rem;
+    color: #24292e;
+    
+    &:after {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 60px;
+      height: 4px;
+      background: linear-gradient(90deg, #0366d6, #6f42c1);
+      border-radius: 2px;
+    }
+  }
+}
+
+/* Ensure SCSS is properly processed by adding additional rules */
+body {
+  background-color: #f6f8fa;
+  line-height: 1.6;
+  color: #24292e;
+}
+
+/* Fix for mobile responsive layout */
+@media (max-width: 768px) {
+  .home-section, section {
+    padding: 25px 15px;
+    margin-bottom: 40px;
+    
+    &:after {
+      bottom: -20px;
+    }
+  }
+  
+  .timeline-item {
+    padding-left: 80px;
+    
+    .timeline-marker {
+      left: 21px;
+      top: 15px;
+      width: 16px;
+      height: 16px;
+    }
+    
+    &:before {
+      left: 30px;
+    }
+  }
+}
