@@ -1,6 +1,10 @@
+---
+layout: default
+---
+
 <div class="hero-section with-divider">
   <div class="hero-content">
-    <h1 style="font-size: 3.5rem; margin-bottom: 0.5rem;">Joshua Michael Hall</h1>
+    <h1>Joshua Michael Hall</h1>
     <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
     <p>Building secure, reliable infrastructure through automation, containerization, and DevOps practices.</p>
     <div class="hero-links">
@@ -66,8 +70,8 @@
             <span class="skill-tag">Kubernetes</span>
           </div>
           <div class="timeline-certs">
-            <span class="cert-badge">AWS Solutions Architect</span>
-            <span class="cert-badge">Terraform Associate</span>
+            <span class="cert-badge">AWS Solutions Architect Associate (Aug 2025)</span>
+            <span class="cert-badge">Terraform Associate (Oct 2025)</span>
           </div>
         </div>
       </div>
@@ -85,8 +89,8 @@
             <span class="skill-tag">Monitoring</span>
           </div>
           <div class="timeline-certs">
-            <span class="cert-badge">Kubernetes Admin</span>
-            <span class="cert-badge">AWS DevOps Pro</span>
+            <span class="cert-badge">Kubernetes Admin (CKA) (Feb 2026)</span>
+            <span class="cert-badge">AWS DevOps Pro (Nov 2026)</span>
           </div>
         </div>
       </div>
@@ -104,8 +108,8 @@
             <span class="skill-tag">Innovation</span>
           </div>
           <div class="timeline-certs">
-            <span class="cert-badge">AWS Security</span>
-            <span class="cert-badge">K8s Security</span>
+            <span class="cert-badge">AWS Security Specialty (Early 2027)</span>
+            <span class="cert-badge">Kubernetes Security (CKS) (Mid 2027)</span>
           </div>
         </div>
       </div>

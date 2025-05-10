@@ -10,7 +10,7 @@ permalink: /portfolio/
   <h2>Featured Projects</h2>
   <p>This portfolio showcases enterprise-ready DevOps projects focused on infrastructure automation, security compliance, and containerization for financial services environments. Each implementation demonstrates industry best practices and production-grade architecture.</p>
 
-  <div class="project-card featured with-divider">
+  <div class="project-card featured">
     <h2>Infrastructure as Code for Multi-Environment Deployment</h2>
     <div class="project-details">
       <div class="project-image">
@@ -61,7 +61,7 @@ permalink: /portfolio/
   <div class="projects-grid">
     {% assign projects = site.data.projects %}
     {% for project in projects %}
-    <div class="project-card {% if forloop.last == false %}with-divider{% endif %}" data-category="{{ project.category }}">
+    <div class="project-card" data-category="{{ project.category }}">
       <h3>{{ project.title }}</h3>
       <p>{{ project.description }}</p>
       <p class="technologies">
