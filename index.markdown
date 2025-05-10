@@ -35,9 +35,7 @@
 <div class="home-section with-divider" id="projects">
   <h2>Projects</h2>
   <p class="section-description">Production-grade infrastructure implementations demonstrating DevOps best practices, security automation, and financial services compliance capabilities.</p>
-  <div id="github-projects-container">
-    <div id="github-projects"></div>
-  </div>
+  <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
   </div>
@@ -46,9 +44,7 @@
 <div class="home-section no-divider" id="articles">
   <h2>Articles</h2>
   <p class="section-description">Technical insights on infrastructure automation, containerization, and cloud security with a focus on financial services environments.</p>
-  <div id="devto-articles-container">
-    <div id="devto-articles"></div>
-  </div>
+  <div id="devto-articles"></div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">View All Articles</a>
   </div>

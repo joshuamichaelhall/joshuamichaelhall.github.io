@@ -14,20 +14,24 @@
     </main>
 
     {%- include footer.html -%}
-    
+
     <!-- Theme initialization script (ensures no flash of wrong theme) -->
     <script>
       (function() {
         // Check for saved theme preference or use preferred color scheme
         const savedTheme = localStorage.getItem('theme');
         const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-        
+
         // Apply theme immediately to prevent flash of wrong theme
         if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
           document.body.classList.add('dark-theme');
         }
       })();
     </script>
+
+    <!-- External API integrations -->
+    <script src="{{ "/assets/js/github-integration.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/devto-integration.js" | relative_url }}"></script>
   </body>
 
 </html>
