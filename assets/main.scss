@@ -741,3 +741,656 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+/* Add this to your assets/main.scss file */
+
+:root {
+  /* Light theme variables */
+  --bg-color: #f6f8fa;
+  --bg-content: #fff;
+  --text-color: #24292e;
+  --text-secondary: #6a737d;
+  --border-color: #e1e4e8;
+  --primary-color: #0366d6;
+  --secondary-color: #6f42c1;
+  --accent-color: #2ea44f;
+  --code-bg: #f6f8fa;
+  --divider-color: rgba(225, 228, 232, 0.8);
+  --card-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+}
+
+/* Dark theme class that can be toggled */
+.dark-theme {
+  --bg-color: #0d1117;
+  --bg-content: #161b22;
+  --text-color: #c9d1d9;
+  --text-secondary: #8b949e;
+  --border-color: #30363d;
+  --primary-color: #58a6ff;
+  --secondary-color: #bc8cff;
+  --accent-color: #3fb950;
+  --code-bg: #1e2329;
+  --divider-color: rgba(66, 70, 77, 0.8);
+  --card-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Apply variables throughout the CSS */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+/* Update other elements to use the variables */
+.home-section, 
+section, 
+.content-section,
+.featured-article,
+.upcoming-articles,
+.blog-list,
+.featured-projects,
+.hero-section {
+  background-color: var(--bg-content);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--card-shadow);
+}
+
+/* Update dividers to use variables */
+.with-divider:after,
+.home-section:not(:last-child):after,
+section:not(:last-child):after,
+.content-section:not(:last-child):after {
+  background: linear-gradient(90deg, 
+    rgba(0, 0, 0, 0) 0%,
+    var(--divider-color) 20%,
+    var(--divider-color) 80%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+
+/* Update links, buttons, etc. */
+a {
+  color: var(--primary-color);
+}
+
+h2 {
+  color: var(--primary-color);
+}
+
+/* Update code blocks */
+pre, code {
+  background-color: var(--code-bg);
+  border-color: var(--border-color);
+}
+
+/* Project cards */
+.project-card {
+  background-color: var(--bg-content);
+  border-color: var(--border-color);
+}
+
+/* Footer styling */
+.site-footer {
+  border-top: 1px solid var(--border-color);
+  background-color: var(--bg-color);
+}
+
+/* Dark mode toggle button styling */
+.theme-toggle {
+  background: none;
+  border: none;
+  color: var(--text-color);
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 0.5rem;
+  margin-left: 1rem;
+}
+
+.theme-toggle:hover {
+  color: var(--primary-color);
+}
+
+/* Applied styles for specific elements */
+.site-header {
+  background-color: var(--bg-content);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.site-nav .page-link {
+  color: var(--text-color);
+}
+
+.skill-item, .blog-post-preview, .tech-focus-item {
+  background-color: var(--bg-color);
+  border-color: var(--border-color);
+}
+
+/* Section Divider Fixes - Add to your assets/main.scss */
+
+/* Base divider styles for all sections */
+.section-divider {
+  height: 1px;
+  width: 80%;
+  margin: 40px auto;
+  background: linear-gradient(90deg, 
+    rgba(225, 228, 232, 0) 0%,
+    rgba(225, 228, 232, 1) 20%,
+    rgba(225, 228, 232, 1) 80%,
+    rgba(225, 228, 232, 0) 100%
+  );
+  display: block;
+}
+
+/* Fix the divider positioning - the issue with your current approach */
+.with-divider {
+  position: relative;
+  padding-bottom: 40px; /* Add space for the divider */
+  margin-bottom: 40px;
+}
+
+/* The main fix: use a pseudo-element WITHIN the container instead of AFTER it */
+.with-divider::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  width: 80%;
+  height: 1px;
+  background: linear-gradient(90deg, 
+    rgba(225, 228, 232, 0) 0%,
+    rgba(225, 228, 232, 1) 20%,
+    rgba(225, 228, 232, 1) 80%,
+    rgba(225, 228, 232, 0) 100%
+  );
+  z-index: 1;
+}
+
+/* Fix for blog post previews and project cards */
+.blog-post-preview.with-divider,
+.project-card.with-divider {
+  position: relative;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+}
+
+.blog-post-preview.with-divider::before,
+.project-card.with-divider::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  width: 80%;
+  height: 1px;
+  background: linear-gradient(90deg, 
+    rgba(225, 228, 232, 0) 0%,
+    rgba(225, 228, 232, 1) 20%,
+    rgba(225, 228, 232, 1) 80%,
+    rgba(225, 228, 232, 0) 100%
+  );
+}
+
+/* Explicit class to manually add a divider anywhere */
+.manual-divider {
+  position: relative;
+  height: 1px;
+  width: 80%;
+  margin: 40px auto;
+  background: linear-gradient(90deg, 
+    rgba(225, 228, 232, 0) 0%,
+    rgba(225, 228, 232, 1) 20%,
+    rgba(225, 228, 232, 1) 80%,
+    rgba(225, 228, 232, 0) 100%
+  );
+}
+
+/* Apply in dark mode too */
+.dark-theme .with-divider::before,
+.dark-theme .blog-post-preview.with-divider::before,
+.dark-theme .project-card.with-divider::before,
+.dark-theme .manual-divider,
+.dark-theme .section-divider {
+  background: linear-gradient(90deg, 
+    rgba(66, 70, 77, 0) 0%,
+    rgba(66, 70, 77, 1) 20%,
+    rgba(66, 70, 77, 1) 80%,
+    rgba(66, 70, 77, 0) 100%
+  );
+}
+
+/* Add this to your assets/main.scss after the existing content */
+
+:root {
+  /* Light theme variables */
+  --bg-color: #f6f8fa;
+  --bg-content: #fff;
+  --text-color: #24292e;
+  --text-secondary: #6a737d;
+  --text-muted: #6a737d;
+  --border-color: #e1e4e8;
+  --primary-color: #0366d6;
+  --secondary-color: #6f42c1;
+  --accent-color: #2ea44f;
+  --code-bg: #f6f8fa;
+  --divider-color: rgba(225, 228, 232, 0.8);
+  --card-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+  --card-bg: #f8f9fa;
+  --header-bg: #fff;
+  --footer-bg: #f6f8fa;
+  --timeline-line: #e1e4e8;
+  --timeline-point: #0366d6;
+  --btn-primary-bg: #0366d6;
+  --btn-primary-text: #fff;
+  --btn-secondary-bg: #6f42c1;
+  --btn-secondary-text: #fff;
+  --btn-outline-border: #e1e4e8;
+  --btn-outline-text: #24292e;
+  --skill-bar-bg: #e1e4e8;
+  --skill-bar-fill: #0366d6;
+  --blockquote-border: #0366d6;
+  --blockquote-bg: #f6f8fa;
+  --syntax-highlighting-bg: #f6f8fa;
+}
+
+/* Dark theme class that can be toggled */
+.dark-theme {
+  --bg-color: #0d1117;
+  --bg-content: #161b22;
+  --text-color: #c9d1d9;
+  --text-secondary: #8b949e;
+  --text-muted: #8b949e;
+  --border-color: #30363d;
+  --primary-color: #58a6ff;
+  --secondary-color: #bc8cff;
+  --accent-color: #3fb950;
+  --code-bg: #1e2329;
+  --divider-color: rgba(66, 70, 77, 0.8);
+  --card-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  --card-bg: #1c2128;
+  --header-bg: #161b22;
+  --footer-bg: #0d1117;
+  --timeline-line: #30363d;
+  --timeline-point: #58a6ff;
+  --btn-primary-bg: #1f6feb;
+  --btn-primary-text: #fff;
+  --btn-secondary-bg: #6e40c9;
+  --btn-secondary-text: #fff;
+  --btn-outline-border: #30363d;
+  --btn-outline-text: #c9d1d9;
+  --skill-bar-bg: #30363d;
+  --skill-bar-fill: #1f6feb;
+  --blockquote-border: #1f6feb;
+  --blockquote-bg: #1c2128;
+  --syntax-highlighting-bg: #1e2329;
+}
+
+/* Apply variables throughout the site */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.wrapper {
+  max-width: 1200px;
+  padding: 0 30px;
+  margin: 0 auto;
+}
+
+/* Header with theme variables */
+.site-header {
+  background-color: var(--header-bg);
+  padding: 15px 0;
+  border-bottom: 1px solid var(--border-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.site-nav .page-link {
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+.site-nav .page-link:hover {
+  color: var(--primary-color);
+}
+
+.site-nav .page-link:after {
+  background-color: var(--primary-color);
+}
+
+/* Section styling with theme variables */
+.home-section, 
+section, 
+.content-section,
+.featured-article,
+.upcoming-articles,
+.blog-list,
+.featured-projects,
+.hero-section {
+  background-color: var(--bg-content);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--card-shadow);
+  transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Section dividers with theme variables */
+.with-divider::before,
+.blog-post-preview.with-divider::before,
+.project-card.with-divider::before,
+.manual-divider,
+.section-divider {
+  background: linear-gradient(90deg, 
+    rgba(0, 0, 0, 0) 0%,
+    var(--divider-color) 20%,
+    var(--divider-color) 80%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  transition: background 0.3s ease;
+}
+
+/* Section headers with theme variables */
+.home-section h2, 
+section h2, 
+.content-section h2,
+.page-content h2 {
+  color: var(--primary-color);
+  transition: color 0.3s ease;
+}
+
+.home-section h2:after, 
+section h2:after, 
+.content-section h2:after,
+.page-content h2:after {
+  background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+  transition: background 0.3s ease;
+}
+
+/* Project cards with theme variables */
+.project-card {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  transition: background-color 0.3s ease, border-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card h3 {
+  color: var(--text-color);
+  border-bottom: 1px solid var(--border-color);
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.project-card .technologies {
+  background-color: rgba(var(--primary-color-rgb, 3, 102, 214), 0.05);
+  border: 1px solid rgba(var(--primary-color-rgb, 3, 102, 214), 0.1);
+}
+
+.project-card .project-links {
+  border-top: 1px solid var(--border-color);
+  transition: border-color 0.3s ease;
+}
+
+/* Blog post previews with theme variables */
+.blog-post-preview {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.blog-post-preview h2 a {
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+.blog-post-preview h2 a:hover {
+  color: var(--primary-color);
+}
+
+.blog-post-preview .post-date {
+  color: var(--text-secondary);
+  border-bottom: 1px solid var(--border-color);
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Skills section with theme variables */
+.skills-category, 
+.skill-category {
+  background-color: var(--bg-content);
+  border: 1px solid var(--border-color);
+  transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.skills-grid .skill-item {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  transition: background-color 0.3s ease, border-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.skills-grid .skill-item .skill-header {
+  border-bottom: 1px solid var(--border-color);
+  transition: border-color 0.3s ease;
+}
+
+.skills-grid .skill-item .skill-header h4 {
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+.skill-level .skill-bar {
+  background-color: var(--skill-bar-bg);
+  transition: background-color 0.3s ease;
+}
+
+.skill-level .skill-progress {
+  background-color: var(--skill-bar-fill);
+  transition: background-color 0.3s ease;
+}
+
+/* Timeline with theme variables */
+.timeline-item:before {
+  background-color: var(--timeline-line);
+  transition: background-color 0.3s ease;
+}
+
+.timeline-marker {
+  background-color: var(--timeline-point);
+  border: 4px solid var(--bg-color);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.timeline-content {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.timeline-content h3 {
+  color: var(--primary-color);
+  border-bottom: 1px solid var(--border-color);
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Tech focus items with theme variables */
+.tech-focus-item {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  transition: background-color 0.3s ease, border-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.tech-focus-item h3 {
+  color: var(--text-color);
+  border-bottom: 1px solid var(--border-color);
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Footer with theme variables */
+.site-footer {
+  border-top: 1px solid var(--border-color);
+  background-color: var(--footer-bg);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.footer-heading {
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+.footer-heading:after {
+  background: var(--primary-color);
+  transition: background-color 0.3s ease;
+}
+
+.social-media-list li a, .footer-links li a {
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+.social-media-list li a:hover, .footer-links li a:hover {
+  color: var(--primary-color);
+}
+
+.footer-bottom {
+  border-top: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Blog content with theme variables */
+.post-content h1, 
+.post-content h2, 
+.post-content h3, 
+.post-content h4, 
+.post-content h5, 
+.post-content h6 {
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+.post-content h2 {
+  border-bottom: 1px solid var(--border-color);
+  transition: border-color 0.3s ease;
+}
+
+.post-content pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border-color);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.post-content blockquote {
+  border-left: 4px solid var(--blockquote-border);
+  background-color: var(--blockquote-bg);
+  border: 1px solid var(--border-color);
+  border-left-width: 4px;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+/* Buttons with theme variables */
+.btn {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+.primary-btn {
+  background-color: var(--btn-primary-bg);
+  color: var(--btn-primary-text);
+}
+
+.secondary-btn {
+  background-color: var(--btn-secondary-bg);
+  color: var(--btn-secondary-text);
+}
+
+.outlined-btn {
+  border: 1px solid var(--btn-outline-border);
+  color: var(--btn-outline-text);
+}
+
+.outlined-btn:hover {
+  border-color: var(--primary-color);
+  color: var(--primary-color);
+}
+
+/* Dark mode toggle button */
+.theme-toggle {
+  background: none;
+  border: none;
+  color: var(--text-color);
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 0.5rem;
+  margin-left: 1rem;
+  transition: color 0.3s ease;
+  position: relative;
+  top: 2px;
+}
+
+.theme-toggle:hover {
+  color: var(--primary-color);
+}
+
+/* Form elements with theme variables */
+input, textarea, select {
+  background-color: var(--bg-content);
+  border: 1px solid var(--border-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+input:focus, textarea:focus, select:focus {
+  border-color: var(--primary-color);
+  outline: none;
+}
+
+/* Prism syntax highlighting for dark mode */
+.dark-theme .token.comment,
+.dark-theme .token.prolog,
+.dark-theme .token.doctype,
+.dark-theme .token.cdata {
+  color: #8b949e;
+}
+
+.dark-theme .token.property,
+.dark-theme .token.tag,
+.dark-theme .token.boolean,
+.dark-theme .token.number,
+.dark-theme .token.constant,
+.dark-theme .token.symbol {
+  color: #79c0ff;
+}
+
+.dark-theme .token.selector,
+.dark-theme .token.attr-name,
+.dark-theme .token.string,
+.dark-theme .token.char,
+.dark-theme .token.builtin {
+  color: #7ee787;
+}
+
+.dark-theme .token.operator,
+.dark-theme .token.entity,
+.dark-theme .token.url,
+.dark-theme .language-css .token.string,
+.dark-theme .style .token.string {
+  color: #ffa657;
+}
+
+.dark-theme .token.atrule,
+.dark-theme .token.attr-value,
+.dark-theme .token.keyword {
+  color: #d2a8ff;
+}
+
+.dark-theme pre[class*="language-"],
+.dark-theme code[class*="language-"] {
+  background-color: var(--code-bg);
+  transition: background-color 0.3s ease;
+}
+
+.dark-theme .line-numbers .line-numbers-rows {
+  border-right: 2px solid #30363d;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+  .theme-toggle {
+    padding: 0.25rem;
+    font-size: 1rem;
+  }
+}

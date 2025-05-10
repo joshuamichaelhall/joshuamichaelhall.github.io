@@ -1,4 +1,3 @@
-<!-- Update _layouts/default.html -->
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
@@ -15,6 +14,20 @@
     </main>
 
     {%- include footer.html -%}
+    
+    <!-- Theme initialization script (ensures no flash of wrong theme) -->
+    <script>
+      (function() {
+        // Check for saved theme preference or use preferred color scheme
+        const savedTheme = localStorage.getItem('theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        
+        // Apply theme immediately to prevent flash of wrong theme
+        if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+          document.body.classList.add('dark-theme');
+        }
+      })();
+    </script>
   </body>
 
 </html>

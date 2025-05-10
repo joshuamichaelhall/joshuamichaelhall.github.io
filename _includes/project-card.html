@@ -1,4 +1,4 @@
-<div class="project-card" data-category="{{ include.project.category }}">
+<div class="project-card {% if forloop.last == false %}with-divider{% endif %}" data-category="{{ include.project.category }}">
   <h3>{{ include.project.title }}</h3>
   <div class="project-content">
     <p>{{ include.project.description }}</p>
