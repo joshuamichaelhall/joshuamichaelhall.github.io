@@ -1,15 +1,17 @@
 <div class="project-card" data-category="{{ include.project.category }}">
   <h3>{{ include.project.title }}</h3>
-  <p>{{ include.project.description }}</p>
-  <p class="technologies">
-    <strong>Technologies:</strong> {{ include.project.technologies | join: ", " }}
-  </p>
-  <div class="project-links">
-    {% if include.project.github %}
-    <a href="{{ include.project.github }}" target="_blank">GitHub</a>
-    {% endif %}
-    {% if include.project.demo %}
-    <a href="{{ include.project.demo }}" target="_blank">Demo</a>
-    {% endif %}
+  <div class="project-content">
+    <p>{{ include.project.description }}</p>
+    <div class="technologies">
+      <strong>Technologies:</strong> {{ include.project.technologies | join: ", " }}
+    </div>
+    <div class="project-links">
+      {% if include.project.github %}
+      <a href="{{ include.project.github }}" class="btn project-btn" target="_blank">View on GitHub</a>
+      {% endif %}
+      {% if include.project.demo %}
+      <a href="{{ include.project.demo }}" class="btn demo-btn" target="_blank">View Demo</a>
+      {% endif %}
+    </div>
   </div>
 </div>

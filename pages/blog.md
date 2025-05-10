@@ -21,20 +21,7 @@ I write about DevOps practices, infrastructure automation, containerization, and
 
 <div class="blog-list">
   {% for post in site.posts %}
-  <div class="blog-post-preview">
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
-    {% if post.categories %}
-    <p class="post-categories">
-      Categories: 
-      {% for category in post.categories %}
-      <span class="category">{{ category }}</span>
-      {% endfor %}
-    </p>
-    {% endif %}
-    <p>{{ post.excerpt }}</p>
-    <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
-  </div>
+    {% include blog-post-preview.html post=post %}
   {% endfor %}
 </div>
 
