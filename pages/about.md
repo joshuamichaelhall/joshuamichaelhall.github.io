@@ -10,7 +10,10 @@ I'm a software engineer transitioning to a DevOps/SRE career path, focused on bu
 
 <div class="content-section with-divider">
   <h2>Professional Background</h2>
-  <p>I'm currently focused on building a comprehensive skill set in DevOps and Site Reliability Engineering:</p>
+  <p class="page-intro">
+    I'm a DevOps/SRE engineer specializing in secure, reliable infrastructure for financial services. With a background in software engineering and a focus on infrastructure automation, my goal is to build compliant, scalable systems that enable business innovation while maintaining operational excellence.
+  </p>
+
   <ul>
     <li>Developing expertise in AWS cloud infrastructure</li>
     <li>Mastering Infrastructure as Code with Terraform</li>

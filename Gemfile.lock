@@ -330,6 +330,7 @@ DEPENDENCIES
   jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
+  jekyll-watch
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1)
