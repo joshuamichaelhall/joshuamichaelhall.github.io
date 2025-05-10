@@ -1,6 +1,6 @@
-<!-- Add this to your blog.md file or create a _includes/blog-post-preview.html partial -->
+<!-- Updated blog-post-preview.html with divider control classes -->
 
-<div class="blog-post-preview">
+<div class="blog-post-preview {% if forloop.last %}no-divider{% else %}with-divider{% endif %}">
   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
   

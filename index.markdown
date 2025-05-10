@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<div class="hero-section">
+<div class="hero-section with-divider">
   <div class="hero-content">
     <h1>Joshua Michael Hall</h1>
     <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
@@ -15,7 +15,7 @@ title: Home
   </div>
 </div>
 
-<section class="home-section" id="technical-focus">
+<div class="home-section with-divider" id="technical-focus">
   <h2>Technical Focus</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
@@ -35,25 +35,25 @@ title: Home
       <p>Optimized development environment using Neovim, tmux, and CLI tools for maximum productivity.</p>
     </div>
   </div>
-</section>
+</div>
 
-<section class="home-section" id="projects">
+<div class="home-section with-divider" id="projects">
   <h2>Projects</h2>
   <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
   </div>
-</section>
+</div>
 
-<section class="home-section" id="articles">
+<div class="home-section no-divider" id="articles">
   <h2>Articles</h2>
   <div id="devto-articles"></div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">View All Articles</a>
   </div>
-</section>
+</div>
 
-<section class="home-section" id="career-vision">
+<div class="home-section no-divider" id="career-vision">
   <h2>Career Vision</h2>
   <div class="career-timeline">
     <div class="timeline-item">
@@ -81,7 +81,7 @@ title: Home
       </div>
     </div>
   </div>
-</section>
+</div>
 
 <script>
   // Add animation to timeline items
