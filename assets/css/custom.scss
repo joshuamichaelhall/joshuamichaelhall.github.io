@@ -1,6 +1,75 @@
+---
+---
+
+/* 
+ * Combined CSS File
+ * Includes:
+ * - Main custom styles (from custom.scss)
+ * - Prism syntax highlighting (from prism-custom.scss)
+ * - Section divider fixes
+ */
+
+/* ========== PRISM SYNTAX HIGHLIGHTING ========== */
+
+pre[class*="language-"] {
+  margin: 1.5em 0;
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+code[class*="language-"] {
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  font-size: 0.9em;
+}
+
+/* Theme customization - matches your site's color scheme */
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: slategray;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol {
+  color: #0366d6;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin {
+  color: #2ea44f;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+  color: #a67f59;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+  color: #6f42c1;
+}
+
+.line-numbers .line-numbers-rows {
+  border-right: 2px solid #e1e4e8;
+}
+
+/* ========== CUSTOM SITE STYLES ========== */
+
 /* Enhanced section separation and visual hierarchy */
 
-/* Global section styling */
+/* Global section styling with explicit dividers */
 .home-section, section {
   margin-bottom: 80px;
   padding: 40px;
@@ -8,6 +77,28 @@
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
   border: 1px solid #e1e4e8;
+  position: relative;
+  
+  /* Adding explicit divider that will render in all browsers */
+  &:after {
+    content: "";
+    position: absolute;
+    bottom: -30px;
+    left: 10%;
+    width: 80%;
+    height: 1px;
+    background: linear-gradient(90deg, 
+      rgba(225, 228, 232, 0),
+      rgba(225, 228, 232, 1) 20%,
+      rgba(225, 228, 232, 1) 80%,
+      rgba(225, 228, 232, 0)
+    );
+  }
+  
+  /* Remove divider from last section */
+  &:last-of-type:after {
+    display: none;
+  }
 }
 
 /* Section headers with improved visual cues */
@@ -60,8 +151,9 @@
     font-size: 0.95rem;
     line-height: 1.6;
     padding: 12px;
-    background-color: rgba(#0366d6, 0.05);
+    background-color: rgba(3, 102, 214, 0.05);
     border-radius: 6px;
+    border: 1px solid rgba(3, 102, 214, 0.1);
   }
   
   .project-links {
@@ -71,7 +163,7 @@
   }
 }
 
-/* Blog post previews with better separation */
+/* Blog post previews with better separation and explicit dividers */
 .blog-post-preview {
   margin-bottom: 40px;
   padding: 30px;
@@ -79,6 +171,23 @@
   background-color: #f8f9fa;
   border: 1px solid #e1e4e8;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  position: relative;
+  
+  /* Add divider after each preview except the last */
+  &:not(:last-child):after {
+    content: "";
+    position: absolute;
+    bottom: -20px;
+    left: 10%;
+    width: 80%;
+    height: 1px;
+    background: linear-gradient(90deg, 
+      rgba(225, 228, 232, 0),
+      rgba(225, 228, 232, 1) 20%,
+      rgba(225, 228, 232, 1) 80%,
+      rgba(225, 228, 232, 0)
+    );
+  }
   
   &:last-child {
     margin-bottom: 0;
@@ -117,11 +226,40 @@
   }
 }
 
-/* Timeline items with enhanced visual separation */
+/* Timeline items with enhanced visual separation and connecting lines */
 .timeline-item {
   position: relative;
   padding-left: 120px;
   margin-bottom: 50px;
+  
+  /* Add visible connecting line between timeline items */
+  &:before {
+    content: "";
+    position: absolute;
+    left: 40px;
+    top: 0;
+    bottom: -30px;
+    width: 2px;
+    background-color: #e1e4e8;
+  }
+  
+  /* Circle marker for timeline */
+  .timeline-marker {
+    position: absolute;
+    left: 31px;
+    top: 20px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #0366d6;
+    border: 4px solid #f6f8fa;
+    z-index: 2;
+  }
+  
+  /* Last timeline item should not extend line */
+  &:last-child:before {
+    bottom: 40px;
+  }
   
   .timeline-content {
     background-color: #f8f9fa;
@@ -141,8 +279,8 @@
     }
     
     .target {
-      background-color: rgba(#2ea44f, 0.1);
-      border: 1px solid rgba(#2ea44f, 0.2);
+      background-color: rgba(46, 164, 79, 0.1);
+      border: 1px solid rgba(46, 164, 79, 0.2);
       border-radius: 4px;
       padding: 8px 15px;
       display: inline-block;
@@ -242,6 +380,23 @@
   background-color: #fff;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
   border: 1px solid #e1e4e8;
+  position: relative;
+  
+  /* Explicit divider after each category */
+  &:not(:last-child):after {
+    content: "";
+    position: absolute;
+    bottom: -25px;
+    left: 10%;
+    width: 80%;
+    height: 1px;
+    background: linear-gradient(90deg, 
+      rgba(225, 228, 232, 0),
+      rgba(225, 228, 232, 1) 20%,
+      rgba(225, 228, 232, 1) 80%,
+      rgba(225, 228, 232, 0)
+    );
+  }
   
   h3 {
     margin-top: 0;
@@ -475,6 +630,11 @@ body {
 @media (max-width: 768px) {
   .home-section, section {
     padding: 30px 20px;
+    margin-bottom: 40px;
+    
+    &:after {
+      bottom: -20px;
+    }
   }
   
   .footer-col-wrapper {
@@ -484,10 +644,34 @@ body {
   .site-header .site-nav .nav-links {
     gap: 15px;
   }
+  
+  .timeline-item {
+    padding-left: 80px;
+    
+    .timeline-marker {
+      left: 21px;
+      top: 15px;
+      width: 16px;
+      height: 16px;
+    }
+    
+    &:before {
+      left: 30px;
+    }
+  }
 }
 
 @media (max-width: 480px) {
   .home-section, section {
     padding: 25px 15px;
+    margin-bottom: 30px;
+  }
+  
+  .tech-focus-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .skills-grid {
+    grid-template-columns: 1fr;
   }
 }
