@@ -12,7 +12,8 @@ I'm interested in discussing DevOps/SRE opportunities, technical challenges, or 
 
 - **Email**: <a href="mailto:contact@joshuamichaelhall.com">contact@joshuamichaelhall.com</a>
 - **LinkedIn**: [joshuamichaelhall](https://linkedin.com/in/joshuamichaelhall)
-- **GitHub**: [JoshuaMichaelHall](https://github.com/JoshuaMichaelHall)
+- **GitHub Personal**: [JoshuaMichaelHall](https://github.com/JoshuaMichaelHall)
+- **GitHub Organization**: [JoshuaMichaelHall-Tech](https://github.com/JoshuaMichaelHall-Tech)
 - **Dev.to**: [joshuamichaelhall](https://dev.to/joshuamichaelhall)
 
 ## Contact Form
@@ -27,7 +28,10 @@ I'm interested in discussing DevOps/SRE opportunities, technical challenges, or 
         <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/joshuamichaelhall" target="_blank">joshuamichaelhall</a>
       </li>
       <li>
-        <strong>GitHub:</strong> <a href="https://github.com/JoshuaMichaelHall" target="_blank">JoshuaMichaelHall</a>
+        <strong>GitHub (Personal):</strong> <a href="https://github.com/JoshuaMichaelHall" target="_blank">JoshuaMichaelHall</a>
+      </li>
+      <li>
+        <strong>GitHub (Organization):</strong> <a href="https://github.com/JoshuaMichaelHall-Tech" target="_blank">JoshuaMichaelHall-Tech</a>
       </li>
       <li>
         <strong>Dev.to:</strong> <a href="https://dev.to/joshuamichaelhall" target="_blank">joshuamichaelhall</a>
@@ -39,17 +43,17 @@ I'm interested in discussing DevOps/SRE opportunities, technical challenges, or 
     <h3>Contact Form</h3>
     <form action="https://formspree.io/f/your-formspree-id" method="POST" class="contact-form">
       <div class="form-group">
-        <label for="name">Name  </label>
+        <label for="name">Name</label>
         <input type="text" name="name" id="name" required>
       </div>
       
       <div class="form-group">
-        <label for="email">Email  </label>
+        <label for="email">Email</label>
         <input type="email" name="_replyto" id="email" required>
       </div>
       
       <div class="form-group">
-        <label for="subject">Subject </label>
+        <label for="subject">Subject</label>
         <input type="text" name="subject" id="subject" required>
       </div>
       
@@ -87,38 +91,3 @@ I'm currently building skills in DevOps/SRE and platform engineering while devel
   </div>
   <p>I'm currently focusing on completing my DevOps/SRE portfolio projects and certifications, with availability for new roles beginning in late-2025.</p>
 </div>
-
-<style>
-  .availability-section {
-    margin-top: 40px;
-    background-color: #f6f8fa;
-    padding: 20px;
-    border-radius: 8px;
-  }
-  
-  .availability-section h2 {
-    margin-top: 0;
-  }
-  
-  .availability-status {
-    display: flex;
-    align-items: center;
-    margin-bottom: 15px;
-  }
-  
-  .status-indicator {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    margin-right: 10px;
-  }
-  
-  .status-indicator.available {
-    background-color: #2ea44f;
-    box-shadow: 0 0 0 3px rgba(46, 164, 79, 0.2);
-  }
-  
-  .availability-status p {
-    margin: 0;
-  }
-</style>

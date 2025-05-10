@@ -60,7 +60,7 @@ My career development plan follows this trajectory:
 - Develop specialized financial services knowledge
 
 ### Mid-Level Position (2025-2026)
-- Secure mid-level DevOps Engineer role ($90-150K)
+- Secure mid-level DevOps Engineer role ($110-150K)
 - Apply skills in production environments
 - Expand platform engineering expertise
 - Deepen financial services domain knowledge
@@ -69,7 +69,7 @@ My career development plan follows this trajectory:
 - Progress to senior platform engineering roles
 - Focus on high-availability architecture
 - Specialize in financial compliance automation
-- Target top-tier compensation ($140-200K+)
+- Target top-tier compensation ($160-200K+)
 
 ## Learning Philosophy
 
@@ -83,7 +83,8 @@ I believe in:
 
 ## Connect With Me
 
-- [GitHub](https://github.com/JoshuaMichaelHall)
+- [GitHub (Personal)](https://github.com/JoshuaMichaelHall)
+- [GitHub (Organization)](https://github.com/JoshuaMichaelHall-Tech)
 - [LinkedIn](https://linkedin.com/in/joshuamichaelhall)
 - [Dev.to](https://dev.to/joshuamichaelhall)
 - [Medium](https://medium.com/@joshuamichaelhall)

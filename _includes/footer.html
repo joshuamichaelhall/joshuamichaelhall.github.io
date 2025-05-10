@@ -10,7 +10,12 @@
         <ul class="social-media-list">
           {% if site.github_username %}
           <li class="social-item">
-            <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+            <a href="https://github.com/{{ site.github_username }}">GitHub (Personal)</a>
+          </li>
+          {% endif %}
+          {% if site.github_org_username %}
+          <li class="social-item">
+            <a href="https://github.com/{{ site.github_org_username }}">GitHub (Organization)</a>
           </li>
           {% endif %}
           {% if site.linkedin_username %}

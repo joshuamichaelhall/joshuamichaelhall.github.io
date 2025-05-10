@@ -1,0 +1,30 @@
+<!-- Add this to your blog.md file or create a _includes/blog-post-preview.html partial -->
+
+<div class="blog-post-preview">
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+  
+  {% if post.categories %}
+  <div class="post-categories">
+    <strong>Categories:</strong> 
+    {% for category in post.categories %}
+    <span class="category">{{ category }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+  
+  {% if post.tags %}
+  <div class="post-tags">
+    <strong>Tags:</strong> 
+    {% for tag in post.tags %}
+    <span class="tag">{{ tag }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+  
+  <div class="post-excerpt">
+    {{ post.excerpt }}
+  </div>
+  
+  <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
+</div>
