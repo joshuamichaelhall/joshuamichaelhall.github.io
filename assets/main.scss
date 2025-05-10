@@ -501,7 +501,7 @@ section h2,
 /* Tech focus items with better separation */
 .tech-focus-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 25px;
   margin-top: 30px;
   
@@ -1393,4 +1393,74 @@ input:focus, textarea:focus, select:focus {
     padding: 0.25rem;
     font-size: 1rem;
   }
+}
+
+.hero-content h1 {
+  font-size: 3.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.section-description {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 30px;
+  color: var(--text-secondary);
+}
+
+/* Page title styling */
+.post h1:first-child,
+.page-content > h1:first-child {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: var(--primary-color);
+}
+
+/* Section headings */
+.content-section h2 {
+  font-size: 1.75rem;
+}
+
+.project-details {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.project-image {
+  flex: 0 0 120px;
+}
+
+.project-image img {
+  max-width: 120px;
+  height: auto;
+  border-radius: 6px;
+  border: 1px solid var(--border-color);
+}
+
+.project-description {
+  flex: 1;
+}
+
+/* Responsive adjustment */
+@media (max-width: 640px) {
+  .project-details {
+    flex-direction: column;
+  }
+  
+  .project-image {
+    margin-bottom: 15px;
+  }
+}
+
+.page-intro {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  max-width: 900px;
+  margin: 0 auto 40px;
+  text-align: center;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 30px;
 }

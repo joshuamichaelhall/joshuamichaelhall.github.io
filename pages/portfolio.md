@@ -10,7 +10,10 @@ This portfolio showcases my DevOps/SRE projects, focusing on infrastructure auto
 
 <div class="content-section with-divider">
   <h2>Featured Projects</h2>
-  
+  <p class="page-intro">
+    This portfolio showcases enterprise-ready DevOps projects focused on infrastructure automation, security compliance, and containerization for financial services environments. Each implementation demonstrates industry best practices and production-grade architecture.
+  </p>
+
   <div class="featured-projects">
     <div class="project-card featured with-divider">
       <h2>Infrastructure as Code for Multi-Environment Deployment</h2>

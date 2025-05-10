@@ -8,6 +8,10 @@ permalink: /blog/
 
 I write about DevOps practices, infrastructure automation, containerization, and platform engineering for financial services.
 
+<p class="page-intro">
+  Technical insights and practical guides on DevOps engineering, infrastructure automation, and cloud security with a focus on financial services requirements. These articles demonstrate both technical expertise and understanding of compliance considerations.
+</p>
+
 <div class="featured-article with-divider">
   <h2>Terminal-Based Development with Neovim, tmux, and CLI Tools</h2>
   <p class="post-date">March 23, 2025</p>

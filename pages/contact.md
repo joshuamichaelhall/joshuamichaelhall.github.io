@@ -10,6 +10,10 @@ I'm interested in discussing DevOps/SRE opportunities, technical challenges, or 
 
 <div class="content-section with-divider">
   <h2>Get in Touch</h2>
+  <p class="page-intro">
+    I'm currently seeking DevOps/SRE opportunities in the financial services sector where I can leverage my infrastructure automation and containerization expertise. I'm also open to collaboration on technical content, open-source projects, and knowledge sharing.
+  </p>
+
   <ul class="contact-info">
     <li><strong>Email</strong>: <a href="mailto:contact@joshuamichaelhall.com">contact@joshuamichaelhall.com</a></li>
     <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/joshuamichaelhall">joshuamichaelhall</a></li>
@@ -49,7 +53,6 @@ I'm interested in discussing DevOps/SRE opportunities, technical challenges, or 
         <button type="submit" class="submit-button">Send Message</button>
       </form>
     </div>
-  </div>
 </div>
 
 <div class="content-section with-divider">
