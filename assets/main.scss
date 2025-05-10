@@ -15,11 +15,13 @@ pre[class*="language-"] {
   margin: 1.5em 0;
   border-radius: 4px;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  text-shadow: none !important; /* Remove text shadow for better readability */
 }
 
 code[class*="language-"] {
   font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
   font-size: 0.9em;
+  text-shadow: none !important; /* Remove text shadow for better readability */
 }
 
 /* Theme customization - matches your site's color scheme */
@@ -502,6 +504,8 @@ section h2,
   position: relative;
   padding-left: 120px;
   margin-bottom: 50px;
+  max-width: 100%; /* Ensure it doesn't exceed container width */
+  overflow-x: hidden; /* Prevent horizontal overflow */
 
   /* Add visible connecting line between timeline items */
   &:before {
@@ -538,6 +542,9 @@ section h2,
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     border: 1px solid var(--border-color);
+    max-width: 100%; /* Ensure it doesn't exceed container width */
+    box-sizing: border-box; /* Include padding and border in the width calculation */
+    overflow-x: hidden; /* Prevent horizontal overflow */
 
     h3 {
       margin-top: 0;
@@ -975,16 +982,26 @@ body {
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-  .home-section, 
-  section, 
+  .home-section,
+  section,
   .content-section,
-  .featured-article, 
-  .upcoming-articles, 
-  .blog-list, 
+  .featured-article,
+  .upcoming-articles,
+  .blog-list,
   .featured-projects,
   .hero-section {
     padding: 30px 20px;
     margin-bottom: 60px;
+    width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+  }
+
+  /* Fix horizontal overflow on skills and certifications */
+  #career-vision .skills-list,
+  #career-vision .certifications-grid {
+    max-width: 100%;
+    overflow-x: hidden;
   }
   
   .with-divider:after,
@@ -1937,8 +1954,8 @@ input:focus, textarea:focus, select:focus {
 .site-nav .page-link {
   color: var(--primary-color); /* Change to primary color for better contrast */
   opacity: 1; /* Full opacity for better visibility */
-  font-weight: 600; /* Increase font weight for better visibility */
-  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.5); /* Add subtle text shadow for better contrast */
+  font-weight: 700; /* Increased font weight for better visibility */
+  /* Remove the text shadow that's causing readability issues */
 }
 
 .footer-links li a,
@@ -2772,10 +2789,12 @@ optgroup {
   margin-bottom: 40px;
   padding-bottom: 40px;
   border-bottom: 1px solid var(--border-color);
+  align-items: flex-start; /* Align to the top */
 }
 
 .profile-image {
   flex: 0 0 220px;
+  margin-bottom: 0; /* Remove bottom margin */
 }
 
 .profile-image img {
@@ -2940,10 +2959,11 @@ optgroup {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    padding-bottom: 20px; /* Reduced padding for mobile */
   }
-  
+
   .profile-image {
-    margin-bottom: 20px;
+    margin-bottom: 10px; /* Reduced bottom margin */
   }
   
   .expertise-grid,

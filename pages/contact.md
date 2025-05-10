@@ -35,19 +35,19 @@ permalink: /contact/
 
 <div class="content-section with-divider">
   <h2>Professional Services</h2>
-
+  
   <div class="services-tabs">
     <div class="tab-headers">
       <button class="tab-button active" data-tab="coaching">Career Coaching</button>
       <button class="tab-button" data-tab="web">Web Development</button>
       <button class="tab-button" data-tab="infra">Infrastructure</button>
     </div>
-
+    
     <div class="tab-content active" id="coaching-tab">
       <div class="services-box">
         <h3>Career Coaching for Technical Professionals</h3>
         <p>I offer personalized career coaching for technologists looking to advance in DevOps, SRE, and cloud engineering roles. My coaching focuses on practical skill development, certification planning, and career positioning strategies specifically for infrastructure and platform engineering careers.</p>
-
+        
         <h4>Coaching Areas:</h4>
         <ul class="coaching-areas">
           <li><strong>Technical Roadmapping</strong> - Customized learning paths for DevOps/cloud careers</li>
@@ -57,12 +57,12 @@ permalink: /contact/
         </ul>
       </div>
     </div>
-
+    
     <div class="tab-content" id="web-tab">
       <div class="services-box">
         <h3>Web Development Services</h3>
         <p>I build professional websites for technical professionals and small businesses with a focus on performance, clean design, and modern development practices. My web development approach emphasizes security, maintainability, and technical excellence.</p>
-
+        
         <h4>Development Services:</h4>
         <ul class="service-areas">
           <li><strong>Professional Portfolio Sites</strong> - Custom-built portfolio websites for technical professionals</li>
@@ -72,12 +72,12 @@ permalink: /contact/
         </ul>
       </div>
     </div>
-
+    
     <div class="tab-content" id="infra-tab">
       <div class="services-box">
         <h3>Infrastructure & Hosting Services</h3>
         <p>I provide secure, reliable hosting and infrastructure services specifically designed for technical professionals who need specialized configurations or enhanced security. My infrastructure services focus on applying DevOps best practices to small business needs.</p>
-
+        
         <h4>Infrastructure Services:</h4>
         <ul class="service-areas">
           <li><strong>Secure Email Hosting</strong> - Private email services with enhanced security controls</li>
@@ -87,7 +87,7 @@ permalink: /contact/
         </ul>
       </div>
     </div>
-
+    
     <p class="services-cta">Interested in my professional services? <a href="#contact-form">Contact me</a> to discuss your specific needs.</p>
   </div>
 </div>
@@ -110,7 +110,7 @@ permalink: /contact/
   <h2>Send a Message</h2>
 
   <div class="contact-form-container" id="contact-form">
-    <form action="https://formspree.io/f/mvgaqjak" method="POST" class="contact-form" id="contactForm" onsubmit="return validateForm(event)">
+    <form action="https://formspree.io/f/mvgaqjak" method="POST" class="contact-form" id="contactForm">
       <div class="form-group">
         <label for="name">Name</label>
         <input type="text" name="name" id="name" placeholder="Your name" required>
@@ -118,7 +118,7 @@ permalink: /contact/
 
       <div class="form-group">
         <label for="email">Email</label>
-        <input type="email" name="_replyto" id="email" placeholder="your.email@example.com" required>
+        <input type="email" name="email" id="email" placeholder="your.email@example.com" required>
       </div>
 
       <!-- This is a honeypot field to prevent spam -->
@@ -127,11 +127,8 @@ permalink: /contact/
       <!-- Redirect after submission -->
       <input type="hidden" name="_next" value="https://joshuamichaelhall.github.io/thanks.html">
 
-      <!-- Error page redirect -->
-      <input type="hidden" name="_error" value="https://joshuamichaelhall.github.io/form-error.html">
-
       <!-- Custom subject line format -->
-      <input type="hidden" name="_subject" value="Website Contact: [Subject]" id="subjectLine">
+      <input type="hidden" name="_subject" value="Website Contact Form Submission">
 
       <div class="form-group full-width">
         <label for="subject">Subject</label>
@@ -159,10 +156,6 @@ permalink: /contact/
 
       <button type="submit" class="submit-button">Send Message</button>
     </form>
-
-    <div id="formError" class="form-error" style="display: none;">
-      <p>There was a problem submitting the form. Please try again or <a href="mailto:contact@joshuamichaelhall.com">email me directly</a>.</p>
-    </div>
   </div>
 
   <div class="note">
@@ -171,68 +164,6 @@ permalink: /contact/
 </div>
 
 <script>
-  // Form validation function
-  function validateForm(event) {
-    try {
-      // Hide error message if it was shown previously
-      document.getElementById('formError').style.display = 'none';
-
-      const form = document.getElementById('contactForm');
-      const name = document.getElementById('name').value.trim();
-      const email = document.getElementById('email').value.trim();
-      const subject = document.getElementById('subject').value;
-      const message = document.getElementById('message').value.trim();
-
-      // Basic validation
-      if (!name || !email || !subject || !message) {
-        alert('Please fill out all required fields.');
-        return false;
-      }
-
-      // Email validation
-      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-      if (!emailRegex.test(email)) {
-        alert('Please enter a valid email address.');
-        return false;
-      }
-
-      // Set a cookie to track submission attempt
-      document.cookie = "formSubmitAttempt=true; path=/; max-age=3600";
-
-      // Add submission event handler for AJAX submission
-      form.addEventListener('submit', function(e) {
-        e.preventDefault();
-        const formData = new FormData(form);
-
-        fetch(form.action, {
-          method: form.method,
-          body: formData,
-          headers: {
-            'Accept': 'application/json'
-          }
-        })
-        .then(response => {
-          if (response.ok) {
-            window.location.href = "/thanks.html";
-          } else {
-            document.getElementById('formError').style.display = 'block';
-            throw new Error('Form submission failed');
-          }
-        })
-        .catch(error => {
-          console.error('Error:', error);
-          document.getElementById('formError').style.display = 'block';
-        });
-      }, { once: true });
-
-      return false; // Prevent default form submission as we're using fetch
-    } catch (error) {
-      console.error("Form validation error:", error);
-      document.getElementById('formError').style.display = 'block';
-      return false;
-    }
-  }
-
   document.addEventListener('DOMContentLoaded', function() {
     // Service tabs functionality
     const tabButtons = document.querySelectorAll('.tab-button');
@@ -253,17 +184,6 @@ permalink: /contact/
       });
     });
 
-    // Subject line customization
-    const subjectSelect = document.getElementById('subject');
-    const subjectLine = document.getElementById('subjectLine');
-
-    if(subjectSelect && subjectLine) {
-      // Update the subject line when the dropdown changes
-      subjectSelect.addEventListener('change', function() {
-        subjectLine.value = `Website Contact: ${this.value}`;
-      });
-    }
-
     // Add Service option to dropdown if selected from URL hash
     const hash = window.location.hash;
     if(hash && hash.includes('service-')) {
@@ -282,6 +202,7 @@ permalink: /contact/
       }
 
       // Set the subject dropdown to the appropriate service
+      const subjectSelect = document.getElementById('subject');
       if(subjectSelect) {
         if(service === 'web') {
           subjectSelect.value = 'Web Development';
@@ -290,10 +211,6 @@ permalink: /contact/
         } else if(service === 'coaching') {
           subjectSelect.value = 'Career Coaching';
         }
-
-        // Trigger the change event to update the hidden subject line
-        const event = new Event('change');
-        subjectSelect.dispatchEvent(event);
       }
     }
   });
