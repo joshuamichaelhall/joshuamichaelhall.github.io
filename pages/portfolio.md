@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 <div class="content-section with-divider">
   <h2>Featured Projects</h2>
-  <p>This portfolio showcases enterprise-ready DevOps projects focused on infrastructure automation, security compliance, and containerization for financial services environments. Each implementation demonstrates industry best practices and production-grade architecture.</p>
+  <p class="section-intro-text">This portfolio showcases enterprise-ready DevOps projects focused on infrastructure automation, security compliance, and containerization for financial services environments. Each implementation demonstrates industry best practices and production-grade architecture.</p>
 
   <div class="project-card featured">
     <h2>Infrastructure as Code for Multi-Environment Deployment</h2>
@@ -49,7 +49,8 @@ permalink: /portfolio/
 
 <div class="content-section">
   <h2>All Projects</h2>
-  
+  <p class="section-intro-text">Browse my complete portfolio of DevOps and infrastructure automation projects, organized by technology category.</p>
+
   <div class="project-filter">
     <button class="filter-btn active" data-category="all">All</button>
     <button class="filter-btn" data-category="infrastructure">Infrastructure</button>

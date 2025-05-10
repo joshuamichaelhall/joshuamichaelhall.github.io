@@ -144,17 +144,17 @@ section .home-section:after,
 }
 
 /* Section headers with improved visual cues */
-.home-section h2, 
-section h2, 
+.home-section h2,
+section h2,
 .content-section h2,
 .page-content h2 {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 20px; /* Reduced to make room for the section intro text */
   font-size: 2rem;
   position: relative;
   font-weight: 700;
   color: #0366d6;
-  
+
   &:after {
     content: "";
     display: block;
@@ -172,7 +172,7 @@ section h2,
   border: 1px solid var(--border-color);
   border-radius: 12px;
   padding: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 0; /* Remove bottom margin since we're using gap in container */
   transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.06);
   position: relative;
@@ -201,8 +201,12 @@ section h2,
       opacity: 1 !important;
     }
 
-    h3 {
+    h3, h3 a {
       color: var(--primary-color);
+    }
+
+    .read-more {
+      text-decoration: underline;
     }
   }
 
@@ -418,23 +422,28 @@ section h2,
   .read-more {
     display: inline-block;
     color: var(--primary-color);
-    margin-top: 5px;
+    margin-top: 15px;
     font-weight: 600;
     position: relative;
     z-index: 1;
+    padding: 5px 0;
+    transition: all 0.3s ease;
 
     &:after {
       content: "→";
       margin-left: 5px;
       transition: transform 0.2s ease;
       display: inline-block;
+      position: relative;
+      top: 0;
     }
 
     &:hover {
       text-decoration: none;
+      color: var(--secondary-color);
 
       &:after {
-        transform: translateX(3px);
+        transform: translateX(5px);
       }
     }
   }
@@ -1279,6 +1288,28 @@ pre, code {
 }
 
 /* Add this to your assets/main.scss after the existing content */
+
+/* Section introduction text styling */
+.section-intro-text {
+  margin-bottom: 30px;
+  text-align: left;
+  color: var(--text-color);
+  line-height: 1.6;
+  font-size: 1.1rem;
+  max-width: 100%;
+  padding: 0 10px;
+}
+
+/* Projects and articles container - no box styling */
+.projects-container,
+.articles-container,
+.projects-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  margin-top: 20px;
+  width: 100%;
+}
 
 :root {
   /* Light theme variables */

@@ -4,15 +4,23 @@ document.addEventListener('DOMContentLoaded', function() {
     .then(response => response.json())
     .then(data => {
       const container = document.getElementById('devto-articles');
+
+      // Add description text about articles directly under the heading
+      const description = document.createElement('p');
+      description.className = 'section-intro-text';
+      description.textContent = 'Technical insights and tutorials on infrastructure automation, containerization, and DevOps practices for modern applications.';
+      container.appendChild(description);
+
       const articles = data.slice(0, 5); // Show top 5 articles
-      
-      // Clear only the articles container
-      container.innerHTML = '';
-      
+
       if (articles.length === 0) {
-        container.innerHTML = '<p>No articles available at this time.</p>';
+        container.innerHTML = '<p class="section-intro-text">Technical insights and tutorials on infrastructure automation, containerization, and DevOps practices for modern applications.</p><p>No articles available at this time.</p>';
         return;
       }
+
+      // Create a container for article cards
+      const articlesContainer = document.createElement('div');
+      articlesContainer.className = 'articles-container';
       
       articles.forEach(article => {
         const articleDiv = document.createElement('div');
@@ -22,8 +30,11 @@ document.addEventListener('DOMContentLoaded', function() {
           <p>${article.description}</p>
           <p>Published: ${new Date(article.published_at).toLocaleDateString()}</p>
         `;
-        container.appendChild(articleDiv);
+        articlesContainer.appendChild(articleDiv);
       });
+
+      // Add the articles container to the main container
+      container.appendChild(articlesContainer);
     })
     .catch(error => {
       console.error('Error fetching Dev.to articles:', error);
