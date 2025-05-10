@@ -70,39 +70,82 @@ code[class*="language-"] {
 /* Enhanced section separation and visual hierarchy */
 
 /* Global section styling with explicit dividers */
-.home-section, section {
+.home-section, 
+section, 
+.content-section,
+.featured-article,
+.upcoming-articles,
+.blog-list,
+.featured-projects,
+.hero-section {
+  position: relative;
   margin-bottom: 80px;
   padding: 40px;
   background-color: #fff;
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
   border: 1px solid #e1e4e8;
-  position: relative;
-  
-  /* Adding explicit divider that will render in all browsers */
-  &:after {
-    content: "";
-    position: absolute;
-    bottom: -30px;
-    left: 10%;
-    width: 80%;
-    height: 1px;
-    background: linear-gradient(90deg, 
-      rgba(225, 228, 232, 0),
-      rgba(225, 228, 232, 1) 20%,
-      rgba(225, 228, 232, 1) 80%,
-      rgba(225, 228, 232, 0)
-    );
-  }
-  
-  /* Remove divider from last section */
-  &:last-of-type:after {
-    display: none;
-  }
+}
+
+/* Universal section divider for various content blocks */
+.with-divider:after,
+.home-section:not(:last-child):after,
+section:not(:last-child):after,
+.content-section:not(:last-child):after,
+.featured-article:not(:last-child):after,
+.blog-list:not(:last-child):after,
+.upcoming-articles:not(:last-child):after,
+.featured-projects:not(:last-child):after,
+.hero-section:not(:last-child):after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: -40px;
+  left: 10%;
+  width: 80%;
+  height: 1px;
+  background: #e1e4e8;
+  background: linear-gradient(90deg, 
+    rgba(225, 228, 232, 0) 0%,
+    rgba(225, 228, 232, 1) 20%,
+    rgba(225, 228, 232, 1) 80%,
+    rgba(225, 228, 232, 0) 100%
+  );
+  z-index: 1;
+}
+
+/* Last items should not have dividers */
+.no-divider:after,
+.home-section:last-child:after,
+section:last-child:after,
+.content-section:last-child:after,
+.featured-article:last-child:after,
+.blog-list:last-child:after,
+.upcoming-articles:last-child:after,
+.featured-projects:last-child:after,
+.hero-section:last-child:after,
+.project-card:last-child:after,
+.blog-post-preview:last-child:after,
+.skills-category:last-child:after {
+  display: none !important;
+}
+
+/* Fix for nested sections that should not have dividers */
+.home-section .home-section:after,
+section section:after,
+.content-section .content-section:after,
+.home-section section:after,
+section .home-section:after,
+.content-section .home-section:after,
+.home-section .content-section:after {
+  display: none !important;
 }
 
 /* Section headers with improved visual cues */
-.home-section h2, section h2, .page-content h2 {
+.home-section h2, 
+section h2, 
+.content-section h2,
+.page-content h2 {
   text-align: center;
   margin-bottom: 40px;
   font-size: 2rem;
@@ -130,6 +173,7 @@ code[class*="language-"] {
   margin-bottom: 25px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  position: relative;
   
   &:hover {
     transform: translateY(-5px);
@@ -161,6 +205,22 @@ code[class*="language-"] {
     padding-top: 15px;
     border-top: 1px solid #e1e4e8;
   }
+}
+
+/* Add divider after each project card except the last */
+.project-card.with-divider:after {
+  content: "";
+  position: absolute;
+  bottom: -20px;
+  left: 10%;
+  width: 80%;
+  height: 1px;
+  background: linear-gradient(90deg, 
+    rgba(225, 228, 232, 0),
+    rgba(225, 228, 232, 1) 20%,
+    rgba(225, 228, 232, 1) 80%,
+    rgba(225, 228, 232, 0)
+  );
 }
 
 /* Blog post previews with better separation and explicit dividers */
@@ -224,6 +284,35 @@ code[class*="language-"] {
   .post-categories, .post-tags {
     margin-bottom: 15px;
   }
+}
+
+/* Skills section with better visual separation */
+.skills-category, 
+.skill-category {
+  margin-bottom: 50px;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  border: 1px solid #e1e4e8;
+  position: relative;
+}
+
+/* Add divider after each skills category with the with-divider class */
+.skills-category.with-divider:after,
+.skill-category.with-divider:after {
+  content: "";
+  position: absolute;
+  bottom: -25px;
+  left: 10%;
+  width: 80%;
+  height: 1px;
+  background: linear-gradient(90deg, 
+    rgba(225, 228, 232, 0),
+    rgba(225, 228, 232, 1) 20%,
+    rgba(225, 228, 232, 1) 80%,
+    rgba(225, 228, 232, 0)
+  );
 }
 
 /* Timeline items with enhanced visual separation and connecting lines */
@@ -372,54 +461,7 @@ code[class*="language-"] {
   }
 }
 
-/* Skills section with better visual separation */
-.skills-category {
-  margin-bottom: 50px;
-  padding: 30px;
-  border-radius: 10px;
-  background-color: #fff;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
-  border: 1px solid #e1e4e8;
-  position: relative;
-  
-  /* Explicit divider after each category */
-  &:not(:last-child):after {
-    content: "";
-    position: absolute;
-    bottom: -25px;
-    left: 10%;
-    width: 80%;
-    height: 1px;
-    background: linear-gradient(90deg, 
-      rgba(225, 228, 232, 0),
-      rgba(225, 228, 232, 1) 20%,
-      rgba(225, 228, 232, 1) 80%,
-      rgba(225, 228, 232, 0)
-    );
-  }
-  
-  h3 {
-    margin-top: 0;
-    margin-bottom: 25px;
-    position: relative;
-    padding-bottom: 15px;
-    font-weight: 700;
-    font-size: 1.6rem;
-    color: #24292e;
-    
-    &:after {
-      content: "";
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      width: 60px;
-      height: 4px;
-      background: linear-gradient(90deg, #0366d6, #6f42c1);
-      border-radius: 2px;
-    }
-  }
-}
-
+/* Skills grid with better visual separation */
 .skills-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -628,13 +670,23 @@ body {
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-  .home-section, section {
+  .home-section, 
+  section, 
+  .content-section,
+  .featured-article, 
+  .upcoming-articles, 
+  .blog-list, 
+  .featured-projects,
+  .hero-section {
     padding: 30px 20px;
-    margin-bottom: 40px;
-    
-    &:after {
-      bottom: -20px;
-    }
+    margin-bottom: 60px;
+  }
+  
+  .with-divider:after,
+  .home-section:not(:last-child):after,
+  section:not(:last-child):after,
+  .content-section:not(:last-child):after {
+    bottom: -30px;
   }
   
   .footer-col-wrapper {
@@ -662,9 +714,23 @@ body {
 }
 
 @media (max-width: 480px) {
-  .home-section, section {
+  .home-section, 
+  section, 
+  .content-section,
+  .featured-article, 
+  .upcoming-articles, 
+  .blog-list, 
+  .featured-projects,
+  .hero-section {
     padding: 25px 15px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
+  }
+  
+  .with-divider:after,
+  .home-section:not(:last-child):after,
+  section:not(:last-child):after,
+  .content-section:not(:last-child):after {
+    bottom: -20px;
   }
   
   .tech-focus-grid {
@@ -673,131 +739,5 @@ body {
   
   .skills-grid {
     grid-template-columns: 1fr;
-  }
-}
-
-/* Updated section divider styles */
-
-/* Target all section-like elements across the site */
-.home-section, 
-section, 
-.section,
-.blog-section,
-.skills-category,
-.project-card,
-.blog-post-preview {
-  position: relative;
-  margin-bottom: 80px;
-  padding: 40px;
-  background-color: #fff;
-  border-radius: 12px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
-  border: 1px solid #e1e4e8;
-}
-
-/* Universal section divider that will work across browsers */
-.home-section:not(:last-child):after,
-section:not(:last-child):after,
-.section:not(:last-child):after,
-.skills-category:not(:last-child):after,
-.home-section:not(:last-of-type):after,
-section:not(:last-of-type):after,
-.section:not(:last-of-type):after,
-.skills-category:not(:last-of-type):after {
-  content: "";
-  display: block;
-  position: absolute;
-  bottom: -40px;
-  left: 10%;
-  width: 80%;
-  height: 1px;
-  background: #e1e4e8;
-  background: linear-gradient(90deg, 
-    rgba(225, 228, 232, 0) 0%,
-    rgba(225, 228, 232, 1) 20%,
-    rgba(225, 228, 232, 1) 80%,
-    rgba(225, 228, 232, 0) 100%
-  );
-  z-index: 1;
-}
-
-/* Ensure the last section in any container doesn't have a divider */
-.home-section:last-child:after,
-section:last-child:after,
-.section:last-child:after,
-.skills-category:last-child:after,
-.project-card:last-child:after,
-.blog-post-preview:last-child:after {
-  display: none;
-}
-
-/* Additional class that can be manually added to force a divider */
-.with-divider {
-  position: relative;
-}
-
-.with-divider:after {
-  content: "";
-  display: block;
-  position: absolute;
-  bottom: -40px;
-  left: 10%;
-  width: 80%;
-  height: 1px;
-  background: #e1e4e8;
-  background: linear-gradient(90deg, 
-    rgba(225, 228, 232, 0) 0%,
-    rgba(225, 228, 232, 1) 20%,
-    rgba(225, 228, 232, 1) 80%,
-    rgba(225, 228, 232, 0) 100%
-  );
-  z-index: 1;
-}
-
-/* Class to remove divider when needed */
-.no-divider:after {
-  display: none !important;
-}
-
-/* Media query for mobile responsiveness */
-@media (max-width: 768px) {
-  .home-section, 
-  section, 
-  .section,
-  .blog-section,
-  .skills-category,
-  .project-card,
-  .blog-post-preview {
-    margin-bottom: 60px;
-    padding: 30px 20px;
-  }
-  
-  .home-section:not(:last-child):after,
-  section:not(:last-child):after,
-  .section:not(:last-child):after,
-  .skills-category:not(:last-child):after,
-  .with-divider:after {
-    bottom: -30px;
-  }
-}
-
-@media (max-width: 480px) {
-  .home-section, 
-  section, 
-  .section,
-  .blog-section,
-  .skills-category,
-  .project-card,
-  .blog-post-preview {
-    margin-bottom: 40px;
-    padding: 25px 15px;
-  }
-  
-  .home-section:not(:last-child):after,
-  section:not(:last-child):after,
-  .section:not(:last-child):after,
-  .skills-category:not(:last-child):after,
-  .with-divider:after {
-    bottom: -20px;
   }
 }

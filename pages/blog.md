@@ -8,49 +8,50 @@ permalink: /blog/
 
 I write about DevOps practices, infrastructure automation, containerization, and platform engineering for financial services.
 
-## Featured Articles
-
-<div class="featured-article">
+<div class="featured-article with-divider">
   <h2>Terminal-Based Development with Neovim, tmux, and CLI Tools</h2>
   <p class="post-date">March 23, 2025</p>
   <p>A detailed look at my terminal-based development environment and how it enhances productivity for DevOps engineering tasks, including infrastructure management, containerization, and cloud operations.</p>
   <a href="/blog/2025/03/23/terminal-based-development-environment/" class="btn outlined-btn">Read Article</a>
 </div>
 
-## Local Articles
-
-<div class="blog-list">
-  {% for post in site.posts %}
-    {% include blog-post-preview.html post=post %}
-  {% endfor %}
-</div>
-
-## Upcoming Articles
-
-<div class="upcoming-articles">
-  <div class="upcoming-article">
-    <h3>Infrastructure as Code Best Practices for Financial Services</h3>
-    <p>A comprehensive guide to implementing secure, compliant infrastructure using Terraform and AWS services for financial applications.</p>
-    <p class="coming-soon">Coming Soon</p>
-  </div>
-  
-  <div class="upcoming-article">
-    <h3>Kubernetes Security for Regulated Environments</h3>
-    <p>Deep dive into implementing secure Kubernetes deployments that meet financial services compliance requirements.</p>
-    <p class="coming-soon">Coming Soon</p>
-  </div>
-  
-  <div class="upcoming-article">
-    <h3>CI/CD Pipeline Security: Protecting the Deployment Process</h3>
-    <p>Strategies for securing the entire CI/CD pipeline from development to production deployment.</p>
-    <p class="coming-soon">Coming Soon</p>
+<div class="content-section with-divider">
+  <h2>Local Articles</h2>
+  <div class="blog-list">
+    {% for post in site.posts %}
+      {% include blog-post-preview.html post=post %}
+    {% endfor %}
   </div>
 </div>
 
-## Dev.to Articles
+<div class="content-section with-divider">
+  <h2>Upcoming Articles</h2>
+  <div class="upcoming-articles">
+    <div class="upcoming-article">
+      <h3>Infrastructure as Code Best Practices for Financial Services</h3>
+      <p>A comprehensive guide to implementing secure, compliant infrastructure using Terraform and AWS services for financial applications.</p>
+      <p class="coming-soon">Coming Soon</p>
+    </div>
+    
+    <div class="upcoming-article">
+      <h3>Kubernetes Security for Regulated Environments</h3>
+      <p>Deep dive into implementing secure Kubernetes deployments that meet financial services compliance requirements.</p>
+      <p class="coming-soon">Coming Soon</p>
+    </div>
+    
+    <div class="upcoming-article">
+      <h3>CI/CD Pipeline Security: Protecting the Deployment Process</h3>
+      <p>Strategies for securing the entire CI/CD pipeline from development to production deployment.</p>
+      <p class="coming-soon">Coming Soon</p>
+    </div>
+  </div>
+</div>
 
-<div id="devto-articles" class="blog-list">
-  <p>Loading Dev.to articles...</p>
+<div class="content-section no-divider">
+  <h2>Dev.to Articles</h2>
+  <div id="devto-articles" class="blog-list">
+    <p>Loading Dev.to articles...</p>
+  </div>
 </div>
 
 <script>
@@ -68,9 +69,9 @@ I write about DevOps practices, infrastructure automation, containerization, and
         }
         
         // Display articles
-        data.forEach(article => {
+        data.forEach((article, index) => {
           const articleDiv = document.createElement('div');
-          articleDiv.className = 'blog-post-preview';
+          articleDiv.className = 'blog-post-preview' + (index === data.length - 1 ? ' no-divider' : '');
           articleDiv.innerHTML = `
             <h2><a href="${article.url}" target="_blank">${article.title}</a></h2>
             <p class="post-date">${new Date(article.published_at).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
@@ -92,52 +93,3 @@ I write about DevOps practices, infrastructure automation, containerization, and
       });
   });
 </script>
-
-<style>
-  .featured-article {
-    background-color: #f6f8fa;
-    padding: 30px;
-    border-radius: 8px;
-    margin-bottom: 40px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  }
-  
-  .featured-article h2 {
-    margin-top: 0;
-    color: #0366d6;
-  }
-  
-  .featured-article .post-date {
-    color: #586069;
-    margin-bottom: 15px;
-  }
-  
-  .upcoming-articles {
-    margin-top: 40px;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
-  }
-  
-  .upcoming-article {
-    background-color: #f6f8fa;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  }
-  
-  .upcoming-article h3 {
-    margin-top: 0;
-    color: #24292e;
-  }
-  
-  .coming-soon {
-    display: inline-block;
-    background-color: #0366d6;
-    color: white;
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-size: 0.8rem;
-    margin-top: 10px;
-  }
-</style>

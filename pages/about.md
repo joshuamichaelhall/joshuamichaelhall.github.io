@@ -8,85 +8,123 @@ permalink: /about/
 
 I'm a software engineer transitioning to a DevOps/SRE career path, focused on building reliable, secure infrastructure for financial services. My approach centers on mastery of fundamentals and deliberate skill development.
 
-## Professional Background
+<div class="content-section with-divider">
+  <h2>Professional Background</h2>
+  <p>I'm currently focused on building a comprehensive skill set in DevOps and Site Reliability Engineering:</p>
+  <ul>
+    <li>Developing expertise in AWS cloud infrastructure</li>
+    <li>Mastering Infrastructure as Code with Terraform</li>
+    <li>Building containerization skills with Docker and Kubernetes</li>
+    <li>Implementing CI/CD pipelines with GitHub Actions</li>
+    <li>Former IT company founder with experience building systems for 40+ businesses</li>
+  </ul>
+</div>
 
-I'm currently focused on building a comprehensive skill set in DevOps and Site Reliability Engineering:
+<div class="content-section with-divider">
+  <h2>Technical Environment</h2>
+  <p>My development workflow is centered around terminal-based tools that maximize productivity and minimize context-switching:</p>
+  <ul>
+    <li><strong>macOS</strong> as primary operating system</li>
+    <li><strong>Neovim</strong> as primary text editor/IDE</li>
+    <li><strong>tmux</strong> for terminal multiplexing and session management</li>
+    <li><strong>Command-line tools</strong> for infrastructure management and automation</li>
+    <li><strong>Shell scripting</strong> for automation and workflow optimization</li>
+    <li><strong>Git</strong> for version control and documentation</li>
+  </ul>
+</div>
 
-- Developing expertise in AWS cloud infrastructure
-- Mastering Infrastructure as Code with Terraform
-- Building containerization skills with Docker and Kubernetes
-- Implementing CI/CD pipelines with GitHub Actions
-- Former IT company founder with experience building systems for 40+ businesses
+<div class="content-section with-divider">
+  <h2>Skills</h2>
+  
+  <div class="skill-category with-divider">
+    <h3>Infrastructure & Cloud</h3>
+    <ul>
+      <li><strong>AWS</strong>: EC2, VPC, S3, IAM, RDS, CloudFormation</li>
+      <li><strong>Terraform</strong>: Infrastructure as Code, state management, modules</li>
+      <li><strong>Docker</strong>: Containerization, image optimization, multi-stage builds</li>
+      <li><strong>Kubernetes</strong>: Deployments, services, RBAC, monitoring</li>
+      <li><strong>CI/CD</strong>: GitHub Actions, Jenkins, automated testing</li>
+    </ul>
+  </div>
 
-## Technical Environment
+  <div class="skill-category with-divider">
+    <h3>Security & Monitoring</h3>
+    <ul>
+      <li><strong>Cloud Security</strong>: IAM, security groups, network ACLs</li>
+      <li><strong>Compliance</strong>: Financial services regulatory requirements</li>
+      <li><strong>Monitoring</strong>: Prometheus, Grafana, alerting</li>
+      <li><strong>Logging</strong>: ELK stack, log aggregation</li>
+    </ul>
+  </div>
 
-My development workflow is centered around terminal-based tools that maximize productivity and minimize context-switching:
+  <div class="skill-category no-divider">
+    <h3>Development</h3>
+    <ul>
+      <li><strong>Languages</strong>: Ruby, Python, Bash/Shell Scripting</li>
+      <li><strong>Version Control</strong>: Git, GitHub</li>
+      <li><strong>Testing</strong>: Automated infrastructure testing, integration testing</li>
+    </ul>
+  </div>
+</div>
 
-- **macOS** as primary operating system
-- **Neovim** as primary text editor/IDE
-- **tmux** for terminal multiplexing and session management
-- **Command-line tools** for infrastructure management and automation
-- **Shell scripting** for automation and workflow optimization
-- **Git** for version control and documentation
+<div class="content-section with-divider">
+  <h2>Career Path</h2>
+  <p>My career development plan follows this trajectory:</p>
 
-## Skills
+  <div class="career-stage">
+    <h3>Foundation Building (Current)</h3>
+    <ul>
+      <li>Master core DevOps skills (AWS, Terraform, Docker, Linux)</li>
+      <li>Build production-grade portfolio projects</li>
+      <li>Earn key certifications (AWS Solutions Architect, Terraform Associate)</li>
+      <li>Develop specialized financial services knowledge</li>
+    </ul>
+  </div>
 
-### Infrastructure & Cloud
-- **AWS**: EC2, VPC, S3, IAM, RDS, CloudFormation
-- **Terraform**: Infrastructure as Code, state management, modules
-- **Docker**: Containerization, image optimization, multi-stage builds
-- **Kubernetes**: Deployments, services, RBAC, monitoring
-- **CI/CD**: GitHub Actions, Jenkins, automated testing
+  <div class="career-stage">
+    <h3>Mid-Level Position (2025-2026)</h3>
+    <ul>
+      <li>Secure mid-level DevOps Engineer role ($110-150K)</li>
+      <li>Apply skills in production environments</li>
+      <li>Expand platform engineering expertise</li>
+      <li>Deepen financial services domain knowledge</li>
+    </ul>
+  </div>
 
-### Security & Monitoring
-- **Cloud Security**: IAM, security groups, network ACLs
-- **Compliance**: Financial services regulatory requirements
-- **Monitoring**: Prometheus, Grafana, alerting
-- **Logging**: ELK stack, log aggregation
+  <div class="career-stage">
+    <h3>Senior Advancement (2027+)</h3>
+    <ul>
+      <li>Progress to senior platform engineering roles</li>
+      <li>Focus on high-availability architecture</li>
+      <li>Specialize in financial compliance automation</li>
+      <li>Target top-tier compensation ($160-200K+)</li>
+    </ul>
+  </div>
+</div>
 
-### Development
-- **Languages**: Ruby, Python, Bash/Shell Scripting
-- **Version Control**: Git, GitHub
-- **Testing**: Automated infrastructure testing, integration testing
+<div class="content-section with-divider">
+  <h2>Learning Philosophy</h2>
+  <p>I believe in:</p>
+  <ul>
+    <li><strong>Mastery-based learning</strong>: Deep understanding over surface-level knowledge</li>
+    <li><strong>Fundamentals first</strong>: Building strong technical foundations</li>
+    <li><strong>Deliberate practice</strong>: Focused effort on specific skills</li>
+    <li><strong>Terminal-centric workflow</strong>: Efficiency and customization</li>
+    <li><strong>Long-term career strategy</strong>: Strategic skill development for high-value specialization</li>
+  </ul>
+</div>
 
-## Career Path
-
-My career development plan follows this trajectory:
-
-### Foundation Building (Current)
-- Master core DevOps skills (AWS, Terraform, Docker, Linux)
-- Build production-grade portfolio projects
-- Earn key certifications (AWS Solutions Architect, Terraform Associate)
-- Develop specialized financial services knowledge
-
-### Mid-Level Position (2025-2026)
-- Secure mid-level DevOps Engineer role ($110-150K)
-- Apply skills in production environments
-- Expand platform engineering expertise
-- Deepen financial services domain knowledge
-
-### Senior Advancement (2027+)
-- Progress to senior platform engineering roles
-- Focus on high-availability architecture
-- Specialize in financial compliance automation
-- Target top-tier compensation ($160-200K+)
-
-## Learning Philosophy
-
-I believe in:
-
-- **Mastery-based learning**: Deep understanding over surface-level knowledge
-- **Fundamentals first**: Building strong technical foundations
-- **Deliberate practice**: Focused effort on specific skills
-- **Terminal-centric workflow**: Efficiency and customization
-- **Long-term career strategy**: Strategic skill development for high-value specialization
-
-## Connect With Me
-
-- [GitHub (Personal)](https://github.com/JoshuaMichaelHall)
-- [GitHub (Organization)](https://github.com/JoshuaMichaelHall-Tech)
-- [LinkedIn](https://linkedin.com/in/joshuamichaelhall)
-- [Dev.to](https://dev.to/joshuamichaelhall)
-- [Medium](https://medium.com/@joshuamichaelhall)
-
-My favorite quote: "Master the basics. Then practice them every day without fail." - John C. Maxwell
+<div class="content-section no-divider">
+  <h2>Connect With Me</h2>
+  <ul class="connect-list">
+    <li><a href="https://github.com/JoshuaMichaelHall">GitHub (Personal)</a></li>
+    <li><a href="https://github.com/JoshuaMichaelHall-Tech">GitHub (Organization)</a></li>
+    <li><a href="https://linkedin.com/in/joshuamichaelhall">LinkedIn</a></li>
+    <li><a href="https://dev.to/joshuamichaelhall">Dev.to</a></li>
+    <li><a href="https://medium.com/@joshuamichaelhall">Medium</a></li>
+  </ul>
+  
+  <div class="quote">
+    <p>My favorite quote: "Master the basics. Then practice them every day without fail." - John C. Maxwell</p>
+  </div>
+</div>
