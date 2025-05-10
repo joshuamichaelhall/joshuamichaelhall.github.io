@@ -675,3 +675,129 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+/* Updated section divider styles */
+
+/* Target all section-like elements across the site */
+.home-section, 
+section, 
+.section,
+.blog-section,
+.skills-category,
+.project-card,
+.blog-post-preview {
+  position: relative;
+  margin-bottom: 80px;
+  padding: 40px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+  border: 1px solid #e1e4e8;
+}
+
+/* Universal section divider that will work across browsers */
+.home-section:not(:last-child):after,
+section:not(:last-child):after,
+.section:not(:last-child):after,
+.skills-category:not(:last-child):after,
+.home-section:not(:last-of-type):after,
+section:not(:last-of-type):after,
+.section:not(:last-of-type):after,
+.skills-category:not(:last-of-type):after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: -40px;
+  left: 10%;
+  width: 80%;
+  height: 1px;
+  background: #e1e4e8;
+  background: linear-gradient(90deg, 
+    rgba(225, 228, 232, 0) 0%,
+    rgba(225, 228, 232, 1) 20%,
+    rgba(225, 228, 232, 1) 80%,
+    rgba(225, 228, 232, 0) 100%
+  );
+  z-index: 1;
+}
+
+/* Ensure the last section in any container doesn't have a divider */
+.home-section:last-child:after,
+section:last-child:after,
+.section:last-child:after,
+.skills-category:last-child:after,
+.project-card:last-child:after,
+.blog-post-preview:last-child:after {
+  display: none;
+}
+
+/* Additional class that can be manually added to force a divider */
+.with-divider {
+  position: relative;
+}
+
+.with-divider:after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: -40px;
+  left: 10%;
+  width: 80%;
+  height: 1px;
+  background: #e1e4e8;
+  background: linear-gradient(90deg, 
+    rgba(225, 228, 232, 0) 0%,
+    rgba(225, 228, 232, 1) 20%,
+    rgba(225, 228, 232, 1) 80%,
+    rgba(225, 228, 232, 0) 100%
+  );
+  z-index: 1;
+}
+
+/* Class to remove divider when needed */
+.no-divider:after {
+  display: none !important;
+}
+
+/* Media query for mobile responsiveness */
+@media (max-width: 768px) {
+  .home-section, 
+  section, 
+  .section,
+  .blog-section,
+  .skills-category,
+  .project-card,
+  .blog-post-preview {
+    margin-bottom: 60px;
+    padding: 30px 20px;
+  }
+  
+  .home-section:not(:last-child):after,
+  section:not(:last-child):after,
+  .section:not(:last-child):after,
+  .skills-category:not(:last-child):after,
+  .with-divider:after {
+    bottom: -30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .home-section, 
+  section, 
+  .section,
+  .blog-section,
+  .skills-category,
+  .project-card,
+  .blog-post-preview {
+    margin-bottom: 40px;
+    padding: 25px 15px;
+  }
+  
+  .home-section:not(:last-child):after,
+  section:not(:last-child):after,
+  .section:not(:last-child):after,
+  .skills-category:not(:last-child):after,
+  .with-divider:after {
+    bottom: -20px;
+  }
+}
