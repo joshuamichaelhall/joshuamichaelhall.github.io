@@ -1,0 +1,174 @@
+---
+layout: page
+title: Form Submission Error
+permalink: /form-error/
+---
+
+<div class="content-section">
+  <div class="error-message">
+    <h1>Sorry, There Was a Problem</h1>
+    <p>It appears there was an issue submitting the contact form. This could be due to a temporary connection issue or service disruption.</p>
+    
+    <div class="direct-contact">
+      <h2>Please Email Me Directly</h2>
+      <p>You can reach me directly at: <a href="mailto:contact@joshuamichaelhall.com">contact@joshuamichaelhall.com</a></p>
+      
+      <div class="email-template">
+        <h3>Suggested Email Format:</h3>
+        <pre><code>Subject: [Your Topic] - Website Contact
+
+Hello Joshua,
+
+I was trying to use the contact form on your website but encountered an issue.
+
+[Your message here]
+
+Thanks,
+[Your Name]</code></pre>
+      </div>
+    </div>
+    
+    <div class="alternative-contact">
+      <h2>Alternative Contact Methods</h2>
+      <ul>
+        <li>Connect on <a href="https://linkedin.com/in/joshuamichaelhall">LinkedIn</a></li>
+        <li>Message through <a href="https://github.com/JoshuaMichaelHall">GitHub</a></li>
+      </ul>
+    </div>
+    
+    <div class="cta-buttons">
+      <a href="/" class="btn primary-btn">Return to Homepage</a>
+      <a href="/contact" class="btn secondary-btn">Try Form Again</a>
+    </div>
+  </div>
+</div>
+
+<style>
+  .error-message {
+    text-align: center;
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .error-message h1 {
+    color: #e63946;
+    margin-bottom: 20px;
+  }
+  
+  .error-message p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+  }
+  
+  .direct-contact {
+    background: linear-gradient(135deg, 
+      rgba(var(--primary-color-rgb), 0.05) 0%, 
+      rgba(var(--secondary-color-rgb), 0.05) 100%);
+    border-radius: 12px;
+    padding: 25px;
+    margin: 30px 0;
+    text-align: center;
+    border: 1px solid rgba(var(--primary-color-rgb), 0.1);
+  }
+  
+  .direct-contact h2 {
+    color: var(--primary-color);
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.4rem;
+  }
+  
+  .direct-contact a {
+    font-weight: 700;
+    color: var(--primary-color);
+  }
+  
+  .email-template {
+    background-color: rgba(var(--bg-color), 0.7);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: left;
+    border: 1px solid var(--border-color);
+  }
+  
+  .email-template h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    color: var(--text-color);
+  }
+  
+  .email-template pre {
+    margin: 0;
+    background-color: var(--bg-color);
+    padding: 15px;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+  }
+  
+  .email-template code {
+    font-family: monospace;
+    font-size: 0.9rem;
+    color: var(--text-color);
+  }
+  
+  .alternative-contact {
+    margin: 30px 0;
+  }
+  
+  .alternative-contact h2 {
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    font-size: 1.4rem;
+  }
+  
+  .alternative-contact ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  
+  .alternative-contact li {
+    margin-bottom: 10px;
+  }
+  
+  .alternative-contact a {
+    color: var(--primary-color);
+    font-weight: 600;
+  }
+  
+  .cta-buttons {
+    margin-top: 40px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .cta-buttons .btn {
+    padding: 12px 25px;
+  }
+  
+  @media (max-width: 768px) {
+    .cta-buttons {
+      flex-direction: column;
+      gap: 15px;
+    }
+    
+    .error-message {
+      padding: 30px 15px;
+    }
+    
+    .alternative-contact ul {
+      flex-direction: column;
+      gap: 10px;
+    }
+  }
+</style>

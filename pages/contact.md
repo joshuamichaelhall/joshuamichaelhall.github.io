@@ -110,7 +110,7 @@ permalink: /contact/
   <h2>Send a Message</h2>
 
   <div class="contact-form-container" id="contact-form">
-    <form action="https://formspree.io/f/xdorydnr" method="POST" class="contact-form">
+    <form action="https://formspree.io/f/xdorydnr" method="POST" class="contact-form" id="contactForm" onsubmit="return validateForm(event)">
       <div class="form-group">
         <label for="name">Name</label>
         <input type="text" name="name" id="name" placeholder="Your name" required>
@@ -126,6 +126,9 @@ permalink: /contact/
 
       <!-- Redirect after submission -->
       <input type="hidden" name="_next" value="https://joshuamichaelhall.github.io/thanks.html">
+
+      <!-- Error page redirect -->
+      <input type="hidden" name="_error" value="https://joshuamichaelhall.github.io/form-error.html">
 
       <!-- Custom subject line format -->
       <input type="hidden" name="_subject" value="Website Contact: [Subject]" id="subjectLine">
@@ -156,6 +159,10 @@ permalink: /contact/
 
       <button type="submit" class="submit-button">Send Message</button>
     </form>
+
+    <div id="formError" class="form-error" style="display: none;">
+      <p>There was a problem submitting the form. Please try again or <a href="mailto:contact@joshuamichaelhall.com">email me directly</a>.</p>
+    </div>
   </div>
 
   <div class="note">
@@ -164,6 +171,68 @@ permalink: /contact/
 </div>
 
 <script>
+  // Form validation function
+  function validateForm(event) {
+    try {
+      // Hide error message if it was shown previously
+      document.getElementById('formError').style.display = 'none';
+
+      const form = document.getElementById('contactForm');
+      const name = document.getElementById('name').value.trim();
+      const email = document.getElementById('email').value.trim();
+      const subject = document.getElementById('subject').value;
+      const message = document.getElementById('message').value.trim();
+
+      // Basic validation
+      if (!name || !email || !subject || !message) {
+        alert('Please fill out all required fields.');
+        return false;
+      }
+
+      // Email validation
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      if (!emailRegex.test(email)) {
+        alert('Please enter a valid email address.');
+        return false;
+      }
+
+      // Set a cookie to track submission attempt
+      document.cookie = "formSubmitAttempt=true; path=/; max-age=3600";
+
+      // Add submission event handler for AJAX submission
+      form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        const formData = new FormData(form);
+
+        fetch(form.action, {
+          method: form.method,
+          body: formData,
+          headers: {
+            'Accept': 'application/json'
+          }
+        })
+        .then(response => {
+          if (response.ok) {
+            window.location.href = "/thanks.html";
+          } else {
+            document.getElementById('formError').style.display = 'block';
+            throw new Error('Form submission failed');
+          }
+        })
+        .catch(error => {
+          console.error('Error:', error);
+          document.getElementById('formError').style.display = 'block';
+        });
+      }, { once: true });
+
+      return false; // Prevent default form submission as we're using fetch
+    } catch (error) {
+      console.error("Form validation error:", error);
+      document.getElementById('formError').style.display = 'block';
+      return false;
+    }
+  }
+
   document.addEventListener('DOMContentLoaded', function() {
     // Service tabs functionality
     const tabButtons = document.querySelectorAll('.tab-button');
