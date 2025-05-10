@@ -1582,3 +1582,127 @@ input:focus, textarea:focus, select:focus {
 .hero-links .btn:hover {
   animation: pulse 2s infinite;
 }
+
+/* Section description styling */
+.section-description {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 30px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+/* Container styling */
+#github-projects-container,
+#devto-articles-container {
+  margin-top: 25px;
+}
+
+/* Article card styling */
+.article-card {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.article-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.article-card h3 {
+  margin-top: 0;
+  font-size: 1.3rem;
+}
+
+.article-card p {
+  margin-bottom: 15px;
+}
+
+.article-card p:last-child {
+  margin-bottom: 0;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+/* Project card consistency for dynamically loaded cards */
+#github-projects .project-card {
+  margin-bottom: 20px;
+}
+
+#github-projects .project-card:last-child {
+  margin-bottom: 0;
+}
+
+/* Center page descriptions */
+.page-intro {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 40px;
+  padding: 20px 0;
+  color: var(--text-secondary);
+  line-height: 1.8;
+  font-size: 1.1rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+/* Center section descriptions */
+.section-description {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 30px;
+  color: var(--text-secondary);
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+
+/* Center page titles */
+.page-content h1:first-child {
+  text-align: center;
+  margin-bottom: 30px;
+  color: var(--primary-color);
+}
+
+/* Additional styling for main page section titles */
+.home-section h2,
+.content-section h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  position: relative;
+}
+
+/* Center any content within featured sections */
+.featured-article .post-date,
+.featured-projects .project-description {
+  text-align: center;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Add a subtle highlight to centered descriptions */
+.page-intro,
+.section-description {
+  position: relative;
+  
+  /* Optional: Add a very subtle background to make the text stand out */
+  background-color: rgba(var(--primary-color-rgb, 3, 102, 214), 0.03);
+  border-radius: 8px;
+  padding: 20px;
+  
+  /* Optional: Add a subtle border */
+  border: 1px solid rgba(var(--primary-color-rgb, 3, 102, 214), 0.1);
+}
+
+/* Make sure the descriptions are responsive */
+@media (max-width: 768px) {
+  .page-intro,
+  .section-description {
+    padding: 15px;
+    font-size: 1rem;
+    max-width: 95%;
+  }
+}

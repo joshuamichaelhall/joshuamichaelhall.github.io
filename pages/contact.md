@@ -9,7 +9,7 @@ permalink: /contact/
 I'm interested in discussing DevOps/SRE opportunities, technical challenges, or collaboration in building secure, reliable infrastructure for financial services.
 
 <div class="content-section with-divider">
-  <h2>Get in Touch</h2>
+  <h2>Let's Connect!</h2>
   <p class="page-intro">
     I'm currently seeking DevOps/SRE opportunities in the financial services sector where I can leverage my infrastructure automation and containerization expertise. I'm also open to collaboration on technical content, open-source projects, and knowledge sharing.
   </p>

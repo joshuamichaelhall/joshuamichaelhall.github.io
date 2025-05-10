@@ -6,8 +6,6 @@ permalink: /blog/
 
 # Technical Blog
 
-I write about DevOps practices, infrastructure automation, containerization, and platform engineering for financial services.
-
 <p class="page-intro">
   Technical insights and practical guides on DevOps engineering, infrastructure automation, and cloud security with a focus on financial services requirements. These articles demonstrate both technical expertise and understanding of compliance considerations.
 </p>

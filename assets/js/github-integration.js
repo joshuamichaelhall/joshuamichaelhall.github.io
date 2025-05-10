@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
       }
       
-      container.innerHTML = ''; // Clear any existing content
+      container.innerHTML = ''; // Clear only the projects container
       
       // Default descriptions for specific repositories if they're missing
       const defaultDescriptions = {
