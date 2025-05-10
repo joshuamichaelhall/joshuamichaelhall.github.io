@@ -6,10 +6,6 @@ permalink: /blog/
 
 # Technical Blog
 
-<p class="page-intro">
-  Technical insights and practical guides on DevOps engineering, infrastructure automation, and cloud security with a focus on financial services requirements. These articles demonstrate both technical expertise and understanding of compliance considerations.
-</p>
-
 <div class="featured-article with-divider">
   <h2>Terminal-Based Development with Neovim, tmux, and CLI Tools</h2>
   <p class="post-date">March 23, 2025</p>
@@ -19,39 +15,35 @@ permalink: /blog/
 
 <div class="content-section with-divider">
   <h2>Local Articles</h2>
-  <div class="blog-list">
-    {% for post in site.posts %}
-      {% include blog-post-preview.html post=post %}
-    {% endfor %}
-  </div>
+  {% for post in site.posts %}
+    {% include blog-post-preview.html post=post %}
+  {% endfor %}
 </div>
 
 <div class="content-section with-divider">
   <h2>Upcoming Articles</h2>
-  <div class="upcoming-articles">
-    <div class="upcoming-article with-divider">
-      <h3>Infrastructure as Code Best Practices for Financial Services</h3>
-      <p>A comprehensive guide to implementing secure, compliant infrastructure using Terraform and AWS services for financial applications.</p>
-      <p class="coming-soon">Coming Soon</p>
-    </div>
-    
-    <div class="upcoming-article with-divider">
-      <h3>Kubernetes Security for Regulated Environments</h3>
-      <p>Deep dive into implementing secure Kubernetes deployments that meet financial services compliance requirements.</p>
-      <p class="coming-soon">Coming Soon</p>
-    </div>
-    
-    <div class="upcoming-article">
-      <h3>CI/CD Pipeline Security: Protecting the Deployment Process</h3>
-      <p>Strategies for securing the entire CI/CD pipeline from development to production deployment.</p>
-      <p class="coming-soon">Coming Soon</p>
-    </div>
+  <div class="blog-post-preview with-divider">
+    <h2>Infrastructure as Code Best Practices for Financial Services</h2>
+    <p class="post-date coming-soon-date">Coming Soon</p>
+    <p>A comprehensive guide to implementing secure, compliant infrastructure using Terraform and AWS services for financial applications.</p>
+  </div>
+
+  <div class="blog-post-preview with-divider">
+    <h2>Kubernetes Security for Regulated Environments</h2>
+    <p class="post-date coming-soon-date">Coming Soon</p>
+    <p>Deep dive into implementing secure Kubernetes deployments that meet financial services compliance requirements.</p>
+  </div>
+
+  <div class="blog-post-preview">
+    <h2>CI/CD Pipeline Security: Protecting the Deployment Process</h2>
+    <p class="post-date coming-soon-date">Coming Soon</p>
+    <p>Strategies for securing the entire CI/CD pipeline from development to production deployment.</p>
   </div>
 </div>
 
 <div class="content-section">
   <h2>Dev.to Articles</h2>
-  <div id="devto-articles" class="blog-list">
+  <div id="devto-articles">
     <p>Loading Dev.to articles...</p>
   </div>
 </div>
@@ -80,7 +72,7 @@ permalink: /blog/
             <p class="post-date">${new Date(article.published_at).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
             ${article.tag_list.length > 0 ? `
               <p class="post-categories">
-                Tags: 
+                Tags:
                 ${article.tag_list.map(tag => `<span class="tag">${tag}</span>`).join(' ')}
               </p>
             ` : ''}

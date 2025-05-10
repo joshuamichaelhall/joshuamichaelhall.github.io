@@ -6,8 +6,6 @@ permalink: /about/
 
 # About Me
 
-I'm a software engineer transitioning to a DevOps/SRE career path, focused on building reliable, secure infrastructure for financial services. My approach centers on mastery of fundamentals and deliberate skill development.
-
 <div class="content-section with-divider">
   <h2>Professional Background</h2>
   <p class="page-intro">

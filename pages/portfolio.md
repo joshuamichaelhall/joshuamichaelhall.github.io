@@ -4,9 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# My Portfolio
-
-This portfolio showcases my DevOps/SRE projects, focusing on infrastructure automation, containerization, and financial services compliance. Each project demonstrates my commitment to mastery-based learning and building secure, reliable infrastructure.
+# Portfolio
 
 <div class="content-section with-divider">
   <h2>Featured Projects</h2>
@@ -14,39 +12,37 @@ This portfolio showcases my DevOps/SRE projects, focusing on infrastructure auto
     This portfolio showcases enterprise-ready DevOps projects focused on infrastructure automation, security compliance, and containerization for financial services environments. Each implementation demonstrates industry best practices and production-grade architecture.
   </p>
 
-  <div class="featured-projects">
-    <div class="project-card featured with-divider">
-      <h2>Infrastructure as Code for Multi-Environment Deployment</h2>
-      <div class="project-details">
-        <div class="project-image">
-          <img src="/assets/images/terraform-aws.png" alt="Terraform AWS Infrastructure" />
-        </div>
-        <div class="project-description">
-          <p>Production-grade infrastructure modules for dev/test/prod environments with state management, security controls, and compliance documentation for financial services.</p>
-          <p class="technologies">
-            <strong>Technologies:</strong> Terraform, AWS, GitHub Actions, IAM, VPC, S3, RDS
-          </p>
-          <div class="project-links">
-            <a href="https://github.com/JoshuaMichaelHall/finapp-infrastructure" class="github-link" target="_blank">View on GitHub</a>
-          </div>
+  <div class="project-card featured with-divider">
+    <h2>Infrastructure as Code for Multi-Environment Deployment</h2>
+    <div class="project-details">
+      <div class="project-image">
+        <img src="/assets/images/terraform-aws.png" alt="Terraform AWS Infrastructure" />
+      </div>
+      <div class="project-description">
+        <p>Production-grade infrastructure modules for dev/test/prod environments with state management, security controls, and compliance documentation for financial services.</p>
+        <p class="technologies">
+          <strong>Technologies:</strong> Terraform, AWS, GitHub Actions, IAM, VPC, S3, RDS
+        </p>
+        <div class="project-links">
+          <a href="https://github.com/JoshuaMichaelHall/finapp-infrastructure" class="github-link" target="_blank">View on GitHub</a>
         </div>
       </div>
     </div>
-    
-    <div class="project-card featured">
-      <h2>Containerized Microservices Platform</h2>
-      <div class="project-details">
-        <div class="project-image">
-          <img src="/assets/images/kubernetes.png" alt="Kubernetes Platform" />
-        </div>
-        <div class="project-description">
-          <p>Multi-service application containerization with Kubernetes deployment manifests, monitoring integration, and security implementation focusing on high availability for financial applications.</p>
-          <p class="technologies">
-            <strong>Technologies:</strong> Docker, Kubernetes, Prometheus, Grafana, RBAC
-          </p>
-          <div class="project-links">
-            <a href="https://github.com/JoshuaMichaelHall/container-platform" class="github-link" target="_blank">View on GitHub</a>
-          </div>
+  </div>
+
+  <div class="project-card featured">
+    <h2>Containerized Microservices Platform</h2>
+    <div class="project-details">
+      <div class="project-image">
+        <img src="/assets/images/kubernetes.png" alt="Kubernetes Platform" />
+      </div>
+      <div class="project-description">
+        <p>Multi-service application containerization with Kubernetes deployment manifests, monitoring integration, and security implementation focusing on high availability for financial applications.</p>
+        <p class="technologies">
+          <strong>Technologies:</strong> Docker, Kubernetes, Prometheus, Grafana, RBAC
+        </p>
+        <div class="project-links">
+          <a href="https://github.com/JoshuaMichaelHall/container-platform" class="github-link" target="_blank">View on GitHub</a>
         </div>
       </div>
     </div>
