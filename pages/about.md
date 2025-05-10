@@ -103,7 +103,7 @@ permalink: /about/
   <h2>Career Development</h2>
   
   <div class="career-stage">
-    <h3>Foundation Building (2025, Months 1-6)</h3>
+    <h3>Foundation Building (2025)</h3>
     <ul>
       <li>Mastering core DevOps skills (AWS, Terraform, Docker, Linux)</li>
       <li>Building production-grade portfolio projects</li>
@@ -113,7 +113,7 @@ permalink: /about/
   </div>
 
   <div class="career-stage">
-    <h3>Mid-Level Growth (2025-2026, Months 7-18)</h3>
+    <h3>Mid-Level Growth (2025-2026)</h3>
     <ul>
       <li>Implementing infrastructure automation in production environments</li>
       <li>Expanding container orchestration expertise with Kubernetes Administrator certification (Month 9)</li>
@@ -123,7 +123,7 @@ permalink: /about/
   </div>
 
   <div class="career-stage">
-    <h3>Security Specialization (2027, Months 19-24)</h3>
+    <h3>Security Specialization (2027)</h3>
     <ul>
       <li>Focusing on cloud security with AWS Security Specialty certification (Early 2027)</li>
       <li>Developing advanced Kubernetes security expertise with CKS certification (Mid 2027)</li>
