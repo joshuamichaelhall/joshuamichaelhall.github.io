@@ -1,8 +1,3 @@
----
-layout: home
-title: Home
----
-
 <div class="hero-section with-divider">
   <div class="hero-content">
     <h1 style="font-size: 3.5rem; margin-bottom: 0.5rem;">Joshua Michael Hall</h1>
@@ -40,7 +35,9 @@ title: Home
 <div class="home-section with-divider" id="projects">
   <h2>Projects</h2>
   <p class="section-description">Production-grade infrastructure implementations demonstrating DevOps best practices, security automation, and financial services compliance capabilities.</p>
-  <div id="github-projects"></div>
+  <div id="github-projects-container">
+    <div id="github-projects"></div>
+  </div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
   </div>
@@ -49,7 +46,9 @@ title: Home
 <div class="home-section no-divider" id="articles">
   <h2>Articles</h2>
   <p class="section-description">Technical insights on infrastructure automation, containerization, and cloud security with a focus on financial services environments.</p>
-  <div id="devto-articles"></div>
+  <div id="devto-articles-container">
+    <div id="devto-articles"></div>
+  </div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">View All Articles</a>
   </div>
