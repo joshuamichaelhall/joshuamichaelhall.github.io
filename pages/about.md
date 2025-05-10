@@ -63,20 +63,38 @@ permalink: /about/
   <div class="certifications-grid">
     <div class="certification-item upcoming">
       <h3>AWS Solutions Architect Associate</h3>
-      <p class="certification-status">In Progress - Targeted Q3 2025</p>
+      <p class="certification-status">In Progress - August 2025 (Month 3)</p>
       <p>Comprehensive knowledge of AWS services and architecture best practices for designing secure, scalable cloud solutions.</p>
     </div>
-    
+
     <div class="certification-item upcoming">
       <h3>HashiCorp Terraform Associate</h3>
-      <p class="certification-status">In Progress - Targeted Q4 2025</p>
+      <p class="certification-status">Planned - October 2025 (Month 5)</p>
       <p>Demonstrating proficiency with Terraform for infrastructure provisioning, state management, and implementation best practices.</p>
     </div>
-    
+
     <div class="certification-item upcoming">
       <h3>Certified Kubernetes Administrator (CKA)</h3>
-      <p class="certification-status">Planned - Targeted Q1 2026</p>
+      <p class="certification-status">Planned - February 2026 (Month 9)</p>
       <p>Advanced knowledge of Kubernetes architecture, installation, configuration, and management for production environments.</p>
+    </div>
+
+    <div class="certification-item upcoming">
+      <h3>AWS DevOps Professional</h3>
+      <p class="certification-status">Planned - November 2026 (Month 18)</p>
+      <p>Expert-level knowledge of continuous delivery, infrastructure automation, monitoring, and operational excellence on AWS.</p>
+    </div>
+
+    <div class="certification-item upcoming">
+      <h3>AWS Security Specialty</h3>
+      <p class="certification-status">Planned - Early 2027 (Month 19-24)</p>
+      <p>Specialized knowledge of AWS security services, compliance requirements, and advanced security implementation.</p>
+    </div>
+
+    <div class="certification-item upcoming">
+      <h3>Certified Kubernetes Security Specialist (CKS)</h3>
+      <p class="certification-status">Planned - Mid 2027 (Month 19-24)</p>
+      <p>Advanced security expertise for Kubernetes environments, including cluster hardening, system vulnerabilities, and supply chain security.</p>
     </div>
   </div>
 </div>
@@ -85,31 +103,41 @@ permalink: /about/
   <h2>Career Development</h2>
   
   <div class="career-stage">
-    <h3>Foundation Building (Current)</h3>
+    <h3>Foundation Building (2025, Months 1-6)</h3>
     <ul>
       <li>Mastering core DevOps skills (AWS, Terraform, Docker, Linux)</li>
       <li>Building production-grade portfolio projects</li>
-      <li>Earning key certifications (AWS, Terraform)</li>
+      <li>Earning initial certifications: AWS Solutions Architect Associate (Month 3) and Terraform Associate (Month 5)</li>
       <li>Developing specialized financial services knowledge</li>
     </ul>
   </div>
 
   <div class="career-stage">
-    <h3>Mid-Level Position (2025-2026)</h3>
+    <h3>Mid-Level Growth (2025-2026, Months 7-18)</h3>
     <ul>
       <li>Implementing infrastructure automation in production environments</li>
-      <li>Expanding platform engineering expertise</li>
-      <li>Deepening financial services domain knowledge</li>
+      <li>Expanding container orchestration expertise with Kubernetes Administrator certification (Month 9)</li>
+      <li>Deepening CI/CD and automation capabilities leading to AWS DevOps Professional certification (Month 18)</li>
       <li>Contributing to architectural decisions and security implementations</li>
     </ul>
   </div>
 
   <div class="career-stage">
-    <h3>Senior Advancement (2027+)</h3>
+    <h3>Security Specialization (2027, Months 19-24)</h3>
+    <ul>
+      <li>Focusing on cloud security with AWS Security Specialty certification (Early 2027)</li>
+      <li>Developing advanced Kubernetes security expertise with CKS certification (Mid 2027)</li>
+      <li>Specializing in financial compliance automation</li>
+      <li>Leading security-focused infrastructure initiatives</li>
+    </ul>
+  </div>
+
+  <div class="career-stage">
+    <h3>Senior Advancement (2028+)</h3>
     <ul>
       <li>Leading platform architecture and engineering efforts</li>
-      <li>Designing high-availability infrastructure</li>
-      <li>Specializing in financial compliance automation</li>
+      <li>Designing high-availability, secure infrastructure</li>
+      <li>Driving financial services compliance frameworks</li>
       <li>Mentoring and technical leadership</li>
     </ul>
   </div>

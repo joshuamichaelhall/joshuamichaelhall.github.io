@@ -1,6 +1,6 @@
 <!-- Updated blog-post-preview.html with proper divider classes -->
 
-<div class="blog-post-preview {% if forloop.last == false %}with-divider{% endif %}">
+<div class="blog-post-preview">
   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
   

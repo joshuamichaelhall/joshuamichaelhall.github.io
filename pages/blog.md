@@ -6,7 +6,7 @@ permalink: /blog/
 
 # Technical Blog
 
-<div class="featured-article with-divider">
+<div class="featured-article">
   <h2>Terminal-Based Development with Neovim, tmux, and CLI Tools</h2>
   <p class="post-date">March 23, 2025</p>
   <p>A detailed look at my terminal-based development environment and how it enhances productivity for DevOps engineering tasks, including infrastructure management, containerization, and cloud operations.</p>
@@ -22,13 +22,13 @@ permalink: /blog/
 
 <div class="content-section with-divider">
   <h2>Upcoming Articles</h2>
-  <div class="blog-post-preview with-divider">
+  <div class="blog-post-preview">
     <h2>Infrastructure as Code Best Practices for Financial Services</h2>
     <p class="post-date coming-soon-date">Coming Soon</p>
     <p>A comprehensive guide to implementing secure, compliant infrastructure using Terraform and AWS services for financial applications.</p>
   </div>
 
-  <div class="blog-post-preview with-divider">
+  <div class="blog-post-preview">
     <h2>Kubernetes Security for Regulated Environments</h2>
     <p class="post-date coming-soon-date">Coming Soon</p>
     <p>Deep dive into implementing secure Kubernetes deployments that meet financial services compliance requirements.</p>
@@ -64,9 +64,8 @@ permalink: /blog/
         
         // Display articles
         data.forEach((article, index) => {
-          const isLast = index === data.length - 1;
           const articleDiv = document.createElement('div');
-          articleDiv.className = 'blog-post-preview' + (isLast ? '' : ' with-divider');
+          articleDiv.className = 'blog-post-preview';
           articleDiv.innerHTML = `
             <h2><a href="${article.url}" target="_blank">${article.title}</a></h2>
             <p class="post-date">${new Date(article.published_at).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
