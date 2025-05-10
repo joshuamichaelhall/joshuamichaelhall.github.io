@@ -50,60 +50,63 @@
   </div>
 </div>
 
-<div class="career-timeline">
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <h3>2025: Mid-Level DevOps Engineer</h3>
-      <p>Implementing secure infrastructure for financial services using AWS cloud and infrastructure as code. Building automated deployment pipelines, containerization solutions, and compliance controls for regulated environments.</p>
-      <div class="timeline-details-row">
-        <div class="timeline-skills">
-          <span class="skill-tag">AWS</span>
-          <span class="skill-tag">Terraform</span>
-          <span class="skill-tag">Docker</span>
-          <span class="skill-tag">Kubernetes</span>
-        </div>
-        <div class="timeline-certs">
-          <span class="cert-badge">AWS Solutions Architect</span>
-          <span class="cert-badge">Terraform Associate</span>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <h3>2026-2027: Senior DevOps Engineer</h3>
-      <p>Designing and leading implementation of scalable cloud platforms with integrated security. Architecting multi-environment infrastructure with high availability, disaster recovery, and financial compliance controls.</p>
-      <div class="timeline-details-row">
-        <div class="timeline-skills">
-          <span class="skill-tag">Platform Design</span>
-          <span class="skill-tag">Security</span>
-          <span class="skill-tag">Performance</span>
-          <span class="skill-tag">Monitoring</span>
-        </div>
-        <div class="timeline-certs">
-          <span class="cert-badge">Kubernetes Admin</span>
-          <span class="cert-badge">AWS DevOps Pro</span>
+<div class="home-section no-divider" id="career-vision">
+  <h2>Career Vision</h2>
+  <div class="career-timeline">
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <h3>2025: Mid-Level DevOps Engineer</h3>
+        <p>Implementing secure infrastructure for financial services using AWS cloud and infrastructure as code. Building automated deployment pipelines, containerization solutions, and compliance controls for regulated environments.</p>
+        <div class="timeline-details-row">
+          <div class="timeline-skills">
+            <span class="skill-tag">AWS</span>
+            <span class="skill-tag">Terraform</span>
+            <span class="skill-tag">Docker</span>
+            <span class="skill-tag">Kubernetes</span>
+          </div>
+          <div class="timeline-certs">
+            <span class="cert-badge">AWS Solutions Architect</span>
+            <span class="cert-badge">Terraform Associate</span>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <h3>2028+: Senior Platform Engineer</h3>
-      <p>Leading platform engineering initiatives for financial services organizations. Creating self-service infrastructure platforms, implementing automated compliance frameworks, and driving technical innovation.</p>
-      <div class="timeline-details-row">
-        <div class="timeline-skills">
-          <span class="skill-tag">Architecture</span>
-          <span class="skill-tag">Leadership</span>
-          <span class="skill-tag">Compliance</span>
-          <span class="skill-tag">Innovation</span>
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <h3>2026-2027: Senior DevOps Engineer</h3>
+        <p>Designing and leading implementation of scalable cloud platforms with integrated security. Architecting multi-environment infrastructure with high availability, disaster recovery, and financial compliance controls.</p>
+        <div class="timeline-details-row">
+          <div class="timeline-skills">
+            <span class="skill-tag">Platform Design</span>
+            <span class="skill-tag">Security</span>
+            <span class="skill-tag">Performance</span>
+            <span class="skill-tag">Monitoring</span>
+          </div>
+          <div class="timeline-certs">
+            <span class="cert-badge">Kubernetes Admin</span>
+            <span class="cert-badge">AWS DevOps Pro</span>
+          </div>
         </div>
-        <div class="timeline-certs">
-          <span class="cert-badge">AWS Security</span>
-          <span class="cert-badge">K8s Security</span>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <h3>2028+: Senior Platform Engineer</h3>
+        <p>Leading platform engineering initiatives for financial services organizations. Creating self-service infrastructure platforms, implementing automated compliance frameworks, and driving technical innovation.</p>
+        <div class="timeline-details-row">
+          <div class="timeline-skills">
+            <span class="skill-tag">Architecture</span>
+            <span class="skill-tag">Leadership</span>
+            <span class="skill-tag">Compliance</span>
+            <span class="skill-tag">Innovation</span>
+          </div>
+          <div class="timeline-certs">
+            <span class="cert-badge">AWS Security</span>
+            <span class="cert-badge">K8s Security</span>
+          </div>
         </div>
       </div>
     </div>
