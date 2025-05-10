@@ -110,7 +110,7 @@ permalink: /contact/
   <h2>Send a Message</h2>
 
   <div class="contact-form-container" id="contact-form">
-    <form action="https://formspree.io/f/your-formspree-id" method="POST" class="contact-form">
+    <form action="https://formspree.io/f/xdorydnr" method="POST" class="contact-form">
       <div class="form-group">
         <label for="name">Name</label>
         <input type="text" name="name" id="name" placeholder="Your name" required>
@@ -120,6 +120,15 @@ permalink: /contact/
         <label for="email">Email</label>
         <input type="email" name="_replyto" id="email" placeholder="your.email@example.com" required>
       </div>
+
+      <!-- This is a honeypot field to prevent spam -->
+      <input type="text" name="_gotcha" style="display:none">
+
+      <!-- Redirect after submission -->
+      <input type="hidden" name="_next" value="https://joshuamichaelhall.github.io/thanks.html">
+
+      <!-- Custom subject line format -->
+      <input type="hidden" name="_subject" value="Website Contact: [Subject]" id="subjectLine">
 
       <div class="form-group full-width">
         <label for="subject">Subject</label>
@@ -175,6 +184,17 @@ permalink: /contact/
       });
     });
 
+    // Subject line customization
+    const subjectSelect = document.getElementById('subject');
+    const subjectLine = document.getElementById('subjectLine');
+
+    if(subjectSelect && subjectLine) {
+      // Update the subject line when the dropdown changes
+      subjectSelect.addEventListener('change', function() {
+        subjectLine.value = `Website Contact: ${this.value}`;
+      });
+    }
+
     // Add Service option to dropdown if selected from URL hash
     const hash = window.location.hash;
     if(hash && hash.includes('service-')) {
@@ -193,7 +213,6 @@ permalink: /contact/
       }
 
       // Set the subject dropdown to the appropriate service
-      const subjectSelect = document.getElementById('subject');
       if(subjectSelect) {
         if(service === 'web') {
           subjectSelect.value = 'Web Development';
@@ -202,6 +221,10 @@ permalink: /contact/
         } else if(service === 'coaching') {
           subjectSelect.value = 'Career Coaching';
         }
+
+        // Trigger the change event to update the hidden subject line
+        const event = new Event('change');
+        subjectSelect.dispatchEvent(event);
       }
     }
   });
