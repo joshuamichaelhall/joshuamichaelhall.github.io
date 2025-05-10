@@ -50,32 +50,120 @@
   </div>
 </div>
 
-<div class="home-section no-divider" id="career-vision">
-  <h2>Career Vision</h2>
-  <div class="career-timeline">
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
-        <h3>2025: Mid-Level DevOps Engineer</h3>
-        <p>Implementing infrastructure automation, containerization, and CI/CD pipelines with a focus on security and financial compliance.</p>
+<div class="career-timeline">
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3>2025: Mid-Level DevOps Engineer</h3>
+      <p>Implementing secure infrastructure for financial services using AWS cloud and infrastructure as code. Building automated deployment pipelines, containerization solutions, and compliance controls for regulated environments.</p>
+      <div class="timeline-details-row">
+        <div class="timeline-skills">
+          <span class="skill-tag">AWS</span>
+          <span class="skill-tag">Terraform</span>
+          <span class="skill-tag">Docker</span>
+          <span class="skill-tag">Kubernetes</span>
+        </div>
+        <div class="timeline-certs">
+          <span class="cert-badge">AWS Solutions Architect</span>
+          <span class="cert-badge">Terraform Associate</span>
+        </div>
       </div>
     </div>
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
-        <h3>2026-2027: Senior DevOps Engineer</h3>
-        <p>Architecting scalable cloud platforms, implementing advanced security controls, and optimizing infrastructure for financial services.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3>2026-2027: Senior DevOps Engineer</h3>
+      <p>Designing and leading implementation of scalable cloud platforms with integrated security. Architecting multi-environment infrastructure with high availability, disaster recovery, and financial compliance controls.</p>
+      <div class="timeline-details-row">
+        <div class="timeline-skills">
+          <span class="skill-tag">Platform Design</span>
+          <span class="skill-tag">Security</span>
+          <span class="skill-tag">Performance</span>
+          <span class="skill-tag">Monitoring</span>
+        </div>
+        <div class="timeline-certs">
+          <span class="cert-badge">Kubernetes Admin</span>
+          <span class="cert-badge">AWS DevOps Pro</span>
+        </div>
       </div>
     </div>
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
-        <h3>2028+: Senior Platform Engineer</h3>
-        <p>Leading platform architecture, driving infrastructure innovation, and implementing enterprise-scale solutions for financial services.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3>2028+: Senior Platform Engineer</h3>
+      <p>Leading platform engineering initiatives for financial services organizations. Creating self-service infrastructure platforms, implementing automated compliance frameworks, and driving technical innovation.</p>
+      <div class="timeline-details-row">
+        <div class="timeline-skills">
+          <span class="skill-tag">Architecture</span>
+          <span class="skill-tag">Leadership</span>
+          <span class="skill-tag">Compliance</span>
+          <span class="skill-tag">Innovation</span>
+        </div>
+        <div class="timeline-certs">
+          <span class="cert-badge">AWS Security</span>
+          <span class="cert-badge">K8s Security</span>
+        </div>
       </div>
     </div>
   </div>
 </div>
+
+<style>
+.timeline-details-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 15px;
+  justify-content: space-between;
+}
+
+.timeline-skills, .timeline-certs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.skill-tag {
+  background-color: rgba(46, 164, 79, 0.1);
+  border: 1px solid rgba(46, 164, 79, 0.2);
+  border-radius: 20px;
+  padding: 4px 10px;
+  font-size: 0.85rem;
+  color: var(--accent-color);
+  display: inline-block;
+}
+
+.cert-badge {
+  background-color: rgba(3, 102, 214, 0.1);
+  border: 1px solid rgba(3, 102, 214, 0.2);
+  border-radius: 20px;
+  padding: 4px 10px;
+  font-size: 0.85rem;
+  color: var(--primary-color);
+  display: inline-block;
+}
+
+.dark-theme .skill-tag {
+  background-color: rgba(46, 164, 79, 0.15);
+  border: 1px solid rgba(46, 164, 79, 0.25);
+  color: #3fb950;
+}
+
+.dark-theme .cert-badge {
+  background-color: rgba(88, 166, 255, 0.15);
+  border: 1px solid rgba(88, 166, 255, 0.25);
+  color: #58a6ff;
+}
+
+@media (max-width: 768px) {
+  .timeline-details-row {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+</style>
 
 <script>
   // Add animation to timeline items

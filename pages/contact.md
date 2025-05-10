@@ -75,7 +75,7 @@ permalink: /contact/
   
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> Open to mid-level DevOps/SRE opportunities in the $110K-150K range, especially in financial services.</p>
+    <p><strong>Status:</strong> Open to mid-level DevOps/SRE opportunities, especially in financial services.</p>
   </div>
   
   <p>I'm currently focusing on completing my DevOps/SRE portfolio projects and certifications, with availability for new roles beginning in late-2025.</p>
