@@ -1744,3 +1744,48 @@ input:focus, textarea:focus, select:focus {
     max-width: 95%;
   }
 }
+
+/* Quote styling */
+.quote {
+  text-align: center;
+  margin: 40px auto;
+  max-width: 800px;
+  font-style: italic;
+  color: var(--text-secondary);
+
+  p {
+    position: relative;
+    padding: 0 20px;
+    font-size: 1.15rem;
+    line-height: 1.6;
+    margin-bottom: 10px;
+
+    &:before, &:after {
+      content: '"';
+      font-size: 1.5em;
+      color: var(--primary-color);
+      opacity: 0.4;
+      position: relative;
+      line-height: 0;
+    }
+
+    &:before {
+      margin-right: 5px;
+      top: 5px;
+    }
+
+    &:after {
+      margin-left: 5px;
+      bottom: -5px;
+    }
+  }
+
+  .quote-author {
+    font-style: normal;
+    font-weight: 500;
+    color: var(--text-color);
+    opacity: 0.8;
+    font-size: 0.95rem;
+    margin-top: 5px;
+  }
+}

@@ -7,9 +7,7 @@ permalink: /contact/
 # Let's Connect
 
 <div class="content-section with-divider">
-  <p class="page-intro">
-    I'm currently seeking DevOps/SRE opportunities in the financial services sector where I can leverage my infrastructure automation and containerization expertise. I'm also open to collaboration on technical content, open-source projects, and knowledge sharing.
-  </p>
+  <p>I'm currently seeking DevOps/SRE opportunities in the financial services sector where I can leverage my infrastructure automation and containerization expertise. I'm also open to collaboration on technical content, open-source projects, and knowledge sharing.</p>
 
   <ul class="contact-info">
     <li><strong>Email</strong>: <a href="mailto:contact@joshuamichaelhall.com">contact@joshuamichaelhall.com</a></li>

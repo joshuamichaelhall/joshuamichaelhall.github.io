@@ -8,9 +8,7 @@ permalink: /about/
 
 <div class="content-section with-divider">
   <h2>Professional Background</h2>
-  <p class="page-intro">
-    I'm a DevOps/SRE engineer specializing in secure, reliable infrastructure for financial services. With a background in software engineering and a focus on infrastructure automation, my goal is to build compliant, scalable systems that enable business innovation while maintaining operational excellence.
-  </p>
+  <p>I'm a DevOps/SRE engineer specializing in secure, reliable infrastructure for financial services. With a background in software engineering and a focus on infrastructure automation, my goal is to build compliant, scalable systems that enable business innovation while maintaining operational excellence.</p>
 
   <ul>
     <li>Developing expertise in AWS cloud infrastructure</li>
@@ -126,6 +124,7 @@ permalink: /about/
   </ul>
   
   <div class="quote">
-    <p>My favorite quote: "Master the basics. Then practice them every day without fail." - John C. Maxwell</p>
+    <p>Master the basics. Then practice them every day without fail.</p>
+    <div class="quote-author">— John C. Maxwell</div>
   </div>
 </div>
