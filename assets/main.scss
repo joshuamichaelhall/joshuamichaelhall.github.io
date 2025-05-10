@@ -82,7 +82,7 @@ section,
 .hero-section {
   position: relative;
   margin-bottom: 80px;
-  padding: 40px;
+  padding: 10px 40px; /* Further reduced top padding to minimize white space */
   background-color: #f8f9fa;
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
@@ -298,15 +298,15 @@ section h2,
   transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
   overflow: hidden;
 
-  /* Gradient accent on the right side - !important to ensure it overrides other styles */
+  /* Gradient accent on the left side to match project cards */
   &:before {
     content: "" !important;
     position: absolute !important;
     top: 0 !important;
-    right: 0 !important;
+    left: 0 !important; /* Changed from right to left to match project cards */
     width: 5px !important;
     height: 100% !important;
-    background: linear-gradient(180deg, var(--secondary-color), var(--primary-color)) !important;
+    background: linear-gradient(180deg, var(--primary-color), var(--secondary-color)) !important; /* Match project cards gradient */
     opacity: 0.85 !important;
     transition: all 0.3s ease !important;
     z-index: 1 !important;
@@ -1384,7 +1384,8 @@ body {
 }
 
 .site-nav .page-link:hover {
-  color: var(--primary-color);
+  color: var(--primary-color); /* Keep primary color on hover for contrast */
+  text-decoration: none;
 }
 
 .site-nav .page-link:after {
@@ -1952,24 +1953,23 @@ input:focus, textarea:focus, select:focus {
 
 /* Make header and footer navigation links brighter */
 .site-nav .page-link {
-  color: var(--primary-color); /* Change to primary color for better contrast */
+  color: var(--text-color); /* Change to text-color for better contrast */
   opacity: 1; /* Full opacity for better visibility */
-  font-weight: 700; /* Increased font weight for better visibility */
-  /* Remove the text shadow that's causing readability issues */
+  font-weight: 600; /* Reduced font weight for better contrast */
 }
 
 .footer-links li a,
 .social-media-list li a {
-  color: var(--primary-color); /* Change to primary color for better contrast */
+  color: var(--text-color); /* Change to text-color for better contrast */
   opacity: 1; /* Full opacity */
-  font-weight: 600; /* Increase font weight */
+  font-weight: 600; /* Maintain font weight */
 }
 
 /* Keep hover state distinct but related */
 .site-nav .page-link:hover,
 .footer-links li a:hover,
 .social-media-list li a:hover {
-  opacity: 0.8; /* Slight opacity change on hover */
+  opacity: 1; /* Keep full opacity for readability */
   transform: translateY(-1px); /* Subtle lift effect */
   text-decoration: none;
 }
@@ -2222,14 +2222,12 @@ input:focus, textarea:focus, select:focus {
   color: var(--text-secondary);
   line-height: 1.7;
   font-size: 1.1rem;
+  text-align: left; /* Left align instead of center */
+  padding: 0 0 15px 0; /* Remove box padding, just add bottom spacing */
+  /* Remove the background and border radius */
 
-  /* Add a very subtle background to make the text stand out */
-  background-color: rgba(var(--primary-color-rgb), 0.03);
-  border-radius: 12px;
-  padding: 25px;
-
-  /* Add a subtle border */
-  border: 1px solid rgba(var(--primary-color-rgb), 0.08);
+  /* Remove the subtle border */
+  border: none;
 
   /* Add subtle pattern background */
   &:before {
@@ -3043,26 +3041,24 @@ code[class*="language-"] {
 
 /* Hero content styles */
 .hero-content h1 {
-  font-size: 3.5rem;
-  margin-bottom: 0.5rem;
+  font-size: 4.375rem; /* Increased by 25% from 3.5rem */
+  margin-bottom: 1rem; /* Increased bottom margin to match the space below subtitle */
+  margin-top: 1rem; /* Added top margin to balance the space */
   font-weight: 800;
   background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   position: relative;
   display: inline-block;
+}
 
-  &:after {
-    content: "";
-    position: absolute;
-    bottom: -5px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 80px;
-    height: 4px;
-    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
-    border-radius: 2px;
-  }
+.hero-content p {
+  font-size: 1.4rem;
+  margin-bottom: 1rem; /* Make spacing equal above and below subtitle */
+  margin-top: 0; /* Ensure no extra top margin */
+  color: var(--text-secondary);
+  max-width: 800px;
+}
 }
 
 .hero-content h2 {

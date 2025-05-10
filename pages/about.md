@@ -162,7 +162,7 @@ permalink: /about/
     <li><a href="https://github.com/JoshuaMichaelHall-Tech">GitHub (Organization)</a></li>
     <li><a href="https://linkedin.com/in/joshuamichaelhall">LinkedIn</a></li>
     <li><a href="https://dev.to/joshuamichaelhall">Dev.to</a></li>
-    <li><a href="https://medium.com/@joshuamichaelhall">Medium</a></li>
+    <li><a href="https://joshuamichaelhall.medium.com">Medium</a></li>
   </ul>
   
   <div class="quote">

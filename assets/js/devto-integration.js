@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
       
       articles.forEach(article => {
         const articleDiv = document.createElement('div');
-        articleDiv.className = 'article-card';
+        articleDiv.className = 'project-card'; // Change to project-card for consistent styling
         articleDiv.innerHTML = `
           <h3><a href="${article.url}" target="_blank">${article.title}</a></h3>
           <p>${article.description}</p>

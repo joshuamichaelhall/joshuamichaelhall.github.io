@@ -101,7 +101,7 @@ permalink: /contact/
     <li><strong>GitHub Personal</strong>: <a href="https://github.com/JoshuaMichaelHall">JoshuaMichaelHall</a></li>
     <li><strong>GitHub Organization</strong>: <a href="https://github.com/JoshuaMichaelHall-Tech">JoshuaMichaelHall-Tech</a></li>
     <li><strong>Dev.to</strong>: <a href="https://dev.to/joshuamichaelhall">joshuamichaelhall</a></li>
-    <li><strong>Medium</strong>: <a href="https://medium.com/@michael.joshua.hall">@michael.joshua.hall</a></li>
+    <li><strong>Medium</strong>: <a href="https://joshuamichaelhall.medium.com">joshuamichaelhall.medium.com</a></li>
     <li><strong>X</strong>: <a href="https://x.com/JoshuaHallTech">@JoshuaHallTech</a></li>
   </ul>
 </div>
