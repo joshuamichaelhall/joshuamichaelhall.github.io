@@ -1856,6 +1856,14 @@ input:focus, textarea:focus, select:focus {
   font-size: 3.5rem;
   margin-bottom: 0.5rem;
   font-weight: 700;
+  text-align: center;
+}
+
+.hero-content p {
+  text-align: center;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .section-description {
@@ -2009,8 +2017,8 @@ input:focus, textarea:focus, select:focus {
 .hero-links {
   margin-top: 30px;
   display: flex;
-  gap: 15px;
   justify-content: center;
+  gap: 15px;
 }
 
 .hero-links .btn {

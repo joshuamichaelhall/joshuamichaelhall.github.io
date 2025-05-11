@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const articles = data.slice(0, 5); // Show top 5 articles
 
       if (articles.length === 0) {
-        container.innerHTML = '<p class="section-intro-text">Technical insights and tutorials on infrastructure automation, containerization, and DevOps practices for modern applications.</p><p>No articles available at this time.</p>';
+        container.innerHTML = '<p>No articles available at this time.</p>';
         return;
       }
 

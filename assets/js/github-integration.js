@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
         .slice(0, 6);
 
       if (filteredRepos.length === 0) {
-        container.innerHTML = '<p class="section-intro-text">Production-grade infrastructure automation projects demonstrating DevOps best practices for cloud environments.</p><p>No projects available at this time.</p>';
+        container.innerHTML = '<p>No projects available at this time.</p>';
         return;
       }
 
