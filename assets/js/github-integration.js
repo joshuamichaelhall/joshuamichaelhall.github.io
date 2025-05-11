@@ -5,11 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     .then(data => {
       const container = document.getElementById('github-projects');
 
-      // Add description text about projects directly under the heading
-      const description = document.createElement('p');
-      description.className = 'section-intro-text';
-      description.textContent = 'Production-grade infrastructure automation projects demonstrating DevOps best practices for cloud environments.';
-      container.appendChild(description);
+      // No description text needed
 
       // Filter out unwanted repositories and limit to 6
       const filteredRepos = data

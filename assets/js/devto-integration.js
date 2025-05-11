@@ -5,11 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     .then(data => {
       const container = document.getElementById('devto-articles');
 
-      // Add description text about articles directly under the heading
-      const description = document.createElement('p');
-      description.className = 'section-intro-text';
-      description.textContent = 'Technical insights and tutorials on infrastructure automation, containerization, and DevOps practices for modern applications.';
-      container.appendChild(description);
+      // No description text needed
 
       const articles = data.slice(0, 5); // Show top 5 articles
 
