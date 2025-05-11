@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting Up a Secure AWS Learning Environment for DevOps Practice"
-date: 2025-05-20 10:00:00 -0500
+date: 2023-05-10 10:00:00 -0500
 categories: infrastructure
 tags: aws terraform security best-practices
 ---

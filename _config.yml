@@ -19,6 +19,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Enable future dated posts
+future: true
+
 # Navigation
 header_pages:
   - pages/portfolio.md

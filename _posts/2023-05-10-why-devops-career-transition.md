@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I'm Transitioning to DevOps/SRE: My Career Journey"
-date: 2025-05-15 09:00:00 -0500
+date: 2023-05-10 09:00:00 -0500
 categories: career-journey
 tags: devops career-transition sre infrastructure-automation
 ---
