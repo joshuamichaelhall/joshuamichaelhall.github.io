@@ -26,6 +26,13 @@ layout: default
   </header>
 
   <div class="post-content">
-    {{ content | remove_first: page.title | remove_first: "# " }}
+    {% assign content_lines = content | newline_to_br | split: '<br />' %}
+    {% assign first_line = content_lines | first | strip %}
+    {% if first_line contains '# ' %}
+      {% assign content_without_title = content | remove_first: first_line %}
+      {{ content_without_title }}
+    {% else %}
+      {{ content }}
+    {% endif %}
   </div>
 </article>
