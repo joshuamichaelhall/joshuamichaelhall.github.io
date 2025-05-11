@@ -33,25 +33,25 @@ permalink: /blog/
 
 <div class="content-section">
   <h2>Upcoming Technical Content</h2>
-  <p class="section-intro-text">Stay tuned for these upcoming articles on infrastructure, containerization, and security topics for financial services environments.</p>
+  <p class="section-intro-text">Upcoming articles aligning with my progressive skill development in financial services infrastructure, compliance automation, and platform engineering.</p>
 
   <div class="articles-container">
     <div class="project-card">
-      <h3><a href="#">Infrastructure as Code Best Practices for Financial Services</a></h3>
-      <p class="post-date coming-soon-date">Coming Soon</p>
-      <p>A comprehensive guide to implementing secure, compliant infrastructure using Terraform and AWS services for financial applications.</p>
+      <h3><a href="#">Infrastructure as Code for Financial Compliance</a></h3>
+      <p class="post-date coming-soon-date">2025 (Foundation Skills)</p>
+      <p>Implementing infrastructure-as-code patterns in Terraform with built-in controls for financial services compliance requirements.</p>
     </div>
 
     <div class="project-card">
-      <h3><a href="#">Kubernetes Security for Regulated Environments</a></h3>
-      <p class="post-date coming-soon-date">Coming Soon</p>
-      <p>Deep dive into implementing secure Kubernetes deployments that meet financial services compliance requirements.</p>
+      <h3><a href="#">Security Automation for Regulated Kubernetes Environments</a></h3>
+      <p class="post-date coming-soon-date">2026 (Mid-Level Focus)</p>
+      <p>Implementing security controls and compliance automation for Kubernetes in financial services with policy-as-code approaches.</p>
     </div>
 
     <div class="project-card">
-      <h3><a href="#">CI/CD Pipeline Security: Protecting the Deployment Process</a></h3>
-      <p class="post-date coming-soon-date">Coming Soon</p>
-      <p>Strategies for securing the entire CI/CD pipeline from development to production deployment.</p>
+      <h3><a href="#">Building Platform Engineering Teams for Financial Services</a></h3>
+      <p class="post-date coming-soon-date">2026-2027 (Senior Preparation)</p>
+      <p>Strategies for developing platform engineering capabilities that combine technical excellence with financial regulatory expertise.</p>
     </div>
   </div>
 </div>

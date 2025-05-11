@@ -9,12 +9,12 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> Open to mid-level DevOps/SRE opportunities, especially in financial services.</p>
+    <p><strong>Status:</strong> Building foundational skills for mid-level DevOps/SRE roles in financial services.</p>
   </div>
 
-  <p>I'm currently seeking DevOps/SRE opportunities in the financial services sector where I can leverage my infrastructure automation and containerization expertise. I'm also open to collaboration on technical content, open-source projects, and knowledge sharing.</p>
+  <p>I'm developing the skill set for mid-level DevOps/SRE opportunities in the financial services sector where I can apply infrastructure automation with a strong compliance focus. I'm open to collaboration on technical content, open-source projects, and knowledge sharing while building my expertise.</p>
 
-  <p>Currently focusing on completing my DevOps/SRE portfolio projects and certifications, with availability for new roles beginning in late-2025.</p>
+  <p>Currently focused on foundation building through AWS and Terraform certifications, with portfolio projects demonstrating infrastructure automation and security implementation. Available for DevOps/SRE roles beginning in 2026.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -23,13 +23,13 @@ permalink: /contact/
   <p>I'm open to discussing the following areas where I'm actively building expertise:</p>
 
   <ul class="interests-list">
-    <li>Mid-level DevOps/SRE opportunities in financial services</li>
-    <li>Remote collaboration on infrastructure projects</li>
-    <li>Technical content creation on DevOps topics</li>
-    <li>Knowledge sharing on terminal-based development workflows</li>
-    <li>Infrastructure as Code implementation</li>
-    <li>Kubernetes and containerization strategies</li>
-    <li>Security and compliance automation for financial services</li>
+    <li>Financial services compliance and regulatory frameworks</li>
+    <li>Security automation for regulated environments</li>
+    <li>Infrastructure as Code implementation with compliance focus</li>
+    <li>Kubernetes security and platform engineering</li>
+    <li>Observability and monitoring for financial applications</li>
+    <li>Terminal-based development workflow optimization</li>
+    <li>Technical content creation on financial services DevOps</li>
   </ul>
 </div>
 

@@ -7,8 +7,10 @@ layout: default
     <h1>Joshua Michael Hall</h1>
     <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
     <p>Building secure, reliable infrastructure through automation, containerization, and DevOps practices.</p>
+    <p class="building-in-public"><span class="highlight">Building in public:</span> Follow my DevOps career journey as it happens</p>
     <div class="hero-links">
       <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
+      <a href="/roadmap" class="btn accent-btn">Learning Roadmap</a>
       <a href="/contact" class="btn secondary-btn">Contact Me</a>
     </div>
   </div>
@@ -60,8 +62,8 @@ layout: default
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h3>2025: Mid-Level DevOps Engineer</h3>
-        <p>Implementing secure infrastructure for financial services using AWS cloud and infrastructure as code. Building automated deployment pipelines, containerization solutions, and compliance controls for regulated environments.</p>
+        <h3>2025: Foundation & Advanced Skills</h3>
+        <p>Building foundational DevOps skills through certifications and hands-on projects. Developing expertise in AWS cloud, infrastructure as code, containerization, and Linux administration. Creating portfolio projects to demonstrate multi-environment infrastructure automation and CI/CD implementation.</p>
         <div class="timeline-details-row">
           <div class="timeline-skills">
             <span class="skill-tag">AWS</span>
@@ -70,8 +72,8 @@ layout: default
             <span class="skill-tag">Kubernetes</span>
           </div>
           <div class="timeline-certs">
-            <span class="cert-badge">AWS Solutions Architect Associate (Aug 2025)</span>
-            <span class="cert-badge">Terraform Associate (Oct 2025)</span>
+            <span class="cert-badge">AWS Solutions Architect Associate</span>
+            <span class="cert-badge">Terraform Associate</span>
           </div>
         </div>
       </div>
@@ -79,37 +81,37 @@ layout: default
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h3>2026-2027: Senior DevOps Engineer</h3>
-        <p>Designing and leading implementation of scalable cloud platforms with integrated security. Architecting multi-environment infrastructure with high availability, disaster recovery, and financial compliance controls.</p>
+        <h3>2026: Mid-Level DevOps Engineer</h3>
+        <p>Securing mid-level DevOps/SRE position focused on financial services. Implementing security automation with compliance focus, building domain knowledge in regulatory requirements, and advancing containerization expertise with service mesh and Kubernetes operators.</p>
         <div class="timeline-details-row">
           <div class="timeline-skills">
-            <span class="skill-tag">Platform Design</span>
-            <span class="skill-tag">Security</span>
-            <span class="skill-tag">Performance</span>
-            <span class="skill-tag">Monitoring</span>
-          </div>
-          <div class="timeline-certs">
-            <span class="cert-badge">Kubernetes Admin (CKA) (Feb 2026)</span>
-            <span class="cert-badge">AWS DevOps Pro (Nov 2026)</span>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
-        <h3>2028+: Senior Platform Engineer</h3>
-        <p>Leading platform engineering initiatives for financial services organizations. Creating self-service infrastructure platforms, implementing automated compliance frameworks, and driving technical innovation.</p>
-        <div class="timeline-details-row">
-          <div class="timeline-skills">
+            <span class="skill-tag">Financial Compliance</span>
+            <span class="skill-tag">Security Automation</span>
+            <span class="skill-tag">Observability</span>
             <span class="skill-tag">Architecture</span>
-            <span class="skill-tag">Leadership</span>
-            <span class="skill-tag">Compliance</span>
-            <span class="skill-tag">Innovation</span>
           </div>
           <div class="timeline-certs">
-            <span class="cert-badge">AWS Security Specialty (Early 2027)</span>
-            <span class="cert-badge">Kubernetes Security (CKS) (Mid 2027)</span>
+            <span class="cert-badge">Kubernetes Admin (CKA)</span>
+            <span class="cert-badge">AWS DevOps Pro</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <h3>2026-2027: Senior Role Preparation</h3>
+        <p>Developing platform engineering expertise for financial services environments. Building technical leadership skills, implementing advanced compliance frameworks, and positioning for senior role advancement through architectural design and mentoring.</p>
+        <div class="timeline-details-row">
+          <div class="timeline-skills">
+            <span class="skill-tag">Platform Engineering</span>
+            <span class="skill-tag">Leadership</span>
+            <span class="skill-tag">Compliance Frameworks</span>
+            <span class="skill-tag">Disaster Recovery</span>
+          </div>
+          <div class="timeline-certs">
+            <span class="cert-badge">AWS Security Specialty</span>
+            <span class="cert-badge">Kubernetes Security (CKS)</span>
           </div>
         </div>
       </div>

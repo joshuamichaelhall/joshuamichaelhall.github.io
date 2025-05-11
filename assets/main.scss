@@ -1727,6 +1727,12 @@ section h2:after,
   color: var(--btn-primary-text);
 }
 
+.accent-btn {
+  background-color: var(--accent-color);
+  color: var(--btn-primary-text);
+  border: none;
+}
+
 .secondary-btn {
   background-color: var(--btn-secondary-bg);
   color: var(--btn-secondary-text);
@@ -1864,6 +1870,20 @@ input:focus, textarea:focus, select:focus {
   max-width: 650px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.building-in-public {
+  margin-top: 15px;
+  font-size: 1.1rem;
+  background-color: rgba(var(--primary-color-rgb), 0.08);
+  border-radius: 8px;
+  padding: 8px 15px;
+  display: inline-block;
+}
+
+.highlight {
+  font-weight: 700;
+  color: var(--primary-color);
 }
 
 .section-description {
@@ -2015,6 +2035,213 @@ input:focus, textarea:focus, select:focus {
   opacity: 1; /* Keep full opacity for readability */
   transform: translateY(-1px); /* Subtle lift effect */
   text-decoration: none;
+}
+
+/* Learning Roadmap Page Styles */
+.roadmap-phase {
+  margin-bottom: 40px;
+  border-left: 4px solid var(--border-color);
+  padding-left: 30px;
+  position: relative;
+}
+
+.roadmap-phase.current {
+  border-left-color: var(--primary-color);
+}
+
+.roadmap-phase.current:before {
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: var(--primary-color);
+  left: -12px;
+  top: 5px;
+}
+
+.roadmap-phase h3 {
+  margin-top: 0;
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+.roadmap-items {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  margin-top: 20px;
+}
+
+.roadmap-item {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+}
+
+.roadmap-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.08);
+}
+
+.roadmap-item h4 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  color: var(--text-color);
+  font-weight: 600;
+}
+
+.status {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.status.completed {
+  background-color: rgba(46, 160, 67, 0.15);
+  color: #2ea043;
+  border: 1px solid rgba(46, 160, 67, 0.3);
+}
+
+.status.in-progress {
+  background-color: rgba(246, 185, 59, 0.15);
+  color: #f6b93b;
+  border: 1px solid rgba(246, 185, 59, 0.3);
+}
+
+.status.planned {
+  background-color: rgba(88, 166, 255, 0.15);
+  color: #58a6ff;
+  border: 1px solid rgba(88, 166, 255, 0.3);
+}
+
+.timeline-indicator {
+  margin-top: 15px;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.dark-theme .status.completed {
+  background-color: rgba(46, 160, 67, 0.2);
+  color: #3bbd55;
+}
+
+.dark-theme .status.in-progress {
+  background-color: rgba(246, 185, 59, 0.2);
+  color: #ffca62;
+}
+
+.dark-theme .status.planned {
+  background-color: rgba(88, 166, 255, 0.2);
+  color: #79baff;
+}
+
+/* Certification timeline */
+.cert-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  padding-left: 30px;
+  border-left: 4px solid var(--border-color);
+}
+
+.cert-item {
+  position: relative;
+  padding: 20px;
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.cert-item:before {
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: var(--secondary-color);
+  left: -38px;
+  top: 25px;
+}
+
+.cert-badge {
+  display: inline-block;
+  padding: 8px 15px;
+  border-radius: 8px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  background-color: rgba(111, 66, 193, 0.1);
+  color: var(--secondary-color);
+  border: 1px solid rgba(111, 66, 193, 0.2);
+}
+
+.cert-timeframe {
+  display: inline-block;
+  margin-left: 15px;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+/* Newsletter form */
+.newsletter {
+  text-align: center;
+}
+
+.newsletter-form {
+  max-width: 500px;
+  margin: 30px auto;
+  display: flex;
+  gap: 10px;
+}
+
+.newsletter-form input[type="email"] {
+  flex: 1;
+  padding: 12px 15px;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  background-color: var(--card-bg);
+  color: var(--text-color);
+  font-size: 1rem;
+}
+
+.form-note {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-top: 10px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .roadmap-phase {
+    padding-left: 20px;
+  }
+
+  .newsletter-form {
+    flex-direction: column;
+  }
+
+  .cert-timeline {
+    padding-left: 25px;
+  }
+
+  .cert-item:before {
+    left: -33px;
+  }
+
+  .cert-badge, .cert-timeframe {
+    display: block;
+    margin-left: 0;
+    margin-bottom: 8px;
+  }
 }
 
 /* Enhanced styling for hero buttons */

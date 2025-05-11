@@ -23,6 +23,7 @@ plugins:
 header_pages:
   - pages/portfolio.md
   - pages/blog.md
+  - pages/roadmap.md
   - pages/about.md
   - pages/contact.md
 
