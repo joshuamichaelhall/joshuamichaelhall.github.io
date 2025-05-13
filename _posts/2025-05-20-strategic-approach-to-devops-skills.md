@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: post
 title: "Strategic Approach to DevOps Skills Development for Financial Services"
@@ -198,4 +197,3 @@ This strategic approach to DevOps skill development combines focused specializat
 In future posts, I'll document my progress through this skill development journey, sharing both successes and challenges along the way. I'm committed to building in public, allowing others to learn from my journey while creating accountability for my own progress.
 
 *This is the strategic framework for my DevOps learning journey. If you're on a similar path or have insights to share, I'd love to connect.*
-```
