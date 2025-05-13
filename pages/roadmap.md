@@ -1,106 +1,195 @@
 ---
 layout: page
-title: Learning Roadmap
+title: DevOps Career Roadmap
 permalink: /roadmap/
 ---
 
-# My DevOps Learning Journey
+# DevOps Career Roadmap
 
 <div class="content-section with-divider">
-  <h2>Building in Public</h2>
-  <p class="section-intro-text">I'm documenting my DevOps/SRE career transition in real-time, sharing both successes and challenges as I build my skills. This page outlines my learning roadmap and what content you can expect in the coming months.</p>
+  <h2>Strategic Skill Development for DevOps in Financial Services</h2>
+  <p class="section-intro-text">This roadmap outlines my structured approach to building expertise as a platform engineer in the financial services sector, focusing on AWS specialization, infrastructure automation, and security compliance.</p>
   
   <div class="quote">
-    <p>The best way to learn is to build in public — sharing your journey helps both you and others grow.</p>
+    <p>Master the basics. Then practice them every day without fail.</p>
+    <p class="quote-author">— John C. Maxwell</p>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Content Roadmap</h2>
+  <h2>Strategic Focus Areas</h2>
   
-  <div class="timeline">
-    <div class="roadmap-phase current">
-      <h3>Phase 1: Foundation Building (2025)</h3>
-      <div class="roadmap-items">
-        <div class="roadmap-item">
-          <span class="status in-progress">In Progress</span>
-          <h4>Infrastructure Automation Foundations</h4>
-          <p>Articles and projects focused on AWS fundamentals, Terraform basics, and initial infrastructure automation patterns.</p>
-          <p class="timeline-indicator">Expected: Q2-Q3 2025</p>
-        </div>
+  <div class="focus-areas-grid">
+    <div class="focus-area">
+      <h3>AWS Specialization</h3>
+      <p>Deep focus on AWS services for financial services environments, prioritizing security, compliance, and architecture patterns for regulated workloads.</p>
+    </div>
+    
+    <div class="focus-area">
+      <h3>Ruby Integration</h3>
+      <p>Leveraging existing Ruby expertise for faster progress in automation, integrating with AWS SDK and tooling for efficient infrastructure management.</p>
+    </div>
+    
+    <div class="focus-area">
+      <h3>Optimized Certification Sequence</h3>
+      <p>Strategic progression through certifications, prioritizing AWS and Terraform credentials for immediate value and financial services relevance.</p>
+    </div>
+    
+    <div class="focus-area">
+      <h3>Remote-First Approach</h3>
+      <p>Enhanced targeting of remote roles in financial services, building specific skills and portfolio projects that demonstrate remote collaboration capabilities.</p>
+    </div>
+  </div>
+</div>
 
-        <div class="roadmap-item">
-          <span class="status planned">Planned</span>
-          <h4>Terminal Workflow Optimization</h4>
-          <p>Detailed guides on setting up and optimizing a terminal-centric development environment for infrastructure tasks.</p>
-          <p class="timeline-indicator">Expected: Q2 2025</p>
-        </div>
-
-        <div class="roadmap-item">
-          <span class="status planned">Planned</span>
-          <h4>Containerization Basics</h4>
-          <p>Creating and publishing Docker containerization projects with a focus on security best practices and multi-stage builds.</p>
-          <p class="timeline-indicator">Expected: Q3 2025</p>
-        </div>
-
-        <div class="roadmap-item">
-          <span class="status planned">Planned</span>
-          <h4>AWS Solutions Architect Learning Series</h4>
-          <p>Comprehensive series documenting my preparation for the AWS Solutions Architect Associate certification.</p>
-          <p class="timeline-indicator">Expected: Q2-Q4 2025</p>
-        </div>
+<div class="content-section with-divider">
+  <h2>Foundation Building Phase</h2>
+  
+  <div class="roadmap-phase">
+    <div class="phase-area">
+      <h3>AWS Core & Infrastructure as Code</h3>
+      <div class="phase-content">
+        <ul class="phase-goals">
+          <li>Master AWS core services (VPC, EC2, S3, IAM) through Adrian Cantrill's AWS SAA course</li>
+          <li>Configure AWS CLI and CloudShell for efficient cloud management</li>
+          <li>Study Linux fundamentals through "The Linux Command Line" and "How Linux Works"</li>
+          <li>Set up AWS SDK for Ruby and develop initial automation scripts</li>
+          <li>Create comprehensive VPC architecture with proper security controls</li>
+          <li>Begin AWS Infrastructure Automation project with Ruby integration</li>
+        </ul>
       </div>
     </div>
-
-    <div class="roadmap-phase">
-      <h3>Phase 2: Specialized Development (2025-2026)</h3>
-      <div class="roadmap-items">
-        <div class="roadmap-item">
-          <span class="status planned">Planned</span>
-          <h4>Financial Services Compliance for Infrastructure</h4>
-          <p>Articles and projects on implementing regulatory controls in infrastructure code with a focus on financial services requirements.</p>
-          <p class="timeline-indicator">Expected: Q4 2025-Q1 2026</p>
-        </div>
-
-        <div class="roadmap-item">
-          <span class="status planned">Planned</span>
-          <h4>Kubernetes for Financial Services</h4>
-          <p>Implementing secure Kubernetes deployments with the specific security controls needed for financial applications.</p>
-          <p class="timeline-indicator">Expected: Q1-Q2 2026</p>
-        </div>
-
-        <div class="roadmap-item">
-          <span class="status planned">Planned</span>
-          <h4>Observability Stack Implementation</h4>
-          <p>Setting up comprehensive monitoring, logging, and alerting for financial services applications.</p>
-          <p class="timeline-indicator">Expected: Q2 2026</p>
-        </div>
+    
+    <div class="phase-area">
+      <h3>AWS Certification & Terraform Mastery</h3>
+      <div class="phase-content">
+        <ul class="phase-goals">
+          <li>Complete AWS Solutions Architect Associate certification preparation</li>
+          <li>Master Terraform fundamentals using "Terraform: Up & Running"</li>
+          <li>Implement state management with S3 and DynamoDB</li>
+          <li>Create reusable Terraform modules for common infrastructure patterns</li>
+          <li>Integrate CI/CD for infrastructure validation with GitHub Actions</li>
+          <li>Expand AWS Infrastructure Automation project with Terraform components</li>
+        </ul>
       </div>
     </div>
+    
+    <div class="phase-area">
+      <h3>Financial Services Security & Compliance</h3>
+      <div class="phase-content">
+        <ul class="phase-goals">
+          <li>Complete HashiCorp Terraform Associate certification</li>
+          <li>Implement financial services compliance controls in infrastructure</li>
+          <li>Design multi-region architecture for high availability</li>
+          <li>Study AWS Financial Services Cloud Adoption Framework</li>
+          <li>Implement DevOps methodologies and Docker containerization basics</li>
+          <li>Complete Infrastructure as Code project with financial services focus</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
-    <div class="roadmap-phase">
-      <h3>Phase 3: Platform Engineering Focus (2026-2027)</h3>
-      <div class="roadmap-items">
-        <div class="roadmap-item">
-          <span class="status planned">Planned</span>
-          <h4>Security Automation Framework</h4>
-          <p>Developing a comprehensive security automation framework for infrastructure with policy-as-code implementations.</p>
-          <p class="timeline-indicator">Expected: Q3 2026</p>
-        </div>
+<div class="content-section with-divider">
+  <h2>Advanced Implementation Phase</h2>
+  
+  <div class="roadmap-phase">
+    <div class="phase-area">
+      <h3>AWS DevOps Specialization & Kubernetes Introduction</h3>
+      <div class="phase-content">
+        <ul class="phase-goals">
+          <li>Master AWS DevOps services (CodePipeline, CodeBuild, CodeDeploy)</li>
+          <li>Implement comprehensive AWS monitoring strategy with CloudWatch</li>
+          <li>Study advanced AWS networking and security services</li>
+          <li>Begin Kubernetes learning with local development environment</li>
+          <li>Practice with AWS EKS for container orchestration</li>
+          <li>Start Container Platform project with security focus</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="phase-area">
+      <h3>Portfolio Building & AWS Security</h3>
+      <div class="phase-content">
+        <ul class="phase-goals">
+          <li>Create targeted portfolio for DevOps positions</li>
+          <li>Study AWS security architecture and financial compliance requirements</li>
+          <li>Practice system design for financial services</li>
+          <li>Develop financial services specific security demonstrations</li>
+          <li>Implement AWS cost optimization strategies</li>
+          <li>Create comprehensive monitoring solutions for financial applications</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="phase-area">
+      <h3>DevOps Professional Development</h3>
+      <div class="phase-content">
+        <ul class="phase-goals">
+          <li>Contribute to open source infrastructure projects</li>
+          <li>Study AWS architectural patterns at scale</li>
+          <li>Begin preparation for AWS DevOps Professional certification</li>
+          <li>Implement process improvements in infrastructure automation</li>
+          <li>Document accomplishments and plan next development phase</li>
+          <li>Develop disaster recovery solutions for critical financial systems</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
-        <div class="roadmap-item">
-          <span class="status planned">Planned</span>
-          <h4>Financial Compliance as Code</h4>
-          <p>Advanced implementation of financial regulations as automated compliance checks in the infrastructure pipeline.</p>
-          <p class="timeline-indicator">Expected: Q4 2026</p>
-        </div>
-
-        <div class="roadmap-item">
-          <span class="status planned">Planned</span>
-          <h4>Platform Team Organization</h4>
-          <p>Articles on structuring platform engineering teams for financial services organizations.</p>
-          <p class="timeline-indicator">Expected: Q1 2027</p>
-        </div>
+<div class="content-section with-divider">
+  <h2>Advanced Specialization Phase</h2>
+  
+  <div class="roadmap-phase">
+    <div class="phase-area">
+      <h3>AWS Specialization Path</h3>
+      <div class="phase-content">
+        <ul class="phase-goals">
+          <li>AWS DevOps Professional certification</li>
+          <li>AWS Security Specialty certification</li>
+          <li>Financial services compliance automation in AWS</li>
+          <li>Advanced architecture patterns for regulated industries</li>
+          <li>AWS multi-region and disaster recovery for financial services</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="phase-area">
+      <h3>Container & Kubernetes Strategy</h3>
+      <div class="phase-content">
+          <li>Kubernetes for production workloads</li>
+          <li>AWS EKS advanced implementation</li>
+          <li>Kubernetes for financial services applications</li>
+          <li>Certified Kubernetes Administrator</li>
+          <li>GitOps implementation with Kubernetes</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="phase-area">
+      <h3>Platform Engineering Development</h3>
+      <div class="phase-content">
+        <ul class="phase-goals">
+          <li>Internal developer platforms on AWS</li>
+          <li>Self-service capabilities for engineering teams</li>
+          <li>Platform as a product approach</li>
+          <li>Financial services specific platform controls</li>
+          <li>AWS Landing Zone and Control Tower integration</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="phase-area">
+      <h3>Technical Leadership</h3>
+      <div class="phase-content">
+        <ul class="phase-goals">
+          <li>Technical leadership demonstrations</li>
+          <li>Architecture design and documentation</li>
+          <li>Engineering team mentorship</li>
+          <li>Financial services domain expertise development</li>
+          <li>Internal and external thought leadership</li>
+        </ul>
       </div>
     </div>
   </div>
@@ -112,45 +201,81 @@ permalink: /roadmap/
   <div class="cert-timeline">
     <div class="cert-item">
       <div class="cert-badge">AWS Solutions Architect Associate</div>
-      <div class="cert-timeframe">Q3-Q4 2025</div>
-      <p>Progress updates and study notes will be shared as I prepare.</p>
+      <div class="cert-timeframe">Foundation Phase</div>
+      <p>Foundational certification for AWS architecture knowledge</p>
     </div>
 
     <div class="cert-item">
       <div class="cert-badge">HashiCorp Terraform Associate</div>
-      <div class="cert-timeframe">Q4 2025</div>
-      <p>Implementation projects and preparation resources will be published.</p>
-    </div>
-
-    <div class="cert-item">
-      <div class="cert-badge">Kubernetes Administrator (CKA)</div>
-      <div class="cert-timeframe">Q1 2026</div>
-      <p>Hands-on Kubernetes projects and study materials.</p>
+      <div class="cert-timeframe">Foundation Phase</div>
+      <p>Key differentiator for infrastructure automation skills</p>
     </div>
 
     <div class="cert-item">
       <div class="cert-badge">AWS DevOps Professional</div>
-      <div class="cert-timeframe">Q3 2026</div>
-      <p>Advanced AWS implementation projects and documentation.</p>
+      <div class="cert-timeframe">Advanced Phase</div>
+      <p>Advanced certification for DevOps career progression</p>
     </div>
 
     <div class="cert-item">
       <div class="cert-badge">AWS Security Specialty</div>
-      <div class="cert-timeframe">Q4 2026</div>
-      <p>Security-focused infrastructure projects and preparation notes.</p>
+      <div class="cert-timeframe">Specialization Phase</div>
+      <p>Specialized certification for financial services relevance</p>
     </div>
 
     <div class="cert-item">
-      <div class="cert-badge">Kubernetes Security Specialist (CKS)</div>
-      <div class="cert-timeframe">Q1 2027</div>
-      <p>Kubernetes security implementations and preparation resources.</p>
+      <div class="cert-badge">Certified Kubernetes Administrator (CKA)</div>
+      <div class="cert-timeframe">Specialization Phase</div>
+      <p>Advanced orchestration skills for platform engineering</p>
+    </div>
+  </div>
+</div>
+
+<div class="content-section with-divider">
+  <h2>Learning Structure</h2>
+  
+  <div class="weekly-structure">
+    <div class="structure-phase">
+      <h3>Full-Focus Learning Phase</h3>
+      <div class="time-allocation">
+        <div class="time-block" style="width: 50%">
+          <span class="block-label">Learning: 25 hrs (50%)</span>
+        </div>
+        <div class="time-block" style="width: 25%">
+          <span class="block-label">Projects: 12.5 hrs (25%)</span>
+        </div>
+        <div class="time-block" style="width: 15%">
+          <span class="block-label">Networking: 7.5 hrs (15%)</span>
+        </div>
+        <div class="time-block" style="width: 10%">
+          <span class="block-label">Content: 5 hrs (10%)</span>
+        </div>
+      </div>
+    </div>
+    
+    <div class="structure-phase">
+      <h3>Balanced Learning Phase</h3>
+      <div class="time-allocation">
+        <div class="time-block" style="width: 40%">
+          <span class="block-label">Learning: 8 hrs (40%)</span>
+        </div>
+        <div class="time-block" style="width: 25%">
+          <span class="block-label">Projects: 5 hrs (25%)</span>
+        </div>
+        <div class="time-block" style="width: 20%">
+          <span class="block-label">Networking: 4 hrs (20%)</span>
+        </div>
+        <div class="time-block" style="width: 15%">
+          <span class="block-label">Content: 3 hrs (15%)</span>
+        </div>
+      </div>
     </div>
   </div>
 </div>
 
 <div class="content-section newsletter">
   <h2>Follow My Journey</h2>
-  <p>Subscribe to receive updates as I add new content, projects, and milestone achievements.</p>
+  <p>Subscribe to receive updates as I progress through this roadmap, with detailed technical articles and project demonstrations.</p>
   
   <form action="https://formspree.io/f/mgvklebj" method="POST" class="newsletter-form">
     <input type="email" name="email" placeholder="Your email address" required>

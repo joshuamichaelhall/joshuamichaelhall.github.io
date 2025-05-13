@@ -11,29 +11,29 @@ permalink: /about/
     <img src="/assets/images/profile.jpg" alt="Joshua Michael Hall" />
   </div>
   <div class="profile-summary">
-    <p>I'm a DevOps/SRE engineer specializing in secure, reliable infrastructure for financial services. With a background in software engineering and IT leadership, I focus on infrastructure automation, containerization, and creating compliant platforms that enable business agility while maintaining operational excellence.</p>
-    <p>My approach combines deep technical expertise with a business-focused mindset, allowing me to design infrastructure solutions that address both technical requirements and organizational needs in highly regulated environments.</p>
+    <p>I'm a DevOps/SRE engineer specializing in infrastructure automation, containerization, and platform engineering for financial services. With a focus on AWS, Terraform, and security automation, I'm building a career that combines technical excellence with business value in regulated environments.</p>
+    <p>My approach combines mastery-based learning with deliberate practice, focusing on building strong technical foundations before advancing to specialized skills. I'm particularly interested in implementing infrastructure as code with compliance and security controls for financial services applications.</p>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Core Expertise</h2>
+  <h2>Technical Focus</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Infrastructure Automation</h3>
-      <p>Designing and implementing Infrastructure as Code solutions using Terraform and AWS CloudFormation, creating reproducible, version-controlled environments with proper state management and security controls.</p>
+      <h3>AWS Specialization</h3>
+      <p>Deep focus on AWS services for financial services environments, including security, compliance architecture, and automated deployment patterns for regulated workloads.</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Infrastructure as Code</h3>
+      <p>Mastering Terraform for automated, reproducible infrastructure with proper state management, modular design, and security controls for financial services requirements.</p>
     </div>
     <div class="expertise-item">
       <h3>Containerization & Orchestration</h3>
-      <p>Building containerized application platforms with Docker and Kubernetes, focusing on security, high availability, and operational efficiency for financial services workloads.</p>
-    </div>
-    <div class="expertise-item">
-      <h3>CI/CD & Automation</h3>
-      <p>Implementing robust continuous integration and delivery pipelines with GitHub Actions and Jenkins, enabling secure, automated application deployment and infrastructure changes.</p>
+      <p>Building expertise in Docker containerization and Kubernetes orchestration with emphasis on security, high availability, and compliance for financial applications.</p>
     </div>
     <div class="expertise-item">
       <h3>Security & Compliance</h3>
-      <p>Integrating security throughout the infrastructure lifecycle with compliance-as-code approaches, automated security scanning, and audit-ready implementation for financial regulations.</p>
+      <p>Implementing regulatory controls in infrastructure code, security automation, and compliance validation for financial services environments.</p>
     </div>
   </div>
 </div>
@@ -42,12 +42,12 @@ permalink: /about/
   <h2>Technical Environment</h2>
   <p>My development workflow is centered around terminal-based tools that maximize productivity and minimize context-switching:</p>
   <ul>
-    <li><strong>macOS</strong> as primary operating system with <strong>Linux</strong> for server environments</li>
-    <li><strong>Neovim</strong> as primary text editor/IDE with custom configurations for infrastructure development</li>
-    <li><strong>tmux</strong> for terminal multiplexing and persistent session management</li>
-    <li><strong>Command-line tools</strong> for infrastructure management and automation</li>
-    <li><strong>Shell scripting</strong> and Python for infrastructure automation</li>
-    <li><strong>Git/GitHub</strong> for version control and documentation</li>
+    <li><strong>Operating Systems:</strong> macOS and Linux with terminal-centric workflow</li>
+    <li><strong>Editor/IDE:</strong> Neovim with custom configuration for infrastructure development</li>
+    <li><strong>Terminal:</strong> tmux for session management and multi-window workflows</li>
+    <li><strong>Containerization:</strong> Docker and Kubernetes for application deployment</li>
+    <li><strong>Version Control:</strong> Git/GitHub for code management and collaboration</li>
+    <li><strong>Cloud Platform:</strong> AWS as primary cloud environment</li>
   </ul>
 </div>
 
@@ -58,92 +58,51 @@ permalink: /about/
 </div>
 
 <div class="content-section with-divider">
-  <h2>Certifications</h2>
-  
-  <div class="certifications-grid">
-    <div class="certification-item upcoming">
-      <h3>AWS Solutions Architect Associate</h3>
-      <p class="certification-status">In Progress - 2025</p>
-      <p>Comprehensive knowledge of AWS services and architecture best practices for designing secure, scalable cloud solutions.</p>
-    </div>
-
-    <div class="certification-item upcoming">
-      <h3>HashiCorp Terraform Associate</h3>
-      <p class="certification-status">Planned - 2025</p>
-      <p>Demonstrating proficiency with Terraform for infrastructure provisioning, state management, and implementation best practices.</p>
-    </div>
-
-    <div class="certification-item upcoming">
-      <h3>Certified Kubernetes Administrator (CKA)</h3>
-      <p class="certification-status">Planned - 2026</p>
-      <p>Advanced knowledge of Kubernetes architecture, installation, configuration, and management for production environments.</p>
-    </div>
-
-    <div class="certification-item upcoming">
-      <h3>AWS DevOps Professional</h3>
-      <p class="certification-status">Planned - 2026</p>
-      <p>Expert-level knowledge of continuous delivery, infrastructure automation, monitoring, and operational excellence on AWS.</p>
-    </div>
-
-    <div class="certification-item upcoming">
-      <h3>AWS Security Specialty</h3>
-      <p class="certification-status">Planned - 2026-2027</p>
-      <p>Specialized knowledge of AWS security services, compliance requirements, and advanced security implementation for financial services.</p>
-    </div>
-
-    <div class="certification-item upcoming">
-      <h3>Certified Kubernetes Security Specialist (CKS)</h3>
-      <p class="certification-status">Planned - 2026-2027</p>
-      <p>Advanced security expertise for Kubernetes environments, including cluster hardening, system vulnerabilities, and supply chain security.</p>
-    </div>
-  </div>
-</div>
-
-<div class="content-section with-divider">
-  <h2>Career Development</h2>
+  <h2>Professional Development</h2>
   
   <div class="career-stage">
-    <h3>2025: Foundation & Advanced Skills</h3>
+    <h3>Foundation Building</h3>
     <ul>
-      <li>Building foundational DevOps skills through certifications and hands-on projects</li>
-      <li>Developing expertise in AWS cloud, infrastructure as code, containerization, and Linux administration</li>
-      <li>Creating portfolio projects to demonstrate multi-environment infrastructure automation and CI/CD implementation</li>
-      <li>Earning initial certifications: AWS Solutions Architect Associate and Terraform Associate</li>
+      <li>AWS Solutions Architect Associate certification</li>
+      <li>Terraform Associate certification</li>
+      <li>Infrastructure as Code implementation for multi-environment deployment</li>
+      <li>Security automation for financial services compliance</li>
+      <li>Docker containerization fundamentals</li>
     </ul>
   </div>
 
   <div class="career-stage">
-    <h3>2026: Mid-Level DevOps Engineer</h3>
+    <h3>Advanced Implementation</h3>
     <ul>
-      <li>Securing mid-level DevOps/SRE position focused on financial services</li>
-      <li>Implementing security automation with compliance focus for regulated environments</li>
-      <li>Building domain knowledge in financial regulatory requirements</li>
-      <li>Advancing containerization expertise with service mesh and Kubernetes operators</li>
-      <li>Achieving Kubernetes Administrator (CKA) and AWS DevOps Professional certifications</li>
+      <li>AWS DevOps Professional certification</li>
+      <li>Kubernetes for container orchestration</li>
+      <li>CI/CD pipeline implementation</li>
+      <li>Financial services compliance expertise</li>
+      <li>Advanced monitoring and observability</li>
     </ul>
   </div>
 
   <div class="career-stage">
-    <h3>2026-2027: Senior Role Preparation</h3>
+    <h3>Platform Engineering Specialization</h3>
     <ul>
-      <li>Developing platform engineering expertise for financial services environments</li>
-      <li>Building technical leadership skills through mentoring and architectural design</li>
-      <li>Implementing advanced compliance frameworks and security automation</li>
-      <li>Positioning for senior role advancement with specialized financial services expertise</li>
-      <li>Obtaining AWS Security Specialty and Kubernetes Security (CKS) certifications</li>
+      <li>AWS Security Specialty certification</li>
+      <li>Certified Kubernetes Administrator</li>
+      <li>Platform engineering with financial services focus</li>
+      <li>Technical leadership and architecture design</li>
+      <li>Financial services domain expertise</li>
     </ul>
   </div>
 </div>
 
 <div class="content-section with-divider">
   <h2>Learning Philosophy</h2>
-  <p>My approach to professional development is guided by these principles:</p>
+  <p>My approach to technical learning and career development is guided by these principles:</p>
   <ul>
-    <li><strong>Mastery-based learning</strong>: Focusing on deep understanding over surface-level knowledge</li>
-    <li><strong>Fundamentals first</strong>: Building strong technical foundations before adopting advanced tools</li>
-    <li><strong>Deliberate practice</strong>: Targeted effort on specific skills with continuous improvement</li>
-    <li><strong>Terminal-centric workflow</strong>: Maximizing efficiency through command-line expertise</li>
-    <li><strong>Strategic skill development</strong>: Building capabilities aligned with long-term career objectives</li>
+    <li><strong>Mastery-based learning:</strong> Building deep understanding over surface knowledge</li>
+    <li><strong>Strong fundamentals:</strong> Establishing solid technical foundations before adopting complex tools</li>
+    <li><strong>Deliberate practice:</strong> Focused effort on specific skills with measurable improvement</li>
+    <li><strong>Terminal-centric workflow:</strong> Optimizing for efficiency through command-line expertise</li>
+    <li><strong>Strategic skill development:</strong> Aligning learning with long-term career objectives</li>
   </ul>
 </div>
 
@@ -154,7 +113,7 @@ permalink: /about/
     <li><a href="https://github.com/JoshuaMichaelHall-Tech">GitHub (Organization)</a></li>
     <li><a href="https://linkedin.com/in/joshuamichaelhall">LinkedIn</a></li>
     <li><a href="https://dev.to/joshuamichaelhall">Dev.to</a></li>
-    <li><a href="https://joshuamichaelhall.medium.com">Medium</a></li>
+    <li><a href="https://medium.com/@joshuamichaelhall">Medium</a></li>
   </ul>
   
   <div class="quote">

@@ -4,57 +4,173 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Portfolio
+# Project Portfolio
 
 <div class="content-section with-divider">
-  <h2>Featured Projects</h2>
-  <p class="section-intro-text">This portfolio demonstrates my progression through foundation building to specialized skills in financial services infrastructure. Each project represents a key phase in my career roadmap, from initial infrastructure automation to compliance-focused platform engineering for regulated environments.</p>
+  <h2>Skill Development Projects</h2>
+  <p class="section-intro-text">My portfolio demonstrates progressive skill development in DevOps and platform engineering. These projects showcase both technical implementation and documentation capabilities with a focus on financial services requirements.</p>
 
-  <div class="project-card featured">
-    <h2>Infrastructure as Code for Multi-Environment Deployment</h2>
-    <div class="project-details">
-      <div class="project-image">
-        <img src="/assets/images/terraform-aws.png" alt="Terraform AWS Infrastructure" />
+  <div class="portfolio-timeline">
+    <div class="timeline-section">
+      <h3>Foundation Projects</h3>
+      
+      <div class="project-card featured">
+        <h2>AWS Infrastructure Automation</h2>
+        <div class="project-status">Foundation Phase | In Progress</div>
+        <div class="project-details">
+          <div class="project-image">
+            <img src="/assets/images/terraform-aws.png" alt="Terraform AWS Infrastructure" />
+          </div>
+          <div class="project-description">
+            <p>Production-grade infrastructure modules for multi-environment deployment with comprehensive security controls, state management, and financial services compliance documentation.</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+              <li>Multi-account AWS architecture with security boundaries</li>
+              <li>Terraform modules for standardized infrastructure components</li>
+              <li>State management with S3 and DynamoDB locking</li>
+              <li>IAM implementation with least privilege principles</li>
+              <li>Automated compliance verification for financial services</li>
+              <li>CI/CD integration with GitHub Actions</li>
+            </ul>
+            <p class="technologies">
+              <strong>Technologies:</strong> Terraform, AWS, GitHub Actions, Ruby, IAM, VPC, S3, RDS
+            </p>
+            <div class="project-links">
+              <a href="https://github.com/JoshuaMichaelHall/finapp-infrastructure" class="github-link" target="_blank">View on GitHub</a>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="project-description">
-        <p>Production-grade infrastructure modules for dev/test/prod environments with state management, security controls, and compliance documentation for financial services.</p>
-        <p class="technologies">
-          <strong>Technologies:</strong> Terraform, AWS, GitHub Actions, IAM, VPC, S3, RDS
-        </p>
-        <div class="project-links">
-          <a href="https://github.com/JoshuaMichaelHall/finapp-infrastructure" class="github-link" target="_blank">View on GitHub</a>
+      
+      <div class="project-card">
+        <h2>Multi-Environment CI/CD Pipeline Framework</h2>
+        <div class="project-status">Foundation Phase | Planning</div>
+        <div class="project-details">
+          <div class="project-description">
+            <p>Comprehensive CI/CD pipeline implementation for application deployment across development, testing, and production environments with security scanning, compliance verification, and automated rollbacks.</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+              <li>Multi-stage deployment pipeline with environment promotion</li>
+              <li>Security scanning integration (static and dynamic)</li>
+              <li>Compliance verification for financial regulations</li>
+              <li>Automated testing with Ruby and Python</li>
+              <li>Approval workflows for production deployments</li>
+              <li>Automated rollback capabilities</li>
+            </ul>
+            <p class="technologies">
+              <strong>Technologies:</strong> GitHub Actions, AWS CodePipeline, Docker, Terraform, Ruby
+            </p>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-
-  <div class="project-card featured">
-    <h2>Containerized Microservices Platform</h2>
-    <div class="project-details">
-      <div class="project-image">
-        <img src="/assets/images/kubernetes.png" alt="Kubernetes Platform" />
+    
+    <div class="timeline-section">
+      <h3>Advanced Implementation Projects</h3>
+      
+      <div class="project-card">
+        <h2>Container Platform with AWS ECS/EKS</h2>
+        <div class="project-status">Advanced Phase | Planning</div>
+        <div class="project-details">
+          <div class="project-description">
+            <p>Containerized application platform using Docker and Kubernetes with financial services security controls, high availability configuration, and comprehensive monitoring integration.</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+              <li>Secure container deployment on AWS ECS/EKS</li>
+              <li>Container image security scanning and validation</li>
+              <li>High availability configuration for critical workloads</li>
+              <li>Kubernetes RBAC implementation for access control</li>
+              <li>Prometheus and Grafana integration for monitoring</li>
+              <li>Financial compliance controls for containerized apps</li>
+            </ul>
+            <p class="technologies">
+              <strong>Technologies:</strong> Docker, Kubernetes, AWS ECS/EKS, Prometheus, Grafana, RBAC
+            </p>
+          </div>
+        </div>
       </div>
-      <div class="project-description">
-        <p>Multi-service application containerization with Kubernetes deployment manifests, monitoring integration, and security implementation focusing on high availability for financial applications.</p>
-        <p class="technologies">
-          <strong>Technologies:</strong> Docker, Kubernetes, Prometheus, Grafana, RBAC
-        </p>
-        <div class="project-links">
-          <a href="https://github.com/JoshuaMichaelHall/container-platform" class="github-link" target="_blank">View on GitHub</a>
+      
+      <div class="project-card">
+        <h2>Security Automation Suite</h2>
+        <div class="project-status">Advanced Phase | Future Project</div>
+        <div class="project-details">
+          <div class="project-description">
+            <p>Comprehensive security automation framework for AWS infrastructure with compliance reporting, automated remediation, and audit evidence collection for financial services regulations.</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+              <li>Infrastructure security scanning automation</li>
+              <li>Compliance reporting for financial regulations</li>
+              <li>Automated remediation for common findings</li>
+              <li>Audit evidence collection and storage</li>
+              <li>Real-time security alerting</li>
+              <li>Integration with existing security tools</li>
+            </ul>
+            <p class="technologies">
+              <strong>Technologies:</strong> AWS Security Hub, AWS Config, CloudWatch, Lambda, Python, Terraform
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="timeline-section">
+      <h3>Specialization Projects</h3>
+      
+      <div class="project-card">
+        <h2>Kubernetes on AWS EKS Platform</h2>
+        <div class="project-status">Specialization Phase | Future Project</div>
+        <div class="project-details">
+          <div class="project-description">
+            <p>Advanced Kubernetes platform implementation on AWS EKS with comprehensive security controls, GitOps deployment, and financial services compliance integration for enterprise applications.</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+              <li>Multi-cluster Kubernetes architecture on AWS</li>
+              <li>Advanced security controls and pod security policies</li>
+              <li>GitOps implementation with Flux or ArgoCD</li>
+              <li>Service mesh implementation for secure communication</li>
+              <li>Financial compliance controls with policy engines</li>
+              <li>Advanced observability and monitoring</li>
+            </ul>
+            <p class="technologies">
+              <strong>Technologies:</strong> Kubernetes, AWS EKS, Istio, Flux/ArgoCD, OPA/Gatekeeper, Prometheus
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="project-card">
+        <h2>Financial Services Developer Platform</h2>
+        <div class="project-status">Specialization Phase | Future Project</div>
+        <div class="project-details">
+          <div class="project-description">
+            <p>Internal developer platform for financial services teams with self-service capabilities, compliance guardrails, and automated environment provisioning with security controls built in.</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+              <li>Self-service portal for infrastructure provisioning</li>
+              <li>Pre-approved templates for common resources</li>
+              <li>Built-in compliance guardrails for financial regulations</li>
+              <li>Automated security scanning and validation</li>
+              <li>Cost management and optimization</li>
+              <li>Integration with existing CI/CD pipelines</li>
+            </ul>
+            <p class="technologies">
+              <strong>Technologies:</strong> AWS Service Catalog, Terraform, Kubernetes, Custom UI, IAM
+            </p>
+          </div>
         </div>
       </div>
     </div>
   </div>
 </div>
 
-<div class="content-section">
-  <h2>Career Progression Projects</h2>
-  <p class="section-intro-text">Explore projects that demonstrate my planned skill progression from foundational infrastructure to advanced financial services compliance and platform engineering, organized by focus area.</p>
+<div class="content-section with-divider">
+  <h2>Technical Focus Categories</h2>
+  <p class="section-intro-text">Explore my projects by technical focus area, showcasing specialized skills in infrastructure automation, containerization, security, and monitoring for financial services environments.</p>
 
   <div class="project-filter">
-    <button class="filter-btn active" data-category="all">All</button>
+    <button class="filter-btn active" data-category="all">All Projects</button>
     <button class="filter-btn" data-category="infrastructure">Infrastructure</button>
-    <button class="filter-btn" data-category="containers">Containers</button>
+    <button class="filter-btn" data-category="containers">Containerization</button>
     <button class="filter-btn" data-category="security">Security</button>
     <button class="filter-btn" data-category="monitoring">Monitoring</button>
   </div>
@@ -79,10 +195,43 @@ permalink: /portfolio/
   </div>
 </div>
 
+<div class="content-section">
+  <h2>Value Creation Focus</h2>
+  
+  <p class="section-intro-text">My portfolio projects are designed to create specific value for financial services organizations across several key dimensions:</p>
+  
+  <div class="value-areas-grid">
+    <div class="value-area-item">
+      <h3>Compliance Risk Reduction</h3>
+      <p>Implementing security and compliance as code to ensure consistent application of regulatory controls and reduce the risk of compliance violations.</p>
+    </div>
+    
+    <div class="value-area-item">
+      <h3>Deployment Velocity</h3>
+      <p>Automating infrastructure provisioning and deployment pipelines to increase the speed of delivery while maintaining security and reliability standards.</p>
+    </div>
+    
+    <div class="value-area-item">
+      <h3>System Reliability</h3>
+      <p>Building robust, self-healing infrastructure with proper monitoring and alerting to ensure critical financial systems maintain high availability.</p>
+    </div>
+    
+    <div class="value-area-item">
+      <h3>Security Posture</h3>
+      <p>Creating security automation and validation systems that continuously verify and enforce security controls for all infrastructure components.</p>
+    </div>
+    
+    <div class="value-area-item">
+      <h3>Operational Efficiency</h3>
+      <p>Implementing cost optimization and resource management solutions that improve resource utilization while maintaining performance requirements.</p>
+    </div>
+  </div>
+</div>
+
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     const filterButtons = document.querySelectorAll('.filter-btn');
-    const projectCards = document.querySelectorAll('.project-card');
+    const projectCards = document.querySelectorAll('.projects-grid .project-card');
     
     filterButtons.forEach(button => {
       button.addEventListener('click', function() {

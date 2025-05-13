@@ -1,0 +1,51 @@
+/* Value Areas Styles */
+.value-areas-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.value-area-item {
+  background: linear-gradient(135deg, 
+    rgba(var(--primary-color-rgb), 0.05) 0%, 
+    rgba(var(--secondary-color-rgb), 0.05) 100%);
+  border-radius: 10px;
+  padding: 1.5rem;
+  border: 1px solid rgba(var(--primary-color-rgb), 0.1);
+  height: 100%;
+}
+
+.value-area-item h3 {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+/* Update project status display */
+.project-status {
+  font-size: 0.9rem;
+  color: var(--text-light-color);
+  margin-bottom: 1rem;
+  display: inline-block;
+  background-color: rgba(var(--text-light-color-rgb), 0.1);
+  padding: 0.2rem 0.6rem;
+  border-radius: 20px;
+}
+
+/* Add new styles for section intro text */
+.section-intro-text {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: var(--text-color);
+  margin-bottom: 2rem;
+  max-width: 800px;
+}
+
+/* Add responsive styles for the value areas */
+@media (max-width: 768px) {
+  .value-areas-grid {
+    grid-template-columns: 1fr;
+  }
+}
