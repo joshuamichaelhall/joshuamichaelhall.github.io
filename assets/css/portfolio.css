@@ -1,0 +1,42 @@
+/* Portfolio specific styles */
+
+/* Fix alignment of value area items */
+.value-areas-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  align-items: start; /* Align items at the start of the grid cell */
+}
+
+.value-area-item {
+  background: linear-gradient(135deg, 
+    rgba(var(--primary-color-rgb), 0.05) 0%, 
+    rgba(var(--secondary-color-rgb), 0.05) 100%);
+  border-radius: 10px;
+  padding: 1.5rem;
+  border: 1px solid rgba(var(--primary-color-rgb), 0.1);
+  height: auto; /* Change from 100% to auto */
+  display: flex;
+  flex-direction: column;
+}
+
+.value-area-item h3 {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+/* Ensure consistent paragraph heights */
+.value-area-item p {
+  margin-bottom: 0;
+  flex-grow: 1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .value-areas-grid {
+    grid-template-columns: 1fr;
+  }
+}
