@@ -7,7 +7,7 @@ permalink: /roadmap/
 # DevOps Career Roadmap
 
 <div class="content-section with-divider">
-  <h2>Strategic Skill Development for DevOps in Financial Services</h2>
+  <h2 style="text-align: center;">Strategic Skill Development for DevOps in Financial Services</h2>
   <p class="section-intro-text">This roadmap outlines my structured approach to building expertise as a platform engineer in the financial services sector, focusing on AWS specialization, infrastructure automation, and security compliance.</p>
   
   <div class="quote">
@@ -17,7 +17,7 @@ permalink: /roadmap/
 </div>
 
 <div class="content-section with-divider">
-  <h2>Strategic Focus Areas</h2>
+  <h2 style="text-align: center;">Strategic Focus Areas</h2>
   
   <div class="focus-areas-grid">
     <div class="focus-area">
@@ -43,7 +43,7 @@ permalink: /roadmap/
 </div>
 
 <div class="content-section with-divider">
-  <h2>Foundation Building Phase</h2>
+  <h2 style="text-align: center;">Foundation Building Phase</h2>
   
   <div class="roadmap-phase">
     <div class="phase-area">
@@ -91,7 +91,7 @@ permalink: /roadmap/
 </div>
 
 <div class="content-section with-divider">
-  <h2>Advanced Implementation Phase</h2>
+  <h2 style="text-align: center;">Advanced Implementation Phase</h2>
   
   <div class="roadmap-phase">
     <div class="phase-area">
@@ -139,7 +139,7 @@ permalink: /roadmap/
 </div>
 
 <div class="content-section with-divider">
-  <h2>Advanced Specialization Phase</h2>
+  <h2 style="text-align: center;">Advanced Specialization Phase</h2>
   
   <div class="roadmap-phase">
     <div class="phase-area">
@@ -158,6 +158,7 @@ permalink: /roadmap/
     <div class="phase-area">
       <h3>Container & Kubernetes Strategy</h3>
       <div class="phase-content">
+        <ul class="phase-goals">
           <li>Kubernetes for production workloads</li>
           <li>AWS EKS advanced implementation</li>
           <li>Kubernetes for financial services applications</li>
@@ -196,7 +197,7 @@ permalink: /roadmap/
 </div>
 
 <div class="content-section with-divider">
-  <h2>Certification Timeline</h2>
+  <h2 style="text-align: center;">Certification Timeline</h2>
   
   <div class="cert-timeline">
     <div class="cert-item">
@@ -231,50 +232,9 @@ permalink: /roadmap/
   </div>
 </div>
 
-<div class="content-section with-divider">
-  <h2>Learning Structure</h2>
-  
-  <div class="weekly-structure">
-    <div class="structure-phase">
-      <h3>Full-Focus Learning Phase</h3>
-      <div class="time-allocation">
-        <div class="time-block" style="width: 50%">
-          <span class="block-label">Learning: 25 hrs (50%)</span>
-        </div>
-        <div class="time-block" style="width: 25%">
-          <span class="block-label">Projects: 12.5 hrs (25%)</span>
-        </div>
-        <div class="time-block" style="width: 15%">
-          <span class="block-label">Networking: 7.5 hrs (15%)</span>
-        </div>
-        <div class="time-block" style="width: 10%">
-          <span class="block-label">Content: 5 hrs (10%)</span>
-        </div>
-      </div>
-    </div>
-    
-    <div class="structure-phase">
-      <h3>Balanced Learning Phase</h3>
-      <div class="time-allocation">
-        <div class="time-block" style="width: 40%">
-          <span class="block-label">Learning: 8 hrs (40%)</span>
-        </div>
-        <div class="time-block" style="width: 25%">
-          <span class="block-label">Projects: 5 hrs (25%)</span>
-        </div>
-        <div class="time-block" style="width: 20%">
-          <span class="block-label">Networking: 4 hrs (20%)</span>
-        </div>
-        <div class="time-block" style="width: 15%">
-          <span class="block-label">Content: 3 hrs (15%)</span>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 <div class="content-section newsletter">
-  <h2>Follow My Journey</h2>
+  <h2 style="text-align: center;">Follow My Journey</h2>
   <p>Subscribe to receive updates as I progress through this roadmap, with detailed technical articles and project demonstrations.</p>
   
   <form action="https://formspree.io/f/mgvklebj" method="POST" class="newsletter-form">

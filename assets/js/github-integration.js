@@ -7,9 +7,29 @@ document.addEventListener('DOMContentLoaded', function() {
 
       // No description text needed
 
-      // Filter out unwanted repositories and limit to 6
+      // Career-relevant project names (all projects should contain these keywords to be considered career-relevant)
+      const careerRelevantKeywords = [
+        'infrastructure', 'terraform', 'aws', 'kubernetes', 'k8s', 'docker', 
+        'container', 'devops', 'cicd', 'ci-cd', 'pipeline', 'security', 'compliance',
+        'monitoring', 'platform', 'finapp', 'cloud', 'automation'
+      ];
+      
+      // Filter for career-relevant repositories and limit to 6
       const filteredRepos = data
-        .filter(repo => repo.name !== '.github' && repo.name !== 'joshuamichaelhall.github.io') // Filter out .github and personal site repos
+        .filter(repo => {
+          // Always exclude these repos
+          if (repo.name === '.github' || repo.name === 'joshuamichaelhall.github.io') {
+            return false;
+          }
+          
+          // Check if repo name or description contains career-relevant keywords
+          const repoNameLower = repo.name.toLowerCase();
+          const repoDescLower = repo.description ? repo.description.toLowerCase() : '';
+          
+          return careerRelevantKeywords.some(keyword => 
+            repoNameLower.includes(keyword) || repoDescLower.includes(keyword)
+          );
+        })
         .slice(0, 6);
 
       if (filteredRepos.length === 0) {
@@ -23,15 +43,22 @@ document.addEventListener('DOMContentLoaded', function() {
       
       // Default descriptions for specific repositories if they're missing
       const defaultDescriptions = {
-        'anki-converter': 'Command-line tool that converts Markdown notes to CSV files for efficient Anki flashcard creation.',
-        'articles': 'Collection of technical articles on DevOps, infrastructure automation, and cloud architecture.',
-        'JoshuaMichaelHall': 'Configuration and profile customization for my GitHub account with DevOps focus.'
+        'finapp-infrastructure': 'Production-grade infrastructure modules for financial services environments with security controls and compliance documentation.',
+        'container-platform': 'Containerized application platform with Kubernetes deployment manifests and security implementation for financial services.',
+        'security-automation': 'Infrastructure security scanning automation and compliance reporting tools for financial regulations.',
+        'cicd-pipeline': 'Complete CI/CD pipeline for application deployment with testing, security scanning and automated rollbacks.',
+        'fin-k8s-operator': 'Custom Kubernetes operator for managing financial application deployments with compliance controls.',
+        'monitoring-dashboard': 'Comprehensive monitoring solution for infrastructure and applications with financial services focus.'
       };
       
       // Default languages for repositories that might not have a language specified
       const defaultLanguages = {
-        'articles': 'Markdown',
-        'JoshuaMichaelHall': 'Markdown'
+        'finapp-infrastructure': 'Terraform',
+        'container-platform': 'Docker',
+        'security-automation': 'Python',
+        'cicd-pipeline': 'YAML',
+        'fin-k8s-operator': 'Go',
+        'monitoring-dashboard': 'Terraform'
       };
       
       filteredRepos.forEach(repo => {
@@ -39,10 +66,10 @@ document.addEventListener('DOMContentLoaded', function() {
         projectDiv.className = 'project-card';
 
         // Use default description if none is available
-        const description = repo.description || defaultDescriptions[repo.name] || 'DevOps/SRE project in development.';
+        const description = repo.description || defaultDescriptions[repo.name] || 'DevOps/SRE project focused on infrastructure automation, containerization, and security for financial services.';
 
         // Use default language if none is specified
-        const language = repo.language || defaultLanguages[repo.name] || 'Not specified';
+        const language = repo.language || defaultLanguages[repo.name] || 'YAML';
 
         projectDiv.innerHTML = `
           <h3><a href="${repo.html_url}">${repo.name}</a></h3>

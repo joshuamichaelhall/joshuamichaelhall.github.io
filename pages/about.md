@@ -41,14 +41,32 @@ permalink: /about/
 <div class="content-section with-divider">
   <h2>Technical Environment</h2>
   <p>My development workflow is centered around terminal-based tools that maximize productivity and minimize context-switching:</p>
-  <ul>
-    <li><strong>Operating Systems:</strong> macOS and Linux with terminal-centric workflow</li>
-    <li><strong>Editor/IDE:</strong> Neovim with custom configuration for infrastructure development</li>
-    <li><strong>Terminal:</strong> tmux for session management and multi-window workflows</li>
-    <li><strong>Containerization:</strong> Docker and Kubernetes for application deployment</li>
-    <li><strong>Version Control:</strong> Git/GitHub for code management and collaboration</li>
-    <li><strong>Cloud Platform:</strong> AWS as primary cloud environment</li>
-  </ul>
+  <div class="expertise-grid">
+    <div class="expertise-item">
+      <h3>Operating Systems</h3>
+      <p>macOS and Linux with terminal-centric workflow</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Editor/IDE</h3>
+      <p>Neovim with custom configuration for infrastructure development</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Terminal</h3>
+      <p>tmux for session management and multi-window workflows</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Containerization</h3>
+      <p>Docker and Kubernetes for application deployment</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Version Control</h3>
+      <p>Git/GitHub for code management and collaboration</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Cloud Platform</h3>
+      <p>AWS as primary cloud environment</p>
+    </div>
+  </div>
 </div>
 
 <div class="content-section with-divider">
@@ -60,61 +78,81 @@ permalink: /about/
 <div class="content-section with-divider">
   <h2>Professional Development</h2>
   
-  <div class="career-stage">
-    <h3>Foundation Building</h3>
-    <ul>
-      <li>AWS Solutions Architect Associate certification</li>
-      <li>Terraform Associate certification</li>
-      <li>Infrastructure as Code implementation for multi-environment deployment</li>
-      <li>Security automation for financial services compliance</li>
-      <li>Docker containerization fundamentals</li>
-    </ul>
-  </div>
+  <div class="expertise-grid">
+    <div class="expertise-item">
+      <h3>Foundation Building</h3>
+      <p>AWS Solutions Architect Associate certification</p>
+      <p>Terraform Associate certification</p>
+      <p>Infrastructure as Code implementation for multi-environment deployment</p>
+      <p>Security automation for financial services compliance</p>
+      <p>Docker containerization fundamentals</p>
+    </div>
 
-  <div class="career-stage">
-    <h3>Advanced Implementation</h3>
-    <ul>
-      <li>AWS DevOps Professional certification</li>
-      <li>Kubernetes for container orchestration</li>
-      <li>CI/CD pipeline implementation</li>
-      <li>Financial services compliance expertise</li>
-      <li>Advanced monitoring and observability</li>
-    </ul>
-  </div>
+    <div class="expertise-item">
+      <h3>Advanced Implementation</h3>
+      <p>AWS DevOps Professional certification</p>
+      <p>Kubernetes for container orchestration</p>
+      <p>CI/CD pipeline implementation</p>
+      <p>Financial services compliance expertise</p>
+      <p>Advanced monitoring and observability</p>
+    </div>
 
-  <div class="career-stage">
-    <h3>Platform Engineering Specialization</h3>
-    <ul>
-      <li>AWS Security Specialty certification</li>
-      <li>Certified Kubernetes Administrator</li>
-      <li>Platform engineering with financial services focus</li>
-      <li>Technical leadership and architecture design</li>
-      <li>Financial services domain expertise</li>
-    </ul>
+    <div class="expertise-item">
+      <h3>Platform Engineering Specialization</h3>
+      <p>AWS Security Specialty certification</p>
+      <p>Certified Kubernetes Administrator</p>
+      <p>Platform engineering with financial services focus</p>
+      <p>Technical leadership and architecture design</p>
+      <p>Financial services domain expertise</p>
+    </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
   <h2>Learning Philosophy</h2>
   <p>My approach to technical learning and career development is guided by these principles:</p>
-  <ul>
-    <li><strong>Mastery-based learning:</strong> Building deep understanding over surface knowledge</li>
-    <li><strong>Strong fundamentals:</strong> Establishing solid technical foundations before adopting complex tools</li>
-    <li><strong>Deliberate practice:</strong> Focused effort on specific skills with measurable improvement</li>
-    <li><strong>Terminal-centric workflow:</strong> Optimizing for efficiency through command-line expertise</li>
-    <li><strong>Strategic skill development:</strong> Aligning learning with long-term career objectives</li>
-  </ul>
+  <div class="expertise-grid">
+    <div class="expertise-item">
+      <h3>Mastery-based learning</h3>
+      <p>Building deep understanding over surface knowledge</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Strong fundamentals</h3>
+      <p>Establishing solid technical foundations before adopting complex tools</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Deliberate practice</h3>
+      <p>Focused effort on specific skills with measurable improvement</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Terminal-centric workflow</h3>
+      <p>Optimizing for efficiency through command-line expertise</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Strategic skill development</h3>
+      <p>Aligning learning with long-term career objectives</p>
+    </div>
+  </div>
 </div>
 
 <div class="content-section">
   <h2>Connect With Me</h2>
-  <ul class="connect-list">
-    <li><a href="https://github.com/JoshuaMichaelHall">GitHub (Personal)</a></li>
-    <li><a href="https://github.com/JoshuaMichaelHall-Tech">GitHub (Organization)</a></li>
-    <li><a href="https://linkedin.com/in/joshuamichaelhall">LinkedIn</a></li>
-    <li><a href="https://dev.to/joshuamichaelhall">Dev.to</a></li>
-    <li><a href="https://medium.com/@joshuamichaelhall">Medium</a></li>
-  </ul>
+  <div class="expertise-grid">
+    <div class="expertise-item">
+      <h3>GitHub</h3>
+      <p><a href="https://github.com/JoshuaMichaelHall">Personal Account</a></p>
+      <p><a href="https://github.com/JoshuaMichaelHall-Tech">Organization</a></p>
+    </div>
+    <div class="expertise-item">
+      <h3>LinkedIn</h3>
+      <p><a href="https://linkedin.com/in/joshuamichaelhall">Professional Profile</a></p>
+    </div>
+    <div class="expertise-item">
+      <h3>Technical Writing</h3>
+      <p><a href="https://dev.to/joshuamichaelhall">Dev.to Articles</a></p>
+      <p><a href="https://medium.com/@joshuamichaelhall">Medium Publications</a></p>
+    </div>
+  </div>
   
   <div class="quote">
     <p>Master the basics. Then practice them every day without fail.</p>

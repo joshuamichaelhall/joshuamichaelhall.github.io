@@ -23,13 +23,6 @@
   featured: false
   category: "security"
 
-- title: "DevOps Monitoring Dashboard"
-  description: "Comprehensive monitoring and alerting solution for infrastructure and applications with financial services focus, including SLO tracking."
-  technologies: ["Prometheus", "Grafana", "Alertmanager", "ELK Stack"]
-  github: "https://github.com/JoshuaMichaelHall/monitoring-dashboard"
-  image: "/assets/images/monitoring-dashboard.png"
-  featured: false
-  category: "monitoring"
 
 - title: "CI/CD Pipeline Implementation"
   description: "Complete CI/CD pipeline for application deployment with testing, security scanning, and automated rollbacks with approval workflows."

@@ -64,17 +64,15 @@ layout: default
       <div class="timeline-content">
         <h3>Foundation Building</h3>
         <p>Building foundational DevOps skills through AWS certification and hands-on infrastructure projects. Developing expertise in AWS cloud architecture, Terraform for infrastructure as code, and security automation for financial services environments.</p>
-        <div class="timeline-details-row">
-          <div class="timeline-skills">
-            <span class="skill-tag">AWS</span>
-            <span class="skill-tag">Terraform</span>
-            <span class="skill-tag">Infrastructure as Code</span>
-            <span class="skill-tag">Security</span>
-          </div>
-          <div class="timeline-certs">
-            <span class="cert-badge">AWS Solutions Architect Associate</span>
-            <span class="cert-badge">Terraform Associate</span>
-          </div>
+        <div class="timeline-skills">
+          <span class="skill-tag">AWS</span>
+          <span class="skill-tag">Terraform</span>
+          <span class="skill-tag">Infrastructure as Code</span>
+          <span class="skill-tag">Security</span>
+        </div>
+        <div class="timeline-certs">
+          <span class="cert-badge">AWS Solutions Architect Associate</span>
+          <span class="cert-badge">Terraform Associate</span>
         </div>
       </div>
     </div>
@@ -83,16 +81,14 @@ layout: default
       <div class="timeline-content">
         <h3>Mid-Level DevOps Engineer</h3>
         <p>Focus on DevOps/SRE position in financial services, implementing Docker containerization, Kubernetes orchestration, and CI/CD pipelines with strong security and compliance focus. Building specialized expertise in regulated cloud environments.</p>
-        <div class="timeline-details-row">
-          <div class="timeline-skills">
-            <span class="skill-tag">Docker</span>
-            <span class="skill-tag">Kubernetes</span>
-            <span class="skill-tag">CI/CD</span>
-            <span class="skill-tag">Financial Compliance</span>
-          </div>
-          <div class="timeline-certs">
-            <span class="cert-badge">AWS DevOps Professional</span>
-          </div>
+        <div class="timeline-skills">
+          <span class="skill-tag">Docker</span>
+          <span class="skill-tag">Kubernetes</span>
+          <span class="skill-tag">CI/CD</span>
+          <span class="skill-tag">Financial Compliance</span>
+        </div>
+        <div class="timeline-certs">
+          <span class="cert-badge">AWS DevOps Professional</span>
         </div>
       </div>
     </div>
@@ -101,17 +97,15 @@ layout: default
       <div class="timeline-content">
         <h3>Senior Platform Engineer</h3>
         <p>Advancing to senior platform engineering role in financial services sector. Specializing in advanced security automation, platform engineering, and implementing financial compliance frameworks as code while developing technical leadership skills.</p>
-        <div class="timeline-details-row">
-          <div class="timeline-skills">
-            <span class="skill-tag">Platform Engineering</span>
-            <span class="skill-tag">AWS Security</span>
-            <span class="skill-tag">Kubernetes Security</span>
-            <span class="skill-tag">Compliance Automation</span>
-          </div>
-          <div class="timeline-certs">
-            <span class="cert-badge">AWS Security Specialty</span>
-            <span class="cert-badge">Kubernetes Administrator (CKA)</span>
-          </div>
+        <div class="timeline-skills">
+          <span class="skill-tag">Platform Engineering</span>
+          <span class="skill-tag">AWS Security</span>
+          <span class="skill-tag">Kubernetes Security</span>
+          <span class="skill-tag">Compliance Automation</span>
+        </div>
+        <div class="timeline-certs">
+          <span class="cert-badge">AWS Security Specialty</span>
+          <span class="cert-badge">Kubernetes Administrator (CKA)</span>
         </div>
       </div>
     </div>
