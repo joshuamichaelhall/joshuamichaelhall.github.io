@@ -5,7 +5,7 @@
     {% for skill in category.skills %}
     <div class="skill-item">
       <div class="skill-header">
-        <h4>{{ skill.name }}</h4>
+        <h4 class="skill-name">{{ skill.name }}</h4>
         <div class="skill-level">
           <div class="skill-bar">
             <div class="skill-progress" style="width: {{ skill.level }}%"></div>

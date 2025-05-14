@@ -39,6 +39,7 @@ permalink: /contact/
   <div class="services-tabs">
     <div class="tab-headers">
       <button class="tab-button active" data-tab="coaching">Career Coaching</button>
+      <button class="tab-button" data-tab="tools">Dashboards & Tools</button>
       <button class="tab-button" data-tab="web">Web Development</button>
       <button class="tab-button" data-tab="infra">Infrastructure</button>
     </div>
@@ -54,6 +55,22 @@ permalink: /contact/
           <li><strong>Certification Planning</strong> - Strategic certification approaches for career advancement</li>
           <li><strong>Portfolio Development</strong> - Guidance on building meaningful technical projects</li>
           <li><strong>Technical Interview Preparation</strong> - Infrastructure and systems design practice</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="tab-content" id="tools-tab">
+      <div class="services-box">
+        <h3>Business Dashboards & Custom Tools</h3>
+        <p>I develop custom dashboards and business tools that provide real-time insights and streamline your workflows. My software solutions help businesses track metrics, monitor progress, and make data-driven decisions with intuitive visualizations and secure data management.</p>
+        
+        <h4>Available Solutions:</h4>
+        <ul class="service-areas">
+          <li><strong>Performance Dashboards</strong> - Custom metrics visualization for business KPIs</li>
+          <li><strong>Progress Tracking Tools</strong> - Specialized software for tracking goals and initiatives</li>
+          <li><strong>Business Intelligence Systems</strong> - Data aggregation and visualization platforms</li>
+          <li><strong>Custom Business Tools</strong> - Specialized applications for your unique workflows</li>
+          <li><strong>CRM Integrations</strong> - Connect your data with existing systems like Clay CRM</li>
         </ul>
       </div>
     </div>
@@ -136,6 +153,7 @@ permalink: /contact/
           <option value="" disabled selected>Select a topic...</option>
           <optgroup label="Professional Services">
             <option value="Career Coaching">Career Coaching</option>
+            <option value="Dashboards & Tools">Dashboards & Tools</option>
             <option value="Web Development">Web Development</option>
             <option value="Infrastructure Services">Infrastructure Services</option>
           </optgroup>
@@ -210,6 +228,8 @@ permalink: /contact/
           subjectSelect.value = 'Infrastructure Services';
         } else if(service === 'coaching') {
           subjectSelect.value = 'Career Coaching';
+        } else if(service === 'tools') {
+          subjectSelect.value = 'Dashboards & Tools';
         }
       }
     }

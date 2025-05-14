@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DevOps Career Roadmap
+title: Roadmap
 permalink: /roadmap/
 ---
 

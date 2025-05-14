@@ -10,22 +10,32 @@
         <ul class="social-media-list">
           {% if site.github_username %}
           <li class="social-item">
-            <a href="https://github.com/{{ site.github_username }}">GitHub (Personal)</a>
+            <a href="https://github.com/{{ site.github_username }}" target="_blank">GitHub (Personal)</a>
           </li>
           {% endif %}
           {% if site.github_org_username %}
           <li class="social-item">
-            <a href="https://github.com/{{ site.github_org_username }}">GitHub (Organization)</a>
+            <a href="https://github.com/{{ site.github_org_username }}" target="_blank">GitHub (Organization)</a>
           </li>
           {% endif %}
           {% if site.linkedin_username %}
           <li class="social-item">
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank">LinkedIn</a>
+          </li>
+          {% endif %}
+          {% if site.medium_username %}
+          <li class="social-item">
+            <a href="https://medium.com/@{{ site.medium_username }}" target="_blank">Medium</a>
+          </li>
+          {% endif %}
+          {% if site.devto_username %}
+          <li class="social-item">
+            <a href="https://dev.to/{{ site.devto_username }}" target="_blank">Dev.to</a>
           </li>
           {% endif %}
           {% if site.twitter_username %}
           <li class="social-item">
-            <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+            <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a>
           </li>
           {% endif %}
         </ul>
@@ -35,6 +45,8 @@
         <ul class="footer-links">
           <li><a href="/">Home</a></li>
           <li><a href="/portfolio">Portfolio</a></li>
+          <li><a href="/dashboard">Dashboard</a></li>
+          <li><a href="/roadmap">Roadmap</a></li>
           <li><a href="/blog">Blog</a></li>
           <li><a href="/about">About</a></li>
           <li><a href="/contact">Contact</a></li>

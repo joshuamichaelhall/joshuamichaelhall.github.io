@@ -4,7 +4,9 @@
   technologies: ["React", "Node.js", "Express", "TailwindCSS", "JWT", "AES-256-GCM", "Chart.js"]
   github: "https://github.com/joshuamichaelhall/devops-career-dashboard"
   demo: "/dashboard"
+  live: "https://devops-dashboard.joshuamichaelhall.com"
   image: "/assets/images/dashboard/dashboard-main.png"
+  icon: "/assets/images/dashboard-icon.png"
   featured: true
   category: "monitoring"
 

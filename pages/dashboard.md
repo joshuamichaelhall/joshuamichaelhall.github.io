@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Career Dashboard
+title: Dashboard
 permalink: /dashboard/
 ---
 
@@ -66,7 +66,7 @@ permalink: /dashboard/
   <h2 style="text-align: center;">Dashboard Preview</h2>
   
   <div class="dashboard-preview">
-    <img src="/assets/images/dashboard/dashboard-main.png" alt="DevOps Career Dashboard" class="dashboard-screenshot" />
+    <img src="/assets/images/dashboard/dashboard-overview.png" alt="DevOps Career Dashboard" class="dashboard-screenshot" />
     <p class="caption">Main dashboard view showing skills, time allocation, and progress metrics</p>
   </div>
   

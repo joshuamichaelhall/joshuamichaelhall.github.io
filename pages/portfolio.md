@@ -15,7 +15,10 @@ permalink: /portfolio/
       <h3>Foundation Projects</h3>
       
       <div class="project-card featured">
-        <h2>DevOps Career Dashboard</h2>
+        <h2>
+          <img src="/assets/images/dashboard-icon.png" alt="Dashboard Icon" class="project-icon" />
+          DevOps Career Dashboard
+        </h2>
         <div class="project-status">Foundation Phase | Completed</div>
         <div class="project-details">
           <div class="project-image">
@@ -38,6 +41,7 @@ permalink: /portfolio/
             <div class="project-links">
               <a href="https://github.com/joshuamichaelhall/devops-career-dashboard" class="github-link" target="_blank">View on GitHub</a>
               <a href="/dashboard" class="demo-link">View Details</a>
+              <a href="https://devops-dashboard.joshuamichaelhall.com" class="live-link" target="_blank">Launch Dashboard</a>
             </div>
           </div>
         </div>

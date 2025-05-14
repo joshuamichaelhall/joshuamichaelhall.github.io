@@ -34,9 +34,54 @@
   flex-grow: 1;
 }
 
+/* Project icon styles */
+.project-icon {
+  width: 28px;
+  height: 28px;
+  vertical-align: middle;
+  margin-right: 8px;
+  margin-top: -3px;
+}
+
+.project-card h2 {
+  display: flex;
+  align-items: center;
+}
+
+/* Add live dashboard link style */
+.live-link {
+  background-color: var(--accent-color);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.live-link:hover {
+  background-color: var(--accent-dark-color, #e65c00);
+  transform: translateY(-2px);
+  text-decoration: none;
+  color: white;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .value-areas-grid {
     grid-template-columns: 1fr;
+  }
+  
+  .project-links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+  }
+  
+  .live-link {
+    margin-left: 0;
   }
 }

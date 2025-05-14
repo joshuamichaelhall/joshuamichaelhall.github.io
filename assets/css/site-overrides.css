@@ -1,41 +1,63 @@
-/* 
- * Site-wide contrast overrides
- * This file increases contrast for header and footer navigation elements
- */
+/* Site-specific overrides */
 
-/* Header navigation links with improved contrast */
-.site-nav .page-link {
-  color: #0c1419 !important; /* Darker than default --text-color for better contrast */
-  font-weight: 700 !important; /* Bold text for better visibility */
-  letter-spacing: 0.01em !important; /* Slight letter spacing for readability */
+/* Skill name styling */
+.skill-name {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 0.5rem;
 }
 
-.site-nav .page-link:hover {
-  color: #0366d6 !important; /* Primary color */
-  text-decoration: none !important;
+/* Ensuring skill descriptions are in the standard text color */
+.skill-description {
+  color: var(--text-color);
+  margin-bottom: 0;
+  font-size: 0.9rem;
 }
 
-/* Footer links with improved contrast */
-.footer-links li a,
-.social-media-list li a {
-  color: #0c1419 !important; /* Darker than default --text-color */
-  font-weight: 700 !important; /* Bold text for better visibility */
-  letter-spacing: 0.01em !important; /* Slight letter spacing for readability */
-  transition: color 0.3s ease !important;
+/* Skills section styling */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
 }
 
-.footer-links li a:hover,
-.social-media-list li a:hover {
-  color: #0366d6 !important; /* Primary color */
-  text-decoration: none !important;
+.skill-item {
+  background: linear-gradient(135deg, 
+    rgba(var(--bg-color-rgb), 1) 0%, 
+    rgba(var(--bg-content-rgb), 0.8) 100%);
+  border-radius: 8px;
+  padding: 1.2rem;
+  border: 1px solid rgba(var(--border-color-rgb), 1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Dark theme overrides */
-.dark-theme .site-nav .page-link {
-  color: #e6edf3 !important; /* Brighter than default --text-color for dark mode */
+.skill-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.08);
 }
 
-.dark-theme .footer-links li a,
-.dark-theme .social-media-list li a {
-  color: #e6edf3 !important; /* Brighter than default --text-color for dark mode */
+.skill-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.8rem;
+}
+
+.skill-level {
+  flex: 1;
+  margin-left: 1rem;
+}
+
+.skill-bar {
+  height: 6px;
+  background-color: rgba(var(--border-color-rgb), 0.5);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.skill-progress {
+  height: 100%;
+  background-color: var(--primary-color);
+  border-radius: 3px;
 }
