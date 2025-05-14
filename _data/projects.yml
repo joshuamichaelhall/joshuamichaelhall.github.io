@@ -1,4 +1,13 @@
 # Portfolio Projects
+- title: "DevOps Career Dashboard"
+  description: "Comprehensive career tracking platform with interactive metrics visualization, skills tracking, and learning management with security features including authentication and encrypted storage."
+  technologies: ["React", "Node.js", "Express", "TailwindCSS", "JWT", "AES-256-GCM", "Chart.js"]
+  github: "https://github.com/joshuamichaelhall/devops-career-dashboard"
+  demo: "/dashboard"
+  image: "/assets/images/dashboard/dashboard-main.png"
+  featured: true
+  category: "monitoring"
+
 - title: "Infrastructure as Code for Multi-Environment Deployment"
   description: "Production-grade infrastructure modules for dev/test/prod environments with state management, security controls, and compliance documentation for financial services."
   technologies: ["Terraform", "AWS", "GitHub Actions", "IAM", "VPC", "S3", "RDS"]

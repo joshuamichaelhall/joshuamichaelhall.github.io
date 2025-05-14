@@ -15,6 +15,35 @@ permalink: /portfolio/
       <h3>Foundation Projects</h3>
       
       <div class="project-card featured">
+        <h2>DevOps Career Dashboard</h2>
+        <div class="project-status">Foundation Phase | Completed</div>
+        <div class="project-details">
+          <div class="project-image">
+            <img src="/assets/images/dashboard/dashboard-main.png" alt="DevOps Career Dashboard" />
+          </div>
+          <div class="project-description">
+            <p>Comprehensive career tracking platform with interactive metrics visualization, skills tracking, and learning management. Includes authentication, API integration, and encrypted data storage with focus on security.</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+              <li>JWT-based authentication with role-based access control</li>
+              <li>AES-256-GCM encryption for sensitive data</li>
+              <li>RESTful API for dashboard data management</li>
+              <li>Clay CRM integration for professional networking</li>
+              <li>Interactive metrics visualization with Chart.js</li>
+              <li>Automated backup system for career data</li>
+            </ul>
+            <p class="technologies">
+              <strong>Technologies:</strong> React, Node.js, Express, TailwindCSS, JWT, Encryption, Chart.js
+            </p>
+            <div class="project-links">
+              <a href="https://github.com/joshuamichaelhall/devops-career-dashboard" class="github-link" target="_blank">View on GitHub</a>
+              <a href="/dashboard" class="demo-link">View Demo</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="project-card">
         <h2>AWS Infrastructure Automation</h2>
         <div class="project-status">Foundation Phase | In Progress</div>
         <div class="project-details">
