@@ -1,5 +1,10 @@
 /* Site-specific overrides */
 
+/* Dark mode styles for better contrast */
+.dark-theme .page-link {
+  color: rgba(255, 255, 255, 0.9); /* Brighter menu items in dark mode */
+}
+
 /* Skill name styling */
 .skill-name {
   color: var(--primary-color);
@@ -38,26 +43,5 @@
 }
 
 .skill-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   margin-bottom: 0.8rem;
-}
-
-.skill-level {
-  flex: 1;
-  margin-left: 1rem;
-}
-
-.skill-bar {
-  height: 6px;
-  background-color: rgba(var(--border-color-rgb), 0.5);
-  border-radius: 3px;
-  overflow: hidden;
-}
-
-.skill-progress {
-  height: 100%;
-  background-color: var(--primary-color);
-  border-radius: 3px;
 }

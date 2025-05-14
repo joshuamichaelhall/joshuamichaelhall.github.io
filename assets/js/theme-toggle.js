@@ -5,16 +5,21 @@ document.addEventListener('DOMContentLoaded', function() {
   const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
   
   // If the user has selected a theme before, use that; otherwise, use their system preference
-  if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+  const isDark = savedTheme === 'dark' || (!savedTheme && prefersDark);
+  if (isDark) {
     document.body.classList.add('dark-theme');
-    updateToggleButton(true);
   }
   
   // Create and add the toggle button to the navigation
   const toggleButton = document.createElement('button');
   toggleButton.classList.add('theme-toggle');
   toggleButton.setAttribute('aria-label', 'Toggle dark mode');
-  toggleButton.innerHTML = '🌓'; // Moon/sun emoji as a toggle indicator
+  toggleButton.style.display = 'inline-block'; // Ensure button is always visible
+  toggleButton.style.background = 'transparent'; // Transparent background
+  toggleButton.style.border = 'none'; // No border
+  toggleButton.style.cursor = 'pointer'; // Pointer cursor on hover
+  toggleButton.style.fontSize = '1.2rem'; // Larger icon
+  toggleButton.style.padding = '0.3rem'; // Some padding
   
   // Find the nav element to append the button
   const navLinks = document.querySelector('.site-nav .nav-links');
@@ -34,4 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
     toggleButton.innerHTML = isDark ? '☀️' : '🌓'; // Sun for dark mode (to switch to light), moon for light mode
     toggleButton.setAttribute('title', isDark ? 'Switch to light mode' : 'Switch to dark mode');
   }
+  
+  // Initialize button with correct icon
+  updateToggleButton(isDark);
 });
