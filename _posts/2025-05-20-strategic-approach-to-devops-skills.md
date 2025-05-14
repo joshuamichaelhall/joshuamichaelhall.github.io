@@ -5,8 +5,6 @@ date: 2025-05-20
 categories: devops career-development
 ---
 
-# Strategic Approach to DevOps Skills: Building a Career Dashboard with AI Assistance
-
 In my journey to transition into a DevOps career focused on financial services, I've learned that structured tracking and intentional skill development are essential. To help manage this process, I built a comprehensive **DevOps Career Dashboard** that tracks everything from learning resources to time allocation. What made this project particularly interesting was the development approach—I used Claude.ai as a coding partner, creating what I call a "vibe coding" workflow that dramatically increased productivity.
 
 ## The Need for Career Analytics
