@@ -37,7 +37,7 @@ permalink: /portfolio/
             </p>
             <div class="project-links">
               <a href="https://github.com/joshuamichaelhall/devops-career-dashboard" class="github-link" target="_blank">View on GitHub</a>
-              <a href="/dashboard" class="demo-link">View Demo</a>
+              <a href="/dashboard" class="demo-link">View Details</a>
             </div>
           </div>
         </div>
