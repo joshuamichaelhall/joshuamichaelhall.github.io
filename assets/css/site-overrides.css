@@ -1,8 +1,39 @@
 /* Site-specific overrides */
 
-/* Dark mode styles for better contrast */
-.dark-theme .page-link {
-  color: rgba(255, 255, 255, 0.9); /* Brighter menu items in dark mode */
+/* Navigation styling with improved contrast */
+.site-nav .page-link {
+  color: rgba(36, 41, 46, 0.85); /* Slightly less intense in light mode */
+  font-weight: 500; /* Slightly lighter weight for better contrast */
+}
+
+/* Dark mode styles with higher contrast for navigation */
+.dark-theme .site-nav .page-link {
+  color: rgba(255, 255, 255, 0.95); /* Much brighter menu items in dark mode */
+  font-weight: 500;
+}
+
+/* Add a stronger hover effect for dark mode navigation */
+.dark-theme .site-nav .page-link:hover {
+  color: #ffffff; /* Full white on hover */
+}
+
+/* Increase height of career vision timeline to avoid scrolling */
+#career-vision .timeline-content {
+  min-height: 350px; /* Taller content area to fit all text */
+  height: auto; /* Allow content to expand as needed */
+}
+
+/* Make timeline items taller on mobile */
+@media (max-width: 768px) {
+  #career-vision .timeline-content {
+    min-height: 400px;
+  }
+}
+
+@media (max-width: 480px) {
+  #career-vision .timeline-content {
+    min-height: 450px;
+  }
 }
 
 /* Skill name styling */
