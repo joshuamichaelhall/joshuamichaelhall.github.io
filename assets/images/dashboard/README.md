@@ -1,17 +1,34 @@
 # Dashboard Screenshots
 
-Please replace these placeholder files with actual screenshots of your DevOps Career Dashboard:
+This directory contains screenshots of the DevOps Career Dashboard application.
 
-1. `dashboard-main.png` - Main dashboard view showing key metrics and overview
-2. `learning-resources.png` - Learning resources tracking interface
-3. `networking.png` - Networking integration with Clay CRM
+## Available Screenshots
 
-## Screenshot Recommendations
+1. **dashboard-overview.png** - Main dashboard overview showing skills proficiency and progress
+2. **dashboard-learning.png** - Learning resources tracking interface 
+3. **dashboard-network.png** - Professional networking integration with Clay CRM
+4. **dashboard-main.png** - Dashboard landing page with overall metrics
+5. **learning-resources.png** - Detailed view of learning resources tracking
+6. **networking.png** - Detailed view of professional networking page
 
-For best appearance on your website:
-- Use high-resolution screenshots (at least 1200px wide)
-- Ensure consistent aspect ratios across images
-- Capture the entire dashboard interface with real data
-- Use PNG format for best quality
+## Usage
 
-After adding your screenshots, these images will appear on your dashboard page at `/dashboard/`.
+These screenshots are used in:
+
+1. The main dashboard page at `/dashboard/`
+2. The homepage dashboard promotion section
+3. The portfolio project page
+
+## Naming Convention
+
+When adding new screenshots, follow the naming convention:
+- Use lowercase letters and hyphens
+- Prefix with `dashboard-` for main dashboard views
+- Use descriptive names that indicate the content
+
+## Image Specifications
+
+- Images should be in PNG format
+- Maximum width of 1200px
+- Compressed for web optimization
+- Screenshots should be taken from the demo environment to avoid exposing personal data

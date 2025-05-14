@@ -22,32 +22,42 @@ permalink: /dashboard/
   <div class="features-grid">
     <div class="feature-item">
       <h3>Skill Development Tracking</h3>
-      <p>Monitor progress across essential DevOps skills with proficiency tracking and visual indicators for areas of strength and improvement opportunities.</p>
+      <p>Monitor progress across essential DevOps skills with proficiency tracking and visual indicators for areas of strength and improvement opportunities. Set target proficiency levels and track progress toward mastery.</p>
     </div>
     
     <div class="feature-item">
       <h3>Learning Resource Management</h3>
-      <p>Catalog and prioritize courses, books, tutorials and other learning resources while tracking completion status and targeted skill impact.</p>
+      <p>Catalog and prioritize courses, books, tutorials and other learning resources while tracking completion status and targeted skill impact. Organize resources by technology focus and priority.</p>
     </div>
     
     <div class="feature-item">
       <h3>Time Allocation Visualization</h3>
-      <p>Log time spent on various career development activities and view analytics on how effectively time is being allocated toward priority areas.</p>
+      <p>Log time spent on various career development activities and view analytics on how effectively time is being allocated toward priority areas. Compare actual vs. target time allocations with visual charts.</p>
     </div>
     
     <div class="feature-item">
       <h3>Professional Networking Integration</h3>
-      <p>Optional integration with Clay CRM to track networking activities, identify opportunities, and maintain professional connections.</p>
+      <p>Optional integration with Clay CRM to track networking activities, identify opportunities, and maintain professional connections. Schedule follow-ups and track relationship development over time.</p>
     </div>
     
     <div class="feature-item">
       <h3>Weekly Progress Metrics</h3>
-      <p>Visualize weekly productivity and achievements against targets to maintain momentum and identify optimization opportunities.</p>
+      <p>Visualize weekly productivity and achievements against targets to maintain momentum and identify optimization opportunities. Get insights into productivity patterns and trends over time.</p>
     </div>
     
     <div class="feature-item">
       <h3>Task Management System</h3>
-      <p>Track progress on specific career development tasks and projects with deadlines, priorities, and completion status tracking.</p>
+      <p>Track progress on specific career development tasks and projects with deadlines, priorities, and completion status tracking. Set recurring tasks to maintain consistent progress in key areas.</p>
+    </div>
+    
+    <div class="feature-item">
+      <h3>Roadmap Integration</h3>
+      <p>View how current activities align with your long-term career roadmap to ensure all learning and development work contributes to strategic goals. Identify gaps between current activities and desired outcomes.</p>
+    </div>
+    
+    <div class="feature-item">
+      <h3>Data Export & Reporting</h3>
+      <p>Generate progress reports and export data for career reviews, mentoring sessions, or personal reflection. Share specific metrics with mentors or managers as needed.</p>
     </div>
   </div>
 </div>
@@ -62,13 +72,18 @@ permalink: /dashboard/
   
   <div class="preview-grid">
     <div class="preview-item">
-      <img src="/assets/images/dashboard/learning-resources.png" alt="Learning Resources" class="preview-screenshot" />
-      <p class="caption">Learning resources tracking interface</p>
+      <img src="/assets/images/dashboard/dashboard-learning.png" alt="Learning Resources" class="preview-screenshot" />
+      <p class="caption">Learning resources tracking interface with progress indicators</p>
     </div>
     
     <div class="preview-item">
-      <img src="/assets/images/dashboard/networking.png" alt="Networking Integration" class="preview-screenshot" />
-      <p class="caption">Professional networking integration with Clay CRM</p>
+      <img src="/assets/images/dashboard/dashboard-network.png" alt="Networking Integration" class="preview-screenshot" />
+      <p class="caption">Professional networking integration with Clay CRM for relationship management</p>
+    </div>
+    
+    <div class="preview-item">
+      <img src="/assets/images/dashboard/dashboard-overview.png" alt="Dashboard Overview" class="preview-screenshot" />
+      <p class="caption">Comprehensive skills overview with proficiency ratings</p>
     </div>
   </div>
 </div>
@@ -128,6 +143,7 @@ permalink: /dashboard/
         <li>TailwindCSS for responsive styling</li>
         <li>Chart.js for data visualization</li>
         <li>Context API for state management</li>
+        <li>Responsive design for all devices</li>
       </ul>
     </div>
     
@@ -138,6 +154,7 @@ permalink: /dashboard/
         <li>JWT authentication</li>
         <li>JSON-based persistent storage</li>
         <li>Automatic data backups</li>
+        <li>Incremental data versioning</li>
       </ul>
     </div>
     
@@ -148,6 +165,7 @@ permalink: /dashboard/
         <li>AES-256 encryption for API keys</li>
         <li>Helmet.js for HTTP security</li>
         <li>Rate limiting protection</li>
+        <li>CORS configuration & security headers</li>
       </ul>
     </div>
     
@@ -158,8 +176,96 @@ permalink: /dashboard/
         <li>Environment variable support</li>
         <li>Development/production modes</li>
         <li>Security-focused configuration</li>
+        <li>Automated backup system</li>
       </ul>
     </div>
+  </div>
+</div>
+
+<div class="content-section with-divider">
+  <h2 style="text-align: center;">Security Features</h2>
+  
+  <p class="section-intro-text">The dashboard implements comprehensive security features to protect your career development data and external API integrations.</p>
+  
+  <div class="features-grid">
+    <div class="feature-item">
+      <h3>Authentication System</h3>
+      <p>JWT-based authentication system with secure password storage using bcrypt hashing to protect dashboard access.</p>
+    </div>
+    
+    <div class="feature-item">
+      <h3>API Key Protection</h3>
+      <p>AES-256 encryption for sensitive API keys and credentials, with server-side encryption key management.</p>
+    </div>
+    
+    <div class="feature-item">
+      <h3>HTTP Security Headers</h3>
+      <p>Implementation of Helmet.js to set security headers including Content-Security-Policy, X-XSS-Protection, and other critical security headers.</p>
+    </div>
+    
+    <div class="feature-item">
+      <h3>Rate Limiting</h3>
+      <p>Express rate limiting to protect against brute force attacks and API abuse with configurable thresholds.</p>
+    </div>
+    
+    <div class="feature-item">
+      <h3>Access Controls</h3>
+      <p>Role-based permissions system to differentiate between admin users with full access and read-only users for demonstration purposes.</p>
+    </div>
+    
+    <div class="feature-item">
+      <h3>Automatic Backups</h3>
+      <p>Automatic versioned backups of your dashboard data to prevent data loss, with timestamped files for easy recovery.</p>
+    </div>
+  </div>
+</div>
+
+<div class="content-section with-divider">
+  <h2 style="text-align: center;">Getting Started</h2>
+  
+  <div class="process-steps">
+    <div class="process-step">
+      <div class="step-number">1</div>
+      <div class="step-content">
+        <h3>Clone the Repository</h3>
+        <p>Start by cloning the repository from GitHub to your local machine:</p>
+        <pre><code>git clone https://github.com/joshuamichaelhall/devops-career-dashboard.git
+cd devops-career-dashboard</code></pre>
+      </div>
+    </div>
+    
+    <div class="process-step">
+      <div class="step-number">2</div>
+      <div class="step-content">
+        <h3>Install Dependencies</h3>
+        <p>Install the required dependencies using npm:</p>
+        <pre><code>npm install</code></pre>
+      </div>
+    </div>
+    
+    <div class="process-step">
+      <div class="step-number">3</div>
+      <div class="step-content">
+        <h3>Configure Environment</h3>
+        <p>Copy the example environment file and update it with your settings:</p>
+        <pre><code>cp .env.example .env
+# Edit .env with your preferred text editor</code></pre>
+      </div>
+    </div>
+    
+    <div class="process-step">
+      <div class="step-number">4</div>
+      <div class="step-content">
+        <h3>Start the Dashboard</h3>
+        <p>Run the dashboard locally:</p>
+        <pre><code>npm start</code></pre>
+        <p>This will start both the frontend and backend services. Access the dashboard at <code>http://localhost:3000</code>.</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="read-more">
+    <a href="/docs/quick-start.md" class="btn primary-btn">Detailed Setup Instructions</a>
   </div>
 </div>
 
