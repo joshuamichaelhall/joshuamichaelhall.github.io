@@ -40,6 +40,17 @@
   color: white;
 }
 
+.tertiary-btn {
+  background-color: white;
+  color: var(--text-color);
+  border: 2px solid var(--text-light-color);
+}
+
+.tertiary-btn:hover {
+  background-color: var(--text-light-color);
+  color: white;
+}
+
 /* Features grid */
 .features-grid {
   display: grid;
