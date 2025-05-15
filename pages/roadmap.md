@@ -8,7 +8,7 @@ permalink: /roadmap/
 
 <div class="content-section with-divider">
   <h2 style="text-align: center;">Strategic Skill Development for DevOps in Financial Services</h2>
-  <p class="section-intro-text">This roadmap outlines my structured approach to building expertise as a platform engineer in the financial services sector, focusing on AWS specialization, infrastructure automation, and security compliance.</p>
+  <p class="section-intro-text" style="text-align: left; margin-left: 0;">This roadmap outlines my structured approach to building expertise as a platform engineer in the financial services sector, focusing on AWS specialization, infrastructure automation, and security compliance.</p>
   
   <div class="quote">
     <p>Master the basics. Then practice them every day without fail.</p>

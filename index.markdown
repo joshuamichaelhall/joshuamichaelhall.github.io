@@ -21,7 +21,7 @@ layout: default
     <img src="/assets/images/dashboard-icon.png" alt="DevOps Career Dashboard" class="dashboard-icon">
     <div>
       <h2 class="dashboard-promo-title">DevOps Career Dashboard</h2>
-      <p class="dashboard-promo-subtitle">Track my learning progress and career development in real-time</p>
+      <p class="dashboard-promo-subtitle">Skills tracking and career analytics for DevOps professionals</p>
     </div>
   </div>
   

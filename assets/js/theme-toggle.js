@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
   const savedTheme = localStorage.getItem('theme');
   const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
   
-  // If the user has selected a theme before, use that; otherwise, use their system preference
-  const isDark = savedTheme === 'dark' || (!savedTheme && prefersDark);
+  // If the user has selected a theme before, use that; otherwise, default to dark mode
+  const isDark = savedTheme ? savedTheme === 'dark' : true;
   if (isDark) {
     document.body.classList.add('dark-theme');
   }

@@ -8,8 +8,8 @@
 
 /* Dark mode styles with higher contrast for navigation */
 .dark-theme .site-nav .page-link {
-  color: rgba(255, 255, 255, 0.95); /* Much brighter menu items in dark mode */
-  font-weight: 500;
+  color: #ffffff; /* Brightest possible menu items in dark mode */
+  font-weight: 600;
 }
 
 /* Add a stronger hover effect for dark mode navigation */
