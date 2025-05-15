@@ -7,7 +7,7 @@ permalink: /dashboard/
 # DevOps Career Dashboard
 
 <div class="content-section with-divider">
-  <h2 style="text-align: center;">Progress Tracking & Career Analytics</h2>
+  <h2 style="text-align: left;">Progress Tracking & Career Analytics</h2>
   <p class="section-intro-text">This interactive dashboard allows me to track my DevOps career journey, visualize progress, and maintain focus on strategic skill development. The dashboard integrates with my roadmap to ensure alignment with my career objectives.</p>
   
   <div class="dashboard-buttons">
