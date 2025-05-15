@@ -10,43 +10,45 @@
   featured: true
   category: "monitoring"
 
-- title: "Infrastructure as Code for Multi-Environment Deployment"
-  description: "Production-grade infrastructure modules for dev/test/prod environments with state management, security controls, and compliance documentation for financial services."
-  technologies: ["Terraform", "AWS", "GitHub Actions", "IAM", "VPC", "S3", "RDS"]
-  github: "https://github.com/JoshuaMichaelHall/finapp-infrastructure"
+- title: "Enhanced Terminal Environment"
+  description: "Customized developer terminal environment with integrated tooling for zsh, tmux, and neovim focused on DevOps workflow optimization."
+  technologies: ["Shell", "Neovim", "Tmux", "Git", "Zsh"]
+  github: "https://github.com/joshuamichaelhall/enhanced-terminal-environment"
+  image: "/assets/images/terminal-env.png"
+  featured: true
+  category: "developer-tools"
+
+- title: "DevOps SRE Learning Roadmap"
+  description: "Structured learning path for DevOps and SRE skills with AWS, Kubernetes, Terraform, and container technology with certification preparation."
+  technologies: ["AWS", "Kubernetes", "Terraform", "Docker", "Linux"]
+  github: "https://github.com/joshuamichaelhall/devops-sre-mastery"
+  image: "/assets/images/devops-roadmap.png"
+  featured: true
+  category: "education"
+
+- title: "Secure Financial Infrastructure as Code with AWS & Terraform"
+  description: "A comprehensive AWS infrastructure project designed specifically for financial services applications, with a strong focus on security, compliance, and automation."
+  technologies: ["AWS", "Terraform", "CloudTrail", "Security Hub", "CloudWatch", "GitHub Actions"]
+  github: "https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure"
   image: "/assets/images/terraform-aws.png"
-  featured: true
-  category: "infrastructure"
-
-- title: "Containerized Microservices Platform"
-  description: "Multi-service application containerization with Kubernetes deployment manifests, monitoring integration, and security implementation focusing on high availability."
-  technologies: ["Docker", "Kubernetes", "Prometheus", "Grafana", "RBAC"]
-  github: "https://github.com/JoshuaMichaelHall/container-platform"
-  image: "/assets/images/kubernetes.png"
-  featured: true
-  category: "containers"
-
-- title: "Security Automation Suite"
-  description: "Infrastructure security scanning automation and compliance reporting tools for financial regulations with audit logging and evidence collection."
-  technologies: ["AWS Security Hub", "Terraform", "Python", "CloudWatch"]
-  github: "https://github.com/JoshuaMichaelHall/security-automation"
-  image: "/assets/images/security-automation.png"
   featured: false
-  category: "security"
+  category: "infrastructure"
+  status: "Planning Stage"
 
-
-- title: "CI/CD Pipeline Implementation"
-  description: "Complete CI/CD pipeline for application deployment with testing, security scanning, and automated rollbacks with approval workflows."
-  technologies: ["GitHub Actions", "AWS", "Docker", "Terraform"]
-  github: "https://github.com/JoshuaMichaelHall/cicd-pipeline"
+- title: "Automated DevOps Pipeline for Financial Applications"
+  description: "A robust CI/CD pipeline designed specifically for financial services applications, providing comprehensive security scanning, compliance validation, and automated deployment."
+  technologies: ["GitHub Actions", "AWS CodePipeline", "SonarQube", "Terraform", "JUnit", "pytest"]
+  github: "https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial"
   image: "/assets/images/cicd-pipeline.png"
   featured: false
   category: "infrastructure"
+  status: "Planning Stage"
 
-- title: "Kubernetes Operator for Financial Applications"
-  description: "Custom Kubernetes operator for managing financial application deployments with compliance controls and automated validation."
-  technologies: ["Kubernetes", "Go", "Operator SDK"]
-  github: "https://github.com/JoshuaMichaelHall/fin-k8s-operator"
-  image: "/assets/images/kubernetes-operator.png"
+- title: "Secure Container Platform for Financial Services"
+  description: "A comprehensive container security platform tailored for financial services applications, providing secure image management, runtime protection, and compliance monitoring."
+  technologies: ["Docker", "AWS ECS", "AWS ECR", "Trivy", "Open Policy Agent", "Prometheus", "Grafana"]
+  github: "https://github.com/JoshuaMichaelHall-Tech/project-container-security-finance"
+  image: "/assets/images/kubernetes.png"
   featured: false
   category: "containers"
+  status: "Planning Stage"

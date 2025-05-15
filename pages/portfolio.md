@@ -48,51 +48,59 @@ permalink: /portfolio/
       </div>
       
       <div class="project-card">
-        <h2>AWS Infrastructure Automation</h2>
-        <div class="project-status">Foundation Phase | In Progress</div>
+        <h2>Secure Financial Infrastructure as Code with AWS & Terraform</h2>
+        <div class="project-status">Foundation Phase | Planning</div>
         <div class="project-details">
           <div class="project-image">
             <img src="/assets/images/terraform-aws.png" alt="Terraform AWS Infrastructure" />
           </div>
           <div class="project-description">
-            <p>Production-grade infrastructure modules for multi-environment deployment with comprehensive security controls, state management, and financial services compliance documentation.</p>
+            <p>A comprehensive AWS infrastructure project designed specifically for financial services applications, with a strong focus on security, compliance, and automation. This project implements Infrastructure as Code (IaC) using Terraform to create a secure, scalable, and compliant cloud environment that meets financial industry regulations.</p>
             <p><strong>Key Features:</strong></p>
             <ul>
-              <li>Multi-account AWS architecture with security boundaries</li>
-              <li>Terraform modules for standardized infrastructure components</li>
-              <li>State management with S3 and DynamoDB locking</li>
-              <li>IAM implementation with least privilege principles</li>
-              <li>Automated compliance verification for financial services</li>
-              <li>CI/CD integration with GitHub Actions</li>
+              <li>Multi-account AWS architecture with security isolation</li>
+              <li>Defense-in-depth networking design with public, private, and restricted subnets</li>
+              <li>Automated compliance checks and security scanning</li>
+              <li>Comprehensive audit logging and monitoring</li>
+              <li>Disaster recovery with cross-region replication</li>
+              <li>Infrastructure as Code using Terraform with modular design</li>
+              <li>CI/CD pipeline for infrastructure validation and deployment</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> Terraform, AWS, GitHub Actions, Ruby, IAM, VPC, S3, RDS
+              <strong>Technologies:</strong> AWS (VPC, EC2, RDS, S3, Lambda, CloudTrail, Security Hub), Terraform, AWS Config, CloudWatch, GitHub Actions
             </p>
             <div class="project-links">
-              <a href="https://github.com/JoshuaMichaelHall/finapp-infrastructure" class="github-link" target="_blank">View on GitHub</a>
+              <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="github-link" target="_blank">View on GitHub</a>
             </div>
           </div>
         </div>
       </div>
       
       <div class="project-card">
-        <h2>Multi-Environment CI/CD Pipeline Framework</h2>
+        <h2>Automated DevOps Pipeline for Financial Applications</h2>
         <div class="project-status">Foundation Phase | Planning</div>
         <div class="project-details">
+          <div class="project-image">
+            <img src="/assets/images/cicd-pipeline.png" alt="DevOps Pipeline" />
+          </div>
           <div class="project-description">
-            <p>Comprehensive CI/CD pipeline implementation for application deployment across development, testing, and production environments with security scanning, compliance verification, and automated rollbacks.</p>
+            <p>A robust CI/CD pipeline designed specifically for financial services applications, providing comprehensive security scanning, compliance validation, and automated deployment. This project implements a complete delivery pipeline that transitions code from development to production while enforcing security and compliance requirements at every stage.</p>
             <p><strong>Key Features:</strong></p>
             <ul>
-              <li>Multi-stage deployment pipeline with environment promotion</li>
-              <li>Security scanning integration (static and dynamic)</li>
-              <li>Compliance verification for financial regulations</li>
-              <li>Automated testing with Ruby and Python</li>
-              <li>Approval workflows for production deployments</li>
-              <li>Automated rollback capabilities</li>
+              <li>Multi-environment deployment pipeline (dev, test, staging, production)</li>
+              <li>Infrastructure validation with Terraform</li>
+              <li>Automated security scanning for code and dependencies</li>
+              <li>Compliance checks for financial regulations</li>
+              <li>Approval workflows for sensitive environments</li>
+              <li>Automated testing at all stages</li>
+              <li>Deployment metrics and reporting</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> GitHub Actions, AWS CodePipeline, Docker, Terraform, Ruby
+              <strong>Technologies:</strong> GitHub Actions, AWS CodePipeline, SonarQube, OWASP dependency scanning, Terraform, AWS CloudFormation Guard, JUnit, pytest
             </p>
+            <div class="project-links">
+              <a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial" class="github-link" target="_blank">View on GitHub</a>
+            </div>
           </div>
         </div>
       </div>
@@ -102,23 +110,30 @@ permalink: /portfolio/
       <h3>Advanced Implementation Projects</h3>
       
       <div class="project-card">
-        <h2>Container Platform with AWS ECS/EKS</h2>
+        <h2>Secure Container Platform for Financial Services</h2>
         <div class="project-status">Advanced Phase | Planning</div>
         <div class="project-details">
+          <div class="project-image">
+            <img src="/assets/images/kubernetes.png" alt="Container Security Platform" />
+          </div>
           <div class="project-description">
-            <p>Containerized application platform using Docker and Kubernetes with financial services security controls, high availability configuration, and comprehensive monitoring integration.</p>
+            <p>A comprehensive container security platform tailored for financial services applications, providing secure image management, runtime protection, and compliance monitoring. This project implements a secure container ecosystem that enables financial institutions to adopt containerization while maintaining strict security and regulatory compliance.</p>
             <p><strong>Key Features:</strong></p>
             <ul>
-              <li>Secure container deployment on AWS ECS/EKS</li>
-              <li>Container image security scanning and validation</li>
-              <li>High availability configuration for critical workloads</li>
-              <li>Kubernetes RBAC implementation for access control</li>
-              <li>Prometheus and Grafana integration for monitoring</li>
-              <li>Financial compliance controls for containerized apps</li>
+              <li>Secure container registry with vulnerability scanning</li>
+              <li>Image signing and verification workflow</li>
+              <li>Runtime security monitoring and enforcement</li>
+              <li>Network policy implementation for container isolation</li>
+              <li>Secrets management integration</li>
+              <li>Compliance reporting and audit trails</li>
+              <li>Auto-remediation for common security issues</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> Docker, Kubernetes, AWS ECS/EKS, Prometheus, Grafana, RBAC
+              <strong>Technologies:</strong> Docker, AWS Elastic Container Service (ECS), AWS Elastic Container Registry (ECR), Trivy, Open Policy Agent (OPA), AWS Secrets Manager, Prometheus, Grafana
             </p>
+            <div class="project-links">
+              <a href="https://github.com/JoshuaMichaelHall-Tech/project-container-security-finance" class="github-link" target="_blank">View on GitHub</a>
+            </div>
           </div>
         </div>
       </div>
