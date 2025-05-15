@@ -138,89 +138,21 @@ permalink: /portfolio/
         </div>
       </div>
       
-      <div class="project-card">
-        <h2>Security Automation Suite</h2>
-        <div class="project-status">Advanced Phase | Future Project</div>
-        <div class="project-details">
-          <div class="project-description">
-            <p>Comprehensive security automation framework for AWS infrastructure with compliance reporting, automated remediation, and audit evidence collection for financial services regulations.</p>
-            <p><strong>Key Features:</strong></p>
-            <ul>
-              <li>Infrastructure security scanning automation</li>
-              <li>Compliance reporting for financial regulations</li>
-              <li>Automated remediation for common findings</li>
-              <li>Audit evidence collection and storage</li>
-              <li>Real-time security alerting</li>
-              <li>Integration with existing security tools</li>
-            </ul>
-            <p class="technologies">
-              <strong>Technologies:</strong> AWS Security Hub, AWS Config, CloudWatch, Lambda, Python, Terraform
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="timeline-section">
-      <h3>Specialization Projects</h3>
-      
-      <div class="project-card">
-        <h2>Kubernetes on AWS EKS Platform</h2>
-        <div class="project-status">Specialization Phase | Future Project</div>
-        <div class="project-details">
-          <div class="project-description">
-            <p>Advanced Kubernetes platform implementation on AWS EKS with comprehensive security controls, GitOps deployment, and financial services compliance integration for enterprise applications.</p>
-            <p><strong>Key Features:</strong></p>
-            <ul>
-              <li>Multi-cluster Kubernetes architecture on AWS</li>
-              <li>Advanced security controls and pod security policies</li>
-              <li>GitOps implementation with Flux or ArgoCD</li>
-              <li>Service mesh implementation for secure communication</li>
-              <li>Financial compliance controls with policy engines</li>
-              <li>Advanced observability and monitoring</li>
-            </ul>
-            <p class="technologies">
-              <strong>Technologies:</strong> Kubernetes, AWS EKS, Istio, Flux/ArgoCD, OPA/Gatekeeper, Prometheus
-            </p>
-          </div>
-        </div>
-      </div>
-      
-      <div class="project-card">
-        <h2>Financial Services Developer Platform</h2>
-        <div class="project-status">Specialization Phase | Future Project</div>
-        <div class="project-details">
-          <div class="project-description">
-            <p>Internal developer platform for financial services teams with self-service capabilities, compliance guardrails, and automated environment provisioning with security controls built in.</p>
-            <p><strong>Key Features:</strong></p>
-            <ul>
-              <li>Self-service portal for infrastructure provisioning</li>
-              <li>Pre-approved templates for common resources</li>
-              <li>Built-in compliance guardrails for financial regulations</li>
-              <li>Automated security scanning and validation</li>
-              <li>Cost management and optimization</li>
-              <li>Integration with existing CI/CD pipelines</li>
-            </ul>
-            <p class="technologies">
-              <strong>Technologies:</strong> AWS Service Catalog, Terraform, Kubernetes, Custom UI, IAM
-            </p>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
   <h2>Technical Focus Categories</h2>
-  <p class="section-intro-text">Explore my projects by technical focus area, showcasing specialized skills in infrastructure automation, containerization, security, and monitoring for financial services environments.</p>
+  <p class="section-intro-text">Explore my projects by technical focus area, showcasing specialized skills in infrastructure automation, containerization, monitoring, and developer tools.</p>
 
   <div class="project-filter">
     <button class="filter-btn active" data-category="all">All Projects</button>
     <button class="filter-btn" data-category="infrastructure">Infrastructure</button>
     <button class="filter-btn" data-category="containers">Containerization</button>
-    <button class="filter-btn" data-category="security">Security</button>
     <button class="filter-btn" data-category="monitoring">Monitoring</button>
+    <button class="filter-btn" data-category="developer-tools">Developer Tools</button>
+    <button class="filter-btn" data-category="education">Education</button>
   </div>
   
   <div class="projects-grid">
