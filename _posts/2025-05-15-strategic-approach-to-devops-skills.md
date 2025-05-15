@@ -5,6 +5,7 @@ date: 2025-05-15
 categories: devops career-development
 tags: career dashboard AI-assisted
 excerpt: "How I built a comprehensive DevOps Career Dashboard with Claude.ai assistance to track skills, learning resources, and career progress."
+published: true
 ---
 
 In my journey to transition into a DevOps career focused on financial services, I've learned that structured tracking and intentional skill development are essential. To help manage this process, I built a comprehensive **DevOps Career Dashboard** that tracks everything from learning resources to time allocation. What made this project particularly interesting was the development approach—I used Claude.ai as a coding partner, creating what I call a "vibe coding" workflow that dramatically increased productivity.

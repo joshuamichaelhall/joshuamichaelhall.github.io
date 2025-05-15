@@ -5,6 +5,7 @@ date: 2025-03-23
 categories: development tools
 tags: neovim tmux cli productivity
 excerpt: "A detailed look at my terminal-based development environment and how it enhances productivity for software engineering tasks."
+published: true
 ---
 
 My development workflow is centered around terminal-based tools that maximize productivity and minimize context-switching. This post details my setup and how it enhances my software engineering workflow.

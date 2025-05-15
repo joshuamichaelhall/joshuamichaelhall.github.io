@@ -36,6 +36,8 @@ excerpt: "A brief summary of the article (1-2 sentences)"
 - **categories**: Space-separated list of categories (usually 1-3)
 - **tags**: Space-separated list of tags relevant to the content
 - **excerpt**: A brief summary that will appear in article listings
+- **featured**: (Optional) Set to `true` for the main highlighted article that best represents your expertise
+- **published**: Set to `true` for all public articles (default is true if omitted)
 
 ## Publication Control
 
@@ -62,7 +64,7 @@ As of the latest update, the site includes the following articles:
 - "Why I'm Transitioning to DevOps/SRE: My Career Journey" (2025-04-29)
 - "Terminal-Based Development with Neovim, tmux, and CLI Tools" (2025-03-23)
 - "Strategic Approach to DevOps Skills: Building a Career Dashboard with AI Assistance" (2025-05-15)
-- "Infrastructure as Code Best Practices for Financial Services" (2025-05-05)
+- "Infrastructure as Code Best Practices for Financial Services" (2025-05-05) - **Featured Article** 🌟
 
 ### Unpublished Articles
 - "Setting Up a Secure AWS Learning Environment for DevOps Practice" (2025-01-15) - Intentionally marked as `published: false`
