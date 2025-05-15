@@ -37,11 +37,6 @@ permalink: /blog/
 
   <div class="articles-container">
     <div class="project-card">
-      <h3><a href="#">Setting Up a Secure AWS Learning Environment for DevOps Practice</a></h3>
-      <p>A comprehensive guide to creating a secure, compliant AWS environment for DevOps learning and practice that follows financial services security best practices.</p>
-    </div>
-
-    <div class="project-card">
       <h3><a href="#">Infrastructure as Code for Financial Compliance</a></h3>
       <p>Implementing infrastructure-as-code patterns in Terraform with built-in controls for financial services compliance requirements.</p>
     </div>

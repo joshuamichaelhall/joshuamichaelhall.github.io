@@ -27,7 +27,9 @@ date: YYYY-MM-DD
 categories: category1 category2
 tags: tag1 tag2 tag3
 excerpt: "A brief summary of the article (1-2 sentences)"
+published: true
 ---
+Article text starts immediately after the frontmatter closing delimiter without a blank line.
 ```
 
 - **layout**: Should be `post` for all blog articles
@@ -66,8 +68,8 @@ As of the latest update, the site includes the following articles:
 - "Strategic Approach to DevOps Skills: Building a Career Dashboard with AI Assistance" (2025-05-15)
 - "Infrastructure as Code Best Practices for Financial Services" (2025-05-05) - **Featured Article** 🌟
 
-### Unpublished Articles
-- "Setting Up a Secure AWS Learning Environment for DevOps Practice" (2025-01-15) - Intentionally marked as `published: false`
+### Published Articles (continued)
+- "Setting Up a Secure AWS Learning Environment for DevOps Practice" (2025-05-20)
 
 ## Build Process
 
@@ -98,4 +100,4 @@ If your articles are not appearing in the built site:
 
 When adding new articles or changing the publication process, please update this document to keep it current.
 
-Last updated: May 15, 2025 (after site rebuild)
+Last updated: May 20, 2025 (after site rebuild)

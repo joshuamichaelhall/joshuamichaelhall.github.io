@@ -26,26 +26,7 @@ layout: default
   </header>
 
   <div class="post-content">
-    <!-- Remove the first heading that matches the title pattern -->
-    {% assign lines = content | newline_to_br | split: '<br />' %}
-    {% assign title_line_index = -1 %}
-    {% for line in lines %}
-      {% assign stripped_line = line | strip %}
-      {% if stripped_line contains '# ' and title_line_index == -1 %}
-        {% assign title_line_index = forloop.index0 %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-    
-    {% if title_line_index != -1 %}
-      {% for line in lines %}
-        {% unless forloop.index0 == title_line_index %}
-          {{ line }}
-          {% unless forloop.last %}<br />{% endunless %}
-        {% endunless %}
-      {% endfor %}
-    {% else %}
-      {{ content }}
-    {% endif %}
+    <!-- Simply render the content directly without extra processing -->
+    {{ content }}
   </div>
 </article>

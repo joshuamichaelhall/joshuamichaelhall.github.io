@@ -7,7 +7,6 @@ tags: devops career-transition sre infrastructure-automation
 excerpt: "My journey into DevOps and Site Reliability Engineering, focusing on financial services and infrastructure automation."
 published: true
 ---
-
 The decision to transition into DevOps and Site Reliability Engineering wasn't made overnight. It's the culmination of years of technical experiences, careful market research, and a growing fascination with infrastructure automation. This post documents the beginning of my journey and why I believe DevOps—specifically with a financial services focus—is the right direction for my career.
 
 ## Building in Public: Documenting My Journey
