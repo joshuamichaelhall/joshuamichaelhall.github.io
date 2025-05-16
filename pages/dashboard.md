@@ -128,7 +128,7 @@ permalink: /dashboard/
   </div>
   
   <div class="read-more">
-    <a href="/blog/2025/05/20/strategic-approach-to-devops-skills" class="btn primary-btn">Read the Full Development Story</a>
+    <a href="/blog/2025/05/15/strategic-approach-to-devops-skills" class="btn primary-btn">Read the Full Development Story</a>
   </div>
 </div>
 
@@ -265,7 +265,7 @@ cd devops-career-dashboard</code></pre>
   </div>
   
   <div class="read-more">
-    <a href="/docs/quick-start.md" class="btn primary-btn">Detailed Setup Instructions</a>
+    <a href="https://github.com/joshuamichaelhall/devops-career-dashboard/blob/main/docs/INSTALLATION.md" class="btn primary-btn" target="_blank">Detailed Setup Instructions</a>
   </div>
 </div>
 
@@ -278,7 +278,7 @@ cd devops-career-dashboard</code></pre>
     <div class="cta-buttons">
       <a href="https://github.com/joshuamichaelhall/devops-career-dashboard" target="_blank" class="btn primary-btn">View on GitHub</a>
       <a href="https://devops-dashboard.joshuamichaelhall.com?demo=true" target="_blank" class="btn secondary-btn">Try Live Demo</a>
-      <a href="/blog/2025/05/20/strategic-approach-to-devops-skills" class="btn tertiary-btn">Read Development Story</a>
+      <a href="/blog/2025/05/15/strategic-approach-to-devops-skills" class="btn tertiary-btn">Read Development Story</a>
     </div>
     
     <p class="footnote">The dashboard was developed with assistance from Claude.ai, demonstrating how AI can enhance productivity in software development.</p>
