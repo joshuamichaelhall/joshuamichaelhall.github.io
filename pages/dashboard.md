@@ -37,7 +37,7 @@ permalink: /dashboard/
     
     <div class="feature-item">
       <h3>Professional Networking Integration</h3>
-      <p>Optional integration with Clay CRM to track networking activities, identify opportunities, and maintain professional connections. Schedule follow-ups and track relationship development over time.</p>
+      <p>Built-in LinkedIn connection tracking with import functionality to analyze your professional network growth. Track content publishing across platforms and monitor engagement metrics to optimize your professional brand.</p>
     </div>
     
     <div class="feature-item">
@@ -78,7 +78,7 @@ permalink: /dashboard/
     
     <div class="preview-item">
       <img src="/assets/images/dashboard/dashboard-network.png" alt="Networking Integration" class="preview-screenshot" />
-      <p class="caption">Professional networking integration with Clay CRM for relationship management</p>
+      <p class="caption">Professional networking integration with LinkedIn connection tracking and content publishing analytics</p>
     </div>
     
     <div class="preview-item">
@@ -172,7 +172,7 @@ permalink: /dashboard/
     <div class="tech-area">
       <h3>Integration</h3>
       <ul class="tech-list">
-        <li>Clay CRM API integration</li>
+        <li>LinkedIn connection import</li>
         <li>Environment variable support</li>
         <li>Development/production modes</li>
         <li>Security-focused configuration</li>
