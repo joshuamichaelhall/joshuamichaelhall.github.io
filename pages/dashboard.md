@@ -183,6 +183,38 @@ permalink: /dashboard/
 </div>
 
 <div class="content-section with-divider">
+  <h2 style="text-align: center;">Data Architecture</h2>
+  
+  <p class="section-intro-text">The dashboard follows a clean separation between application code and personal data:</p>
+  
+  <div class="features-grid">
+    <div class="feature-item">
+      <h3>Application Code</h3>
+      <p>The main repository contains the dashboard interface, components, visualization tools, and core functionality, allowing others to use the dashboard without exposing personal data.</p>
+    </div>
+    
+    <div class="feature-item">
+      <h3>Personal Data</h3>
+      <p>Your personal career progress, skills, networking data, and custom templates are stored separately, allowing for privacy, multi-device synchronization, and independent backups.</p>
+    </div>
+    
+    <div class="feature-item">
+      <h3>Multi-Device Support</h3>
+      <p>The data architecture enables you to sync your dashboard data across multiple devices through a private git repository or cloud synchronization for seamless access anywhere.</p>
+    </div>
+    
+    <div class="feature-item">
+      <h3>Standardized Schema</h3>
+      <p>A well-documented data schema ensures compatibility between the application and your personal data, with migration tools to handle upgrades as the dashboard evolves.</p>
+    </div>
+  </div>
+  
+  <div class="read-more">
+    <a href="https://github.com/joshuamichaelhall/devops-career-dashboard/blob/main/dashboard/docs/DATA-SCHEMA.md" class="btn primary-btn" target="_blank">View Data Schema Documentation</a>
+  </div>
+</div>
+
+<div class="content-section with-divider">
   <h2 style="text-align: center;">Security Features</h2>
   
   <p class="section-intro-text">The dashboard implements comprehensive security features to protect your career development data and external API integrations.</p>
@@ -239,7 +271,8 @@ cd devops-career-dashboard</code></pre>
       <div class="step-content">
         <h3>Install Dependencies</h3>
         <p>Install the required dependencies using npm:</p>
-        <pre><code>npm install</code></pre>
+        <pre><code>cd dashboard
+npm install</code></pre>
       </div>
     </div>
     
@@ -258,7 +291,7 @@ cd devops-career-dashboard</code></pre>
       <div class="step-content">
         <h3>Start the Dashboard</h3>
         <p>Run the dashboard locally:</p>
-        <pre><code>npm start</code></pre>
+        <pre><code>./start-personal.sh</code></pre>
         <p>This will start both the frontend and backend services. Access the dashboard at <code>http://localhost:3000</code>.</p>
       </div>
     </div>

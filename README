@@ -12,6 +12,7 @@ I'm a DevOps/SRE engineer specializing in infrastructure automation, containeriz
 - **Technical Blog**: Articles on infrastructure automation, containerization, and cloud security
 - **Skills & Experience**: Detailed overview of my technical skills and experience
 - **Responsive Design**: Mobile-friendly layout for all screen sizes
+- **Dashboard Demo**: Interactive DevOps career dashboard
 
 ## Technical Stack
 
@@ -21,6 +22,30 @@ I'm a DevOps/SRE engineer specializing in infrastructure automation, containeriz
 - **CI/CD**: GitHub Actions for automated deployment
 - **Form Handling**: Formspree
 - **Analytics**: Google Analytics
+
+## Repository Integration
+
+This website integrates with several other repositories in my ecosystem:
+
+### Integrated Repositories
+
+1. **[devops-sre-mastery](https://github.com/joshuamichaelhall/devops-sre-mastery)**
+   - Projects from this repository are showcased in the portfolio section
+   - Technical concepts are expanded into blog articles
+   - Code samples are embedded in blog posts
+   
+2. **[devops-career-dashboard](https://github.com/joshuamichaelhall/devops-career-dashboard)**
+   - Dashboard is featured on a dedicated page
+   - Dashboard documentation is published on the website
+   - Learning approaches are demonstrated through the dashboard
+
+### Content Synchronization
+
+The website's content is managed through:
+
+1. **Blog Posts**: Markdown files in the `_posts` directory
+2. **Project Data**: YAML files in `_data/projects.yml`
+3. **Skills Data**: YAML files in `_data/skills.yml`
 
 ## Local Development
 
@@ -60,19 +85,31 @@ I'm a DevOps/SRE engineer specializing in infrastructure automation, containeriz
 - `assets/`: CSS, JavaScript, and images
 - `pages/`: Main site pages
 
-## Deployment
-
-This site is automatically deployed when changes are pushed to the main branch. The GitHub Pages build process handles the Jekyll compilation.
-
 ## Content Management
 
 - **Blog Posts**: Add new posts to the `_posts` directory following the naming convention `YYYY-MM-DD-title.md`
 - **Projects**: Update `_data/projects.yml` to add or modify portfolio projects
 - **Skills**: Update `_data/skills.yml` to modify skill categories and proficiency levels
 
+## Article Publishing Workflow
+
+1. **Draft Creation**: Articles are drafted in private content strategy repository
+2. **Format Conversion**: Markdown is prepared for website publication
+3. **Integration**: Technical code samples are integrated from project repositories
+4. **Publication**: Content is published to this repository via git
+5. **Cross-Posting**: Published articles are automatically cross-posted to Dev.to
+
 ## Dev.to Integration
 
 This repository includes a GitHub Action workflow that automatically publishes Markdown articles to Dev.to. See the `.github/workflows/devto-publish.yml` file for configuration details.
+
+## Documentation Centralization
+
+Documentation for related repositories is primarily maintained in those repositories:
+
+- Dashboard documentation is in the `dashboard/docs/` directory of the dashboard repository
+- Project implementations are documented in their respective repositories
+- Blog posts reference and link to the source repositories for detailed information
 
 ## License
 
