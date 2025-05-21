@@ -218,7 +218,7 @@ permalink: /roadmap/
 </div>
 
 <div class="content-section with-divider">
-  <h2 style="text-align: center;">Portfolio Project Timeline</h2>
+  <h2 style="text-align: center;">Near-Term Project Focus</h2>
   
   <div class="roadmap-phase">
     <div class="phase-area">
@@ -226,7 +226,7 @@ permalink: /roadmap/
       <div class="phase-content">
         <ul class="phase-goals">
           <li><strong>Focus:</strong> AWS + Terraform + Security</li>
-          <li><strong>Timeline:</strong> Month 1-4</li>
+          <li><strong>Timeline:</strong> Current - Month 4</li>
           <li><strong>Business Value:</strong> Compliance automation for regulated workloads</li>
         </ul>
       </div>
@@ -237,7 +237,7 @@ permalink: /roadmap/
       <div class="phase-content">
         <ul class="phase-goals">
           <li><strong>Focus:</strong> CI/CD + Security Scanning</li>
-          <li><strong>Timeline:</strong> Month 5</li>
+          <li><strong>Timeline:</strong> Month 5-6</li>
           <li><strong>Business Value:</strong> Reduced time-to-market with security controls</li>
         </ul>
       </div>
@@ -248,7 +248,7 @@ permalink: /roadmap/
       <div class="phase-content">
         <ul class="phase-goals">
           <li><strong>Focus:</strong> Docker + ECS + Security</li>
-          <li><strong>Timeline:</strong> Month 6</li>
+          <li><strong>Timeline:</strong> Month 6-8</li>
           <li><strong>Business Value:</strong> Secure application deployment pipeline</li>
         </ul>
       </div>
@@ -259,30 +259,8 @@ permalink: /roadmap/
       <div class="phase-content">
         <ul class="phase-goals">
           <li><strong>Focus:</strong> Kubernetes + Service Mesh</li>
-          <li><strong>Timeline:</strong> Month 12-18</li>
+          <li><strong>Timeline:</strong> Month 9-12</li>
           <li><strong>Business Value:</strong> Scalable application platform with governance</li>
-        </ul>
-      </div>
-    </div>
-    
-    <div class="phase-area">
-      <h3>Enterprise Developer Platform</h3>
-      <div class="phase-content">
-        <ul class="phase-goals">
-          <li><strong>Focus:</strong> Internal Developer Portal</li>
-          <li><strong>Timeline:</strong> Month 18-24</li>
-          <li><strong>Business Value:</strong> Developer productivity enhancement (30%+)</li>
-        </ul>
-      </div>
-    </div>
-    
-    <div class="phase-area">
-      <h3>Advanced Financial Services Security</h3>
-      <div class="phase-content">
-        <ul class="phase-goals">
-          <li><strong>Focus:</strong> Zero-Trust + Compliance</li>
-          <li><strong>Timeline:</strong> Month 30-36</li>
-          <li><strong>Business Value:</strong> Audit cost reduction (70%+)</li>
         </ul>
       </div>
     </div>
