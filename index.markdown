@@ -16,33 +16,6 @@ layout: default
   </div>
 </div>
 
-<div class="dashboard-promo with-divider">
-  <div class="dashboard-promo-header">
-    <img src="/assets/images/dashboard-icon.png" alt="DevOps Career Dashboard" class="dashboard-icon">
-    <div>
-      <h2 class="dashboard-promo-title">DevOps Career Dashboard</h2>
-      <p class="dashboard-promo-subtitle">Skills tracking and career analytics for DevOps professionals</p>
-    </div>
-  </div>
-  
-  <a href="https://devops-dashboard.joshuamichaelhall.com" class="dashboard-preview" target="_blank">
-    <img src="/assets/images/dashboard/dashboard-overview.png" alt="DevOps Career Dashboard Preview">
-  </a>
-  
-  <div class="dashboard-features">
-    <span class="dashboard-feature">Skills Tracker</span>
-    <span class="dashboard-feature">Learning Resources</span>
-    <span class="dashboard-feature">Progress Analytics</span>
-    <span class="dashboard-feature">Real-time Updates</span>
-    <span class="dashboard-feature">Network Connections</span>
-  </div>
-  
-  <div class="dashboard-cta">
-    <a href="https://devops-dashboard.joshuamichaelhall.com" class="btn primary-btn" target="_blank">Launch Dashboard</a>
-    <a href="/dashboard" class="btn outlined-btn">Learn More</a>
-  </div>
-</div>
-
 <div class="home-section with-divider" id="technical-focus">
   <h2>Technical Focus</h2>
   <div class="tech-focus-grid">

@@ -1,96 +1,132 @@
 # Technical Skills
 categories:
-  - name: "Cloud & Infrastructure"
+  - name: "AWS Specialization"
     skills:
-      - name: "AWS"
+      - name: "AWS Core Services"
+        level: 85
+        description: "EC2, VPC, IAM, S3, CloudTrail, Security Hub"
+      - name: "AWS Architecture"
         level: 80
-        description: "Core services including EC2, VPC, S3, IAM, RDS"
+        description: "Multi-account strategy, security design, HA patterns"
+      - name: "AWS Security Services"
+        level: 80
+        description: "IAM, Security Hub, GuardDuty, Config, KMS"
+      - name: "Networking in AWS"
+        level: 75
+        description: "VPC design, segmentation, NACLs, security groups"
+      - name: "Financial Services Controls"
+        level: 70
+        description: "SOX, PCI-DSS, and GDPR implementations on AWS"
+
+  - name: "Infrastructure as Code"
+    skills:
       - name: "Terraform"
         level: 85
-        description: "Infrastructure as Code, state management, modules"
-      - name: "Infrastructure Automation"
-        level: 75
-        description: "Automated provisioning, configuration management"
-      - name: "Networking"
+        description: "Module development, remote state, security automation"
+      - name: "Multi-Environment Deployment"
+        level: 80
+        description: "Dev/test/staging/prod environment segregation"
+      - name: "Policy as Code"
         level: 70
-        description: "VPC design, security groups, network ACLs"
-      - name: "Linux Administration"
+        description: "OPA, Sentinel, compliance automation"
+      - name: "Infrastructure Testing"
+        level: 75
+        description: "Automated validation, security scanning"
+      - name: "State Management"
+        level: 80
+        description: "Remote state with S3/DynamoDB, state operations"
+
+  - name: "Security & Compliance"
+    skills:
+      - name: "DevSecOps"
+        level: 80
+        description: "Security integration throughout delivery pipeline"
+      - name: "Financial Services Compliance"
+        level: 75
+        description: "SOX, PCI-DSS, GDPR implementation for technology"
+      - name: "Security Automation"
+        level: 80
+        description: "Automated scanning, remediation, evidence collection"
+      - name: "Infrastructure Security"
         level: 85
-        description: "System management, performance tuning, security"
+        description: "Defense-in-depth, least privilege, network security"
+      - name: "Secrets Management"
+        level: 80
+        description: "Vault, AWS Secrets Manager, key rotation"
 
   - name: "Containerization & Orchestration"
     skills:
       - name: "Docker"
         level: 80
-        description: "Image creation, optimization, multi-stage builds"
+        description: "Image security, multi-stage builds, optimization"
       - name: "Kubernetes"
         level: 75
-        description: "Deployment management, services, RBAC, security"
-      - name: "Service Mesh"
-        level: 60
-        description: "Istio, traffic management, security"
-      - name: "Helm"
-        level: 70
-        description: "Package management for Kubernetes"
+        description: "EKS implementation, RBAC, network policies"
       - name: "Container Security"
-        level: 75
-        description: "Secure images, runtime protection, scanning"
+        level: 80
+        description: "Image scanning, runtime protection, compliance"
+      - name: "Service Mesh"
+        level: 65
+        description: "Istio for security, monitoring, traffic management"
+      - name: "GitOps"
+        level: 70
+        description: "ArgoCD, declarative deployments, immutability"
 
   - name: "CI/CD & Automation"
     skills:
       - name: "GitHub Actions"
         level: 85
-        description: "Automated pipelines, workflow optimization"
-      - name: "Jenkins"
-        level: 70
-        description: "Pipeline creation and management"
-      - name: "Shell Scripting"
+        description: "Secure deployment workflows, approval processes"
+      - name: "Pipeline Security"
+        level: 80
+        description: "Security scanning integration, validation gates"
+      - name: "Deployment Automation"
         level: 85
-        description: "Bash, automation scripts, tooling"
-      - name: "Python Automation"
-        level: 75
-        description: "Infrastructure scripting, ETL processing"
+        description: "Infrastructure validation, rollback mechanisms"
+      - name: "Scripting & Automation"
+        level: 85
+        description: "Bash, Python for infrastructure automation"
       - name: "Testing Automation"
-        level: 70
-        description: "Infrastructure testing, security scanning"
-
-  - name: "Monitoring & Reliability"
-    skills:
-      - name: "Prometheus"
         level: 75
-        description: "Metrics collection, alerting rules"
-      - name: "Grafana"
+        description: "Infrastructure testing, compliance validation"
+
+  - name: "Monitoring & Observability"
+    skills:
+      - name: "Prometheus & Grafana"
         level: 80
-        description: "Dashboard creation, visualization"
-      - name: "Logging Systems"
+        description: "Financial services dashboards, alerting, visualization"
+      - name: "Logging & Analysis"
+        level: 75
+        description: "Centralized logging, audit trails, compliance search"
+      - name: "Distributed Tracing"
         level: 70
-        description: "ELK stack, log aggregation and analysis"
-      - name: "Incident Response"
+        description: "Transaction tracking, performance analysis"
+      - name: "Alerting & Incident Response"
+        level: 75
+        description: "Alert design, runbooks, automated remediation"
+      - name: "Compliance Monitoring"
+        level: 75
+        description: "Continuous validation, drift detection, reporting"
+
+  - name: "Business Impact"
+    skills:
+      - name: "ROI Calculation"
+        level: 70
+        description: "Quantifying the value of technical initiatives"
+      - name: "Executive Communication"
         level: 65
-        description: "Alerting strategies, runbooks, recovery"
-      - name: "Performance Optimization"
-        level: 70
-        description: "Resource utilization, cost management"
-
-  - name: "Security & Compliance"
-    skills:
-      - name: "DevSecOps"
-        level: 75
-        description: "Security integration throughout delivery pipeline"
-      - name: "IAM & Access Management"
+        description: "Translating technical concepts for leadership"
+      - name: "Documentation"
         level: 80
-        description: "Least privilege, role-based access"
-      - name: "Compliance Automation"
-        level: 70
-        description: "Financial services regulatory requirements"
-      - name: "Secrets Management"
+        description: "Architecture decisions, implementation patterns"
+      - name: "Strategic Planning"
+        level: 65
+        description: "Technical roadmaps, investment prioritization"
+      - name: "Cost Optimization"
         level: 75
-        description: "Vault, secure storage and rotation"
-      - name: "Security Scanning"
-        level: 70
-        description: "Vulnerability assessment, remediation"
+        description: "Resource efficiency, environment optimization"
 
-  - name: "Development Tools"
+  - name: "Development Environment"
     skills:
       - name: "Neovim"
         level: 90
@@ -104,6 +140,6 @@ categories:
       - name: "Terminal Workflow"
         level: 90
         description: "Efficient command-line based operations"
-      - name: "Documentation"
-        level: 80
-        description: "Technical writing, architecture documentation"
+      - name: "Linux Administration"
+        level: 85
+        description: "System management, security hardening"
