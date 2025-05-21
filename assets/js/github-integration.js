@@ -116,9 +116,10 @@ document.addEventListener('DOMContentLoaded', function() {
             </div>
             <div class="project-details">
               <h3><a href="${repo.html_url}">${repo.name}</a></h3>
-              <p>${description}</p>
-              <p>Language: ${language}</p>
-              <a href="${repo.html_url}" class="btn project-btn">View on GitHub</a>
+              <p class="project-description">${description}</p>
+              <div class="project-actions">
+                <a href="${repo.html_url}" class="btn project-btn">View on GitHub</a>
+              </div>
             </div>
           </div>
         `;
