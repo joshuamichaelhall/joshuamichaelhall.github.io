@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const careerRelevantKeywords = [
         'infrastructure', 'terraform', 'aws', 'kubernetes', 'k8s', 'docker', 
         'container', 'devops', 'cicd', 'ci-cd', 'pipeline', 'security', 'compliance',
-        'monitoring', 'platform', 'finapp', 'cloud', 'automation'
+        'monitoring', 'platform', 'finapp', 'cloud', 'automation', 'terminal', 'enhanced-terminal'
       ];
       
       // Filter for career-relevant repositories and limit to 6
@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'security-automation': 'Infrastructure security scanning automation and compliance reporting tools for financial regulations.',
         'cicd-pipeline': 'Complete CI/CD pipeline for application deployment with testing, security scanning and automated rollbacks.',
         'fin-k8s-operator': 'Custom Kubernetes operator for managing financial application deployments with compliance controls.',
-        'monitoring-dashboard': 'Comprehensive monitoring solution for infrastructure and applications with financial services focus.'
+        'enhanced-terminal-environment': 'Customized developer terminal environment with integrated tooling for zsh, tmux, and neovim focused on DevOps workflow optimization.'
       };
       
       // Default languages for repositories that might not have a language specified
@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'security-automation': 'Python',
         'cicd-pipeline': 'YAML',
         'fin-k8s-operator': 'Go',
-        'monitoring-dashboard': 'Terraform'
+        'enhanced-terminal-environment': 'Shell'
       };
       
       filteredRepos.forEach(repo => {
