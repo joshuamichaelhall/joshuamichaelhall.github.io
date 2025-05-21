@@ -17,12 +17,12 @@ permalink: /portfolio/
       <div class="project-card featured">
         <div class="project-header">
           <h2>Multi-Environment AWS Infrastructure for Financial Services</h2>
-        </div>
-        <div class="project-status-bar">
-          <div class="project-status">Foundation Phase | Active Development</div>
           <div class="project-links">
             <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="github-link" target="_blank">View on GitHub</a>
           </div>
+        </div>
+        <div class="project-status-line">
+          <div class="project-status">Foundation Phase | Active Development</div>
         </div>
         <div class="project-content-section">
           <div class="project-image">
@@ -56,12 +56,12 @@ permalink: /portfolio/
       <div class="project-card">
         <div class="project-header">
           <h2>Containerized Microservices Platform</h2>
-        </div>
-        <div class="project-status-bar">
-          <div class="project-status">Advanced Phase | Active Development</div>
           <div class="project-links">
             <a href="https://github.com/JoshuaMichaelHall-Tech/project-container-platform" class="github-link" target="_blank">View on GitHub</a>
           </div>
+        </div>
+        <div class="project-status-line">
+          <div class="project-status">Advanced Phase | Active Development</div>
         </div>
         <div class="project-content-section">
           <div class="project-image">
