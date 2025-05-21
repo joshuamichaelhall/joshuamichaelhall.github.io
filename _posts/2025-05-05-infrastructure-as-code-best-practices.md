@@ -6,6 +6,7 @@ categories: devops terraform aws
 tags: infrastructure-as-code terraform aws financial-services security
 featured: true
 excerpt: "A comprehensive guide to implementing secure, compliant infrastructure using Terraform and AWS services for financial applications."
+image: "/assets/images/infrastructure_as_code_article_icon.png"
 published: true
 ---
 Infrastructure as Code (IaC) has transformed how organizations deploy and manage cloud resources. For financial services, where security and compliance requirements are especially stringent, implementing proper IaC practices is crucial. This post explores best practices for using Terraform to build secure, compliant AWS infrastructure for financial applications.

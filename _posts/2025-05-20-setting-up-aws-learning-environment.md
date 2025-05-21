@@ -4,6 +4,7 @@ title: "Setting Up a Secure AWS Learning Environment for DevOps Practice"
 date: 2025-05-20 10:00:00 -0500
 categories: infrastructure
 tags: aws terraform security best-practices
+image: "/assets/images/set_secure_aws_article_icon.png"
 published: true
 ---
 

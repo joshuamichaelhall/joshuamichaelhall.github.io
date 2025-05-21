@@ -3769,3 +3769,40 @@ code[class*="language-"] {
     padding: 5px 10px;
   }
 }
+
+/* Article-specific styling */
+.article-date {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-top: 8px;
+  margin-bottom: 0 !important;
+  font-style: italic;
+}
+
+/* Post hero image styling */
+.post-hero-image {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto 2rem;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.post-hero-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.post-hero-image:hover img {
+  transform: scale(1.02);
+}
+
+@media (max-width: 768px) {
+  .post-hero-image {
+    margin-bottom: 1.5rem;
+    border-radius: 8px;
+  }
+}

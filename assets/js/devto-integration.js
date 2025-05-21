@@ -25,17 +25,61 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
       }
 
+      // Article images mapping based on title keywords
+      const articleImages = {
+        'infrastructure as code': '/assets/images/infrastructure_as_code_article_icon.png',
+        'secure aws': '/assets/images/set_secure_aws_article_icon.png',
+        'aws learning environment': '/assets/images/set_secure_aws_article_icon.png',
+        'devops': '/assets/images/devops_sre_article_icon.png',
+        'sre': '/assets/images/devops_sre_article_icon.png',
+        'career': '/assets/images/career_evolution_announcement_article_icon.png',
+        'terminal': '/assets/images/devops_sre_article_icon.png',
+        'development environment': '/assets/images/devops_sre_article_icon.png',
+        // Fallback patterns
+        'financial services': '/assets/images/infrastructure_as_code_article_icon.png',
+        'terraform': '/assets/images/infrastructure_as_code_article_icon.png',
+        'aws': '/assets/images/set_secure_aws_article_icon.png'
+      };
+
+      // Function to get article image based on title
+      function getArticleImage(articleTitle) {
+        const lowerTitle = articleTitle.toLowerCase();
+        
+        // Try to find a matching pattern
+        for (const [pattern, imagePath] of Object.entries(articleImages)) {
+          if (lowerTitle.includes(pattern.toLowerCase())) {
+            return imagePath;
+          }
+        }
+        
+        // Default fallback image
+        return '/assets/images/devops_sre_article_icon.png';
+      }
+
       // Create a container for article cards
       const articlesContainer = document.createElement('div');
       articlesContainer.className = 'articles-container';
       
       articles.forEach(article => {
         const articleDiv = document.createElement('div');
-        articleDiv.className = 'project-card'; // Change to project-card for consistent styling
+        articleDiv.className = 'project-card'; // Use project-card for consistent styling with images
+        
+        const articleImage = getArticleImage(article.title);
+        
         articleDiv.innerHTML = `
-          <h3><a href="${article.url}" target="_blank">${article.title}</a></h3>
-          <p>${article.description}</p>
-          <p>Published: ${new Date(article.published_at).toLocaleDateString()}</p>
+          <div class="project-content">
+            <div class="project-image">
+              <img src="${articleImage}" alt="${article.title}" loading="lazy">
+            </div>
+            <div class="project-details">
+              <div class="project-header">
+                <h3><a href="${article.url}" target="_blank">${article.title}</a></h3>
+                <a href="${article.url}" target="_blank" class="btn project-btn">Read Article</a>
+              </div>
+              <p class="project-description">${article.description}</p>
+              <p class="article-date">Published: ${new Date(article.published_at).toLocaleDateString()}</p>
+            </div>
+          </div>
         `;
         articlesContainer.appendChild(articleDiv);
       });

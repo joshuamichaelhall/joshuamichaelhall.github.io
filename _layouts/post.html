@@ -3,6 +3,11 @@ layout: default
 ---
 <article class="post">
   <header class="post-header">
+    {% if page.image %}
+    <div class="post-hero-image">
+      <img src="{{ page.image }}" alt="{{ page.title | escape }}" loading="lazy">
+    </div>
+    {% endif %}
     <h1 class="post-title">{{ page.title | escape }}</h1>
     <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
     
