@@ -184,7 +184,7 @@ permalink: /portfolio/
               <strong>Technologies:</strong> Shell, Neovim, Tmux, Git, Zsh, AWS CLI, Terraform CLI
             </p>
             <div class="project-links">
-              <a href="https://github.com/joshuamichaelhall/enhanced-terminal-environment" class="github-link" target="_blank">View on GitHub</a>
+              <a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" class="github-link" target="_blank">View on GitHub</a>
             </div>
           </div>
         </div>
