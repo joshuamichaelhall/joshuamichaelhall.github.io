@@ -11,8 +11,8 @@ permalink: /about/
     <img src="/assets/images/profile.jpg" alt="Joshua Michael Hall" />
   </div>
   <div class="profile-summary">
-    <p>I'm a DevOps/SRE engineer specializing in infrastructure automation, containerization, and platform engineering for financial services. With a focus on AWS, Terraform, and security automation, I'm building a career that combines technical excellence with business value in regulated environments.</p>
-    <p>My approach combines mastery-based learning with deliberate practice, focusing on building strong technical foundations before advancing to specialized skills. I'm particularly interested in implementing infrastructure as code with compliance and security controls for financial services applications.</p>
+    <p>I'm a DevOps/SRE engineer specializing in infrastructure automation, containerization, and platform engineering for financial services. With a focused AWS specialization strategy, I'm building secure and compliant infrastructure with an emphasis on business impact in regulated environments.</p>
+    <p>My approach combines deep technical mastery with strategic business value creation, focusing on building high-impact capabilities that accelerate enterprise operations. I'm particularly interested in implementing infrastructure as code with automated compliance controls for financial services applications.</p>
   </div>
 </div>
 
@@ -21,7 +21,7 @@ permalink: /about/
   <div class="expertise-grid">
     <div class="expertise-item">
       <h3>AWS Specialization</h3>
-      <p>Deep focus on AWS services for financial services environments, including security, compliance architecture, and automated deployment patterns for regulated workloads.</p>
+      <p>Strategic focus on AWS services for financial services environments, including multi-account architecture, security controls, and compliance automation for regulated workloads.</p>
     </div>
     <div class="expertise-item">
       <h3>Infrastructure as Code</h3>
@@ -29,11 +29,38 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Containerization & Orchestration</h3>
-      <p>Building expertise in Docker containerization and Kubernetes orchestration with emphasis on security, high availability, and compliance for financial applications.</p>
+      <p>Building secure container platforms with Kubernetes, focusing on compliance, high availability, and security automation for financial applications.</p>
     </div>
     <div class="expertise-item">
       <h3>Security & Compliance</h3>
-      <p>Implementing regulatory controls in infrastructure code, security automation, and compliance validation for financial services environments.</p>
+      <p>Implementing regulatory controls as code, financial services compliance automation, and security validation for regulated environments.</p>
+    </div>
+  </div>
+</div>
+
+<div class="content-section with-divider">
+  <h2>Strategic Career Principles</h2>
+  <p>My career development is guided by these strategic principles that position me for the top 1% in DevOps:</p>
+  <div class="expertise-grid">
+    <div class="expertise-item">
+      <h3>Strategic Specialization</h3>
+      <p>Focus on financial services DevOps with AWS as primary platform rather than a multi-cloud approach</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Deep Technical Mastery</h3>
+      <p>Develop comprehensive expertise in core technologies before expanding to new areas</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Business Value Focus</h3>
+      <p>Emphasize skills that deliver measurable financial impact and prioritize ROI in technical decisions</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Project-Based Acceleration</h3>
+      <p>Learn while building portfolio projects that demonstrate real-world capability in financial services</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Executive Positioning</h3>
+      <p>Develop strategic skills and business acumen for principal/staff engineer roles</p>
     </div>
   </div>
 </div>
@@ -83,54 +110,54 @@ permalink: /about/
       <h3>Foundation Building</h3>
       <p>AWS Solutions Architect Associate certification</p>
       <p>Terraform Associate certification</p>
-      <p>Infrastructure as Code implementation for multi-environment deployment</p>
+      <p>Infrastructure as Code for multi-environment deployment</p>
       <p>Security automation for financial services compliance</p>
-      <p>Docker containerization fundamentals</p>
+      <p>Docker containerization with security focus</p>
     </div>
 
     <div class="expertise-item">
       <h3>Advanced Implementation</h3>
       <p>AWS DevOps Professional certification</p>
       <p>Kubernetes for container orchestration</p>
-      <p>CI/CD pipeline implementation</p>
-      <p>Financial services compliance expertise</p>
+      <p>CI/CD pipeline with security integration</p>
+      <p>Financial services compliance automation</p>
       <p>Advanced monitoring and observability</p>
     </div>
 
     <div class="expertise-item">
       <h3>Platform Engineering Specialization</h3>
+      <p>AWS Solutions Architect Professional certification</p>
       <p>AWS Security Specialty certification</p>
       <p>Certified Kubernetes Administrator</p>
-      <p>Platform engineering with financial services focus</p>
-      <p>Technical leadership and architecture design</p>
+      <p>Business impact measurement for technical initiatives</p>
       <p>Financial services domain expertise</p>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Learning Philosophy</h2>
-  <p>My approach to technical learning and career development is guided by these principles:</p>
+  <h2>Business Impact Focus</h2>
+  <p>My approach emphasizes demonstrating business value through:</p>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Mastery-based learning</h3>
-      <p>Building deep understanding over surface knowledge</p>
+      <h3>Cost Optimization</h3>
+      <p>Infrastructure right-sizing, resource optimization, and automated cost controls</p>
     </div>
     <div class="expertise-item">
-      <h3>Strong fundamentals</h3>
-      <p>Establishing solid technical foundations before adopting complex tools</p>
+      <h3>Security Enhancement</h3>
+      <p>Quantifiable security posture improvements and risk reduction metrics</p>
     </div>
     <div class="expertise-item">
-      <h3>Deliberate practice</h3>
-      <p>Focused effort on specific skills with measurable improvement</p>
+      <h3>Operational Efficiency</h3>
+      <p>Automation that reduces manual effort and improves mean time to recovery</p>
     </div>
     <div class="expertise-item">
-      <h3>Terminal-centric workflow</h3>
-      <p>Optimizing for efficiency through command-line expertise</p>
+      <h3>Compliance Automation</h3>
+      <p>Reduced audit preparation time through automated controls and evidence collection</p>
     </div>
     <div class="expertise-item">
-      <h3>Strategic skill development</h3>
-      <p>Aligning learning with long-term career objectives</p>
+      <h3>Innovation Enablement</h3>
+      <p>Accelerated time-to-market for new products through platform capabilities</p>
     </div>
   </div>
 </div>
