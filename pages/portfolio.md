@@ -15,9 +15,16 @@ permalink: /portfolio/
       <h3>Infrastructure as Code Projects</h3>
       
       <div class="project-card featured">
-        <h2>Multi-Environment AWS Infrastructure for Financial Services</h2>
-        <div class="project-status">Foundation Phase | Active Development</div>
-        <div class="project-details">
+        <div class="project-header">
+          <h2>Multi-Environment AWS Infrastructure for Financial Services</h2>
+        </div>
+        <div class="project-status-bar">
+          <div class="project-status">Foundation Phase | Active Development</div>
+          <div class="project-links">
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="github-link" target="_blank">View on GitHub</a>
+          </div>
+        </div>
+        <div class="project-content-section">
           <div class="project-image">
             <img src="/assets/images/terraform-aws.png" alt="Terraform AWS Infrastructure" />
           </div>
@@ -42,17 +49,21 @@ permalink: /portfolio/
             <p class="technologies">
               <strong>Technologies:</strong> AWS (VPC, EC2, RDS, S3, IAM, Security Hub), Terraform, AWS Config, CloudTrail, CloudWatch
             </p>
-            <div class="project-links">
-              <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="github-link" target="_blank">View on GitHub</a>
-            </div>
           </div>
         </div>
       </div>
       
       <div class="project-card">
-        <h2>Containerized Microservices Platform</h2>
-        <div class="project-status">Advanced Phase | Active Development</div>
-        <div class="project-details">
+        <div class="project-header">
+          <h2>Containerized Microservices Platform</h2>
+        </div>
+        <div class="project-status-bar">
+          <div class="project-status">Advanced Phase | Active Development</div>
+          <div class="project-links">
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-container-platform" class="github-link" target="_blank">View on GitHub</a>
+          </div>
+        </div>
+        <div class="project-content-section">
           <div class="project-image">
             <img src="/assets/images/kubernetes.png" alt="Container Platform" />
           </div>
@@ -77,9 +88,6 @@ permalink: /portfolio/
             <p class="technologies">
               <strong>Technologies:</strong> Kubernetes, Istio, Prometheus, Grafana, ELK Stack, Trivy, Falco, Vault, ArgoCD
             </p>
-            <div class="project-links">
-              <a href="https://github.com/JoshuaMichaelHall-Tech/project-container-platform" class="github-link" target="_blank">View on GitHub</a>
-            </div>
           </div>
         </div>
       </div>
