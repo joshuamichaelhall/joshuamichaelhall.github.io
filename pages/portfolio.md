@@ -97,9 +97,16 @@ permalink: /portfolio/
       <h3>Security & Automation Projects</h3>
       
       <div class="project-card">
-        <h2>Security Automation Suite for Financial Services</h2>
-        <div class="project-status">Advanced Phase | Active Development</div>
-        <div class="project-details">
+        <div class="project-header">
+          <h2>Security Automation Suite for Financial Services</h2>
+          <div class="project-links">
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-security-automation" class="github-link" target="_blank">View on GitHub</a>
+          </div>
+        </div>
+        <div class="project-status-line">
+          <div class="project-status">Advanced Phase | Active Development</div>
+        </div>
+        <div class="project-content-section">
           <div class="project-image">
             <img src="/assets/images/security-automation.png" alt="Security Automation" />
           </div>
@@ -124,17 +131,21 @@ permalink: /portfolio/
             <p class="technologies">
               <strong>Technologies:</strong> AWS Security Hub, GuardDuty, Config, Terraform, Docker, Kubernetes, Trivy, OPA
             </p>
-            <div class="project-links">
-              <a href="https://github.com/JoshuaMichaelHall-Tech/project-security-automation" class="github-link" target="_blank">View on GitHub</a>
-            </div>
           </div>
         </div>
       </div>
       
       <div class="project-card">
-        <h2>DevOps Pipeline Implementation for Financial Applications</h2>
-        <div class="project-status">Foundation Phase | Active Development</div>
-        <div class="project-details">
+        <div class="project-header">
+          <h2>DevOps Pipeline Implementation for Financial Applications</h2>
+          <div class="project-links">
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial" class="github-link" target="_blank">View on GitHub</a>
+          </div>
+        </div>
+        <div class="project-status-line">
+          <div class="project-status">Foundation Phase | Active Development</div>
+        </div>
+        <div class="project-content-section">
           <div class="project-image">
             <img src="/assets/images/cicd-pipeline.png" alt="DevOps Pipeline" />
           </div>
@@ -159,9 +170,6 @@ permalink: /portfolio/
             <p class="technologies">
               <strong>Technologies:</strong> GitHub Actions, AWS CodePipeline, SonarQube, OWASP dependency scanning, Terraform, AWS CloudFormation Guard
             </p>
-            <div class="project-links">
-              <a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial" class="github-link" target="_blank">View on GitHub</a>
-            </div>
           </div>
         </div>
       </div>
@@ -171,9 +179,16 @@ permalink: /portfolio/
       <h3>Professional Development Tools</h3>
       
       <div class="project-card">
-        <h2>Enhanced Terminal Environment</h2>
-        <div class="project-status">Advanced Phase | Ongoing Development</div>
-        <div class="project-details">
+        <div class="project-header">
+          <h2>Enhanced Terminal Environment</h2>
+          <div class="project-links">
+            <a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" class="github-link" target="_blank">View on GitHub</a>
+          </div>
+        </div>
+        <div class="project-status-line">
+          <div class="project-status">Advanced Phase | Ongoing Development</div>
+        </div>
+        <div class="project-content-section">
           <div class="project-image">
             <img src="/assets/images/enhanced_terminal_environment.png" alt="Enhanced Terminal Environment" />
           </div>
@@ -191,9 +206,6 @@ permalink: /portfolio/
             <p class="technologies">
               <strong>Technologies:</strong> Shell, Neovim, Tmux, Git, Zsh, AWS CLI, Terraform CLI
             </p>
-            <div class="project-links">
-              <a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" class="github-link" target="_blank">View on GitHub</a>
-            </div>
           </div>
         </div>
       </div>
