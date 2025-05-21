@@ -44,7 +44,7 @@
   description: "Customized developer terminal environment with integrated tooling for zsh, tmux, and neovim focused on DevOps workflow optimization for financial services infrastructure management."
   technologies: ["Shell", "Neovim", "Tmux", "Git", "Zsh", "AWS CLI", "Terraform CLI"]
   github: "https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment"
-  image: "/assets/images/terminal-env.png"
+  image: "/assets/images/enhanced_terminal_environment.png"
   featured: true
   category: "developer-tools"
   status: "Ongoing Development"

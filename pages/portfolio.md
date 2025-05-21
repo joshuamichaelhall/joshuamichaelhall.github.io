@@ -167,7 +167,7 @@ permalink: /portfolio/
         <div class="project-status">Advanced Phase | Ongoing Development</div>
         <div class="project-details">
           <div class="project-image">
-            <img src="/assets/images/terminal-env.png" alt="Enhanced Terminal Environment" />
+            <img src="/assets/images/enhanced_terminal_environment.png" alt="Enhanced Terminal Environment" />
           </div>
           <div class="project-description">
             <p>Customized developer terminal environment with integrated tooling for zsh, tmux, and neovim focused on DevOps workflow optimization for financial services infrastructure management.</p>
