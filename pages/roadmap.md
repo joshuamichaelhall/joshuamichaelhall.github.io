@@ -7,8 +7,8 @@ permalink: /roadmap/
 # DevOps Career Roadmap
 
 <div class="content-section with-divider">
-  <h2 style="text-align: center;">Accelerated DevOps Path to Top 1% Compensation</h2>
-  <p class="section-intro-text" style="text-align: left; margin-left: 0;">This roadmap outlines my structured approach to rapidly developing expertise as a DevOps engineer specializing in financial services, with a strategic focus on AWS, infrastructure as code, and security automation to reach premium compensation levels within 5-6 years.</p>
+  <h2 style="text-align: center;">Accelerated DevOps Path to Technical Excellence</h2>
+  <p class="section-intro-text" style="text-align: left; margin-left: 0;">This roadmap outlines my structured approach to rapidly developing expertise as a DevOps engineer specializing in financial services, with a strategic focus on AWS, infrastructure as code, and security automation to reach principal/staff engineer level technical mastery within 5-6 years.</p>
   
   <div class="quote">
     <p>Master the basics. Then practice them every day without fail.</p>
@@ -62,7 +62,7 @@ permalink: /roadmap/
   
   <div class="roadmap-phase">
     <div class="phase-area">
-      <h3>Years 0-2: Mid-Level DevOps Engineer ($120K-$160K)</h3>
+      <h3>Years 0-2: Mid-Level DevOps Engineer</h3>
       <div class="phase-content">
         <ul class="phase-goals">
           <li>AWS Solutions Architect Associate certification</li>
@@ -76,7 +76,7 @@ permalink: /roadmap/
     </div>
     
     <div class="phase-area">
-      <h3>Years 2-4: Senior DevOps Engineer ($160K-$200K)</h3>
+      <h3>Years 2-4: Senior DevOps Engineer</h3>
       <div class="phase-content">
         <ul class="phase-goals">
           <li>AWS DevOps Professional certification</li>
@@ -91,7 +91,7 @@ permalink: /roadmap/
     </div>
     
     <div class="phase-area">
-      <h3>Years 4-6: Principal/Staff DevOps Engineer ($200K-$250K+)</h3>
+      <h3>Years 4-6: Principal/Staff DevOps Engineer</h3>
       <div class="phase-content">
         <ul class="phase-goals">
           <li>AWS Solutions Architect Professional certification</li>
@@ -106,7 +106,7 @@ permalink: /roadmap/
     </div>
     
     <div class="phase-area">
-      <h3>Years 6+: Engineering Manager/Director ($250K-$350K+)</h3>
+      <h3>Years 6+: Engineering Manager/Director</h3>
       <div class="phase-content">
         <ul class="phase-goals">
           <li>Leading organization-wide initiatives</li>
@@ -290,7 +290,7 @@ permalink: /roadmap/
 </div>
 
 <div class="content-section with-divider">
-  <h2 style="text-align: center;">Top 1% Acceleration Track</h2>
+  <h2 style="text-align: center;">Technical Excellence Acceleration Track</h2>
   
   <div class="roadmap-phase">
     <div class="phase-area">
@@ -398,7 +398,7 @@ permalink: /roadmap/
     <div class="cert-item">
       <div class="cert-badge">AWS Solutions Architect Professional</div>
       <div class="cert-timeframe">Month 24-30</div>
-      <p>Premium certification for principal role ($220K+)</p>
+      <p>Premium certification for principal/staff engineer role</p>
     </div>
     
     <div class="cert-item">
@@ -410,30 +410,33 @@ permalink: /roadmap/
 </div>
 
 <div class="content-section with-divider">
-  <h2 style="text-align: center;">ROI Projection</h2>
+  <h2 style="text-align: center;">Professional Development Investment</h2>
   
   <div class="roadmap-phase">
     <div class="phase-area">
-      <h3>Enhanced Path to $250K+</h3>
+      <h3>Technical Excellence Investment</h3>
       <div class="phase-content">
-        <p>Strategic investment in business skills and executive development provides exponential returns:</p>
+        <p>Strategic investment in business skills and executive development provides exponential career growth:</p>
         <ul class="phase-goals">
-          <li>Year 1: $125,000 (vs $120,000 traditional)</li>
-          <li>Year 2: $175,000 (vs $160,000 traditional)</li>
-          <li>Year 3: $220,000 (vs $180,000 traditional)</li>
-          <li>Year 4: $280,000 (vs $200,000 traditional)</li>
-          <li>Year 5: $320,000 (vs $220,000 traditional)</li>
-          <li>Year 6: $350,000 (vs $240,000 traditional)</li>
+          <li><strong>Technical Training & Certifications:</strong> Core technical credibility</li>
+          <li><strong>Business Skills Development:</strong> Executive-level influence</li>
+          <li><strong>Executive Development:</strong> Leadership positioning</li>
+          <li><strong>Strategic Positioning:</strong> Premium role placement</li>
         </ul>
-        <p><strong>6-Year Advantage:</strong> $350,000 additional earnings</p>
-        <p><strong>ROI on Enhanced Investment:</strong> 2,088%</p>
+        <p><strong>Year-by-Year Investment Plan:</strong></p>
+        <ul class="phase-goals">
+          <li><strong>Year 1:</strong> Courses, events, certifications</li>
+          <li><strong>Year 2:</strong> Conferences, executive coaching</li>
+          <li><strong>Year 3:</strong> Speaking events, advisory training</li>
+          <li><strong>Year 4+:</strong> Thought leadership, executive programs</li>
+        </ul>
       </div>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2 style="text-align: center;">Critical Differentiators for Top 1%</h2>
+  <h2 style="text-align: center;">Critical Differentiators for Technical Excellence</h2>
   
   <div class="roadmap-phase">
     <div class="phase-area">
