@@ -128,7 +128,7 @@ permalink: /dashboard/
   </div>
   
   <div class="read-more">
-    <a href="/blog/2025/05/15/strategic-approach-to-devops-skills" class="btn primary-btn">Read the Full Development Story</a>
+    <a href="https://github.com/joshuamichaelhall/enhanced-terminal-environment" class="btn primary-btn">View Terminal Environment Project</a>
   </div>
 </div>
 
@@ -139,9 +139,8 @@ permalink: /dashboard/
     <p>The dashboard is <strong>open source</strong> and available for you to use in your own career development journey.</p>
     
     <div class="cta-buttons">
-      <a href="https://github.com/joshuamichaelhall/devops-career-dashboard" target="_blank" class="btn primary-btn">View on GitHub</a>
-      <a href="https://devops-dashboard.joshuamichaelhall.com?demo=true" target="_blank" class="btn secondary-btn">Try Live Demo</a>
-      <a href="/blog/2025/05/15/strategic-approach-to-devops-skills" class="btn tertiary-btn">Read Development Story</a>
+      <a href="https://github.com/joshuamichaelhall/enhanced-terminal-environment" target="_blank" class="btn primary-btn">View on GitHub</a>
+      <a href="https://github.com/joshuamichaelhall/enhanced-terminal-environment#installation" target="_blank" class="btn secondary-btn">Installation Guide</a>
     </div>
     
     <p class="footnote">The dashboard was developed with assistance from Claude.ai, demonstrating how AI can enhance productivity in software development.</p>
