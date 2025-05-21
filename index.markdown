@@ -8,7 +8,6 @@ layout: default
       <h1>Joshua Michael Hall</h1>
       <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
       <p>Building secure, reliable infrastructure through automation, containerization, and DevOps practices.</p>
-      <p class="building-in-public"><span class="highlight">Building in public:</span> Follow my DevOps career journey as it happens</p>
       <div class="hero-links">
         <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
         <a href="/roadmap" class="btn accent-btn">Learning Roadmap</a>
