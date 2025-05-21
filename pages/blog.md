@@ -12,10 +12,19 @@ permalink: /blog/
 
   <div class="articles-container">
     <div class="project-card">
-      <h3><a href="/blog/2025/05/05/infrastructure-as-code-best-practices/">Infrastructure as Code Best Practices for Financial Services</a></h3>
-      <p class="post-date">May 5, 2025</p>
-      <p>A comprehensive guide to implementing infrastructure as code with Terraform in financial services environments, focusing on security, compliance, and operational excellence.</p>
-      <a href="/blog/2025/05/05/infrastructure-as-code-best-practices/" class="read-more">Read more</a>
+      <div class="project-content">
+        <div class="project-image">
+          <img src="/assets/images/infrastructure_as_code_article_icon.png" alt="Infrastructure as Code Best Practices for Financial Services" loading="lazy">
+        </div>
+        <div class="project-details">
+          <div class="project-header">
+            <h3><a href="/blog/2025/05/05/infrastructure-as-code-best-practices/">Infrastructure as Code Best Practices for Financial Services</a></h3>
+            <a href="/blog/2025/05/05/infrastructure-as-code-best-practices/" class="btn project-btn">Read Article</a>
+          </div>
+          <p class="post-date">May 5, 2025</p>
+          <p class="project-description">A comprehensive guide to implementing infrastructure as code with Terraform in financial services environments, focusing on security, compliance, and operational excellence.</p>
+        </div>
+      </div>
     </div>
   </div>
 </div>
