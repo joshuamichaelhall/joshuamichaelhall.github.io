@@ -26,8 +26,8 @@ permalink: /roadmap/
     </div>
     
     <div class="focus-area">
-      <h3>Minimal Viable Learning</h3>
-      <p>Master essential core skills deeply before expanding</p>
+      <h3>Strategic Skill Mastery</h3>
+      <p>Develop deep expertise in core skills before expanding</p>
     </div>
     
     <div class="focus-area">
@@ -36,8 +36,8 @@ permalink: /roadmap/
     </div>
     
     <div class="focus-area">
-      <h3>Certification Optimization</h3>
-      <p>Prioritize only the highest-value certifications</p>
+      <h3>Strategic Certification Path</h3>
+      <p>Focus on industry-recognized certifications with maximum impact</p>
     </div>
     
     <div class="focus-area">
