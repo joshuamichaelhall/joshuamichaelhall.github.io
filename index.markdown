@@ -158,6 +158,7 @@ layout: default
   .hero-text h1 {
     margin-top: 0;
     margin-bottom: 0.5rem;
+    text-align: center;
   }
   
   .hero-text h2 {
