@@ -61,6 +61,23 @@ document.addEventListener('DOMContentLoaded', function() {
         'enhanced-terminal-environment': 'Shell'
       };
       
+      // Project images mapping based on repository names
+      const projectImages = {
+        'project-aws-infrastructure': '/assets/images/Financial Services AWS Infrastructure.png',
+        'project-container-platform': '/assets/images/Containerized Microservices Platform.png',
+        'project-container-security-finance': '/assets/images/security-automation.png',
+        'project-devops-pipeline-financial': '/assets/images/cicd-pipeline.png',
+        'enhanced-terminal-environment': '/assets/images/enhanced_terminal_environment.png',
+        'devops-sre-mastery': '/assets/images/devops_sre_mastery_project.png',
+        'software-engineering-reference': '/assets/images/software_engineering_reference.png',
+        // Fallback patterns for partial matches
+        'infrastructure': '/assets/images/terraform-aws.png',
+        'container': '/assets/images/kubernetes.png',
+        'security': '/assets/images/security-automation.png',
+        'pipeline': '/assets/images/cicd-pipeline.png',
+        'terminal': '/assets/images/enhanced_terminal_environment.png'
+      };
+      
       filteredRepos.forEach(repo => {
         const projectDiv = document.createElement('div');
         projectDiv.className = 'project-card';
@@ -71,11 +88,39 @@ document.addEventListener('DOMContentLoaded', function() {
         // Use default language if none is specified
         const language = repo.language || defaultLanguages[repo.name] || 'YAML';
 
+        // Get project image
+        function getProjectImage(repoName) {
+          // First try exact match
+          if (projectImages[repoName]) {
+            return projectImages[repoName];
+          }
+          
+          // Then try pattern matching
+          const lowerName = repoName.toLowerCase();
+          for (const [pattern, imagePath] of Object.entries(projectImages)) {
+            if (lowerName.includes(pattern.toLowerCase())) {
+              return imagePath;
+            }
+          }
+          
+          // Default fallback image
+          return '/assets/images/terraform-aws.png';
+        }
+
+        const projectImage = getProjectImage(repo.name);
+
         projectDiv.innerHTML = `
-          <h3><a href="${repo.html_url}">${repo.name}</a></h3>
-          <p>${description}</p>
-          <p>Language: ${language}</p>
-          <a href="${repo.html_url}" class="btn project-btn">View on GitHub</a>
+          <div class="project-content">
+            <div class="project-image">
+              <img src="${projectImage}" alt="${repo.name}" loading="lazy">
+            </div>
+            <div class="project-details">
+              <h3><a href="${repo.html_url}">${repo.name}</a></h3>
+              <p>${description}</p>
+              <p>Language: ${language}</p>
+              <a href="${repo.html_url}" class="btn project-btn">View on GitHub</a>
+            </div>
+          </div>
         `;
         projectsContainer.appendChild(projectDiv);
       });

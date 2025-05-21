@@ -3640,3 +3640,82 @@ code[class*="language-"] {
     left: -5px;
   }
 }
+
+/* Project cards with images styling */
+.project-content {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.project-image {
+  flex-shrink: 0;
+  width: 120px;
+  height: 90px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover .project-image {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.project-card:hover .project-image img {
+  transform: scale(1.05);
+}
+
+.project-details {
+  flex: 1;
+  min-width: 0; /* Allows text to shrink and wrap properly */
+}
+
+.project-details h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.project-details p {
+  margin-bottom: 10px;
+}
+
+.project-details .btn {
+  margin-top: 10px;
+}
+
+/* Responsive adjustments for project cards */
+@media (max-width: 768px) {
+  .project-content {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .project-image {
+    width: 100%;
+    height: 150px;
+    align-self: stretch;
+  }
+  
+  .project-details {
+    text-align: left;
+  }
+}
+
+@media (max-width: 480px) {
+  .project-image {
+    height: 120px;
+  }
+  
+  .project-content {
+    gap: 12px;
+  }
+}
