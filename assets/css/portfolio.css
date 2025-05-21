@@ -206,6 +206,19 @@
   flex-grow: 1;
 }
 
+/* Style lists within value area items */
+.value-area-item ul {
+  margin: 0;
+  padding-left: 1.2rem;
+  flex-grow: 1;
+}
+
+.value-area-item li {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+  font-size: 0.95rem;
+}
+
 /* Project icon styles */
 .project-icon {
   width: 28px;

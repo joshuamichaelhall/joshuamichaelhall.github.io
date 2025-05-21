@@ -254,8 +254,8 @@ permalink: /portfolio/
 <div class="content-section with-divider">
   <h2>Technical Skills Demonstrated</h2>
   
-  <div class="skills-matrix">
-    <div class="skill-category">
+  <div class="value-areas-grid">
+    <div class="value-area-item">
       <h3>AWS Specialization</h3>
       <ul>
         <li>Multi-account architecture with AWS Organizations</li>
@@ -267,7 +267,7 @@ permalink: /portfolio/
       </ul>
     </div>
     
-    <div class="skill-category">
+    <div class="value-area-item">
       <h3>Infrastructure as Code</h3>
       <ul>
         <li>Terraform module development and reuse</li>
@@ -279,7 +279,7 @@ permalink: /portfolio/
       </ul>
     </div>
     
-    <div class="skill-category">
+    <div class="value-area-item">
       <h3>Container Orchestration</h3>
       <ul>
         <li>Kubernetes cluster architecture</li>
@@ -291,7 +291,7 @@ permalink: /portfolio/
       </ul>
     </div>
     
-    <div class="skill-category">
+    <div class="value-area-item">
       <h3>Security Engineering</h3>
       <ul>
         <li>Defense-in-depth architecture</li>
