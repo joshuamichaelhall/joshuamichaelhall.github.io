@@ -4,14 +4,19 @@ layout: default
 
 <div class="hero-section with-divider">
   <div class="hero-content">
-    <h1>Joshua Michael Hall</h1>
-    <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
-    <p>Building secure, reliable infrastructure through automation, containerization, and DevOps practices.</p>
-    <p class="building-in-public"><span class="highlight">Building in public:</span> Follow my DevOps career journey as it happens</p>
-    <div class="hero-links">
-      <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
-      <a href="/roadmap" class="btn accent-btn">Learning Roadmap</a>
-      <a href="/contact" class="btn secondary-btn">Contact Me</a>
+    <div class="profile-container">
+      <img src="/assets/images/profile.jpg" alt="Joshua Michael Hall" class="profile-image">
+      <div class="hero-text">
+        <h1>Joshua Michael Hall</h1>
+        <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
+        <p>Building secure, reliable infrastructure through automation, containerization, and DevOps practices.</p>
+        <p class="building-in-public"><span class="highlight">Building in public:</span> Follow my DevOps career journey as it happens</p>
+        <div class="hero-links">
+          <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
+          <a href="/roadmap" class="btn accent-btn">Learning Roadmap</a>
+          <a href="/contact" class="btn secondary-btn">Contact Me</a>
+        </div>
+      </div>
     </div>
   </div>
 </div>
@@ -111,6 +116,44 @@ layout: default
     </div>
   </div>
 </div>
+
+<style>
+  .profile-container {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .profile-image {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid var(--primary-color);
+  }
+  
+  .hero-text {
+    flex: 1;
+  }
+  
+  @media (max-width: 768px) {
+    .profile-container {
+      flex-direction: column;
+      text-align: center;
+      gap: 1rem;
+    }
+    
+    .profile-image {
+      width: 150px;
+      height: 150px;
+    }
+    
+    .hero-links {
+      justify-content: center;
+    }
+  }
+</style>
 
 <script>
   // Add animation to timeline items
