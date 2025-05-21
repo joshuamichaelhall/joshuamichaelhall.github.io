@@ -70,12 +70,15 @@ document.addEventListener('DOMContentLoaded', function() {
         'enhanced-terminal-environment': '/assets/images/enhanced_terminal_environment.png',
         'devops-sre-mastery': '/assets/images/devops_sre_mastery_project.png',
         'software-engineering-reference': '/assets/images/software_engineering_reference.png',
+        'ruby-pomodoro-cli': '/assets/images/ruby_pomodoro_cli_icon.png',
         // Fallback patterns for partial matches
         'infrastructure': '/assets/images/terraform-aws.png',
         'container': '/assets/images/kubernetes.png',
         'security': '/assets/images/security-automation.png',
         'pipeline': '/assets/images/cicd-pipeline.png',
-        'terminal': '/assets/images/enhanced_terminal_environment.png'
+        'terminal': '/assets/images/enhanced_terminal_environment.png',
+        'ruby': '/assets/images/ruby_pomodoro_cli_icon.png',
+        'pomodoro': '/assets/images/ruby_pomodoro_cli_icon.png'
       };
       
       filteredRepos.forEach(repo => {
