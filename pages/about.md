@@ -107,7 +107,7 @@ permalink: /about/
   
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Foundation Building</h3>
+      <h3>Foundation Building (Years 0-2)</h3>
       <p>AWS Solutions Architect Associate certification</p>
       <p>Terraform Associate certification</p>
       <p>Infrastructure as Code for multi-environment deployment</p>
@@ -116,21 +116,21 @@ permalink: /about/
     </div>
 
     <div class="expertise-item">
-      <h3>Advanced Implementation</h3>
+      <h3>Senior DevOps Engineer (Years 2-4)</h3>
       <p>AWS DevOps Professional certification</p>
-      <p>Kubernetes for container orchestration</p>
+      <p>Kubernetes Administrator (CKA) certification</p>
       <p>CI/CD pipeline with security integration</p>
       <p>Financial services compliance automation</p>
       <p>Advanced monitoring and observability</p>
     </div>
 
     <div class="expertise-item">
-      <h3>Platform Engineering Specialization</h3>
+      <h3>Principal/Staff Engineer (Years 4-6)</h3>
       <p>AWS Solutions Architect Professional certification</p>
       <p>AWS Security Specialty certification</p>
-      <p>Certified Kubernetes Administrator</p>
+      <p>Platform engineering and internal developer platforms</p>
       <p>Business impact measurement for technical initiatives</p>
-      <p>Financial services domain expertise</p>
+      <p>Technical leadership and strategic planning</p>
     </div>
   </div>
 </div>

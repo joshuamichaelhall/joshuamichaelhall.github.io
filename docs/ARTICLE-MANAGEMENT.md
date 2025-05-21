@@ -63,7 +63,6 @@ published: false
 As of the latest update, the site includes the following articles:
 
 ### Published Articles
-- "Why I'm Transitioning to DevOps/SRE: My Career Journey" (2025-04-29)
 - "Terminal-Based Development with Neovim, tmux, and CLI Tools" (2025-03-23)
 - "Strategic Approach to DevOps Skills: Building a Career Dashboard with AI Assistance" (2025-05-15)
 - "Infrastructure as Code Best Practices for Financial Services" (2025-05-05) - **Featured Article** 🌟
@@ -100,4 +99,4 @@ If your articles are not appearing in the built site:
 
 When adding new articles or changing the publication process, please update this document to keep it current.
 
-Last updated: May 20, 2025 (after site rebuild)
+Last updated: May 21, 2025 (removed "Why I'm Transitioning to DevOps/SRE" article)

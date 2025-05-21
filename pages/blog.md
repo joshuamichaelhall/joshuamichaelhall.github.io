@@ -37,21 +37,21 @@ permalink: /blog/
 
   <div class="articles-container">
     <div class="project-card">
-      <h3>Financial Services DevOps: Architecture and Compliance Blueprint</h3>
-      <p>A comprehensive reference architecture for regulated environments with security and compliance automation strategies for financial services workloads.</p>
-      <p class="post-date">Coming August 2025</p>
-    </div>
-
-    <div class="project-card">
-      <h3>Infrastructure as Code for Financial Services: From Development to Production</h3>
-      <p>End-to-end implementation guide for multi-environment IaC with Terraform, focusing on compliance and security patterns specific to financial institutions.</p>
-      <p class="post-date">Coming October 2025</p>
+      <h3>Setting Up a Secure AWS Learning Environment for Financial Services</h3>
+      <p>A step-by-step guide to creating a secure, cost-effective AWS environment for learning infrastructure automation and security practices with financial services focus.</p>
+      <p class="post-date">Coming June 2025</p>
     </div>
 
     <div class="project-card">
       <h3>AWS Security Automation for Financial Services</h3>
       <p>Implementing automated security controls, compliance validation, and evidence collection for financial services workloads on AWS.</p>
       <p class="post-date">Coming July 2025</p>
+    </div>
+
+    <div class="project-card">
+      <h3>Financial Services DevOps: Architecture and Compliance Blueprint</h3>
+      <p>A comprehensive reference architecture for regulated environments with security and compliance automation strategies for financial services workloads.</p>
+      <p class="post-date">Coming August 2025</p>
     </div>
   </div>
 </div>
@@ -78,6 +78,7 @@ permalink: /blog/
       <ul class="timeline-list">
         <li><strong>CI/CD Pipeline Design for Secure Infrastructure Deployment</strong> - September 2025</li>
         <li><strong>Security Scanning Integration for Financial Services CI/CD</strong> - September 2025</li>
+        <li><strong>Image Scanning and Verification for Financial Services Containers</strong> - October 2025</li>
         <li><strong>Container Security for Financial Services</strong> - October 2025</li>
         <li><strong>Infrastructure as Code for Financial Services: From Development to Production</strong> - October 2025</li>
         <li><strong>Monitoring and Observability for Financial Services Applications</strong> - November 2025</li>
@@ -90,8 +91,10 @@ permalink: /blog/
       <ul class="timeline-list">
         <li><strong>Automated Remediation for AWS Security Findings</strong> - December 2025</li>
         <li><strong>Data Protection and Encryption Strategies on AWS</strong> - December 2025</li>
+        <li><strong>Building a Technical Roadmap for Financial Services Organizations</strong> - December 2025</li>
         <li><strong>Kubernetes Security Architecture for Financial Services</strong> - January 2026</li>
         <li><strong>Automated Compliance Verification with AWS Config and Security Hub</strong> - January 2026</li>
+        <li><strong>Communicating Technical Value to Non-Technical Stakeholders</strong> - February 2026</li>
         <li><strong>AWS Solutions Architecture for Financial Services: Security and Compliance by Design</strong> - February 2026</li>
       </ul>
     </div>
@@ -100,9 +103,12 @@ permalink: /blog/
       <h3>Phase 4: Leadership Positioning (March-May 2026)</h3>
       <ul class="timeline-list">
         <li><strong>Service Mesh Implementation for Regulated Environments</strong> - March 2026</li>
+        <li><strong>From Metrics to Strategy: Using Data to Drive Technical Decisions</strong> - March 2026</li>
         <li><strong>Building a Business Case for DevOps in Regulated Environments</strong> - March 2026</li>
+        <li><strong>Developing Business Acumen as a Technical Engineer</strong> - April 2026</li>
         <li><strong>Kubernetes Governance Framework for Financial Services</strong> - April 2026</li>
         <li><strong>Audit-Ready Infrastructure: Automating Compliance Evidence Collection</strong> - April 2026</li>
+        <li><strong>Designing Developer Platforms for Financial Services</strong> - May 2026</li>
         <li><strong>Strategic DevOps Career Path: Engineering Leadership in Financial Services</strong> - May 2026</li>
       </ul>
     </div>

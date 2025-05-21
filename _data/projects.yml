@@ -39,24 +39,13 @@
   status: "Active Development"
   business_value: "Release frequency increased by 300%, change failure rate reduced by 60%, lead time for changes reduced from weeks to days"
 
-- title: "DevOps Career Dashboard"
-  description: "Comprehensive career tracking platform with interactive metrics visualization, skills tracking, and learning management with security features including authentication and encrypted storage."
-  technologies: ["React", "Node.js", "Express", "TailwindCSS", "JWT", "AES-256-GCM", "Chart.js"]
-  github: "https://github.com/joshuamichaelhall/devops-career-dashboard"
-  demo: "/dashboard"
-  live: "https://devops-dashboard.joshuamichaelhall.com"
-  image: "/assets/images/dashboard/dashboard-main.png"
-  icon: "/assets/images/dashboard-icon.png"
-  featured: false
-  category: "developer-tools"
-  status: "Completed"
 
 - title: "Enhanced Terminal Environment"
   description: "Customized developer terminal environment with integrated tooling for zsh, tmux, and neovim focused on DevOps workflow optimization for financial services infrastructure management."
   technologies: ["Shell", "Neovim", "Tmux", "Git", "Zsh", "AWS CLI", "Terraform CLI"]
   github: "https://github.com/joshuamichaelhall/enhanced-terminal-environment"
   image: "/assets/images/terminal-env.png"
-  featured: false
+  featured: true
   category: "developer-tools"
   status: "Ongoing Development"
 

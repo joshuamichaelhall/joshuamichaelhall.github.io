@@ -12,7 +12,7 @@ I'm a DevOps/SRE engineer specializing in infrastructure automation, containeriz
 - **Technical Blog**: Articles on infrastructure automation, containerization, and cloud security
 - **Skills & Experience**: Detailed overview of my technical skills and experience
 - **Responsive Design**: Mobile-friendly layout for all screen sizes
-- **Dashboard Demo**: Interactive DevOps career dashboard
+- **Career Roadmap**: DevOps career progression from foundation to leadership
 
 ## Technical Stack
 
@@ -34,10 +34,10 @@ This website integrates with several other repositories in my ecosystem:
    - Technical concepts are expanded into blog articles
    - Code samples are embedded in blog posts
    
-2. **[devops-career-dashboard](https://github.com/joshuamichaelhall/devops-career-dashboard)**
-   - Dashboard is featured on a dedicated page
-   - Dashboard documentation is published on the website
-   - Learning approaches are demonstrated through the dashboard
+2. **[enhanced-terminal-environment](https://github.com/joshuamichaelhall/enhanced-terminal-environment)**
+   - Terminal configuration featured in the portfolio
+   - Terminal workflow tools and productivity enhancement
+   - DevOps-oriented productivity improvements
 
 ### Content Synchronization
 

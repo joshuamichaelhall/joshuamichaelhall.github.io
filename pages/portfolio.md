@@ -163,33 +163,28 @@ permalink: /portfolio/
       <h3>Professional Development Tools</h3>
       
       <div class="project-card">
-        <h2>
-          <img src="/assets/images/dashboard-icon.png" alt="Dashboard Icon" class="project-icon" />
-          DevOps Career Dashboard
-        </h2>
-        <div class="project-status">Foundation Phase | Completed</div>
+        <h2>Enhanced Terminal Environment</h2>
+        <div class="project-status">Advanced Phase | Ongoing Development</div>
         <div class="project-details">
           <div class="project-image">
-            <img src="/assets/images/dashboard/dashboard-main.png" alt="DevOps Career Dashboard" />
+            <img src="/assets/images/terminal-env.png" alt="Enhanced Terminal Environment" />
           </div>
           <div class="project-description">
-            <p>Comprehensive career tracking platform with interactive metrics visualization, skills tracking, and learning management. Includes authentication, API integration, and encrypted data storage with focus on security.</p>
+            <p>Customized developer terminal environment with integrated tooling for zsh, tmux, and neovim focused on DevOps workflow optimization for financial services infrastructure management.</p>
             <p><strong>Key Features:</strong></p>
             <ul>
-              <li>JWT-based authentication with role-based access control</li>
-              <li>AES-256-GCM encryption for sensitive data</li>
-              <li>RESTful API for dashboard data management</li>
-              <li>Clay CRM integration for professional networking</li>
-              <li>Interactive metrics visualization with Chart.js</li>
-              <li>Automated backup system for career data</li>
+              <li>Optimized terminal configuration for infrastructure management</li>
+              <li>Neovim setup with DevOps-specific plugins</li>
+              <li>Tmux session management for infrastructure workflows</li>
+              <li>Custom CLI tools for AWS and Terraform operations</li>
+              <li>Automated setup scripts for consistent environments</li>
+              <li>Terminal-based workflow documentation</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> React, Node.js, Express, TailwindCSS, JWT, Encryption, Chart.js
+              <strong>Technologies:</strong> Shell, Neovim, Tmux, Git, Zsh, AWS CLI, Terraform CLI
             </p>
             <div class="project-links">
-              <a href="https://github.com/joshuamichaelhall/devops-career-dashboard" class="github-link" target="_blank">View on GitHub</a>
-              <a href="/dashboard" class="demo-link">View Details</a>
-              <a href="https://devops-dashboard.joshuamichaelhall.com" class="live-link" target="_blank">Launch Dashboard</a>
+              <a href="https://github.com/joshuamichaelhall/enhanced-terminal-environment" class="github-link" target="_blank">View on GitHub</a>
             </div>
           </div>
         </div>
@@ -295,20 +290,27 @@ permalink: /portfolio/
   
   <div class="portfolio-timeline">
     <div class="timeline-section">
-      <h3>Coming Soon (6 Months)</h3>
+      <h3>Coming Soon (6-12 Months)</h3>
       <ul class="roadmap-list">
-        <li><strong>Advanced Kubernetes Platform:</strong> Implementing GitOps, advanced policy controls, and financial services operational patterns</li>
-        <li><strong>Enterprise Developer Platform:</strong> Internal developer portal for financial services teams with security guardrails</li>
-        <li><strong>Serverless Event Processing:</strong> Secure event-driven architecture for financial transactions</li>
+        <li><strong>Kubernetes Platform Implementation:</strong> Production-grade Kubernetes with service mesh, GitOps deployment, and financial services security controls</li>
+        <li><strong>Enterprise Developer Platform:</strong> Internal developer portal with self-service capabilities, compliance guardrails, and integrated security controls</li>
+        <li><strong>Container Security Platform:</strong> Comprehensive container security with vulnerability scanning, runtime protection, and compliance validation</li>
       </ul>
     </div>
     
     <div class="timeline-section">
-      <h3>Future Projects (12+ Months)</h3>
+      <h3>Medium-Term Projects (12-24 Months)</h3>
       <ul class="roadmap-list">
-        <li><strong>Advanced Financial Services Security:</strong> Zero-trust implementation, fraud detection integration, automated compliance reporting</li>
-        <li><strong>Enterprise Transformation Framework:</strong> Cross-organizational DevOps enablement for financial institutions</li>
-        <li><strong>Open Banking Infrastructure:</strong> Secure API platform for financial data sharing with compliance controls</li>
+        <li><strong>Business Impact Documentation System:</strong> Metrics tracking, ROI calculation, and executive dashboards for DevOps value demonstration</li>
+        <li><strong>Advanced Financial Services Security:</strong> Zero-trust implementation, automated compliance reporting, and financial services risk management</li>
+      </ul>
+    </div>
+    
+    <div class="timeline-section">
+      <h3>Long-Term Vision (24+ Months)</h3>
+      <ul class="roadmap-list">
+        <li><strong>Enterprise Transformation Framework:</strong> Cross-organizational DevOps enablement for financial institutions with multi-team platform capabilities</li>
+        <li><strong>Technology Strategy Blueprint:</strong> Strategic roadmapping, executive tools, and business-technology alignment frameworks</li>
       </ul>
     </div>
   </div>

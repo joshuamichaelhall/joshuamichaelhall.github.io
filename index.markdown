@@ -4,18 +4,15 @@ layout: default
 
 <div class="hero-section with-divider">
   <div class="hero-content">
-    <div class="profile-container">
-      <img src="/assets/images/profile.jpg" alt="Joshua Michael Hall" class="profile-image">
-      <div class="hero-text">
-        <h1>Joshua Michael Hall</h1>
-        <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
-        <p>Building secure, reliable infrastructure through automation, containerization, and DevOps practices.</p>
-        <p class="building-in-public"><span class="highlight">Building in public:</span> Follow my DevOps career journey as it happens</p>
-        <div class="hero-links">
-          <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
-          <a href="/roadmap" class="btn accent-btn">Learning Roadmap</a>
-          <a href="/contact" class="btn secondary-btn">Contact Me</a>
-        </div>
+    <div class="hero-text-centered">
+      <h1>Joshua Michael Hall</h1>
+      <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
+      <p>Building secure, reliable infrastructure through automation, containerization, and DevOps practices.</p>
+      <p class="building-in-public"><span class="highlight">Building in public:</span> Follow my DevOps career journey as it happens</p>
+      <div class="hero-links">
+        <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
+        <a href="/roadmap" class="btn accent-btn">Learning Roadmap</a>
+        <a href="/contact" class="btn secondary-btn">Contact Me</a>
       </div>
     </div>
   </div>
@@ -67,7 +64,7 @@ layout: default
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h3>Foundation Building</h3>
+        <h3>Foundation Building (Years 0-2)</h3>
         <p>Building foundational DevOps skills through AWS certification and hands-on infrastructure projects. Developing expertise in AWS cloud architecture, Terraform for infrastructure as code, and security automation for financial services environments.</p>
         <div class="timeline-skills">
           <span class="skill-tag">AWS</span>
@@ -84,8 +81,8 @@ layout: default
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h3>Mid-Level DevOps Engineer</h3>
-        <p>Focus on DevOps/SRE position in financial services, implementing Docker containerization, Kubernetes orchestration, and CI/CD pipelines with strong security and compliance focus. Building specialized expertise in regulated cloud environments.</p>
+        <h3>Senior DevOps Engineer (Years 2-4)</h3>
+        <p>Advancing to senior engineering role in financial services, implementing containerization, Kubernetes orchestration, and CI/CD pipelines with strong security and compliance focus. Building deep expertise in regulated cloud environments and financial services security automation.</p>
         <div class="timeline-skills">
           <span class="skill-tag">Docker</span>
           <span class="skill-tag">Kubernetes</span>
@@ -94,23 +91,24 @@ layout: default
         </div>
         <div class="timeline-certs">
           <span class="cert-badge">AWS DevOps Professional</span>
+          <span class="cert-badge">Kubernetes Administrator (CKA)</span>
         </div>
       </div>
     </div>
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h3>Senior Platform Engineer</h3>
-        <p>Advancing to senior platform engineering role in financial services sector. Specializing in advanced security automation, platform engineering, and implementing financial compliance frameworks as code while developing technical leadership skills.</p>
+        <h3>Principal/Staff Engineer (Years 4-6)</h3>
+        <p>Progressing to principal/staff level role with focus on platform engineering, security automation, and financial services compliance. Developing technical leadership, strategic planning, and executive communication skills while driving enterprise-level technical initiatives.</p>
         <div class="timeline-skills">
           <span class="skill-tag">Platform Engineering</span>
           <span class="skill-tag">AWS Security</span>
-          <span class="skill-tag">Kubernetes Security</span>
+          <span class="skill-tag">Leadership</span>
           <span class="skill-tag">Compliance Automation</span>
         </div>
         <div class="timeline-certs">
+          <span class="cert-badge">AWS Solutions Architect Professional</span>
           <span class="cert-badge">AWS Security Specialty</span>
-          <span class="cert-badge">Kubernetes Administrator (CKA)</span>
         </div>
       </div>
     </div>
@@ -118,39 +116,27 @@ layout: default
 </div>
 
 <style>
-  .profile-container {
+  .hero-text-centered {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+  }
+  
+  .hero-links {
     display: flex;
-    align-items: center;
-    gap: 2rem;
-    margin-bottom: 1rem;
-  }
-  
-  .profile-image {
-    width: 180px;
-    height: 180px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 3px solid var(--primary-color);
-  }
-  
-  .hero-text {
-    flex: 1;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 1.5rem;
   }
   
   @media (max-width: 768px) {
-    .profile-container {
-      flex-direction: column;
-      text-align: center;
-      gap: 1rem;
-    }
-    
-    .profile-image {
-      width: 150px;
-      height: 150px;
+    .hero-text-centered {
+      padding: 1rem;
     }
     
     .hero-links {
-      justify-content: center;
+      flex-wrap: wrap;
     }
   }
 </style>
