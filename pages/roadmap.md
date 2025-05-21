@@ -19,38 +19,38 @@ permalink: /roadmap/
 <div class="content-section with-divider">
   <h2 style="text-align: center;">Key Strategic Optimizations</h2>
   
-  <div class="focus-areas-grid">
-    <div class="focus-area">
+  <div class="value-areas-grid">
+    <div class="value-area-item">
       <h3>Strategic Specialization</h3>
       <p>Focus on financial services DevOps with AWS as primary platform</p>
     </div>
     
-    <div class="focus-area">
+    <div class="value-area-item">
       <h3>Strategic Skill Mastery</h3>
       <p>Develop deep expertise in core skills before expanding</p>
     </div>
     
-    <div class="focus-area">
+    <div class="value-area-item">
       <h3>Project-Based Acceleration</h3>
       <p>Learn while building portfolio projects with real-world impact</p>
     </div>
     
-    <div class="focus-area">
+    <div class="value-area-item">
       <h3>Strategic Certification Path</h3>
       <p>Focus on industry-recognized certifications with maximum impact</p>
     </div>
     
-    <div class="focus-area">
+    <div class="value-area-item">
       <h3>Business Value Focus</h3>
       <p>Emphasize skills that deliver measurable financial impact</p>
     </div>
     
-    <div class="focus-area">
+    <div class="value-area-item">
       <h3>Executive Positioning</h3>
       <p>Develop strategic skills for principal/staff engineer roles</p>
     </div>
     
-    <div class="focus-area">
+    <div class="value-area-item">
       <h3>Top-Tier Network</h3>
       <p>Build relationships with industry leaders and executives</p>
     </div>
