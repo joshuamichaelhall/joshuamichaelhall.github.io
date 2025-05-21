@@ -7,7 +7,18 @@ document.addEventListener('DOMContentLoaded', function() {
 
       // No description text needed
 
-      const articles = data.slice(0, 5); // Show top 5 articles
+      // Filter out specific articles we don't want to display
+      const excludedTitles = [
+        "The 6/7 Coding Challenge: How I'm Coding for 500 Days While Respecting the Sabbath"
+      ];
+      
+      const filteredArticles = data.filter(article => 
+        !excludedTitles.some(excludedTitle => 
+          article.title.includes(excludedTitle) || excludedTitle.includes(article.title)
+        )
+      );
+      
+      const articles = filteredArticles.slice(0, 5); // Show top 5 articles
 
       if (articles.length === 0) {
         container.innerHTML = '<p>No articles available at this time.</p>';
