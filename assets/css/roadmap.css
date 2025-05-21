@@ -74,6 +74,46 @@
   color: white;
 }
 
+/* Career Coaching Section */
+.coaching-connect {
+  text-align: center;
+  margin: 2rem 0;
+  padding: 2rem;
+  background: linear-gradient(135deg, 
+    rgba(var(--secondary-color-rgb), 0.05) 0%, 
+    rgba(var(--primary-color-rgb), 0.05) 100%);
+  border-radius: 12px;
+  border: 1px solid rgba(var(--primary-color-rgb), 0.1);
+}
+
+.coaching-connect p {
+  margin: 0 0 1.5rem 0;
+  font-size: 1.1rem;
+  color: var(--text-color);
+}
+
+.coaching-connect .btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
+  color: white;
+  border: none;
+}
+
+.coaching-connect .btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(var(--secondary-color-rgb), 0.3);
+  text-decoration: none;
+  color: white;
+}
+
 /* Add responsive styles for the value areas */
 @media (max-width: 768px) {
   .value-areas-grid {
@@ -81,6 +121,16 @@
   }
   
   .linkedin-connect .btn {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+  }
+  
+  .coaching-connect {
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+  }
+  
+  .coaching-connect .btn {
     padding: 0.75rem 1.5rem;
     font-size: 1rem;
   }

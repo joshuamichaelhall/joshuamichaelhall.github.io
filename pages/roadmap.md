@@ -477,3 +477,47 @@ permalink: /roadmap/
   
   <p class="form-note">Join my professional network to stay updated on my DevOps journey and engage with my technical content.</p>
 </div>
+
+<div class="content-section">
+  <h2 style="text-align: center;">Career Transition Support</h2>
+  <p>Making a career transition into DevOps or SRE? I understand the challenges and strategic planning required for a successful transition. Having developed this structured roadmap and learning framework, I offer career coaching to help other professionals navigate their own DevOps career journey.</p>
+  
+  <div class="value-areas-grid">
+    <div class="value-area-item">
+      <h3>Strategic Career Planning</h3>
+      <p>Develop a personalized roadmap based on your current background, target timeline, and career goals in DevOps or SRE roles.</p>
+    </div>
+    
+    <div class="value-area-item">
+      <h3>Skills Gap Analysis</h3>
+      <p>Identify your current strengths and the specific technical skills needed for your target DevOps role and industry focus.</p>
+    </div>
+    
+    <div class="value-area-item">
+      <h3>Portfolio Development</h3>
+      <p>Create compelling projects that demonstrate real-world DevOps capabilities and business impact to potential employers.</p>
+    </div>
+    
+    <div class="value-area-item">
+      <h3>Industry Specialization</h3>
+      <p>Develop expertise in specific industries (financial services, healthcare, etc.) to differentiate yourself in the market.</p>
+    </div>
+    
+    <div class="value-area-item">
+      <h3>Certification Strategy</h3>
+      <p>Plan your certification timeline to maximize learning efficiency and demonstrate progressive expertise development.</p>
+    </div>
+    
+    <div class="value-area-item">
+      <h3>Professional Positioning</h3>
+      <p>Optimize your LinkedIn profile, resume, and professional narrative to effectively communicate your DevOps transition story.</p>
+    </div>
+  </div>
+  
+  <div class="coaching-connect">
+    <p><strong>Ready to accelerate your DevOps career transition?</strong></p>
+    <a href="/contact" class="btn secondary-btn">Schedule a Career Consultation</a>
+  </div>
+  
+  <p class="form-note">I offer initial consultations to discuss your career goals and how strategic planning can accelerate your transition into DevOps roles.</p>
+</div>
