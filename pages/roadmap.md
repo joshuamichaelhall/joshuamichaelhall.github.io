@@ -469,13 +469,11 @@ permalink: /roadmap/
 
 <div class="content-section newsletter">
   <h2 style="text-align: center;">Follow My Journey</h2>
-  <p>Subscribe to receive updates as I progress through this roadmap, with detailed technical articles and project demonstrations.</p>
+  <p>Connect with me on LinkedIn where I share regular updates on my progress through this roadmap, including detailed technical insights, project demonstrations, and career development milestones.</p>
   
-  <form action="https://formspree.io/f/mgvklebj" method="POST" class="newsletter-form">
-    <input type="email" name="email" placeholder="Your email address" required>
-    <input type="hidden" name="form-type" value="roadmap-subscription">
-    <button type="submit" class="btn primary-btn">Subscribe</button>
-  </form>
+  <div class="linkedin-connect">
+    <a href="https://linkedin.com/in/joshuamichaelhall" target="_blank" class="btn primary-btn">Connect on LinkedIn</a>
+  </div>
   
-  <p class="form-note">I respect your privacy and will never share your email. You can unsubscribe at any time.</p>
+  <p class="form-note">Join my professional network to stay updated on my DevOps journey and engage with my technical content.</p>
 </div>
