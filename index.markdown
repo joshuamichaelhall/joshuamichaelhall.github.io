@@ -4,14 +4,19 @@ layout: default
 
 <div class="hero-section with-divider">
   <div class="hero-content">
-    <div class="hero-text-centered">
-      <h1>Joshua Michael Hall</h1>
-      <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
-      <p>Building secure, reliable infrastructure through automation, containerization, and DevOps practices.</p>
-      <div class="hero-links">
-        <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
-        <a href="/roadmap" class="btn accent-btn">Learning Roadmap</a>
-        <a href="/contact" class="btn secondary-btn">Contact Me</a>
+    <div class="hero-layout">
+      <div class="hero-image">
+        <img src="/assets/images/headshot.jpg" alt="Joshua Michael Hall" loading="lazy">
+      </div>
+      <div class="hero-text">
+        <h1>Joshua Michael Hall</h1>
+        <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
+        <p>Building secure, reliable infrastructure through automation, containerization, and DevOps practices.</p>
+        <div class="hero-links">
+          <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
+          <a href="/roadmap" class="btn accent-btn">Learning Roadmap</a>
+          <a href="/contact" class="btn secondary-btn">Contact Me</a>
+        </div>
       </div>
     </div>
   </div>
@@ -115,27 +120,97 @@ layout: default
 </div>
 
 <style>
-  .hero-text-centered {
-    text-align: center;
-    max-width: 800px;
+  .hero-layout {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 2rem 1rem;
+  }
+  
+  .hero-image {
+    flex-shrink: 0;
+    width: 300px;
+    height: 200px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  }
+  
+  .hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .hero-image:hover img {
+    transform: scale(1.05);
+  }
+  
+  .hero-text {
+    flex: 1;
+    text-align: left;
+  }
+  
+  .hero-text h1 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .hero-text h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-text p {
+    margin-bottom: 1.5rem;
   }
   
   .hero-links {
     display: flex;
     gap: 1rem;
-    justify-content: center;
     margin-top: 1.5rem;
   }
   
   @media (max-width: 768px) {
-    .hero-text-centered {
-      padding: 1rem;
+    .hero-layout {
+      flex-direction: column;
+      text-align: center;
+      gap: 2rem;
+      padding: 1.5rem 1rem;
+    }
+    
+    .hero-image {
+      width: 280px;
+      height: 190px;
+    }
+    
+    .hero-text {
+      text-align: center;
     }
     
     .hero-links {
+      justify-content: center;
       flex-wrap: wrap;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .hero-layout {
+      gap: 1.5rem;
+      padding: 1rem;
+    }
+    
+    .hero-image {
+      width: 250px;
+      height: 170px;
+    }
+    
+    .hero-links {
+      gap: 0.5rem;
     }
   }
 </style>
