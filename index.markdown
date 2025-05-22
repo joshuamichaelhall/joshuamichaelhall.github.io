@@ -155,12 +155,12 @@ layout: default
   
   .hero-text h1 {
     margin-top: 0;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.25rem;
   }
   
   .hero-text h2 {
     margin-top: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
   }
   
   .hero-text p {
