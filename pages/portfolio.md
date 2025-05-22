@@ -101,7 +101,7 @@ permalink: /portfolio/
           <h2><a href="https://github.com/JoshuaMichaelHall-Tech/project-security-automation" target="_blank" rel="noopener noreferrer">Security Automation Suite for Financial Services</a></h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Advanced Phase | Active Development</div>
+          <div class="project-status in-development">In Development | Foundation Phase</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">

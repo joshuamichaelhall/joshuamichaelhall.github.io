@@ -4015,3 +4015,66 @@ code[class*="language-"] {
     height: 150px;
   }
 }
+
+/* Project status styling */
+.project-status {
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-align: center;
+  color: var(--text-color);
+}
+
+.project-status:contains('In Development') {
+  background-color: rgba(255, 193, 7, 0.1);
+  border: 1px solid rgba(255, 193, 7, 0.3);
+  color: #856404;
+}
+
+.project-status:contains('Foundation Phase') {
+  background-color: rgba(13, 202, 240, 0.1);
+  border: 1px solid rgba(13, 202, 240, 0.3);
+  color: #055160;
+}
+
+.project-status:contains('Advanced Phase') {
+  background-color: rgba(25, 135, 84, 0.1);
+  border: 1px solid rgba(25, 135, 84, 0.3);
+  color: #0f5132;
+}
+
+.project-status:contains('Ongoing Development') {
+  background-color: rgba(111, 66, 193, 0.1);
+  border: 1px solid rgba(111, 66, 193, 0.3);
+  color: #432874;
+
+/* Project status styling */
+.project-status {
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-align: center;
+  color: var(--text-color);
+  background-color: rgba(13, 202, 240, 0.1);
+  border: 1px solid rgba(13, 202, 240, 0.3);
+}
+
+.project-status.in-development {
+  background-color: rgba(255, 193, 7, 0.1);
+  border: 1px solid rgba(255, 193, 7, 0.3);
+  color: #856404;
+}
+
+.project-status.advanced-phase {
+  background-color: rgba(25, 135, 84, 0.1);
+  border: 1px solid rgba(25, 135, 84, 0.3);
+  color: #0f5132;
+}
+
+.project-status.ongoing {
+  background-color: rgba(111, 66, 193, 0.1);
+  border: 1px solid rgba(111, 66, 193, 0.3);
+  color: #432874;
+}
