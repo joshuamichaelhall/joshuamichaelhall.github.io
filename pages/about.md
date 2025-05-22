@@ -8,7 +8,7 @@ permalink: /about/
 
 <div class="profile-header with-divider">
   <div class="profile-image">
-    <img src="/assets/images/profile.jpg" alt="Joshua Michael Hall" />
+    <img src="/assets/images/headshot.jpg" alt="Joshua Michael Hall" />
   </div>
   <div class="profile-summary">
     <p>I'm a DevOps/SRE engineer specializing in infrastructure automation, containerization, and platform engineering for financial services. With a focused AWS specialization strategy, I'm building secure and compliant infrastructure with an emphasis on business impact in regulated environments.</p>
