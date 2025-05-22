@@ -55,7 +55,7 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2>Containerized Microservices Platform</h2>
+          <h2><a href="https://github.com/JoshuaMichaelHall-Tech/project-container-platform" target="_blank" rel="noopener noreferrer">Containerized Microservices Platform</a></h2>
         </div>
         <div class="project-status-line">
           <div class="project-status">Advanced Phase | Active Development</div>
@@ -65,7 +65,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/kubernetes.png" alt="Container Platform" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-container-platform" class="github-link" target="_blank">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-container-platform" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>A production-ready containerized microservices platform designed for financial services applications that require high reliability, security, and observability. Demonstrates modern container orchestration with financial industry compliance and security requirements.</p>
@@ -180,7 +180,7 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2>Enhanced Terminal Environment</h2>
+          <h2><a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" target="_blank" rel="noopener noreferrer">Enhanced Terminal Environment</a></h2>
         </div>
         <div class="project-status-line">
           <div class="project-status">Advanced Phase | Ongoing Development</div>
@@ -190,7 +190,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/enhanced_terminal_environment.png" alt="Enhanced Terminal Environment" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" class="github-link" target="_blank">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>Customized developer terminal environment with integrated tooling for zsh, tmux, and neovim focused on DevOps workflow optimization for financial services infrastructure management.</p>
