@@ -98,7 +98,7 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2>Security Automation Suite for Financial Services</h2>
+          <h2><a href="https://github.com/JoshuaMichaelHall-Tech/project-security-automation" target="_blank" rel="noopener noreferrer">Security Automation Suite for Financial Services</a></h2>
         </div>
         <div class="project-status-line">
           <div class="project-status">Advanced Phase | Active Development</div>
@@ -108,7 +108,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/security-automation.png" alt="Security Automation" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-security-automation" class="github-link" target="_blank">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-security-automation" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>An automated security and compliance toolchain for financial services environments, ensuring continuous compliance monitoring, security validation, and evidence generation for regulatory requirements. Demonstrates how DevOps security practices can be applied to highly regulated financial environments.</p>
