@@ -107,7 +107,6 @@ This repository includes a GitHub Action workflow that automatically publishes M
 
 Documentation for related repositories is primarily maintained in those repositories:
 
-- Dashboard documentation is in the `dashboard/docs/` directory of the dashboard repository
 - Project implementations are documented in their respective repositories
 - Blog posts reference and link to the source repositories for detailed information
 
