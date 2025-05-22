@@ -64,10 +64,9 @@ layout: default
 
 <div class="home-section no-divider" id="career-vision">
   <h2>Career Vision</h2>
-  <div class="career-timeline">
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
+  <div class="career-phases">
+    <div class="career-phase">
+      <div class="phase-content">
         <h3>Foundation Building (Years 0-2)</h3>
         <p>Building foundational DevOps skills through AWS certification and hands-on infrastructure projects. Developing expertise in AWS cloud architecture, Terraform for infrastructure as code, and security automation for financial services environments.</p>
         <div class="timeline-skills">
@@ -82,9 +81,8 @@ layout: default
         </div>
       </div>
     </div>
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
+    <div class="career-phase">
+      <div class="phase-content">
         <h3>Senior DevOps Engineer (Years 2-4)</h3>
         <p>Advancing to senior engineering role in financial services, implementing containerization, Kubernetes orchestration, and CI/CD pipelines with strong security and compliance focus. Building deep expertise in regulated cloud environments and financial services security automation.</p>
         <div class="timeline-skills">
@@ -99,9 +97,8 @@ layout: default
         </div>
       </div>
     </div>
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
+    <div class="career-phase">
+      <div class="phase-content">
         <h3>Principal/Staff Engineer (Years 4-6)</h3>
         <p>Progressing to principal/staff level role with focus on platform engineering, security automation, and financial services compliance. Developing technical leadership, strategic planning, and executive communication skills while driving enterprise-level technical initiatives.</p>
         <div class="timeline-skills">
@@ -122,18 +119,20 @@ layout: default
 <style>
   .hero-layout {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 3rem;
+    gap: 2rem;
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem 1rem;
+    text-align: center;
   }
   
   .hero-image {
     flex-shrink: 0;
-    width: 300px;
+    width: 200px;
     height: 200px;
-    border-radius: 12px;
+    border-radius: 50%;
     overflow: hidden;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
   }
@@ -151,14 +150,12 @@ layout: default
   }
   
   .hero-text {
-    flex: 1;
-    text-align: left;
+    text-align: center;
   }
   
   .hero-text h1 {
     margin-top: 0;
     margin-bottom: 0.5rem;
-    text-align: center;
   }
   
   .hero-text h2 {
@@ -174,40 +171,34 @@ layout: default
     display: flex;
     gap: 1rem;
     margin-top: 1.5rem;
+    justify-content: center;
   }
   
   @media (max-width: 768px) {
     .hero-layout {
-      flex-direction: column;
-      text-align: center;
-      gap: 2rem;
+      gap: 1.5rem;
       padding: 1.5rem 1rem;
     }
     
     .hero-image {
-      width: 280px;
-      height: 190px;
-    }
-    
-    .hero-text {
-      text-align: center;
+      width: 180px;
+      height: 180px;
     }
     
     .hero-links {
-      justify-content: center;
       flex-wrap: wrap;
     }
   }
   
   @media (max-width: 480px) {
     .hero-layout {
-      gap: 1.5rem;
+      gap: 1rem;
       padding: 1rem;
     }
     
     .hero-image {
-      width: 250px;
-      height: 170px;
+      width: 150px;
+      height: 150px;
     }
     
     .hero-links {
@@ -216,21 +207,97 @@ layout: default
   }
 </style>
 
-<script>
-  // Add animation to timeline items
-  document.addEventListener('DOMContentLoaded', function() {
-    const timelineItems = document.querySelectorAll('.timeline-item');
+<style>
+  .career-phases {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .career-phase {
+    background: var(--bg-content);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 2rem;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .career-phase:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  .phase-content h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+  }
+  
+  .phase-content p {
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+  }
+  
+  @media (max-width: 768px) {
+    .career-phases {
+      gap: 1.5rem;
+    }
     
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('animate');
-        }
-      });
-    }, { threshold: 0.5 });
-    
-    timelineItems.forEach(item => {
-      observer.observe(item);
-    });
-  });
-</script>
+    .career-phase {
+      padding: 1.5rem;
+    }
+  }
+</style>
+
+<style>
+  /* Project button styling */
+  .project-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: var(--primary-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .project-btn:hover {
+    background-color: var(--primary-color-hover);
+    transform: translateY(-1px);
+    text-decoration: none;
+    color: white;
+  }
+  
+  .project-btn:active {
+    transform: translateY(0);
+  }
+  
+  /* Ensure project header layout works */
+  .project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+    gap: 1rem;
+  }
+  
+  .project-header h3 {
+    margin: 0;
+    flex: 1;
+  }
+  
+  .project-header h3 a {
+    color: var(--heading-color);
+    text-decoration: none;
+  }
+  
+  .project-header h3 a:hover {
+    color: var(--primary-color);
+    text-decoration: underline;
+  }
+</style>
