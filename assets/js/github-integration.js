@@ -55,11 +55,11 @@ document.addEventListener('DOMContentLoaded', function() {
         })
       );
 
-      // Filter to only completed projects and limit to 6
+      // Filter to only completed projects and limit to 3 best career-relevant projects
       const filteredRepos = readmeChecks
         .filter(({ isComplete }) => isComplete)
         .map(({ repo }) => repo)
-        .slice(0, 6);
+        .slice(0, 3);
 
       if (filteredRepos.length === 0) {
         container.innerHTML = '<p>No projects available at this time.</p>';
