@@ -124,7 +124,7 @@ layout: default
     gap: 2rem;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 2rem 1rem;
+    padding: 1rem 1rem 2rem 1rem;
     text-align: center;
   }
   
