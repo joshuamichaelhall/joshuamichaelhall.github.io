@@ -3965,3 +3965,22 @@ code[class*="language-"] {
   position: relative;
   z-index: 1;
 }
+
+/* Additional button fixes */
+.btn.project-btn {
+  display: inline-block \!important;
+  position: relative;
+  z-index: 100;
+  pointer-events: auto \!important;
+  text-decoration: none \!important;
+}
+
+.btn.project-btn:hover {
+  text-decoration: none \!important;
+}
+
+/* Ensure project header buttons don't overlap */
+.project-header .btn {
+  flex-shrink: 0;
+  white-space: nowrap;
+}

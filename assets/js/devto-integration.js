@@ -73,8 +73,8 @@ document.addEventListener('DOMContentLoaded', function() {
             </div>
             <div class="project-details">
               <div class="project-header">
-                <h3><a href="${article.url}" target="_blank">${article.title}</a></h3>
-                <a href="${article.url}" target="_blank" class="btn project-btn">Read Article</a>
+                <h3><a href="${article.url}" target="_blank" rel="noopener noreferrer">${article.title}</a></h3>
+                <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="btn project-btn">Read Article</a>
               </div>
               <p class="project-description">${article.description}</p>
               <p class="article-date">Published: ${new Date(article.published_at).toLocaleDateString()}</p>
