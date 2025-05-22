@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   fetch('https://api.github.com/users/JoshuaMichaelHall-Tech/repos?sort=updated')
     .then(response => response.json())
-    .then(data => {
+    .then(async data => {
       const container = document.getElementById('github-projects');
 
       // No description text needed
@@ -14,8 +14,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'monitoring', 'platform', 'finapp', 'cloud', 'automation', 'terminal', 'enhanced-terminal'
       ];
       
-      // Filter for career-relevant repositories and limit to 6
-      const filteredRepos = data
+      // Filter for career-relevant repositories
+      const careerRelevantRepos = data
         .filter(repo => {
           // Always exclude these repos
           if (repo.name === '.github' || repo.name === 'joshuamichaelhall.github.io') {
@@ -29,7 +29,36 @@ document.addEventListener('DOMContentLoaded', function() {
           return careerRelevantKeywords.some(keyword => 
             repoNameLower.includes(keyword) || repoDescLower.includes(keyword)
           );
+        });
+
+      // Check README files to filter out in-progress projects
+      const readmeChecks = await Promise.all(
+        careerRelevantRepos.map(async repo => {
+          try {
+            const readmeResponse = await fetch(`https://api.github.com/repos/${repo.full_name}/readme`);
+            if (readmeResponse.ok) {
+              const readmeData = await readmeResponse.json();
+              const readmeContent = atob(readmeData.content);
+              const firstLine = readmeContent.split('\n')[0].toLowerCase();
+              
+              // Include only if first line doesn't contain progress markers
+              const isComplete = !firstLine.includes('(in progress)') && 
+                                !firstLine.includes('(in development)') &&
+                                !firstLine.includes('(wip)');
+              
+              return { repo, isComplete };
+            }
+            return { repo, isComplete: true }; // Include if we can't read README
+          } catch (error) {
+            return { repo, isComplete: true }; // Include if there's an error reading README
+          }
         })
+      );
+
+      // Filter to only completed projects and limit to 6
+      const filteredRepos = readmeChecks
+        .filter(({ isComplete }) => isComplete)
+        .map(({ repo }) => repo)
         .slice(0, 6);
 
       if (filteredRepos.length === 0) {
