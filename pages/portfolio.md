@@ -16,7 +16,7 @@ permalink: /portfolio/
       
       <div class="project-card featured">
         <div class="project-header">
-          <h2>Multi-Environment AWS Infrastructure for Financial Services</h2>
+          <h2><a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure.git" target="_blank" rel="noopener noreferrer">Multi-Environment AWS Infrastructure for Financial Services</a></h2>
         </div>
         <div class="project-status-line">
           <div class="project-status">Foundation Phase | Active Development</div>
@@ -26,7 +26,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/terraform-aws.png" alt="Terraform AWS Infrastructure" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="github-link" target="_blank">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure.git" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>Production-grade, multi-environment infrastructure for financial services applications using Terraform and AWS. Implements secure, compliant, and scalable environments that meet rigorous financial industry requirements while enabling rapid development and deployment.</p>
