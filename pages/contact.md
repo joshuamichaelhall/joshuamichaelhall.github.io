@@ -6,6 +6,12 @@ permalink: /contact/
 
 # Let's Connect
 
+<div class="contact-hero">
+  <div class="contact-image">
+    <img src="/assets/images/headshot.jpg" alt="Joshua Michael Hall" loading="lazy">
+  </div>
+</div>
+
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>

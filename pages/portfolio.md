@@ -137,7 +137,7 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2>DevOps Pipeline Implementation for Financial Applications</h2>
+          <h2><a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial.git" target="_blank" rel="noopener noreferrer">DevOps Pipeline Implementation for Financial Applications</a></h2>
         </div>
         <div class="project-status-line">
           <div class="project-status">Foundation Phase | Active Development</div>
@@ -147,7 +147,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/cicd-pipeline.png" alt="DevOps Pipeline" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial" class="github-link" target="_blank">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial.git" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>A robust CI/CD pipeline designed specifically for financial services applications, providing comprehensive security scanning, compliance validation, and automated deployment. This pipeline transitions code from development to production while enforcing security and compliance requirements at every stage.</p>

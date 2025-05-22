@@ -3984,3 +3984,34 @@ code[class*="language-"] {
   flex-shrink: 0;
   white-space: nowrap;
 }
+
+/* Contact page styling */
+.contact-hero {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.contact-image {
+  display: inline-block;
+}
+
+.contact-image img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.contact-image img:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .contact-image img {
+    width: 150px;
+    height: 150px;
+  }
+}
