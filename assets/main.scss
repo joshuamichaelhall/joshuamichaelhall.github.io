@@ -3939,3 +3939,12 @@ code[class*="language-"] {
   margin-top: 0.5rem;
   line-height: 1.5;
 }
+
+/* Reduce spacing between project title and description */
+.project-header {
+  margin-bottom: 0.5rem !important;
+}
+
+.project-description {
+  margin-top: 0.25rem;
+}
