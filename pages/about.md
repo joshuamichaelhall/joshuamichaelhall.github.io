@@ -107,30 +107,30 @@ permalink: /about/
   
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Foundation Building (Years 0-2)</h3>
-      <p>AWS Solutions Architect Associate certification</p>
-      <p>Terraform Associate certification</p>
-      <p>Infrastructure as Code for multi-environment deployment</p>
-      <p>Security automation for financial services compliance</p>
-      <p>Docker containerization with security focus</p>
+      <h3>Foundation Building<br><small>(Years 0-2)</small></h3>
+      <p>AWS Solutions Architect Associate certification<br>
+      Terraform Associate certification<br>
+      Infrastructure as Code for multi-environment deployment<br>
+      Security automation for financial services compliance<br>
+      Docker containerization with security focus</p>
     </div>
 
     <div class="expertise-item">
-      <h3>Senior DevOps Engineer (Years 2-4)</h3>
-      <p>AWS DevOps Professional certification</p>
-      <p>Kubernetes Administrator (CKA) certification</p>
-      <p>CI/CD pipeline with security integration</p>
-      <p>Financial services compliance automation</p>
-      <p>Advanced monitoring and observability</p>
+      <h3>Senior DevOps Engineer<br><small>(Years 2-4)</small></h3>
+      <p>AWS DevOps Professional certification<br>
+      Kubernetes Administrator (CKA) certification<br>
+      CI/CD pipeline with security integration<br>
+      Financial services compliance automation<br>
+      Advanced monitoring and observability</p>
     </div>
 
     <div class="expertise-item">
-      <h3>Principal/Staff Engineer (Years 4-6)</h3>
-      <p>AWS Solutions Architect Professional certification</p>
-      <p>AWS Security Specialty certification</p>
-      <p>Platform engineering and internal developer platforms</p>
-      <p>Business impact measurement for technical initiatives</p>
-      <p>Technical leadership and strategic planning</p>
+      <h3>Principal/Staff Engineer<br><small>(Years 4-6)</small></h3>
+      <p>AWS Solutions Architect Professional certification<br>
+      AWS Security Specialty certification<br>
+      Platform engineering and internal developer platforms<br>
+      Business impact measurement for technical initiatives<br>
+      Technical leadership and strategic planning</p>
     </div>
   </div>
 </div>
