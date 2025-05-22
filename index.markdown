@@ -232,6 +232,8 @@ layout: default
     margin-top: 0;
     margin-bottom: 1rem;
     color: var(--primary-color);
+    font-size: 1.4rem;
+    font-weight: 600;
   }
   
   .phase-content p {
