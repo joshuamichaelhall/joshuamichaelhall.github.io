@@ -3842,3 +3842,53 @@ code[class*="language-"] {
     border-radius: 8px;
   }
 }
+
+/* Project button styling */
+.project-btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: var(--primary-color);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  border: none;
+  cursor: pointer;
+}
+
+.project-btn:hover {
+  background-color: var(--primary-color-hover);
+  transform: translateY(-1px);
+  text-decoration: none;
+  color: white;
+}
+
+.project-btn:active {
+  transform: translateY(0);
+}
+
+/* Ensure project header layout works */
+.project-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  gap: 1rem;
+}
+
+.project-header h3 {
+  margin: 0;
+  flex: 1;
+}
+
+.project-header h3 a {
+  color: var(--heading-color);
+  text-decoration: none;
+}
+
+.project-header h3 a:hover {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
