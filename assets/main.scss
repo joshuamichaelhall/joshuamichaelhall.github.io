@@ -3948,3 +3948,20 @@ code[class*="language-"] {
 .project-description {
   margin-top: 0.25rem;
 }
+
+/* Ensure project buttons are clickable */
+.project-btn {
+  position: relative;
+  z-index: 10;
+  pointer-events: auto;
+}
+
+.project-header {
+  position: relative;
+  z-index: 5;
+}
+
+.project-image {
+  position: relative;
+  z-index: 1;
+}
