@@ -11,8 +11,8 @@ permalink: /about/
     <img src="/assets/images/headshot.jpg" alt="Joshua Michael Hall" />
   </div>
   <div class="profile-summary">
-    <p>I'm a DevOps/SRE engineer specializing in infrastructure automation, containerization, and platform engineering for financial services. With a focused AWS specialization strategy, I'm building secure and compliant infrastructure with an emphasis on business impact in regulated environments.</p>
-    <p>My approach combines deep technical mastery with strategic business value creation, focusing on building high-impact capabilities that accelerate enterprise operations. I'm particularly interested in implementing infrastructure as code with automated compliance controls for financial services applications.</p>
+    <p>I'm an IT Infrastructure Professional transitioning to DevOps engineering with comprehensive experience in system administration, project leadership, and software development. Building specialized expertise in AWS cloud architecture, Infrastructure as Code with Terraform, and security automation for financial services environments.</p>
+    <p>My unique background spanning IT infrastructure management, software engineering foundations through Launch School, and entrepreneurial experience provides a comprehensive perspective on infrastructure automation and developer operations. Currently advancing AWS and Kubernetes expertise while developing portfolio projects that demonstrate secure, compliant infrastructure solutions.</p>
   </div>
 </div>
 

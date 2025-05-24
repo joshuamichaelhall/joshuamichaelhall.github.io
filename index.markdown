@@ -10,11 +10,12 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>DevOps/SRE Engineer | Financial Services Focus</h2>
-        <p>Building secure, reliable infrastructure through automation, containerization, and DevOps practices.</p>
+        <h2>IT Infrastructure Professional | Transitioning to DevOps | AWS & Security Specialist</h2>
+        <p>Leveraging comprehensive IT infrastructure experience to transition into DevOps engineering with specialized focus on AWS cloud architecture and security automation for financial services.</p>
         <div class="hero-links">
           <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
-          <a href="/roadmap" class="btn accent-btn">Learning Roadmap</a>
+          <a href="/experience" class="btn accent-btn">Experience</a>
+          <a href="/roadmap" class="btn secondary-btn">Learning Roadmap</a>
           <a href="/contact" class="btn secondary-btn">Contact Me</a>
         </div>
       </div>

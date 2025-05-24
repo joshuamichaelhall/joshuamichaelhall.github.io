@@ -15,12 +15,12 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> Building foundational skills for mid-level DevOps/SRE roles in financial services.</p>
+    <p><strong>Status:</strong> IT Infrastructure Professional transitioning to DevOps engineering through intensive skill development.</p>
   </div>
 
-  <p>I'm developing the skill set for mid-level DevOps/SRE opportunities in the financial services sector where I can apply infrastructure automation with a strong compliance focus. I'm open to collaboration on technical content, open-source projects, and knowledge sharing while building my expertise.</p>
+  <p>Leveraging comprehensive IT infrastructure experience to transition into DevOps/SRE roles in financial services. With extensive background in Windows Server administration, network security, and project management, I'm building specialized expertise in AWS cloud architecture and Infrastructure as Code.</p>
 
-  <p>Currently focused on foundation building through AWS and Terraform certifications, with portfolio projects demonstrating infrastructure automation and security implementation. Available for DevOps/SRE roles beginning in 2026.</p>
+  <p>Currently in intensive technical skill development focused on AWS cloud infrastructure, Terraform automation, and DevOps practices. Building portfolio projects that demonstrate infrastructure automation, security implementation, and compliance automation. Targeting AWS Solutions Architect Associate and Terraform Associate certifications as foundation for mid-level DevOps opportunities.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -53,7 +53,8 @@ permalink: /contact/
     <div class="tab-content active" id="coaching-tab">
       <div class="services-box">
         <h3>Career Coaching for Technical Professionals</h3>
-        <p>I offer personalized career coaching for technologists looking to advance in DevOps, SRE, and cloud engineering roles. My coaching focuses on practical skill development, certification planning, and career positioning strategies specifically for infrastructure and platform engineering careers.</p>
+        <p>Drawing from my experience transitioning from IT infrastructure to DevOps, I offer personalized career coaching for technologists looking to advance in DevOps, SRE, and cloud engineering roles. My coaching focuses on practical skill development, certification planning, and career positioning strategies.</p>
+        <p><em>Note: Coaching availability is limited during my current intensive learning phase (through 2025).</em></p>
         
         <h4>Coaching Areas:</h4>
         <ul class="coaching-areas">
@@ -125,6 +126,7 @@ permalink: /contact/
     <li><strong>GitHub Organization</strong>: <a href="https://github.com/JoshuaMichaelHall-Tech">JoshuaMichaelHall-Tech</a></li>
     <li><strong>Dev.to</strong>: <a href="https://dev.to/joshuamichaelhall">joshuamichaelhall</a></li>
     <li><strong>Medium</strong>: <a href="https://joshuamichaelhall.medium.com">joshuamichaelhall.medium.com</a></li>
+    <li><strong>Phone</strong>: <a href="tel:3142697477">(314) 269-7477</a></li>
     <li><strong>X</strong>: <a href="https://x.com/JoshuaHallTech">@JoshuaHallTech</a></li>
   </ul>
 </div>

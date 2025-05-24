@@ -48,19 +48,19 @@ permalink: /blog/
     <div class="project-card">
       <h3>Setting Up a Secure AWS Learning Environment for Financial Services</h3>
       <p>A step-by-step guide to creating a secure, cost-effective AWS environment for learning infrastructure automation and security practices with financial services focus.</p>
-      <p class="post-date">Coming June 2025</p>
+      <p class="post-date">Coming Soon</p>
     </div>
 
     <div class="project-card">
       <h3>AWS Security Automation for Financial Services</h3>
       <p>Implementing automated security controls, compliance validation, and evidence collection for financial services workloads on AWS.</p>
-      <p class="post-date">Coming July 2025</p>
+      <p class="post-date">Coming Soon</p>
     </div>
 
     <div class="project-card">
       <h3>Financial Services DevOps: Architecture and Compliance Blueprint</h3>
       <p>A comprehensive reference architecture for regulated environments with security and compliance automation strategies for financial services workloads.</p>
-      <p class="post-date">Coming August 2025</p>
+      <p class="post-date">Coming Soon</p>
     </div>
   </div>
 </div>
@@ -71,7 +71,7 @@ permalink: /blog/
 
   <div class="content-timeline">
     <div class="timeline-phase">
-      <h3>Foundation Building (June-August 2025)</h3>
+      <h3>Foundation Building (Current Focus)</h3>
       <ul class="timeline-list">
         <li><strong>AWS Core Infrastructure:</strong> Secure environments, IAM best practices, multi-account strategies</li>
         <li><strong>Infrastructure as Code:</strong> Terraform fundamentals, module design, compliance integration</li>
