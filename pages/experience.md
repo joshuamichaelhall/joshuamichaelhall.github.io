@@ -306,3 +306,16 @@ permalink: /experience/
     }
   }
 </style>
+
+<div class="content-section linkedin-cta">
+  <h2>Let's Connect and Explore Opportunities</h2>
+  <p class="section-intro-text">With over 10 years of IT infrastructure experience and a focused transition into DevOps engineering, I'm excited to bring my expertise in security, automation, and financial services compliance to new challenges.</p>
+  
+  <div class="cta-box">
+    <h3>Connect on LinkedIn</h3>
+    <p>View my complete professional profile, recommendations, and certifications. Let's discuss how my infrastructure and security expertise can benefit your organization.</p>
+    <a href="https://www.linkedin.com/in/joshuamichaelhall" class="btn primary-btn linkedin-btn" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-linkedin"></i> View Full Profile on LinkedIn
+    </a>
+  </div>
+</div>

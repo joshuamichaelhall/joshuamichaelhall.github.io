@@ -14,9 +14,7 @@ layout: default
         <p>Leveraging comprehensive IT infrastructure experience to transition into DevOps engineering with specialized focus on AWS cloud architecture and security automation for financial services.</p>
         <div class="hero-links">
           <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
-          <a href="/experience" class="btn accent-btn">Experience</a>
-          <a href="/roadmap" class="btn secondary-btn">Learning Roadmap</a>
-          <a href="/contact" class="btn tertiary-btn">Contact Me</a>
+          <a href="/contact" class="btn secondary-btn">Contact Me</a>
         </div>
       </div>
     </div>

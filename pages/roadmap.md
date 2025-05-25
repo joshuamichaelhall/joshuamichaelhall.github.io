@@ -467,20 +467,9 @@ permalink: /roadmap/
   </div>
 </div>
 
-<div class="content-section newsletter">
-  <h2 style="text-align: center;">Follow My Journey</h2>
-  <p>Connect with me on LinkedIn where I share regular updates on my progress through this roadmap, including detailed technical insights, project demonstrations, and career development milestones.</p>
-  
-  <div class="linkedin-connect">
-    <a href="https://linkedin.com/in/joshuamichaelhall" target="_blank" class="btn primary-btn">Connect on LinkedIn</a>
-  </div>
-  
-  <p class="form-note">Join my professional network to stay updated on my DevOps journey and engage with my technical content.</p>
-</div>
-
-<div class="content-section">
-  <h2 style="text-align: center;">Career Transition Support</h2>
-  <p>Making a career transition into DevOps or SRE? I understand the challenges and strategic planning required for a successful transition. Having developed this structured roadmap and learning framework, I offer career coaching to help other professionals navigate their own DevOps career journey.</p>
+<div class="content-section linkedin-cta">
+  <h2>Accelerate Your DevOps Career Transition</h2>
+  <p class="section-intro-text">Making a career transition into DevOps or SRE? I understand the challenges and strategic planning required for a successful transition. Having developed this structured roadmap and learning framework, I offer career coaching to help other professionals navigate their own DevOps career journey.</p>
   
   <div class="value-areas-grid">
     <div class="value-area-item">
@@ -514,10 +503,9 @@ permalink: /roadmap/
     </div>
   </div>
   
-  <div class="coaching-connect">
-    <p><strong>Ready to accelerate your DevOps career transition?</strong></p>
-    <a href="/contact" class="btn secondary-btn">Schedule a Career Consultation</a>
+  <div class="cta-box">
+    <h3>Schedule Your Career Consultation</h3>
+    <p>Let's discuss your career goals and create a personalized roadmap for your DevOps transition. I offer strategic guidance based on real-world experience and proven frameworks.</p>
+    <a href="/contact" class="btn primary-btn">Schedule a Consultation</a>
   </div>
-  
-  <p class="form-note">I offer initial consultations to discuss your career goals and how strategic planning can accelerate your transition into DevOps roles.</p>
 </div>

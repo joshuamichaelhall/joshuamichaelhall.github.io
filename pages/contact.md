@@ -122,13 +122,11 @@ permalink: /contact/
   <ul class="contact-info">
     <li><strong>Email</strong>: <a href="mailto:contact@joshuamichaelhall.com">contact@joshuamichaelhall.com</a></li>
     <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/joshuamichaelhall">joshuamichaelhall</a></li>
-    <li><strong>GitHub Personal</strong>: <a href="https://github.com/JoshuaMichaelHall">JoshuaMichaelHall</a></li>
-    <li><strong>GitHub Organization</strong>: <a href="https://github.com/JoshuaMichaelHall-Tech">JoshuaMichaelHall-Tech</a></li>
-    <li><strong>Dev.to</strong>: <a href="https://dev.to/joshuamichaelhall">joshuamichaelhall</a></li>
-    <li><strong>Medium</strong>: <a href="https://joshuamichaelhall.medium.com">joshuamichaelhall.medium.com</a></li>
+    <li><strong>GitHub</strong>: <a href="https://github.com/JoshuaMichaelHall-Tech">JoshuaMichaelHall-Tech</a></li>
     <li><strong>Phone</strong>: <a href="tel:3142697477">(314) 269-7477</a></li>
-    <li><strong>X</strong>: <a href="https://x.com/JoshuaHallTech">@JoshuaHallTech</a></li>
   </ul>
+  
+  <p class="contact-note">For technical articles and content, you can also find me on <a href="https://dev.to/joshuamichaelhall">Dev.to</a> and <a href="https://joshuamichaelhall.medium.com">Medium</a>.</p>
 </div>
 
 <div class="content-section no-divider">

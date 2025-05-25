@@ -671,7 +671,11 @@ section h2,
       overflow: hidden;
       display: flex;
       align-items: center;
+      justify-content: center;
       gap: 15px;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
 
       /* Subtle pattern background */
       &:before {

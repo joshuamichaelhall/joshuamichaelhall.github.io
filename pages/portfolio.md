@@ -16,7 +16,7 @@ permalink: /portfolio/
       
       <div class="project-card featured">
         <div class="project-header">
-          <h2><a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure.git" target="_blank" rel="noopener noreferrer">Multi-Environment AWS Infrastructure for Financial Services</a></h2>
+          <h2>Multi-Environment AWS Infrastructure for Financial Services</h2>
         </div>
         <div class="project-status-line">
           <div class="project-status">Foundation Phase | Active Development</div>
@@ -26,7 +26,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/terraform-aws.png" alt="Terraform AWS Infrastructure" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure.git" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>Production-grade, multi-environment infrastructure for financial services applications using Terraform and AWS. Implements secure, compliant, and scalable environments that meet rigorous financial industry requirements while enabling rapid development and deployment.</p>
@@ -55,7 +55,7 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2><a href="https://github.com/JoshuaMichaelHall-Tech/project-container-platform" target="_blank" rel="noopener noreferrer">Containerized Microservices Platform</a></h2>
+          <h2>Containerized Microservices Platform</h2>
         </div>
         <div class="project-status-line">
           <div class="project-status">Advanced Phase | Active Development</div>
@@ -98,7 +98,7 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2><a href="https://github.com/JoshuaMichaelHall-Tech/project-security-automation" target="_blank" rel="noopener noreferrer">Security Automation Suite for Financial Services</a></h2>
+          <h2>Security Automation Suite for Financial Services</h2>
         </div>
         <div class="project-status-line">
           <div class="project-status in-development">In Development | Foundation Phase</div>
@@ -137,7 +137,7 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2><a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial.git" target="_blank" rel="noopener noreferrer">DevOps Pipeline Implementation for Financial Applications</a></h2>
+          <h2>DevOps Pipeline Implementation for Financial Applications</h2>
         </div>
         <div class="project-status-line">
           <div class="project-status">Foundation Phase | Active Development</div>
@@ -147,7 +147,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/cicd-pipeline.png" alt="DevOps Pipeline" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial.git" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>A robust CI/CD pipeline designed specifically for financial services applications, providing comprehensive security scanning, compliance validation, and automated deployment. This pipeline transitions code from development to production while enforcing security and compliance requirements at every stage.</p>
@@ -180,7 +180,7 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2><a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" target="_blank" rel="noopener noreferrer">Enhanced Terminal Environment</a></h2>
+          <h2>Enhanced Terminal Environment</h2>
         </div>
         <div class="project-status-line">
           <div class="project-status">Advanced Phase | Ongoing Development</div>
@@ -333,6 +333,19 @@ permalink: /portfolio/
         <li><strong>Technology Strategy Blueprint:</strong> Strategic roadmapping, executive tools, and business-technology alignment frameworks</li>
       </ul>
     </div>
+  </div>
+</div>
+
+<div class="content-section linkedin-cta">
+  <h2>Let's Connect and Discuss Your Infrastructure Challenges</h2>
+  <p class="section-intro-text">I'm passionate about solving complex infrastructure and security challenges in financial services. Whether you're looking to modernize your infrastructure, implement DevOps practices, or enhance your security posture, I'd love to connect and share insights.</p>
+  
+  <div class="cta-box">
+    <h3>Connect on LinkedIn</h3>
+    <p>Let's discuss how modern DevOps practices can transform your financial services infrastructure. I share regular insights on AWS, infrastructure automation, and security engineering.</p>
+    <a href="https://www.linkedin.com/in/joshuamichaelhall" class="btn primary-btn linkedin-btn" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-linkedin"></i> Connect with Joshua on LinkedIn
+    </a>
   </div>
 </div>
 

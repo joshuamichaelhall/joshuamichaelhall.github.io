@@ -19,7 +19,7 @@ permalink: /blog/
         <div class="project-details">
           <div class="project-header">
             <h3><a href="/blog/2025/05/05/infrastructure-as-code-best-practices/">Infrastructure as Code Best Practices for Financial Services</a></h3>
-            <a href="/blog/2025/05/05/infrastructure-as-code-best-practices/" class="btn project-btn">Read Article</a>
+            <a href="/blog/2025/05/05/infrastructure-as-code-best-practices/" class="btn primary-btn">Read Article</a>
           </div>
           <p class="post-date">May 5, 2025</p>
           <p class="project-description">A comprehensive guide to implementing infrastructure as code with Terraform in financial services environments, focusing on security, compliance, and operational excellence.</p>
@@ -99,5 +99,18 @@ permalink: /blog/
         <li><strong>Technical Leadership:</strong> Cross-functional initiatives, mentoring, architecture decisions</li>
       </ul>
     </div>
+  </div>
+</div>
+
+<div class="content-section linkedin-cta">
+  <h2>Stay Connected for Technical Insights</h2>
+  <p class="section-intro-text">I regularly share technical articles, infrastructure best practices, and DevOps insights for financial services on LinkedIn. Join my network to stay updated on the latest trends in cloud architecture, security automation, and infrastructure as code.</p>
+  
+  <div class="cta-box">
+    <h3>Follow on LinkedIn</h3>
+    <p>Get notified when I publish new technical content, share industry insights, or announce upcoming projects. Let's build a community focused on advancing DevOps practices in financial services.</p>
+    <a href="https://www.linkedin.com/in/joshuamichaelhall" class="btn primary-btn linkedin-btn" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-linkedin"></i> Follow Joshua on LinkedIn
+    </a>
   </div>
 </div>
