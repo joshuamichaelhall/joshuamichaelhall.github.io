@@ -10,8 +10,8 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>IT Infrastructure Professional | Transitioning to DevOps | AWS & Security Specialist</h2>
-        <p>Leveraging comprehensive IT infrastructure experience to transition into DevOps engineering with specialized focus on AWS cloud architecture and security automation for financial services.</p>
+        <h2>Infrastructure Automation & Cloud Security Specialist</h2>
+        <p>Delivering secure, compliant infrastructure solutions for financial services through proven project management expertise, network security implementation, and modern DevOps practices. Currently advancing cloud architecture specialization with AWS and infrastructure as code.</p>
         <div class="hero-links">
           <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
           <a href="/contact" class="btn secondary-btn">Contact Me</a>
@@ -62,12 +62,12 @@ layout: default
 </div>
 
 <div class="home-section no-divider" id="career-vision">
-  <h2>Career Vision</h2>
+  <h2>Professional Development Roadmap</h2>
   <div class="career-phases">
     <div class="career-phase">
       <div class="phase-content">
-        <h3>Foundation Building (Years 0-2)</h3>
-        <p>Building foundational DevOps skills through AWS certification and hands-on infrastructure projects. Developing expertise in AWS cloud architecture, Terraform for infrastructure as code, and security automation for financial services environments.</p>
+        <h3>Cloud Specialization (Current Focus)</h3>
+        <p>Advancing cloud architecture expertise through AWS certification and infrastructure automation projects. Combining proven infrastructure experience with modern cloud technologies to deliver secure, compliant solutions for financial services environments.</p>
         <div class="timeline-skills">
           <span class="skill-tag">AWS</span>
           <span class="skill-tag">Terraform</span>
@@ -82,8 +82,8 @@ layout: default
     </div>
     <div class="career-phase">
       <div class="phase-content">
-        <h3>Senior DevOps Engineer (Years 2-4)</h3>
-        <p>Advancing to senior engineering role in financial services, implementing containerization, Kubernetes orchestration, and CI/CD pipelines with strong security and compliance focus. Building deep expertise in regulated cloud environments and financial services security automation.</p>
+        <h3>Senior Infrastructure Engineer (Near-term Goal)</h3>
+        <p>Targeting senior engineering roles in financial services, leveraging extensive project leadership experience with advanced cloud technologies. Focus on containerization, orchestration, and automated compliance for regulated environments.</p>
         <div class="timeline-skills">
           <span class="skill-tag">Docker</span>
           <span class="skill-tag">Kubernetes</span>
@@ -98,8 +98,8 @@ layout: default
     </div>
     <div class="career-phase">
       <div class="phase-content">
-        <h3>Principal/Staff Engineer (Years 4-6)</h3>
-        <p>Progressing to principal/staff level role with focus on platform engineering, security automation, and financial services compliance. Developing technical leadership, strategic planning, and executive communication skills while driving enterprise-level technical initiatives.</p>
+        <h3>Principal/Staff Engineer (Long-term Vision)</h3>
+        <p>Building toward principal-level roles combining technical depth with proven leadership capabilities. Leveraging comprehensive background in project management, security implementation, and infrastructure automation to drive enterprise-wide initiatives.</p>
         <div class="timeline-skills">
           <span class="skill-tag">Platform Engineering</span>
           <span class="skill-tag">AWS Security</span>

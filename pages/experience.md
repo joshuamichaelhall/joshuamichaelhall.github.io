@@ -7,6 +7,36 @@ permalink: /experience/
 # Professional Experience
 
 <div class="content-section with-divider">
+  <h2>Key Achievements</h2>
+  <div class="achievements-grid">
+    <div class="achievement-item">
+      <h3>5,000+ System Deployment</h3>
+      <p>Led 13-person technical team through large-scale infrastructure deployment at Vanderbilt University Hospital, completing 5,000+ system implementations over 5 months while maintaining hospital operations.</p>
+    </div>
+    <div class="achievement-item">
+      <h3>Healthcare Compliance Implementation</h3>
+      <p>Implemented HIPAA-compliant security controls and infrastructure for medical clinics, ensuring regulatory compliance while improving operational efficiency.</p>
+    </div>
+    <div class="achievement-item">
+      <h3>Team Leadership</h3>
+      <p>Managed technical teams of up to 13 professionals, providing training, performance monitoring, and daily coordination for complex infrastructure projects.</p>
+    </div>
+    <div class="achievement-item">
+      <h3>Security Control Implementation</h3>
+      <p>Designed and implemented comprehensive network security solutions including firewall configurations, access controls, and monitoring systems for healthcare and business environments.</p>
+    </div>
+    <div class="achievement-item">
+      <h3>Project Management Excellence</h3>
+      <p>Google Certified Project Manager with proven track record of delivering complex technical projects on time and within budget through effective stakeholder coordination.</p>
+    </div>
+    <div class="achievement-item">
+      <h3>Process Automation</h3>
+      <p>Developed custom software solutions and automation tools that improved operational efficiency and reduced manual processes across multiple organizations.</p>
+    </div>
+  </div>
+</div>
+
+<div class="content-section with-divider">
   <h2>Current Focus</h2>
   
   <div class="experience-item">
@@ -304,6 +334,38 @@ permalink: /experience/
       flex-direction: column;
       gap: 0.25rem;
     }
+  }
+  
+  /* Achievements Grid Styling */
+  .achievements-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+  }
+  
+  .achievement-item {
+    background: var(--bg-content);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .achievement-item:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+  
+  .achievement-item h3 {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+    color: var(--primary-color);
+    font-size: 1.1rem;
+  }
+  
+  .achievement-item p {
+    margin-bottom: 0;
+    line-height: 1.6;
   }
 </style>
 

@@ -7,8 +7,8 @@ permalink: /portfolio/
 # Project Portfolio
 
 <div class="content-section with-divider">
-  <h2>Financial Services DevOps Portfolio</h2>
-  <p class="section-intro-text">My portfolio demonstrates expertise in building secure, compliant infrastructure and automation for financial services. These projects showcase the implementation of AWS, Terraform, and containerization with a focus on security, compliance, and business impact.</p>
+  <h2>Infrastructure Automation Portfolio</h2>
+  <p class="section-intro-text">These projects demonstrate my approach to infrastructure automation and cloud security for financial services. Each project combines proven infrastructure practices with modern technologies, showcasing how I leverage 10+ years of experience to deliver secure, compliant solutions while advancing my cloud architecture expertise.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
@@ -19,7 +19,7 @@ permalink: /portfolio/
           <h2>Multi-Environment AWS Infrastructure for Financial Services</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Foundation Phase | Active Development</div>
+          <div class="project-status">Implementation Study | Learning Project</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
@@ -29,7 +29,7 @@ permalink: /portfolio/
             <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
-            <p>Production-grade, multi-environment infrastructure for financial services applications using Terraform and AWS. Implements secure, compliant, and scalable environments that meet rigorous financial industry requirements while enabling rapid development and deployment.</p>
+            <p>Implementation study demonstrating production-grade patterns for multi-environment infrastructure in financial services. This learning project showcases secure, compliant infrastructure design using Terraform and AWS while I advance my cloud architecture expertise.</p>
             <p><strong>Key Features:</strong></p>
             <ul>
               <li>Multi-AZ VPC design with public, private, and restricted subnets</li>
@@ -58,7 +58,7 @@ permalink: /portfolio/
           <h2>Containerized Microservices Platform</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Advanced Phase | Active Development</div>
+          <div class="project-status">Proof of Concept | Architecture Study</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
@@ -68,7 +68,7 @@ permalink: /portfolio/
             <a href="https://github.com/JoshuaMichaelHall-Tech/project-container-platform" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
-            <p>A production-ready containerized microservices platform designed for financial services applications that require high reliability, security, and observability. Demonstrates modern container orchestration with financial industry compliance and security requirements.</p>
+            <p>Architecture study exploring containerized microservices patterns for financial services applications. This proof of concept demonstrates security, compliance, and observability approaches while I develop expertise in container orchestration and Kubernetes.</p>
             <p><strong>Key Features:</strong></p>
             <ul>
               <li>Production-grade Kubernetes cluster with multi-AZ deployment</li>
@@ -101,7 +101,7 @@ permalink: /portfolio/
           <h2>Security Automation Suite for Financial Services</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status in-development">In Development | Foundation Phase</div>
+          <div class="project-status in-development">Planned Implementation | Research Phase</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
@@ -111,7 +111,7 @@ permalink: /portfolio/
             <a href="https://github.com/JoshuaMichaelHall-Tech/project-security-automation" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
-            <p>An automated security and compliance toolchain for financial services environments, ensuring continuous compliance monitoring, security validation, and evidence generation for regulatory requirements. Demonstrates how DevOps security practices can be applied to highly regulated financial environments.</p>
+            <p>Planned implementation for automated security and compliance toolchain targeting financial services requirements. This research project will explore continuous compliance monitoring and security validation approaches as I develop cloud security expertise.</p>
             <p><strong>Key Features:</strong></p>
             <ul>
               <li>Infrastructure security scanning with tfsec, checkov, and AWS Security Hub</li>
@@ -140,7 +140,7 @@ permalink: /portfolio/
           <h2>DevOps Pipeline Implementation for Financial Applications</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Foundation Phase | Active Development</div>
+          <div class="project-status">Implementation Study | Learning Project</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">

@@ -133,3 +133,40 @@
   color: var(--text-muted);
   font-size: 0.95rem;
 }
+
+/* Certification lists styling */
+.certifications-section {
+  margin-bottom: 2rem;
+}
+
+.certifications-section h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  color: var(--primary-color);
+}
+
+.cert-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 1.5rem;
+}
+
+.cert-list li {
+  padding-left: 1.5rem;
+  margin-bottom: 0.75rem;
+  position: relative;
+}
+
+.cert-list li:before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--accent-color);
+  font-weight: bold;
+}
+
+.cert-list.in-progress li:before {
+  content: "→";
+  color: var(--primary-color);
+}

@@ -18,7 +18,7 @@ permalink: /blog/
         </div>
         <div class="project-details">
           <div class="project-header">
-            <h3><a href="/blog/2025/05/05/infrastructure-as-code-best-practices/">Infrastructure as Code Best Practices for Financial Services</a></h3>
+            <h3>Infrastructure as Code Best Practices for Financial Services</h3>
             <a href="/blog/2025/05/05/infrastructure-as-code-best-practices/" class="btn primary-btn">Read Article</a>
           </div>
           <p class="post-date">May 5, 2025</p>

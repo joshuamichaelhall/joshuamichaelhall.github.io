@@ -11,8 +11,8 @@ permalink: /about/
     <img src="/assets/images/headshot.jpg" alt="Joshua Michael Hall" />
   </div>
   <div class="profile-summary">
-    <p>I'm an IT Infrastructure Professional transitioning to DevOps engineering with comprehensive experience in system administration, project leadership, and software development. Building specialized expertise in AWS cloud architecture, Infrastructure as Code with Terraform, and security automation for financial services environments.</p>
-    <p>My unique background spanning IT infrastructure management, software engineering foundations through Launch School, and entrepreneurial experience provides a comprehensive perspective on infrastructure automation and developer operations. Currently advancing AWS and Kubernetes expertise while developing portfolio projects that demonstrate secure, compliant infrastructure solutions.</p>
+    <p>I'm an experienced infrastructure professional with a proven track record in project management, network security, and system implementation. I specialize in infrastructure automation, cloud security, and compliance solutions for regulated environments, bringing 10+ years of hands-on IT experience to modern DevOps practices.</p>
+    <p>My comprehensive background includes leading large-scale infrastructure deployments, implementing security controls for healthcare and financial services, and developing software solutions. Currently advancing my cloud architecture expertise with AWS and infrastructure as code to deliver enterprise-grade automation solutions that bridge traditional reliability with modern innovation.</p>
   </div>
 </div>
 
@@ -20,20 +20,20 @@ permalink: /about/
   <h2>Technical Focus</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>AWS Specialization</h3>
-      <p>Strategic focus on AWS services for financial services environments, including multi-account architecture, security controls, and compliance automation for regulated workloads.</p>
+      <h3>Cloud Architecture Development</h3>
+      <p>Advancing expertise in AWS services for financial services environments, with focus on security controls, compliance requirements, and cost optimization. Building on extensive infrastructure experience to design cloud-native solutions.</p>
     </div>
     <div class="expertise-item">
-      <h3>Infrastructure as Code</h3>
-      <p>Mastering Terraform for automated, reproducible infrastructure with proper state management, modular design, and security controls for financial services requirements.</p>
+      <h3>Infrastructure Automation</h3>
+      <p>Implementing infrastructure as code with Terraform, leveraging proven project management skills to deliver automated, reproducible environments with security controls for financial services compliance.</p>
     </div>
     <div class="expertise-item">
-      <h3>Containerization & Orchestration</h3>
-      <p>Building secure container platforms with Kubernetes, focusing on compliance, high availability, and security automation for financial applications.</p>
+      <h3>Security & Network Implementation</h3>
+      <p>Extensive experience implementing firewalls, network security controls, and compliance frameworks. Applying this foundation to cloud security automation and container security for regulated environments.</p>
     </div>
     <div class="expertise-item">
-      <h3>Security & Compliance</h3>
-      <p>Implementing regulatory controls as code, financial services compliance automation, and security validation for regulated environments.</p>
+      <h3>Project Leadership</h3>
+      <p>Proven track record leading technical teams through large-scale deployments, including 5,000+ system implementations. Certified in project management with expertise in stakeholder coordination and process improvement.</p>
     </div>
   </div>
 </div>
@@ -103,11 +103,25 @@ permalink: /about/
 </div>
 
 <div class="content-section with-divider">
-  <h2>Professional Development</h2>
+  <h2>Certifications & Professional Development</h2>
+  
+  <div class="certifications-section">
+    <h3>Current Certifications</h3>
+    <ul class="cert-list">
+      <li><strong>Google Project Management Certificate</strong> - Comprehensive project management methodology and tools</li>
+      <li><strong>CompTIA Project+</strong> - IT project management best practices and methodologies</li>
+    </ul>
+    
+    <h3>Currently Pursuing</h3>
+    <ul class="cert-list in-progress">
+      <li><strong>AWS Solutions Architect Associate</strong> - Expected completion: Q2 2025</li>
+      <li><strong>HashiCorp Terraform Associate</strong> - Expected completion: Q3 2025</li>
+    </ul>
+  </div>
   
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Foundation Building<br><small>(Years 0-2)</small></h3>
+      <h3>Cloud Specialization<br><small>(Current Focus)</small></h3>
       <p>AWS Solutions Architect Associate certification<br>
       Terraform Associate certification<br>
       Infrastructure as Code for multi-environment deployment<br>
@@ -116,7 +130,7 @@ permalink: /about/
     </div>
 
     <div class="expertise-item">
-      <h3>Senior DevOps Engineer<br><small>(Years 2-4)</small></h3>
+      <h3>Senior Infrastructure Engineer<br><small>(Near-term Goal)</small></h3>
       <p>AWS DevOps Professional certification<br>
       Kubernetes Administrator (CKA) certification<br>
       CI/CD pipeline with security integration<br>
@@ -125,7 +139,7 @@ permalink: /about/
     </div>
 
     <div class="expertise-item">
-      <h3>Principal/Staff Engineer<br><small>(Years 4-6)</small></h3>
+      <h3>Principal/Staff Engineer<br><small>(Long-term Vision)</small></h3>
       <p>AWS Solutions Architect Professional certification<br>
       AWS Security Specialty certification<br>
       Platform engineering and internal developer platforms<br>

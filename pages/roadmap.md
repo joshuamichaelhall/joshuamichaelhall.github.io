@@ -4,11 +4,11 @@ title: Roadmap
 permalink: /roadmap/
 ---
 
-# DevOps Career Roadmap
+# Professional Development Roadmap
 
 <div class="content-section with-divider">
-  <h2 style="text-align: center;">Accelerated DevOps Path to Technical Excellence</h2>
-  <p class="section-intro-text" style="text-align: left; margin-left: 0;">This roadmap outlines my structured approach to rapidly developing expertise as a DevOps engineer specializing in financial services, with a strategic focus on AWS, infrastructure as code, and security automation to reach principal/staff engineer level technical mastery within 5-6 years.</p>
+  <h2 style="text-align: center;">Strategic Path to Cloud & Infrastructure Excellence</h2>
+  <p class="section-intro-text" style="text-align: left; margin-left: 0;">This roadmap outlines my structured approach to advancing cloud architecture and infrastructure automation expertise for financial services. Building on 10+ years of infrastructure experience, I'm developing specialized skills in AWS, infrastructure as code, and security automation to deliver enterprise-grade solutions.</p>
   
   <div class="quote">
     <p>Master the basics. Then practice them every day without fail.</p>
