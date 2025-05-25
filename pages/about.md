@@ -114,8 +114,8 @@ permalink: /about/
     
     <h3>Currently Pursuing</h3>
     <ul class="cert-list in-progress">
-      <li><strong>AWS Solutions Architect Associate</strong> - Expected completion: Q2 2025</li>
-      <li><strong>HashiCorp Terraform Associate</strong> - Expected completion: Q3 2025</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - Expected completion: Q3 2025</li>
+      <li><strong>HashiCorp Terraform Associate</strong> - Expected completion: Q4 2025</li>
     </ul>
   </div>
   

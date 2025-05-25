@@ -77,6 +77,97 @@
   margin-bottom: 0.8rem;
 }
 
+/* Global button styling to match hero buttons */
+.btn {
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  border: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
+}
+
+/* Primary button styling */
+.primary-btn {
+  background: linear-gradient(90deg,
+    rgba(3, 102, 214, 0.9) 0%,
+    rgba(3, 102, 214, 1) 50%,
+    rgba(3, 102, 214, 0.9) 100%
+  );
+  color: #f8f9fa !important;
+}
+
+.primary-btn:hover {
+  background: linear-gradient(90deg, 
+    rgba(3, 102, 214, 1) 0%,
+    rgba(3, 102, 214, 1) 50%,
+    rgba(3, 102, 214, 1) 100%
+  );
+}
+
+/* Secondary button styling */
+.secondary-btn {
+  background: linear-gradient(90deg,
+    rgba(111, 66, 193, 0.9) 0%,
+    rgba(111, 66, 193, 1) 50%,
+    rgba(111, 66, 193, 0.9) 100%
+  );
+  color: #f8f9fa !important;
+}
+
+.secondary-btn:hover {
+  background: linear-gradient(90deg, 
+    rgba(111, 66, 193, 1) 0%,
+    rgba(111, 66, 193, 1) 50%,
+    rgba(111, 66, 193, 1) 100%
+  );
+}
+
+/* Tertiary button styling */
+.tertiary-btn {
+  background: linear-gradient(90deg,
+    rgba(227, 98, 9, 0.9) 0%,
+    rgba(227, 98, 9, 1) 50%,
+    rgba(227, 98, 9, 0.9) 100%
+  );
+  color: #f8f9fa !important;
+}
+
+.tertiary-btn:hover {
+  background: linear-gradient(90deg, 
+    rgba(227, 98, 9, 1) 0%,
+    rgba(227, 98, 9, 1) 50%,
+    rgba(227, 98, 9, 1) 100%
+  );
+}
+
+/* Outlined button styling */
+.outlined-btn {
+  background: transparent;
+  border: 2px solid var(--btn-outline-border);
+  color: var(--btn-outline-text) !important;
+  box-shadow: none;
+}
+
+.outlined-btn:hover {
+  background: var(--primary-color);
+  color: #f8f9fa !important;
+  border-color: var(--primary-color);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
 /* LinkedIn CTA Styling */
 .linkedin-cta {
   margin-top: 3rem;
@@ -169,4 +260,72 @@
 .cert-list.in-progress li:before {
   content: "→";
   color: var(--primary-color);
+}
+
+/* Large CTA button styling */
+.cta-main-btn {
+  font-size: 1.25rem;
+  padding: 16px 32px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.cta-main-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+/* Make CTA box button stand out more */
+.cta-box .cta-main-btn {
+  margin-top: 1rem;
+  display: inline-block;
+}
+
+/* Dark theme button adjustments */
+.dark-theme .primary-btn {
+  background: linear-gradient(90deg, 
+    rgba(31, 111, 235, 0.9) 0%,
+    rgba(31, 111, 235, 1) 50%,
+    rgba(31, 111, 235, 0.9) 100%
+  );
+}
+
+.dark-theme .primary-btn:hover {
+  background: linear-gradient(90deg, 
+    rgba(31, 111, 235, 1) 0%,
+    rgba(31, 111, 235, 1) 50%,
+    rgba(31, 111, 235, 1) 100%
+  );
+}
+
+.dark-theme .secondary-btn {
+  background: linear-gradient(90deg, 
+    rgba(110, 64, 201, 0.9) 0%,
+    rgba(110, 64, 201, 1) 50%,
+    rgba(110, 64, 201, 0.9) 100%
+  );
+}
+
+.dark-theme .secondary-btn:hover {
+  background: linear-gradient(90deg, 
+    rgba(110, 64, 201, 1) 0%,
+    rgba(110, 64, 201, 1) 50%,
+    rgba(110, 64, 201, 1) 100%
+  );
+}
+
+.dark-theme .tertiary-btn {
+  background: linear-gradient(90deg,
+    rgba(241, 142, 28, 0.9) 0%,
+    rgba(241, 142, 28, 1) 50%,
+    rgba(241, 142, 28, 0.9) 100%
+  );
+}
+
+.dark-theme .tertiary-btn:hover {
+  background: linear-gradient(90deg, 
+    rgba(241, 142, 28, 1) 0%,
+    rgba(241, 142, 28, 1) 50%,
+    rgba(241, 142, 28, 1) 100%
+  );
 }

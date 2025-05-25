@@ -26,7 +26,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/terraform-aws.png" alt="Terraform AWS Infrastructure" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>Implementation study demonstrating production-grade patterns for multi-environment infrastructure in financial services. This learning project showcases secure, compliant infrastructure design using Terraform and AWS while I advance my cloud architecture expertise.</p>
@@ -65,7 +65,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/kubernetes.png" alt="Container Platform" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-container-platform" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-container-platform" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>Architecture study exploring containerized microservices patterns for financial services applications. This proof of concept demonstrates security, compliance, and observability approaches while I develop expertise in container orchestration and Kubernetes.</p>
@@ -108,7 +108,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/security-automation.png" alt="Security Automation" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-security-automation" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-security-automation" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>Planned implementation for automated security and compliance toolchain targeting financial services requirements. This research project will explore continuous compliance monitoring and security validation approaches as I develop cloud security expertise.</p>
@@ -147,7 +147,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/cicd-pipeline.png" alt="DevOps Pipeline" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>A robust CI/CD pipeline designed specifically for financial services applications, providing comprehensive security scanning, compliance validation, and automated deployment. This pipeline transitions code from development to production while enforcing security and compliance requirements at every stage.</p>
@@ -190,7 +190,7 @@ permalink: /portfolio/
             <div class="project-image">
               <img src="/assets/images/enhanced_terminal_environment.png" alt="Enhanced Terminal Environment" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" class="github-link" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+            <a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
             <p>Customized developer terminal environment with integrated tooling for zsh, tmux, and neovim focused on DevOps workflow optimization for financial services infrastructure management.</p>

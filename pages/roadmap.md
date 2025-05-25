@@ -506,6 +506,6 @@ permalink: /roadmap/
   <div class="cta-box">
     <h3>Schedule Your Career Consultation</h3>
     <p>Let's discuss your career goals and create a personalized roadmap for your DevOps transition. I offer strategic guidance based on real-world experience and proven frameworks.</p>
-    <a href="/contact" class="btn primary-btn">Schedule a Consultation</a>
+    <a href="/contact" class="btn primary-btn cta-main-btn">Schedule a Consultation</a>
   </div>
 </div>
