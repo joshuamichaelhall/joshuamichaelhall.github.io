@@ -16,7 +16,7 @@ layout: default
           <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
           <a href="/experience" class="btn accent-btn">Experience</a>
           <a href="/roadmap" class="btn secondary-btn">Learning Roadmap</a>
-          <a href="/contact" class="btn secondary-btn">Contact Me</a>
+          <a href="/contact" class="btn tertiary-btn">Contact Me</a>
         </div>
       </div>
     </div>

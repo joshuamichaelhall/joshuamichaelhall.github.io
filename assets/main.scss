@@ -1461,6 +1461,8 @@ pre, code {
   --btn-primary-text: #f8f9fa; /* Changed from pure white to off-white */
   --btn-secondary-bg: #6f42c1;
   --btn-secondary-text: #f8f9fa; /* Changed from pure white to off-white */
+  --btn-tertiary-bg: #e36209;
+  --btn-tertiary-text: #f8f9fa;
   --btn-outline-border: #e1e4e8;
   --btn-outline-text: #24292e;
   --skill-bar-bg: #e1e4e8;
@@ -1499,6 +1501,8 @@ pre, code {
   --btn-primary-text: #f8f9fa;
   --btn-secondary-bg: #6e40c9;
   --btn-secondary-text: #f8f9fa;
+  --btn-tertiary-bg: #f18e1c;
+  --btn-tertiary-text: #f8f9fa;
   --btn-outline-border: #30363d;
   --btn-outline-text: #c9d1d9;
   --skill-bar-bg: #30363d;
@@ -1857,6 +1861,11 @@ section h2:after,
 .secondary-btn {
   background-color: var(--btn-secondary-bg);
   color: var(--btn-secondary-text);
+}
+
+.tertiary-btn {
+  background-color: var(--btn-tertiary-bg);
+  color: var(--btn-tertiary-text);
 }
 
 .outlined-btn {
