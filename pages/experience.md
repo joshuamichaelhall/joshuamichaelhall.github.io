@@ -177,58 +177,58 @@ permalink: /experience/
 
   <div class="experience-item">
     <div class="experience-header">
-      <h3>BMA Inc. - Healthcare IT Systems Administrator</h3>
+      <h3>BMA Inc. - IT Technician</h3>
       <div class="experience-meta">
         <span class="date">October 2020 - May 2021</span>
         <span class="location">Greater St. Louis</span>
       </div>
     </div>
     <div class="experience-content">
-      <p>Provided technical support and systems administration for multiple medical and professional service clients at a managed service provider, with primary responsibility for 3 main client environments.</p>
+      <p>Provided technical support and system maintenance for medical and professional service clients at a managed service provider.</p>
       
       <h4>Daily Operations:</h4>
       <ul>
-        <li>Administered Windows-based environments including Office 365, 3CX VoIP systems, and network infrastructure</li>
-        <li>Managed Watchguard and SonicWall firewalls, Aruba and Unifi access points, and Windows Server systems</li>
-        <li>Resolved technical support tickets and performed new system installations and configurations</li>
-        <li>Maintained client documentation in IT Glue and tracking spreadsheets</li>
+        <li>Supported Windows-based environments including Office 365, 3CX VoIP systems, and network infrastructure</li>
+        <li>Maintained Watchguard and SonicWall firewalls, Aruba and Unifi access points, and Windows Server systems</li>
+        <li>Resolved technical support tickets and performed system installations and configurations</li>
+        <li>Updated client documentation in IT Glue and tracking spreadsheets</li>
       </ul>
       
       <h4>Compliance & Security:</h4>
       <ul>
-        <li>Ensured HIPAA compliance through proper network firewall configuration and VPN setup</li>
-        <li>Implemented secure remote access solutions for healthcare professionals</li>
-        <li>Conducted regular system monitoring using Datto RMM platform</li>
-        <li>Managed patch deployment and security updates across client environments</li>
+        <li>Supported HIPAA compliance through network firewall maintenance and VPN configuration</li>
+        <li>Assisted with secure remote access solutions for healthcare professionals</li>
+        <li>Performed system monitoring using Datto RMM platform</li>
+        <li>Handled patch deployment and security updates across client environments</li>
       </ul>
     </div>
   </div>
 
   <div class="experience-item">
     <div class="experience-header">
-      <h3>Apex Systems - IT Project Manager & Technical Team Lead</h3>
+      <h3>Apex Systems - Technical Team Lead</h3>
       <div class="experience-meta">
-        <span class="date">July 2014 - June 2015</span>
-        <span class="location">Nashville, TN</span>
+        <span class="date">January 2015 - June 2015</span>
+        <span class="location">Nashville, TN · Contract</span>
       </div>
     </div>
     <div class="experience-content">
-      <p>Led technology refresh initiative at Vanderbilt University Hospital, managing a 13-person technical team to deploy and configure 5,000 systems over 5 months while maintaining hospital operations.</p>
+      <p>Led a 13-person technical team for technology refresh initiative at Vanderbilt University Hospital, deploying and configuring 5,000 systems over 5 months while maintaining hospital operations.</p>
       
-      <h4>Project Leadership:</h4>
+      <h4>Team Leadership:</h4>
       <ul>
-        <li>Directly managed 13 full-time technicians, providing training, performance monitoring, and daily coordination</li>
+        <li>Directly supervised 13 full-time technicians, providing training, performance monitoring, and daily coordination</li>
         <li>Developed deployment workflows and quality control processes achieving consistent installation standards</li>
         <li>Coordinated scheduling across multiple hospital departments to minimize patient care disruption</li>
-        <li>Maintained inventory management and just-in-time delivery scheduling for hardware and software resources</li>
+        <li>Managed inventory and just-in-time delivery scheduling for hardware and software resources</li>
       </ul>
       
-      <h4>Team Management & Quality Control:</h4>
+      <h4>Operations & Quality Control:</h4>
       <ul>
         <li>Conducted daily team meetings to address technical issues and coordinate installation activities</li>
         <li>Implemented standardized checklists and procedures ensuring complete system configurations</li>
-        <li>Provided daily written and verbal progress reports to project stakeholders</li>
-        <li>Handled performance management including progressive discipline</li>
+        <li>Provided daily progress reports to project stakeholders and management</li>
+        <li>Handled performance management including progressive discipline and team development</li>
       </ul>
       
       <h4>Project Success Metrics:</h4>
@@ -236,7 +236,36 @@ permalink: /experience/
         <li>Maintained installation targets averaging 250 deployments weekly across team</li>
         <li>Achieved project completion within timeline and budget constraints</li>
         <li>Developed troubleshooting procedures that significantly reduced installation failures</li>
-        <li>Received invitation to apply for permanent project management role upon contract completion</li>
+        <li>Received invitation to apply for permanent management role upon contract completion</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <div class="experience-header">
+      <h3>Apex Systems - IT Customer Service and Support</h3>
+      <div class="experience-meta">
+        <span class="date">July 2014 - December 2014</span>
+        <span class="location">St. Louis, Missouri · Contract</span>
+      </div>
+    </div>
+    <div class="experience-content">
+      <p>Provided IT customer service and technical support services for Elsevier, supporting internal users and systems in a corporate publishing environment.</p>
+      
+      <h4>Technical Support:</h4>
+      <ul>
+        <li>Resolved technical support tickets for software applications and system issues</li>
+        <li>Provided user support for publishing and editorial software platforms</li>
+        <li>Assisted with troubleshooting hardware and software problems</li>
+        <li>Maintained documentation and tracked resolution metrics</li>
+      </ul>
+      
+      <h4>Customer Service:</h4>
+      <ul>
+        <li>Delivered professional technical support to internal business users</li>
+        <li>Managed support queue priorities and escalation procedures</li>
+        <li>Communicated technical solutions to non-technical users</li>
+        <li>Contributed to team support metrics and service level achievements</li>
       </ul>
     </div>
   </div>
@@ -253,13 +282,18 @@ permalink: /experience/
       <li><strong>Google AI Essentials</strong></li>
     </ul>
     
-    <h3>Target Certifications (Learning Plan)</h3>
+    <h3>Certification Progress</h3>
     <ul class="cert-list">
-      <li><strong>AWS Solutions Architect Associate</strong> - Target: Month 3-4</li>
-      <li><strong>HashiCorp Terraform Associate</strong> - Target: Month 6</li>
-      <li><strong>AWS DevOps Professional</strong> - Target: Month 13-15</li>
-      <li><strong>Certified Kubernetes Administrator (CKA)</strong> - Target: Month 21-22</li>
-      <li><strong>AWS Security Specialty</strong> - Target: Month 18-19</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - In Progress (Target: August 2025)</li>
+      <li><strong>CompTIA Security+ SY0-701 Renewal</strong> - In Progress (Target: October 2025)</li>
+      <li><strong>HashiCorp Terraform Associate</strong> - In Progress (Target: November 2025)</li>
+    </ul>
+    
+    <h3>Future Certifications (Learning Path)</h3>
+    <ul class="cert-list">
+      <li><strong>AWS DevOps Professional</strong> - Target: 2026</li>
+      <li><strong>Certified Kubernetes Administrator (CKA)</strong> - Target: 2026</li>
+      <li><strong>AWS Security Specialty</strong> - Target: 2027</li>
     </ul>
     
     <h3>Education</h3>
@@ -376,7 +410,7 @@ permalink: /experience/
   <div class="cta-box">
     <h3>Connect on LinkedIn</h3>
     <p>View my complete professional profile, recommendations, and certifications. Let's discuss how my infrastructure and security expertise can benefit your organization.</p>
-    <a href="https://www.linkedin.com/in/joshuamichaelhall" class="btn primary-btn linkedin-btn" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/joshuamichaelhall" class="btn primary-btn linkedin-btn cta-main-btn" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-linkedin"></i> View Full Profile on LinkedIn
     </a>
   </div>

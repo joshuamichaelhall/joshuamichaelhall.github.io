@@ -109,7 +109,7 @@ permalink: /blog/
   <div class="cta-box">
     <h3>Follow on LinkedIn</h3>
     <p>Get notified when I publish new technical content, share industry insights, or announce upcoming projects. Let's build a community focused on advancing DevOps practices in financial services.</p>
-    <a href="https://www.linkedin.com/in/joshuamichaelhall" class="btn primary-btn linkedin-btn" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/joshuamichaelhall" class="btn primary-btn linkedin-btn cta-main-btn" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-linkedin"></i> Follow Joshua on LinkedIn
     </a>
   </div>

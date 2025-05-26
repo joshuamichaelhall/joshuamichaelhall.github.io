@@ -11,29 +11,56 @@ permalink: /about/
     <img src="/assets/images/headshot.jpg" alt="Joshua Michael Hall" />
   </div>
   <div class="profile-summary">
-    <p>I'm an experienced infrastructure professional with a proven track record in project management, network security, and system implementation. I specialize in infrastructure automation, cloud security, and compliance solutions for regulated environments, bringing 10+ years of hands-on IT experience to modern DevOps practices.</p>
-    <p>My comprehensive background includes leading large-scale infrastructure deployments, implementing security controls for healthcare and financial services, and developing software solutions. Currently advancing my cloud architecture expertise with AWS and infrastructure as code to deliver enterprise-grade automation solutions that bridge traditional reliability with modern innovation.</p>
+    <p>Infrastructure professional with comprehensive background in project leadership, network security, and system administration. Currently completing systematic AWS, Security+, and Terraform certification pathway for financial services DevOps specialization.</p>
+    
+    <h3>Professional Foundation:</h3>
+    <ul>
+      <li>Led 13-person technical team deploying 5,000 systems at Vanderbilt Hospital</li>
+      <li>Built and scaled $250K IT services company serving 40+ clients</li>
+      <li>Completed Launch School software engineering curriculum (95%)</li>
+      <li>Managed multi-million dollar real estate portfolio and operations</li>
+    </ul>
+    
+    <h3>Current Specialization (May - December 2025):</h3>
+    <ul>
+      <li>AWS cloud architecture with security and compliance emphasis</li>
+      <li>Infrastructure automation using Terraform for reproducible environments</li>
+      <li>CompTIA Security+ SY0-701 renewal for financial services security</li>
+      <li>DevOps practices for CI/CD pipeline implementation</li>
+      <li>Compliance automation for financial services regulatory requirements</li>
+    </ul>
+    
+    <h3>Certification Progress:</h3>
+    <ul>
+      <li>Google Project Management Certificate (Current)</li>
+      <li>AWS Solutions Architect Associate (August 2025)</li>
+      <li>CompTIA Security+ SY0-701 Renewal (October 2025)</li>
+      <li>Terraform Associate (November 2025)</li>
+    </ul>
+    
+    <p class="availability-notice"><strong>Available for DevOps Engineer roles beginning December 2025 with complete certification portfolio and 7+ months of hands-on AWS experience.</strong></p>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Technical Focus</h2>
+  <h2>Technical Focus: Infrastructure Automation & Cloud Security</h2>
+  <p class="section-intro">Delivering secure, compliant infrastructure solutions through proven project management and emerging cloud expertise.</p>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Cloud Architecture Development</h3>
-      <p>Advancing expertise in AWS services for financial services environments, with focus on security controls, compliance requirements, and cost optimization. Building on extensive infrastructure experience to design cloud-native solutions.</p>
+      <h3>AWS Cloud Specialization</h3>
+      <p>Building systematic expertise in AWS services for financial services environments, with focus on multi-account architecture, security controls, and compliance requirements. Target: AWS SAA certification by August 2025.</p>
     </div>
     <div class="expertise-item">
-      <h3>Infrastructure Automation</h3>
-      <p>Implementing infrastructure as code with Terraform, leveraging proven project management skills to deliver automated, reproducible environments with security controls for financial services compliance.</p>
+      <h3>Infrastructure as Code</h3>
+      <p>Developing proficiency with Terraform for automated, reproducible infrastructure. Focus on module development, state management, and policy-as-code for financial services compliance. Target: Terraform Associate by November 2025.</p>
     </div>
     <div class="expertise-item">
-      <h3>Security & Network Implementation</h3>
-      <p>Extensive experience implementing firewalls, network security controls, and compliance frameworks. Applying this foundation to cloud security automation and container security for regulated environments.</p>
+      <h3>Security & Compliance Automation</h3>
+      <p>Applying 10+ years of network security experience to cloud environments. Implementing automated security controls, compliance validation, and audit trail systems for regulated industries. Target: Security+ SY0-701 renewal by October 2025.</p>
     </div>
     <div class="expertise-item">
-      <h3>Project Leadership</h3>
-      <p>Proven track record leading technical teams through large-scale deployments, including 5,000+ system implementations. Certified in project management with expertise in stakeholder coordination and process improvement.</p>
+      <h3>Project Management Excellence</h3>
+      <p>Google Certified Project Manager with proven track record leading technical teams through complex deployments. Experience managing 13-person teams and delivering enterprise-scale projects on time and budget.</p>
     </div>
   </div>
 </div>

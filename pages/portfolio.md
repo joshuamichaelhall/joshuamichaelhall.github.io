@@ -343,7 +343,7 @@ permalink: /portfolio/
   <div class="cta-box">
     <h3>Connect on LinkedIn</h3>
     <p>Let's discuss how modern DevOps practices can transform your financial services infrastructure. I share regular insights on AWS, infrastructure automation, and security engineering.</p>
-    <a href="https://www.linkedin.com/in/joshuamichaelhall" class="btn primary-btn linkedin-btn" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/joshuamichaelhall" class="btn primary-btn linkedin-btn cta-main-btn" target="_blank" rel="noopener noreferrer">
       <i class="fab fa-linkedin"></i> Connect with Joshua on LinkedIn
     </a>
   </div>

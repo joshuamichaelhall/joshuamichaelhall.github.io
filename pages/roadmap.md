@@ -66,6 +66,7 @@ permalink: /roadmap/
       <div class="phase-content">
         <ul class="phase-goals">
           <li>AWS Solutions Architect Associate certification</li>
+          <li>CompTIA Security+ SY0-701 renewal</li>
           <li>Terraform Associate certification</li>
           <li>Infrastructure as Code for multi-environment deployment</li>
           <li>CI/CD pipeline implementation with security controls</li>
@@ -351,13 +352,19 @@ permalink: /roadmap/
   <div class="cert-timeline">
     <div class="cert-item">
       <div class="cert-badge">AWS Solutions Architect Associate</div>
-      <div class="cert-timeframe">Month 3-4</div>
+      <div class="cert-timeframe">August 2025</div>
       <p>Critical foundation for AWS expertise</p>
     </div>
 
     <div class="cert-item">
+      <div class="cert-badge">CompTIA Security+ SY0-701</div>
+      <div class="cert-timeframe">October 2025</div>
+      <p>Security fundamentals for financial services</p>
+    </div>
+
+    <div class="cert-item">
       <div class="cert-badge">HashiCorp Terraform Associate</div>
-      <div class="cert-timeframe">Month 6</div>
+      <div class="cert-timeframe">November 2025</div>
       <p>Infrastructure as code mastery</p>
     </div>
 

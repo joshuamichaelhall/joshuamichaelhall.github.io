@@ -11,10 +11,21 @@ layout: default
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
         <h2>Infrastructure Automation & Cloud Security Specialist</h2>
-        <p>Delivering secure, compliant infrastructure solutions for financial services through proven project management expertise, network security implementation, and modern DevOps practices. Currently advancing cloud architecture specialization with AWS and infrastructure as code.</p>
+        <h3 class="hero-tagline">AWS Certified | Terraform | Security+ | Financial Services Focus</h3>
+        <p>Combining proven project management and infrastructure experience with current AWS, Security+, and Terraform certifications for financial services environments.</p>
+        <div class="certification-progress">
+          <h4>Current Certifications & Timeline:</h4>
+          <ul>
+            <li>AWS Solutions Architect Associate (August 2025)</li>
+            <li>CompTIA Security+ SY0-701 Renewal (October 2025)</li>
+            <li>Terraform Associate (November 2025)</li>
+          </ul>
+          <p class="availability-notice"><strong>Available for DevOps roles: December 2025</strong></p>
+        </div>
         <div class="hero-links">
-          <a href="/portfolio" class="btn primary-btn">View Portfolio</a>
-          <a href="/contact" class="btn secondary-btn">Contact Me</a>
+          <a href="/portfolio" class="btn primary-btn cta-main-btn">View Portfolio</a>
+          <a href="/assets/resume.pdf" class="btn secondary-btn cta-main-btn">Download Resume</a>
+          <a href="/contact#consultation" class="btn outlined-btn cta-main-btn">Schedule Consultation</a>
         </div>
       </div>
     </div>
@@ -164,6 +175,59 @@ layout: default
   
   .hero-text p {
     margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  
+  .hero-tagline {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    font-weight: 500;
+    margin: 0.5rem 0 1rem 0;
+  }
+  
+  .certification-progress {
+    background: var(--bg-light);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    text-align: left;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .certification-progress h4 {
+    margin: 0 0 0.75rem 0;
+    font-size: 1rem;
+    color: var(--secondary-color);
+  }
+  
+  .certification-progress ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .certification-progress li {
+    margin-bottom: 0.5rem;
+    padding-left: 1.5rem;
+    position: relative;
+  }
+  
+  .certification-progress li:before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: var(--primary-color);
+    font-weight: bold;
+  }
+  
+  .availability-notice {
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    color: var(--primary-color);
+    text-align: center;
   }
   
   .hero-links {

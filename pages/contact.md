@@ -15,27 +15,27 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> IT Infrastructure Professional transitioning to DevOps engineering through intensive skill development.</p>
+    <p><strong>Status:</strong> Infrastructure Automation & Cloud Security Specialist - Completing certifications through December 2025.</p>
   </div>
 
-  <p>Leveraging comprehensive IT infrastructure experience to transition into DevOps/SRE roles in financial services. With extensive background in Windows Server administration, network security, and project management, I'm building specialized expertise in AWS cloud architecture and Infrastructure as Code.</p>
+  <p>Infrastructure professional completing systematic AWS, Security+, and Terraform certification pathway for financial services DevOps specialization. Available for DevOps Engineer roles beginning December 2025.</p>
 
-  <p>Currently in intensive technical skill development focused on AWS cloud infrastructure, Terraform automation, and DevOps practices. Building portfolio projects that demonstrate infrastructure automation, security implementation, and compliance automation. Targeting AWS Solutions Architect Associate and Terraform Associate certifications as foundation for mid-level DevOps opportunities.</p>
+  <p>Certification timeline: AWS Solutions Architect Associate (August 2025), CompTIA Security+ SY0-701 Renewal (October 2025), and Terraform Associate (November 2025). Building portfolio projects that demonstrate secure, compliant infrastructure solutions for regulated environments.</p>
 </div>
 
 <div class="content-section with-divider">
   <h2>Professional Interests</h2>
 
-  <p>I'm open to discussing the following areas where I'm actively building expertise:</p>
+  <p>I'm focused on Infrastructure Automation & Cloud Security with emphasis on:</p>
 
   <ul class="interests-list">
-    <li>Financial services compliance and regulatory frameworks</li>
-    <li>Security automation for regulated environments</li>
-    <li>Infrastructure as Code implementation with compliance focus</li>
-    <li>Kubernetes security and platform engineering</li>
-    <li>Observability and monitoring for financial applications</li>
-    <li>Terminal-based development workflow optimization</li>
-    <li>Technical content creation on financial services DevOps</li>
+    <li>AWS cloud architecture for financial services environments</li>
+    <li>Infrastructure as Code with Terraform for reproducible deployments</li>
+    <li>Security automation and compliance validation</li>
+    <li>CI/CD pipeline implementation with security controls</li>
+    <li>Multi-account AWS strategies for regulated industries</li>
+    <li>Container security and orchestration platforms</li>
+    <li>Technical content creation and knowledge sharing</li>
   </ul>
 </div>
 
@@ -126,7 +126,7 @@ permalink: /contact/
     <li><strong>Phone</strong>: <a href="tel:3142697477">(314) 269-7477</a></li>
   </ul>
   
-  <p class="contact-note">For technical articles and content, you can also find me on <a href="https://dev.to/joshuamichaelhall">Dev.to</a> and <a href="https://joshuamichaelhall.medium.com">Medium</a>.</p>
+  <p class="contact-note">For technical articles and content, you can also find me on <a href="https://dev.to/joshuamichaelhall">Dev.to</a> and <a href="https://medium.com/@joshuamichaelhall">Medium</a>.</p>
 </div>
 
 <div class="content-section no-divider">
@@ -178,7 +178,7 @@ permalink: /contact/
         <textarea name="message" id="message" rows="5" placeholder="Your message..." required></textarea>
       </div>
 
-      <button type="submit" class="submit-button">Send Message</button>
+      <button type="submit" class="btn primary-btn cta-main-btn">Send Message</button>
     </form>
   </div>
 
