@@ -84,6 +84,8 @@ Instead of just studying for exams, I'm building four comprehensive projects tha
 - Multi-environment deployment automation
 - Business Value: Reproducible infrastructure with audit trails
 
+For a deep dive into IaC best practices, see my article on [Infrastructure as Code Best Practices for Financial Services](/blog/2025/05/05/infrastructure-as-code-best-practices/).
+
 ### Daily Learning Structure (Intensive Commitment)
 
 My weekly time allocation for pre-employment learning:
@@ -92,7 +94,7 @@ My weekly time allocation for pre-employment learning:
 - **Networking**: 7.5 hours (15%)
 - **Content Creation**: 5 hours (10%)
 
-I follow a structured schedule that dedicates early mornings (6:00-9:00 AM) to focused learning and allocates specific time blocks for projects, networking, and content creation throughout the week. This disciplined approach includes:
+I follow a structured schedule that dedicates early mornings (6:00-9:00 AM) to focused learning and allocates specific time blocks for projects, networking, and content creation throughout the week. My [terminal-based development environment](/blog/2025/03/23/terminal-based-development-environment/) helps me maintain focus and productivity. This disciplined approach includes:
 
 - Weekday learning blocks of 3 hours each morning
 - Additional evening technical practice sessions
@@ -110,6 +112,7 @@ I follow a structured schedule that dedicates early mornings (6:00-9:00 AM) to f
 - Adrian Cantrill's AWS SAA Course ($40) - Most comprehensive hands-on training
 - AWS Official Documentation (Free) - Source of truth for exam content
 - Tutorials Dojo Practice Exams ($25) - Highest quality exam simulation
+- [My guide to setting up a secure AWS learning environment](/blog/2025/05/20/setting-up-aws-learning-environment/) - Start practicing safely
 
 **Terraform Mastery:**
 - HashiCorp Learn Platform (Free) - Official interactive tutorials
@@ -298,7 +301,7 @@ The key insight: **Strategic focus beats broad coverage.** Rather than pursuing 
 
 My disciplined learning approach—with 64.5 hours of weekly dedicated time—demonstrates my commitment to mastering these technologies thoroughly. As John C. Maxwell wisely noted, "Master the basics. Then practice them every day without fail." This philosophy guides my journey.
 
-This roadmap is just the beginning of my commitment to continuous learning and excellence in the DevOps profession. I'm eager to learn from experienced practitioners and contribute to innovative teams solving complex infrastructure challenges.
+This roadmap is just the beginning of my commitment to continuous learning and excellence in the DevOps profession. I'm eager to learn from experienced practitioners and contribute to innovative teams solving complex infrastructure challenges. You can track my progress and see the projects I'm building in my [portfolio](/portfolio/).
 
 ---
 
@@ -308,13 +311,13 @@ I'd love to hear from you:
 
 **🤝 For DevOps Professionals:** What certifications have accelerated your career? What would you do differently? [Connect on LinkedIn](https://linkedin.com/in/joshuamichaelhall) to share insights.
 
-**📚 For Career Transitioners:** Are you planning a similar journey? I'm documenting detailed study resources, project implementations, and lessons learned on [my website](https://joshuamichaelhall.com).
+**📚 For Career Transitioners:** Are you planning a similar journey? I'm documenting detailed study resources, project implementations, and lessons learned here on my blog. Check out my [portfolio](/portfolio/) for project examples and [roadmap](/roadmap/) for the complete learning path.
 
 **🎯 For Hiring Managers:** I'm building expertise for DevOps roles in financial services. Let's discuss how my infrastructure background and strategic approach could benefit your team.
 
 **💬 For Everyone:** Have questions about the certification strategy or want to share your own experience? Reach out via [LinkedIn](https://linkedin.com/in/joshuamichaelhall) or through my [website](https://joshuamichaelhall.com). I respond to all thoughtful messages.
 
-*Currently focused on building comprehensive DevOps expertise through strategic certifications and hands-on projects that demonstrate real-world capabilities.*
+*Currently focused on building comprehensive DevOps expertise through strategic certifications and hands-on projects that demonstrate real-world capabilities. Follow my journey on the [blog](/blog/) or explore my [DevOps roadmap](/roadmap/).*
 
 ## Acknowledgements
 
@@ -327,4 +330,4 @@ All strategic decisions, career planning, and implementation approaches are my o
 
 ---
 
-*This article was originally published on [Medium](https://joshuamichaelhall.medium.com/building-a-strategic-devops-career-through-targeted-certifications-9b90323ebdf8). For more articles on DevOps, cloud security, and career development, visit [joshuamichaelhall.com](https://joshuamichaelhall.com).*
+*Ready to start your DevOps journey? Explore my [complete learning roadmap](/roadmap/), check out my [portfolio projects](/portfolio/), or [connect with me](/contact/) to discuss your career transition. For weekly insights and progress updates, [subscribe to my newsletter](https://joshuamichaelhall.com/#newsletter) or follow me on [LinkedIn](https://linkedin.com/in/joshuamichaelhall).*
