@@ -21,7 +21,7 @@ permalink: /about/
       <li>Managed multi-million dollar real estate portfolio and operations</li>
     </ul>
     
-    <h3>Current Specialization (May - December 2025):</h3>
+    <h3>Current Specialization:</h3>
     <ul>
       <li>AWS cloud architecture with security and compliance emphasis</li>
       <li>Infrastructure automation using Terraform for reproducible environments</li>
@@ -33,12 +33,12 @@ permalink: /about/
     <h3>Certification Progress:</h3>
     <ul>
       <li>Google Project Management Certificate (Current)</li>
-      <li>AWS Solutions Architect Associate (August 2025)</li>
-      <li>CompTIA Security+ SY0-701 Renewal (October 2025)</li>
-      <li>Terraform Associate (November 2025)</li>
+      <li>AWS Solutions Architect Associate (In Progress)</li>
+      <li>CompTIA Security+ SY0-701 Renewal (In Progress)</li>
+      <li>Terraform Associate (Planned)</li>
     </ul>
     
-    <p class="availability-notice"><strong>Available for DevOps Engineer roles beginning December 2025 with complete certification portfolio and 7+ months of hands-on AWS experience.</strong></p>
+    <p class="availability-notice"><strong>Building expertise for DevOps Engineer roles with comprehensive certification portfolio and hands-on AWS experience.</strong></p>
   </div>
 </div>
 
@@ -48,15 +48,15 @@ permalink: /about/
   <div class="expertise-grid">
     <div class="expertise-item">
       <h3>AWS Cloud Specialization</h3>
-      <p>Building systematic expertise in AWS services for financial services environments, with focus on multi-account architecture, security controls, and compliance requirements. Target: AWS SAA certification by August 2025.</p>
+      <p>Building systematic expertise in AWS services for financial services environments, with focus on multi-account architecture, security controls, and compliance requirements.</p>
     </div>
     <div class="expertise-item">
       <h3>Infrastructure as Code</h3>
-      <p>Developing proficiency with Terraform for automated, reproducible infrastructure. Focus on module development, state management, and policy-as-code for financial services compliance. Target: Terraform Associate by November 2025.</p>
+      <p>Developing proficiency with Terraform for automated, reproducible infrastructure. Focus on module development, state management, and policy-as-code for financial services compliance.</p>
     </div>
     <div class="expertise-item">
       <h3>Security & Compliance Automation</h3>
-      <p>Applying 10+ years of network security experience to cloud environments. Implementing automated security controls, compliance validation, and audit trail systems for regulated industries. Target: Security+ SY0-701 renewal by October 2025.</p>
+      <p>Applying 10+ years of network security experience to cloud environments. Implementing automated security controls, compliance validation, and audit trail systems for regulated industries.</p>
     </div>
     <div class="expertise-item">
       <h3>Project Management Excellence</h3>
@@ -141,8 +141,8 @@ permalink: /about/
     
     <h3>Currently Pursuing</h3>
     <ul class="cert-list in-progress">
-      <li><strong>AWS Solutions Architect Associate</strong> - Expected completion: Q3 2025</li>
-      <li><strong>HashiCorp Terraform Associate</strong> - Expected completion: Q4 2025</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - In progress</li>
+      <li><strong>HashiCorp Terraform Associate</strong> - Planned</li>
     </ul>
   </div>
   
