@@ -7,6 +7,8 @@ tags: [aws, terraform, security, career-transition, certifications]
 excerpt: "Leveraging my focused IT background and systematic learning approach to transition into DevOps with a specialization in financial services"
 ---
 
+![Strategic DevOps Career Through Certifications](/assets/images/strategic-devops-career-certifications-hero.png)
+
 After gaining valuable experience in IT services, software engineering foundations, and project leadership, I'm excited to share my strategic approach to transitioning into DevOps/SRE. Through careful research and planning, I've developed a certification roadmap that builds on my existing expertise while targeting the specialized needs of financial services organizations.
 
 ## The Strategic Context: Why Financial Services DevOps?
@@ -67,6 +69,10 @@ Instead of just studying for exams, I'm building four comprehensive projects tha
 - Business Value: Automated audit preparation reducing manual effort by 80%
 
 **Project 2: Secure CI/CD Pipeline**
+
+![CI/CD Pipeline Architecture](/assets/images/cicd-pipeline.png)
+*Secure CI/CD pipeline with integrated security scanning and compliance validation*
+
 - GitHub Actions workflow with integrated security scanning
 - Infrastructure validation and compliance checking
 - Deployment automation with approval workflows
@@ -79,6 +85,10 @@ Instead of just studying for exams, I'm building four comprehensive projects tha
 - Business Value: 40% improvement in deployment security
 
 **Project 4: Infrastructure as Code Platform**
+
+![Terraform AWS Infrastructure](/assets/images/terraform-aws.png)
+*Infrastructure as Code platform using Terraform for AWS*
+
 - Terraform modules for regulated workloads
 - Policy-as-code for compliance validation
 - Multi-environment deployment automation
