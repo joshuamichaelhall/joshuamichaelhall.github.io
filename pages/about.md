@@ -17,90 +17,25 @@ permalink: /about/
 </div>
 
 <div class="content-section with-divider">
-  <h2>Technical Focus: Infrastructure Automation & Cloud Security</h2>
-  <p class="section-intro">Delivering secure, compliant infrastructure solutions through proven project management and emerging cloud expertise.</p>
+  <h2>Technical Focus</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>AWS Cloud Specialization</h3>
-      <p>Building systematic expertise in AWS services for financial services environments, with focus on multi-account architecture, security controls, and compliance requirements.</p>
+      <h3>AWS Cloud Infrastructure</h3>
+      <p>Building expertise in AWS services for financial services environments, focusing on multi-account architecture, security controls, and compliance requirements.</p>
     </div>
     <div class="expertise-item">
       <h3>Infrastructure as Code</h3>
-      <p>Developing proficiency with Terraform for automated, reproducible infrastructure. Focus on module development, state management, and policy-as-code for financial services compliance.</p>
+      <p>Developing proficiency with Terraform for automated, reproducible infrastructure with emphasis on module development and state management.</p>
     </div>
     <div class="expertise-item">
-      <h3>Security & Compliance Automation</h3>
-      <p>Applying 10+ years of network security experience to cloud environments. Implementing automated security controls, compliance validation, and audit trail systems for regulated industries.</p>
+      <h3>Security & Compliance</h3>
+      <p>Applying 10+ years of network security experience to cloud environments, implementing automated security controls and compliance validation for regulated industries.</p>
     </div>
     <div class="expertise-item">
-      <h3>Project Management Excellence</h3>
-      <p>Google Certified Project Manager with CompTIA Project+ certification. Proven track record leading technical teams through complex deployments, including managing 13-person teams for 5,000-system hospital deployment at Vanderbilt University Hospital.</p>
+      <h3>Project Leadership</h3>
+      <p>Google Certified Project Manager with CompTIA Project+ certification. Proven experience leading technical teams through complex deployments, including 13-person teams for enterprise-scale projects.</p>
     </div>
   </div>
-</div>
-
-<div class="content-section with-divider">
-  <h2>Strategic Career Principles</h2>
-  <p>My career development is guided by these strategic principles that position me for the top 1% in DevOps:</p>
-  <div class="expertise-grid">
-    <div class="expertise-item">
-      <h3>Strategic Specialization</h3>
-      <p>Focus on financial services DevOps with AWS as primary platform rather than a multi-cloud approach</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Deep Technical Mastery</h3>
-      <p>Develop comprehensive expertise in core technologies before expanding to new areas</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Business Value Focus</h3>
-      <p>Emphasize skills that deliver measurable financial impact and prioritize ROI in technical decisions</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Project-Based Acceleration</h3>
-      <p>Learn while building portfolio projects that demonstrate real-world capability in financial services</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Executive Positioning</h3>
-      <p>Develop strategic skills and business acumen for principal/staff engineer roles</p>
-    </div>
-  </div>
-</div>
-
-<div class="content-section with-divider">
-  <h2>Technical Environment</h2>
-  <p>My development workflow is centered around terminal-based tools that maximize productivity and minimize context-switching:</p>
-  <div class="expertise-grid">
-    <div class="expertise-item">
-      <h3>Operating Systems</h3>
-      <p>macOS and Linux with terminal-centric workflow</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Editor/IDE</h3>
-      <p>Neovim with custom configuration for infrastructure development</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Terminal</h3>
-      <p>tmux for session management and multi-window workflows</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Containerization</h3>
-      <p>Docker and Kubernetes for application deployment</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Version Control</h3>
-      <p>Git/GitHub for code management and collaboration</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Cloud Platform</h3>
-      <p>AWS as primary cloud environment</p>
-    </div>
-  </div>
-</div>
-
-<div class="content-section with-divider">
-  <h2>Skills</h2>
-  
-  {% include skills-list.html %}
 </div>
 
 <div class="content-section with-divider">
