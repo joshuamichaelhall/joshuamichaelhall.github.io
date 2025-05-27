@@ -278,6 +278,7 @@ layout: default
     display: block !important;
     visibility: visible !important;
     opacity: 1 !important;
+    text-decoration: none !important;
   }
   
   .timeline-cert {
@@ -286,6 +287,7 @@ layout: default
     display: block !important;
     visibility: visible !important;
     opacity: 1 !important;
+    text-decoration: none !important;
   }
   
   .timeline-status {
@@ -350,14 +352,24 @@ layout: default
     }
     
     .timeline-item {
-      grid-template-columns: 50px 1fr;
-      gap: 0.75rem;
+      grid-template-columns: 1fr;
+      gap: 0.5rem;
+      text-align: left;
+    }
+    
+    .timeline-date {
+      font-size: 0.9rem !important;
+      margin-bottom: 0.25rem;
+      text-align: left;
+    }
+    
+    .timeline-cert {
+      margin-bottom: 0.5rem;
     }
     
     .timeline-status {
-      grid-column: 2;
       justify-self: start;
-      margin-top: 0.25rem;
+      margin-top: 0;
     }
     
     .hero-links {
