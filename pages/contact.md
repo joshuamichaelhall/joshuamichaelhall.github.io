@@ -15,12 +15,10 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> Infrastructure Automation & Cloud Security Specialist - Completing certifications through December 2025.</p>
+    <p><strong>Status:</strong> DevOps Engineer (Available December 2025)</p>
   </div>
 
-  <p>Infrastructure professional completing systematic AWS, Security+, and Terraform certification pathway for financial services DevOps specialization. Available for DevOps Engineer roles beginning December 2025.</p>
-
-  <p>Certification timeline: AWS Solutions Architect Associate (August 2025), CompTIA Security+ SY0-701 Renewal (October 2025), and Terraform Associate (November 2025). Building portfolio projects that demonstrate secure, compliant infrastructure solutions for regulated environments.</p>
+  <p>Specializing in AWS infrastructure automation and security compliance. Open to discussing DevOps Engineer opportunities in financial services.</p>
 </div>
 
 <div class="content-section with-divider">

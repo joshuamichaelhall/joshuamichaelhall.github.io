@@ -6,41 +6,14 @@ permalink: /about/
 
 # About Me
 
-<div class="profile-header with-divider">
-  <div class="profile-image">
-    <img src="/assets/images/headshot.jpg" alt="Joshua Michael Hall" />
-  </div>
-  <div class="profile-summary">
-    <p>Transitioning DevOps Engineer with comprehensive IT infrastructure experience and software engineering foundations. Building specialized expertise in AWS cloud architecture, Infrastructure as Code with Terraform, and security automation for financial services environments.</p>
-    
-    <h3>Professional Foundation:</h3>
-    <ul>
-      <li>Led 13-person technical team deploying 5,000 systems at Vanderbilt Hospital</li>
-      <li>Built and scaled IT services company serving 40+ clients with team management and operations oversight</li>
-      <li>Completed 95% of Launch School backend curriculum through RB185</li>
-      <li>Founded real estate investment company managing multiple properties with systematic renovation project coordination</li>
-    </ul>
-    
-    <h3>Current Specialization:</h3>
-    <ul>
-      <li>AWS cloud architecture with security and compliance emphasis</li>
-      <li>Infrastructure automation using Terraform for reproducible environments</li>
-      <li>CompTIA Security+ SY0-701 renewal for financial services security</li>
-      <li>DevOps practices for CI/CD pipeline implementation</li>
-      <li>Compliance automation for financial services regulatory requirements</li>
-    </ul>
-    
-    <h3>Certification Progress:</h3>
-    <ul>
-      <li>Google Project Management Certificate (Completed)</li>
-      <li>CompTIA Project+ (Completed)</li>
-      <li>Google AI Essentials (Completed)</li>
-      <li>AWS Solutions Architect Associate (In Progress)</li>
-      <li>Terraform Associate (In Progress)</li>
-    </ul>
-    
-    <p class="availability-notice"><strong>Seeking mid-level DevOps Engineer role in financial services beginning December 2025 to apply comprehensive infrastructure automation expertise with current AWS, Security+, and Terraform certifications.</strong></p>
-  </div>
+<div class="content-section with-divider">
+  <p>I'm a transitioning DevOps Engineer with comprehensive IT infrastructure experience and software engineering foundations. My career combines proven leadership in technical operations with emerging expertise in modern cloud technologies, positioning me uniquely for DevOps roles in regulated industries.</p>
+  
+  <p>My professional journey includes leading a 13-person technical team through a 5,000-system deployment at Vanderbilt University Hospital, building and scaling an IT services company serving 40+ clients, and completing 95% of Launch School's rigorous backend curriculum. This diverse background provides a solid foundation for understanding both the operational challenges and technical solutions that define effective DevOps practices.</p>
+  
+  <p>Currently, I'm focused on building specialized expertise in AWS cloud architecture, Infrastructure as Code with Terraform, and security automation specifically for financial services environments. I'm pursuing AWS Solutions Architect Associate and Terraform Associate certifications while developing portfolio projects that demonstrate secure, compliant infrastructure solutions.</p>
+  
+  <p><strong>I'm seeking mid-level DevOps Engineer roles in financial services beginning December 2025, bringing together infrastructure automation expertise with comprehensive AWS, Security+, and Terraform certifications.</strong></p>
 </div>
 
 <div class="content-section with-divider">

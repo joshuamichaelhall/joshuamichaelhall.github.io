@@ -28,7 +28,6 @@ future: true
 # Navigation
 header_pages:
   - pages/portfolio.md
-  - pages/roadmap.md
   - pages/blog.md
   - pages/about.md
   - pages/contact.md
