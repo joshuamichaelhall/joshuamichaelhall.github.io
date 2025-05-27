@@ -273,15 +273,16 @@ layout: default
   }
   
   .availability-notice {
-    margin-top: 2rem;
+    margin-top: 2.5rem;
     padding: 1.5rem;
-    background: rgba(227, 98, 9, 0.1);
-    border-radius: 8px;
-    border: 1px solid rgba(227, 98, 9, 0.3);
+    background: linear-gradient(135deg, rgba(var(--primary-color), 0.05) 0%, rgba(var(--primary-color), 0.1) 100%);
+    border-radius: 12px;
+    border: 2px solid var(--primary-color);
     text-align: center;
     clear: both;
     position: relative;
     z-index: 2;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   }
   
   .availability-notice strong {
