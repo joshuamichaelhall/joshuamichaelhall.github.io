@@ -202,13 +202,13 @@ layout: default
   
   /* Enhanced Certification Timeline */
   .certification-timeline {
-    background: linear-gradient(135deg, var(--bg-light) 0%, var(--bg-content) 100%);
+    background: var(--bg-content);
     border: 2px solid var(--primary-color);
     border-radius: 12px;
     padding: 2rem;
     margin: 2rem auto;
     max-width: 700px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    box-shadow: var(--card-shadow);
     position: relative;
     overflow: hidden;
   }
@@ -221,7 +221,7 @@ layout: default
     width: 200%;
     height: 200%;
     background: radial-gradient(circle, var(--primary-color) 0%, transparent 70%);
-    opacity: 0.03;
+    opacity: 0.05;
     pointer-events: none;
   }
   
@@ -274,7 +274,7 @@ layout: default
   
   .timeline-cert {
     font-weight: 600;
-    color: var(--text-primary);
+    color: var(--text-color);
   }
   
   .timeline-status {
@@ -286,23 +286,23 @@ layout: default
   }
   
   .timeline-status.in-progress {
-    background: rgba(52, 168, 83, 0.1);
-    color: #34a853;
-    border: 1px solid rgba(52, 168, 83, 0.3);
+    background: rgba(var(--accent-color-rgb), 0.15);
+    color: var(--accent-color);
+    border: 1px solid rgba(var(--accent-color-rgb), 0.4);
   }
   
   .timeline-status.planned {
-    background: rgba(66, 133, 244, 0.1);
-    color: #4285f4;
-    border: 1px solid rgba(66, 133, 244, 0.3);
+    background: rgba(var(--primary-color-rgb), 0.15);
+    color: var(--primary-color);
+    border: 1px solid rgba(var(--primary-color-rgb), 0.4);
   }
   
   .availability-notice {
     margin-top: 1.5rem;
     padding: 1rem;
-    background: rgba(52, 168, 83, 0.05);
+    background: rgba(var(--accent-color-rgb), 0.1);
     border-radius: 8px;
-    border: 1px solid rgba(52, 168, 83, 0.2);
+    border: 1px solid rgba(var(--accent-color-rgb), 0.3);
     text-align: center;
   }
   
