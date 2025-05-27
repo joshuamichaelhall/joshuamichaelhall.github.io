@@ -13,7 +13,6 @@ layout: default
         <h2>Infrastructure Automation & Cloud Security Specialist</h2>
         <h3 class="hero-tagline">AWS | Terraform | Security+ | Project Leadership | Financial Services</h3>
         <p>Systematic transition to DevOps combining IT infrastructure background with modern cloud expertise. Completing AWS Solutions Architect, Security+, and Terraform certifications while building hands-on portfolio projects.</p>
-        <p><strong>Available for DevOps Engineer roles: December 2025</strong></p>
         <div class="certification-timeline">
           <h4><span class="timeline-icon">🎯</span> Certification Journey 2025</h4>
           <div class="timeline-items">
