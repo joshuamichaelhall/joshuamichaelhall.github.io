@@ -10,22 +10,36 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Infrastructure Automation & Cloud Security Specialist</h2>
-        <h3 class="hero-tagline">AWS Certified | Terraform | Security+ | Financial Services Focus</h3>
-        <p>Combining proven project management and infrastructure experience with current AWS, Security+, and Terraform certifications for financial services environments.</p>
-        <div class="certification-progress">
-          <h4>Current Certifications & Timeline:</h4>
-          <ul>
-            <li>AWS Solutions Architect Associate (August 2025)</li>
-            <li>CompTIA Security+ SY0-701 Renewal (October 2025)</li>
-            <li>Terraform Associate (November 2025)</li>
-          </ul>
-          <p class="availability-notice"><strong>Available for DevOps roles: December 2025</strong></p>
+        <h2>Infrastructure Professional → DevOps Engineer</h2>
+        <h3 class="hero-tagline">Building Cloud Expertise | AWS | Terraform | Security+ | Financial Services Focus</h3>
+        <p>Leveraging 15+ years of infrastructure and project management experience while actively building modern cloud and automation skills through hands-on learning and certification.</p>
+        <div class="certification-timeline">
+          <h4><span class="timeline-icon">🎯</span> Certification Journey 2025</h4>
+          <div class="timeline-items">
+            <div class="timeline-item">
+              <span class="timeline-date">AUG</span>
+              <span class="timeline-cert">AWS Solutions Architect Associate</span>
+              <span class="timeline-status in-progress">In Progress</span>
+            </div>
+            <div class="timeline-item">
+              <span class="timeline-date">OCT</span>
+              <span class="timeline-cert">CompTIA Security+ SY0-701</span>
+              <span class="timeline-status planned">Renewal</span>
+            </div>
+            <div class="timeline-item">
+              <span class="timeline-date">NOV</span>
+              <span class="timeline-cert">HashiCorp Terraform Associate</span>
+              <span class="timeline-status planned">Planned</span>
+            </div>
+          </div>
+          <div class="availability-notice">
+            <strong>🚀 Targeting DevOps roles starting December 2025</strong>
+          </div>
         </div>
         <div class="hero-links">
           <a href="/portfolio" class="btn primary-btn cta-main-btn">View Portfolio</a>
-          <a href="/assets/resume.pdf" class="btn secondary-btn cta-main-btn">Download Resume</a>
-          <a href="/contact#consultation" class="btn outlined-btn cta-main-btn">Schedule Consultation</a>
+          <a href="https://github.com/joshuamichaelhall/devops-180-challenge" class="btn secondary-btn cta-main-btn">Follow My Journey</a>
+          <a href="https://linkedin.com/in/joshuamichaelhall" class="btn outlined-btn cta-main-btn">Connect on LinkedIn</a>
         </div>
       </div>
     </div>
@@ -56,7 +70,7 @@ layout: default
 
 <div class="home-section with-divider" id="projects">
   <h2>Projects</h2>
-  <p class="section-intro-text">Production-grade infrastructure implementations demonstrating DevOps best practices, security automation, and financial services compliance capabilities.</p>
+  <p class="section-intro-text">Building portfolio projects to demonstrate DevOps best practices, security automation, and financial services compliance capabilities.</p>
   <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
@@ -65,7 +79,7 @@ layout: default
 
 <div class="home-section no-divider" id="articles">
   <h2>Articles</h2>
-  <p class="section-intro-text">Technical insights on infrastructure automation, containerization, and cloud security with a focus on financial services environments.</p>
+  <p class="section-intro-text">Sharing my learning journey and technical insights on infrastructure automation, containerization, and cloud security.</p>
   <div id="devto-articles"></div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">View All Articles</a>
@@ -186,54 +200,121 @@ layout: default
     margin: 0.5rem 0 1rem 0;
   }
   
-  .certification-progress {
-    background: var(--bg-light);
-    border-radius: 8px;
-    padding: 1.5rem;
-    margin: 1.5rem 0;
-    text-align: left;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .certification-progress h4 {
-    margin: 0 0 0.75rem 0;
-    font-size: 1rem;
-    color: var(--secondary-color);
-  }
-  
-  .certification-progress ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  .certification-progress li {
-    margin-bottom: 0.5rem;
-    padding-left: 1.5rem;
+  /* Enhanced Certification Timeline */
+  .certification-timeline {
+    background: linear-gradient(135deg, var(--bg-light) 0%, var(--bg-content) 100%);
+    border: 2px solid var(--primary-color);
+    border-radius: 12px;
+    padding: 2rem;
+    margin: 2rem auto;
+    max-width: 700px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
     position: relative;
+    overflow: hidden;
   }
   
-  .certification-progress li:before {
-    content: "→";
+  .certification-timeline::before {
+    content: '';
     position: absolute;
-    left: 0;
-    color: var(--primary-color);
-    font-weight: bold;
+    top: -50%;
+    right: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, var(--primary-color) 0%, transparent 70%);
+    opacity: 0.03;
+    pointer-events: none;
   }
   
-  .availability-notice {
-    margin-top: 1rem;
+  .certification-timeline h4 {
+    margin: 0 0 1.5rem 0;
+    font-size: 1.2rem;
+    color: var(--primary-color);
+    font-weight: 600;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+  
+  .timeline-icon {
+    font-size: 1.4rem;
+  }
+  
+  .timeline-items {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .timeline-item {
+    display: grid;
+    grid-template-columns: 60px 1fr auto;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    background: var(--bg-content);
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+  }
+  
+  .timeline-item:hover {
+    transform: translateX(5px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-color: var(--primary-color);
+  }
+  
+  .timeline-date {
+    font-weight: 700;
     font-size: 1.1rem;
     color: var(--primary-color);
     text-align: center;
   }
   
+  .timeline-cert {
+    font-weight: 600;
+    color: var(--text-primary);
+  }
+  
+  .timeline-status {
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  
+  .timeline-status.in-progress {
+    background: rgba(52, 168, 83, 0.1);
+    color: #34a853;
+    border: 1px solid rgba(52, 168, 83, 0.3);
+  }
+  
+  .timeline-status.planned {
+    background: rgba(66, 133, 244, 0.1);
+    color: #4285f4;
+    border: 1px solid rgba(66, 133, 244, 0.3);
+  }
+  
+  .availability-notice {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background: rgba(52, 168, 83, 0.05);
+    border-radius: 8px;
+    border: 1px solid rgba(52, 168, 83, 0.2);
+    text-align: center;
+  }
+  
+  .availability-notice strong {
+    color: var(--primary-color);
+    font-size: 1.1rem;
+  }
+  
   .hero-links {
     display: flex;
     gap: 1rem;
-    margin-top: 1.5rem;
+    margin-top: 2rem;
     justify-content: center;
   }
   
@@ -246,6 +327,22 @@ layout: default
     .hero-image {
       width: 180px;
       height: 180px;
+    }
+    
+    .certification-timeline {
+      padding: 1.5rem;
+      margin: 1.5rem auto;
+    }
+    
+    .timeline-item {
+      grid-template-columns: 50px 1fr;
+      gap: 0.75rem;
+    }
+    
+    .timeline-status {
+      grid-column: 2;
+      justify-self: start;
+      margin-top: 0.25rem;
     }
     
     .hero-links {
@@ -266,6 +363,11 @@ layout: default
     
     .hero-links {
       gap: 0.5rem;
+    }
+    
+    .hero-links .btn {
+      font-size: 0.9rem;
+      padding: 0.6rem 1rem;
     }
   }
 </style>
@@ -314,4 +416,3 @@ layout: default
     }
   }
 </style>
-
