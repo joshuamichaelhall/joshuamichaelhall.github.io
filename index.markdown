@@ -244,7 +244,16 @@ layout: default
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
+    position: relative;
+  }
+  
+  /* Remove any pseudo-elements that might create lines */
+  .timeline-items::before,
+  .timeline-items::after,
+  .timeline-item::before,
+  .timeline-item::after {
+    display: none !important;
   }
   
   .timeline-item {
@@ -262,6 +271,8 @@ layout: default
     opacity: 1 !important;
     height: auto !important;
     min-height: 60px;
+    position: relative;
+    z-index: 1;
   }
   
   .timeline-item:hover {
@@ -315,12 +326,15 @@ layout: default
   }
   
   .availability-notice {
-    margin-top: 1.5rem;
-    padding: 1rem;
+    margin-top: 2rem;
+    padding: 1.5rem;
     background: rgba(227, 98, 9, 0.1);
     border-radius: 8px;
     border: 1px solid rgba(227, 98, 9, 0.3);
     text-align: center;
+    clear: both;
+    position: relative;
+    z-index: 2;
   }
   
   .availability-notice strong {
