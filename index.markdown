@@ -10,9 +10,10 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Infrastructure Professional → DevOps Engineer</h2>
-        <h3 class="hero-tagline">Building Cloud Expertise | AWS | Terraform | Security+ | Financial Services Focus</h3>
-        <p>Leveraging 15+ years of infrastructure and project management experience while actively building modern cloud and automation skills through hands-on learning and certification.</p>
+        <h2>Infrastructure Automation & Cloud Security Specialist</h2>
+        <h3 class="hero-tagline">AWS | Terraform | Security+ | Project Leadership | Financial Services</h3>
+        <p>Systematic transition to DevOps combining IT infrastructure background with modern cloud expertise. Completing AWS Solutions Architect, Security+, and Terraform certifications while building hands-on portfolio projects.</p>
+        <p><strong>Available for DevOps Engineer roles: December 2025</strong></p>
         <div class="certification-timeline">
           <h4><span class="timeline-icon">🎯</span> Certification Journey 2025</h4>
           <div class="timeline-items">
@@ -38,8 +39,7 @@ layout: default
         </div>
         <div class="hero-links">
           <a href="/portfolio" class="btn primary-btn cta-main-btn">View Portfolio</a>
-          <a href="https://github.com/joshuamichaelhall/devops-180-challenge" class="btn secondary-btn cta-main-btn">Follow My Journey</a>
-          <a href="https://linkedin.com/in/joshuamichaelhall" class="btn outlined-btn cta-main-btn">Connect on LinkedIn</a>
+          <a href="https://linkedin.com/in/joshuamichaelhall" class="btn secondary-btn cta-main-btn">Connect on LinkedIn</a>
         </div>
       </div>
     </div>
