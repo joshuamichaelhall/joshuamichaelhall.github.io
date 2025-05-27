@@ -11,14 +11,14 @@ permalink: /about/
     <img src="/assets/images/headshot.jpg" alt="Joshua Michael Hall" />
   </div>
   <div class="profile-summary">
-    <p>Infrastructure professional with comprehensive background in project leadership, network security, and system administration. Currently completing systematic AWS, Security+, and Terraform certification pathway for financial services DevOps specialization.</p>
+    <p>Transitioning DevOps Engineer with comprehensive IT infrastructure experience and software engineering foundations. Building specialized expertise in AWS cloud architecture, Infrastructure as Code with Terraform, and security automation for financial services environments.</p>
     
     <h3>Professional Foundation:</h3>
     <ul>
       <li>Led 13-person technical team deploying 5,000 systems at Vanderbilt Hospital</li>
-      <li>Built and scaled $250K IT services company serving 40+ clients</li>
-      <li>Completed Launch School software engineering curriculum (95%)</li>
-      <li>Managed multi-million dollar real estate portfolio and operations</li>
+      <li>Built and scaled IT services company serving 40+ clients with team management and operations oversight</li>
+      <li>Completed 95% of Launch School backend curriculum through RB185</li>
+      <li>Founded real estate investment company managing multiple properties with systematic renovation project coordination</li>
     </ul>
     
     <h3>Current Specialization:</h3>
@@ -32,13 +32,14 @@ permalink: /about/
     
     <h3>Certification Progress:</h3>
     <ul>
-      <li>Google Project Management Certificate (Current)</li>
+      <li>Google Project Management Certificate (Completed)</li>
+      <li>CompTIA Project+ (Completed)</li>
+      <li>Google AI Essentials (Completed)</li>
       <li>AWS Solutions Architect Associate (In Progress)</li>
-      <li>CompTIA Security+ SY0-701 Renewal (In Progress)</li>
-      <li>Terraform Associate (Planned)</li>
+      <li>Terraform Associate (In Progress)</li>
     </ul>
     
-    <p class="availability-notice"><strong>Building expertise for DevOps Engineer roles with comprehensive certification portfolio and hands-on AWS experience.</strong></p>
+    <p class="availability-notice"><strong>Seeking mid-level DevOps Engineer role in financial services beginning December 2025 to apply comprehensive infrastructure automation expertise with current AWS, Security+, and Terraform certifications.</strong></p>
   </div>
 </div>
 
@@ -60,7 +61,7 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Project Management Excellence</h3>
-      <p>Google Certified Project Manager with proven track record leading technical teams through complex deployments. Experience managing 13-person teams and delivering enterprise-scale projects on time and budget.</p>
+      <p>Google Certified Project Manager with CompTIA Project+ certification. Proven track record leading technical teams through complex deployments, including managing 13-person teams for 5,000-system hospital deployment at Vanderbilt University Hospital.</p>
     </div>
   </div>
 </div>
@@ -137,12 +138,14 @@ permalink: /about/
     <ul class="cert-list">
       <li><strong>Google Project Management Certificate</strong> - Comprehensive project management methodology and tools</li>
       <li><strong>CompTIA Project+</strong> - IT project management best practices and methodologies</li>
+      <li><strong>Google AI Essentials</strong> - AI fundamentals and practical applications</li>
     </ul>
     
     <h3>Currently Pursuing</h3>
     <ul class="cert-list in-progress">
-      <li><strong>AWS Solutions Architect Associate</strong> - In progress</li>
-      <li><strong>HashiCorp Terraform Associate</strong> - Planned</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - In Progress</li>
+      <li><strong>CompTIA Security+ SY0-701</strong> - Renewal In Progress</li>
+      <li><strong>HashiCorp Terraform Associate</strong> - In Progress</li>
     </ul>
   </div>
   
