@@ -243,19 +243,25 @@ layout: default
   .timeline-items {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
   }
   
   .timeline-item {
-    display: grid;
+    display: grid !important;
     grid-template-columns: 60px 1fr auto;
     align-items: center;
     gap: 1rem;
     padding: 1rem;
-    background: var(--bg-content);
+    background: rgba(3, 102, 214, 0.1) !important;
     border-radius: 8px;
-    border: 1px solid var(--border-color);
+    border: 2px solid var(--border-color) !important;
     transition: all 0.3s ease;
+    margin-bottom: 0.75rem;
+    visibility: visible !important;
+    opacity: 1 !important;
+    height: auto !important;
+    min-height: 60px;
   }
   
   .timeline-item:hover {
@@ -265,43 +271,53 @@ layout: default
   }
   
   .timeline-date {
-    font-weight: 700;
-    font-size: 1.1rem;
-    color: var(--primary-color);
+    font-weight: 700 !important;
+    font-size: 1.1rem !important;
+    color: var(--primary-color) !important;
     text-align: center;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
   }
   
   .timeline-cert {
-    font-weight: 600;
-    color: var(--text-color);
+    font-weight: 600 !important;
+    color: var(--text-color) !important;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
   }
   
   .timeline-status {
     padding: 0.25rem 0.75rem;
     border-radius: 20px;
-    font-size: 0.85rem;
-    font-weight: 600;
+    font-size: 0.85rem !important;
+    font-weight: 600 !important;
     text-transform: uppercase;
+    display: inline-block !important;
+    white-space: nowrap;
+    visibility: visible !important;
+    opacity: 1 !important;
   }
   
   .timeline-status.in-progress {
-    background: rgba(var(--accent-color-rgb), 0.15);
+    background: rgba(227, 98, 9, 0.15);
     color: var(--accent-color);
-    border: 1px solid rgba(var(--accent-color-rgb), 0.4);
+    border: 1px solid rgba(227, 98, 9, 0.4);
   }
   
   .timeline-status.planned {
-    background: rgba(var(--primary-color-rgb), 0.15);
+    background: rgba(3, 102, 214, 0.15);
     color: var(--primary-color);
-    border: 1px solid rgba(var(--primary-color-rgb), 0.4);
+    border: 1px solid rgba(3, 102, 214, 0.4);
   }
   
   .availability-notice {
     margin-top: 1.5rem;
     padding: 1rem;
-    background: rgba(var(--accent-color-rgb), 0.1);
+    background: rgba(227, 98, 9, 0.1);
     border-radius: 8px;
-    border: 1px solid rgba(var(--accent-color-rgb), 0.3);
+    border: 1px solid rgba(227, 98, 9, 0.3);
     text-align: center;
   }
   
