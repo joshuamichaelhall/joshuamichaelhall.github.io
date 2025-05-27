@@ -122,18 +122,6 @@ permalink: /portfolio/
   </div>
 </div>
 
-<div class="content-section linkedin-cta">
-  <h2>Let's Connect and Discuss Your Infrastructure Challenges</h2>
-  <p class="section-intro-text">I'm passionate about solving complex infrastructure and security challenges in financial services. Whether you're looking to modernize your infrastructure, implement DevOps practices, or enhance your security posture, I'd love to connect and share insights.</p>
-  
-  <div class="cta-box">
-    <h3>Connect on LinkedIn</h3>
-    <p>Let's discuss how modern DevOps practices can transform your financial services infrastructure. I share regular insights on AWS, infrastructure automation, and security engineering.</p>
-    <a href="https://www.linkedin.com/in/joshuamichaelhall" class="btn primary-btn linkedin-btn cta-main-btn" target="_blank" rel="noopener noreferrer">
-      <i class="fab fa-linkedin"></i> Connect with Joshua on LinkedIn
-    </a>
-  </div>
-</div>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
