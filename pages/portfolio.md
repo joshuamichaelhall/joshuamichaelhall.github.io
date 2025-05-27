@@ -7,8 +7,8 @@ permalink: /portfolio/
 # Project Portfolio
 
 <div class="content-section with-divider">
-  <h2>Infrastructure Automation Portfolio</h2>
-  <p class="section-intro-text">These projects demonstrate my approach to infrastructure automation and cloud security for financial services. Each project combines proven infrastructure practices with modern technologies, showcasing how I leverage 10+ years of experience to deliver secure, compliant solutions while advancing my cloud architecture expertise.</p>
+  <h2>Infrastructure Projects</h2>
+  <p class="section-intro-text">Portfolio projects demonstrating AWS infrastructure automation, security practices, and DevOps workflows. These learning projects showcase my progression in cloud technologies and infrastructure as code.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
@@ -16,10 +16,10 @@ permalink: /portfolio/
       
       <div class="project-card featured">
         <div class="project-header">
-          <h2>Multi-Environment AWS Infrastructure for Financial Services</h2>
+          <h2>AWS Infrastructure with Terraform</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Implementation Study | Learning Project</div>
+          <div class="project-status">Learning Project</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
@@ -29,161 +29,28 @@ permalink: /portfolio/
             <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
-            <p>Implementation study demonstrating production-grade patterns for multi-environment infrastructure in financial services. This learning project showcases secure, compliant infrastructure design using Terraform and AWS while I advance my cloud architecture expertise.</p>
-            <p><strong>Key Features:</strong></p>
+            <p>Multi-environment AWS infrastructure built with Terraform, focusing on security best practices and compliance controls for financial services environments.</p>
+            <p><strong>Features:</strong></p>
             <ul>
-              <li>Multi-AZ VPC design with public, private, and restricted subnets</li>
-              <li>Advanced network security with NACLs, security groups, and Network Firewall</li>
-              <li>Multi-account architecture with AWS Organizations</li>
-              <li>Remote state management with S3 and DynamoDB locking</li>
-              <li>Security controls for PCI-DSS, SOX, and GDPR compliance</li>
-              <li>Automated compliance scanning and evidence collection</li>
-            </ul>
-            <p><strong>Business Impact:</strong></p>
-            <ul>
-              <li>Environment creation reduced from days to 30 minutes</li>
-              <li>85% reduction in configuration-related incidents</li>
-              <li>70% decrease in time spent on audit preparation</li>
-              <li>Cost savings through environment auto-shutdown</li>
+              <li>Multi-AZ VPC with network segmentation</li>
+              <li>IAM roles and policies with least privilege</li>
+              <li>Terraform modules for reusability</li>
+              <li>Remote state management with S3 and DynamoDB</li>
+              <li>Security controls and compliance scanning</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> AWS (VPC, EC2, RDS, S3, IAM, Security Hub), Terraform, AWS Config, CloudTrail, CloudWatch
+              <strong>Technologies:</strong> AWS (VPC, EC2, RDS, S3, IAM), Terraform, AWS Config, CloudTrail
             </p>
           </div>
         </div>
       </div>
-      
-      <div class="project-card">
-        <div class="project-header">
-          <h2>Containerized Microservices Platform</h2>
-        </div>
-        <div class="project-status-line">
-          <div class="project-status">Proof of Concept | Architecture Study</div>
-        </div>
-        <div class="project-content-section">
-          <div class="project-image-section">
-            <div class="project-image">
-              <img src="/assets/images/kubernetes.png" alt="Container Platform" />
-            </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-container-platform" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
-          </div>
-          <div class="project-description">
-            <p>Architecture study exploring containerized microservices patterns for financial services applications. This proof of concept demonstrates security, compliance, and observability approaches while I develop expertise in container orchestration and Kubernetes.</p>
-            <p><strong>Key Features:</strong></p>
-            <ul>
-              <li>Production-grade Kubernetes cluster with multi-AZ deployment</li>
-              <li>Advanced RBAC configuration with least privilege implementation</li>
-              <li>Network policies for service-to-service communication control</li>
-              <li>Comprehensive observability stack with financial services dashboards</li>
-              <li>Container vulnerability scanning and runtime security</li>
-              <li>GitOps-based deployment with security controls</li>
-            </ul>
-            <p><strong>Business Impact:</strong></p>
-            <ul>
-              <li>Deployment velocity: Release cycles reduced from weeks to hours</li>
-              <li>Resource efficiency: Infrastructure utilization improved by 40-60%</li>
-              <li>Operational resilience: 99.95% service availability</li>
-              <li>Compliance readiness: Built-in controls for financial regulations</li>
-            </ul>
-            <p class="technologies">
-              <strong>Technologies:</strong> Kubernetes, Istio, Prometheus, Grafana, ELK Stack, Trivy, Falco, Vault, ArgoCD
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="timeline-section">
-      <h3>Security & Automation Projects</h3>
-      
-      <div class="project-card">
-        <div class="project-header">
-          <h2>Security Automation Suite for Financial Services</h2>
-        </div>
-        <div class="project-status-line">
-          <div class="project-status in-development">Planned Implementation | Research Phase</div>
-        </div>
-        <div class="project-content-section">
-          <div class="project-image-section">
-            <div class="project-image">
-              <img src="/assets/images/security-automation.png" alt="Security Automation" />
-            </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-security-automation" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
-          </div>
-          <div class="project-description">
-            <p>Planned implementation for automated security and compliance toolchain targeting financial services requirements. This research project will explore continuous compliance monitoring and security validation approaches as I develop cloud security expertise.</p>
-            <p><strong>Key Features:</strong></p>
-            <ul>
-              <li>Infrastructure security scanning with tfsec, checkov, and AWS Security Hub</li>
-              <li>Container security with image scanning and runtime protection</li>
-              <li>Automated controls for SOX, PCI-DSS, GDPR, and FINRA</li>
-              <li>Compliance evidence collection and storage</li>
-              <li>Secret rotation automation with HashiCorp Vault</li>
-              <li>CI/CD security integration at all pipeline stages</li>
-            </ul>
-            <p><strong>Business Impact:</strong></p>
-            <ul>
-              <li>Audit preparation time reduced from weeks to hours</li>
-              <li>Security vulnerabilities addressed before production deployment</li>
-              <li>90% reduction in time to implement security patches</li>
-              <li>Automated evidence collection for regulatory audits</li>
-            </ul>
-            <p class="technologies">
-              <strong>Technologies:</strong> AWS Security Hub, GuardDuty, Config, Terraform, Docker, Kubernetes, Trivy, OPA
-            </p>
-          </div>
-        </div>
-      </div>
-      
-      <div class="project-card">
-        <div class="project-header">
-          <h2>DevOps Pipeline Implementation for Financial Applications</h2>
-        </div>
-        <div class="project-status-line">
-          <div class="project-status">Implementation Study | Learning Project</div>
-        </div>
-        <div class="project-content-section">
-          <div class="project-image-section">
-            <div class="project-image">
-              <img src="/assets/images/cicd-pipeline.png" alt="DevOps Pipeline" />
-            </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
-          </div>
-          <div class="project-description">
-            <p>A robust CI/CD pipeline designed specifically for financial services applications, providing comprehensive security scanning, compliance validation, and automated deployment. This pipeline transitions code from development to production while enforcing security and compliance requirements at every stage.</p>
-            <p><strong>Key Features:</strong></p>
-            <ul>
-              <li>Multi-environment deployment pipeline (dev, test, staging, production)</li>
-              <li>Infrastructure validation with Terraform</li>
-              <li>Automated security scanning for code and dependencies</li>
-              <li>Compliance checks for financial regulations</li>
-              <li>Approval workflows with separation of duties</li>
-              <li>Deployment metrics and audit trail creation</li>
-            </ul>
-            <p><strong>Business Impact:</strong></p>
-            <ul>
-              <li>Release frequency increased by 300%</li>
-              <li>Change failure rate reduced by 60%</li>
-              <li>Lead time for changes reduced from weeks to days</li>
-              <li>Comprehensive audit trail for all deployments</li>
-            </ul>
-            <p class="technologies">
-              <strong>Technologies:</strong> GitHub Actions, AWS CodePipeline, SonarQube, OWASP dependency scanning, Terraform, AWS CloudFormation Guard
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="timeline-section">
-      <h3>Professional Development Tools</h3>
       
       <div class="project-card">
         <div class="project-header">
           <h2>Enhanced Terminal Environment</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Advanced Phase | Ongoing Development</div>
+          <div class="project-status">Active Development</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
@@ -193,144 +60,63 @@ permalink: /portfolio/
             <a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
-            <p>Customized developer terminal environment with integrated tooling for zsh, tmux, and neovim focused on DevOps workflow optimization for financial services infrastructure management.</p>
-            <p><strong>Key Features:</strong></p>
+            <p>Customized developer terminal environment optimized for DevOps workflows with integrated tooling for infrastructure management.</p>
+            <p><strong>Features:</strong></p>
             <ul>
-              <li>Optimized terminal configuration for infrastructure management</li>
-              <li>Neovim setup with DevOps-specific plugins</li>
-              <li>Tmux session management for infrastructure workflows</li>
-              <li>Custom CLI tools for AWS and Terraform operations</li>
-              <li>Automated setup scripts for consistent environments</li>
-              <li>Terminal-based workflow documentation</li>
+              <li>Neovim configuration with DevOps plugins</li>
+              <li>Tmux session management</li>
+              <li>Custom CLI tools for AWS and Terraform</li>
+              <li>Automated setup scripts</li>
+              <li>Terminal-based workflow optimization</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> Shell, Neovim, Tmux, Git, Zsh, AWS CLI, Terraform CLI
+              <strong>Technologies:</strong> Neovim, Tmux, Zsh, AWS CLI, Terraform CLI
             </p>
           </div>
         </div>
       </div>
     </div>
+    
   </div>
 </div>
 
-<div class="content-section with-divider">
-  <h2>Financial Services Business Impact</h2>
-  
-  <p class="section-intro-text">My portfolio projects are designed to create specific business value for financial services organizations across several key dimensions:</p>
+<div class="content-section">
+  <h2>Technical Skills</h2>
   
   <div class="value-areas-grid">
     <div class="value-area-item">
-      <h3>Cost Optimization</h3>
-      <p>Infrastructure right-sizing, environment auto-shutdown, and resource optimization that typically reduce cloud costs by 30-40% while maintaining performance requirements.</p>
-    </div>
-    
-    <div class="value-area-item">
-      <h3>Security Posture</h3>
-      <p>Automated security validation that identifies vulnerabilities before production deployment, with quantifiable metrics showing security improvement over time.</p>
-    </div>
-    
-    <div class="value-area-item">
-      <h3>Compliance Automation</h3>
-      <p>Reducing audit preparation time from weeks to hours through continuous compliance validation and automated evidence collection for SOX, PCI-DSS, and GDPR.</p>
-    </div>
-    
-    <div class="value-area-item">
-      <h3>Operational Efficiency</h3>
-      <p>Reducing infrastructure deployment time from days to minutes, with 85% fewer configuration-related incidents through infrastructure as code practices.</p>
-    </div>
-    
-    <div class="value-area-item">
-      <h3>Deployment Velocity</h3>
-      <p>Increasing release frequency by 300% while reducing change failure rates by 60% through automated pipelines with integrated security and compliance controls.</p>
-    </div>
-    
-    <div class="value-area-item">
-      <h3>System Reliability</h3>
-      <p>Achieving 99.95%+ service availability through multi-AZ deployments, automated recovery mechanisms, and comprehensive monitoring and alerting systems.</p>
-    </div>
-  </div>
-</div>
-
-<div class="content-section with-divider">
-  <h2>Technical Skills Demonstrated</h2>
-  
-  <div class="value-areas-grid">
-    <div class="value-area-item">
-      <h3>AWS Specialization</h3>
+      <h3>Cloud Platforms</h3>
       <ul>
-        <li>Multi-account architecture with AWS Organizations</li>
-        <li>VPC design with network segmentation</li>
-        <li>IAM with least privilege implementation</li>
-        <li>Security Hub and GuardDuty integration</li>
-        <li>Multi-AZ and multi-region implementation</li>
-        <li>Financial services compliance controls</li>
+        <li>AWS (VPC, EC2, RDS, S3, IAM)</li>
+        <li>Multi-account architecture</li>
+        <li>Security and compliance controls</li>
       </ul>
     </div>
     
     <div class="value-area-item">
       <h3>Infrastructure as Code</h3>
       <ul>
-        <li>Terraform module development and reuse</li>
-        <li>Remote state management with locking</li>
-        <li>Infrastructure testing and validation</li>
-        <li>Security as code implementation</li>
-        <li>Policy as code for governance</li>
-        <li>CI/CD for infrastructure deployment</li>
+        <li>Terraform modules and state management</li>
+        <li>Infrastructure validation and testing</li>
+        <li>Security as code practices</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Container Orchestration</h3>
+      <h3>Development Tools</h3>
       <ul>
-        <li>Kubernetes cluster architecture</li>
-        <li>Kubernetes RBAC and security policies</li>
-        <li>Container runtime security</li>
-        <li>Service mesh implementation</li>
-        <li>GitOps deployment workflow</li>
-        <li>Stateful service management</li>
+        <li>Terminal-based workflows</li>
+        <li>Git and version control</li>
+        <li>CI/CD pipeline development</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Security Engineering</h3>
+      <h3>Security & Compliance</h3>
       <ul>
-        <li>Defense-in-depth architecture</li>
+        <li>Network security design</li>
         <li>Compliance automation</li>
-        <li>Secrets management and rotation</li>
-        <li>Vulnerability management</li>
-        <li>Automated security testing</li>
-        <li>Audit logging and monitoring</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<div class="content-section">
-  <h2>Future Development Roadmap</h2>
-  
-  <div class="portfolio-timeline">
-    <div class="timeline-section">
-      <h3>Coming Soon (6-12 Months)</h3>
-      <ul class="roadmap-list">
-        <li><strong>Kubernetes Platform Implementation:</strong> Production-grade Kubernetes with service mesh, GitOps deployment, and financial services security controls</li>
-        <li><strong>Enterprise Developer Platform:</strong> Internal developer portal with self-service capabilities, compliance guardrails, and integrated security controls</li>
-        <li><strong>Container Security Platform:</strong> Comprehensive container security with vulnerability scanning, runtime protection, and compliance validation</li>
-      </ul>
-    </div>
-    
-    <div class="timeline-section">
-      <h3>Medium-Term Projects (12-24 Months)</h3>
-      <ul class="roadmap-list">
-        <li><strong>Business Impact Documentation System:</strong> Metrics tracking, ROI calculation, and executive dashboards for DevOps value demonstration</li>
-        <li><strong>Advanced Financial Services Security:</strong> Zero-trust implementation, automated compliance reporting, and financial services risk management</li>
-      </ul>
-    </div>
-    
-    <div class="timeline-section">
-      <h3>Long-Term Vision (24+ Months)</h3>
-      <ul class="roadmap-list">
-        <li><strong>Enterprise Transformation Framework:</strong> Cross-organizational DevOps enablement for financial institutions with multi-team platform capabilities</li>
-        <li><strong>Technology Strategy Blueprint:</strong> Strategic roadmapping, executive tools, and business-technology alignment frameworks</li>
+        <li>Security scanning and monitoring</li>
       </ul>
     </div>
   </div>
