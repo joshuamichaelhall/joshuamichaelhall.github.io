@@ -29,7 +29,7 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Security & Compliance</h3>
-      <p>Applying 10+ years of network security experience to cloud environments, implementing automated security controls and compliance validation for regulated industries.</p>
+      <p>Leveraging 4 years of hands-on network and security experience with proven expertise in enterprise deployments, now focusing on automated security controls and compliance validation for cloud environments in regulated industries.</p>
     </div>
     <div class="expertise-item">
       <h3>Project Leadership</h3>
