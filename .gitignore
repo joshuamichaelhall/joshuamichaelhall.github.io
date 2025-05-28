@@ -48,3 +48,7 @@ desktop.ini
 .*.swo
 
 **/.claude/settings.local.json
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
