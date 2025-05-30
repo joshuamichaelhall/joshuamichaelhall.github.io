@@ -51,9 +51,9 @@ permalink: /about/
     
     <h3>Strategic Certification Path</h3>
     <ul class="cert-list in-progress">
-      <li><strong>AWS Solutions Architect Associate</strong> - In Progress</li>
-      <li><strong>HashiCorp Terraform Associate</strong> - Next</li>
-      <li><strong>AWS DevOps Professional</strong> - Planned</li>
+      <li><strong>CompTIA Security+</strong> - In Progress</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - Next</li>
+      <li><strong>HashiCorp Terraform Associate</strong> - Planned</li>
     </ul>
   </div>
   

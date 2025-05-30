@@ -11,24 +11,24 @@ layout: default
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
         <h2>Infrastructure Automation & Cloud Security Specialist</h2>
-        <h3 class="hero-tagline">AWS | Terraform | DevOps | Financial Services Focus</h3>
+        <h3 class="hero-tagline">Security+ | AWS | Terraform | Financial Services Focus</h3>
         <p>Systematic transition to DevOps combining IT infrastructure background with modern cloud expertise. Following a strategic certification path starting with AWS Solutions Architect and Terraform Associate while building hands-on portfolio projects for financial services.</p>
         <div class="certification-timeline">
           <h4><span class="timeline-icon">🎯</span> Strategic Certification Path</h4>
           <div class="timeline-items">
             <div class="timeline-item">
-              <span class="timeline-date">Phase 1</span>
-              <span class="timeline-cert">AWS Solutions Architect Associate</span>
+              <span class="timeline-date">Foundation</span>
+              <span class="timeline-cert">CompTIA Security+</span>
               <span class="timeline-status in-progress">In Progress</span>
             </div>
             <div class="timeline-item">
-              <span class="timeline-date">Phase 1</span>
-              <span class="timeline-cert">HashiCorp Terraform Associate</span>
+              <span class="timeline-date">Cloud</span>
+              <span class="timeline-cert">AWS Solutions Architect Associate</span>
               <span class="timeline-status planned">Next</span>
             </div>
             <div class="timeline-item">
-              <span class="timeline-date">Phase 2</span>
-              <span class="timeline-cert">AWS DevOps Professional</span>
+              <span class="timeline-date">IaC</span>
+              <span class="timeline-cert">HashiCorp Terraform Associate</span>
               <span class="timeline-status planned">Planned</span>
             </div>
           </div>
