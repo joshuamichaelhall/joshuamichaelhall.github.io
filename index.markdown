@@ -11,29 +11,29 @@ layout: default
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
         <h2>Infrastructure Automation & Cloud Security Specialist</h2>
-        <h3 class="hero-tagline">AWS | Terraform | Security+ | Project Leadership | Financial Services</h3>
-        <p>Systematic transition to DevOps combining IT infrastructure background with modern cloud expertise. Completing AWS Solutions Architect, Security+, and Terraform certifications while building hands-on portfolio projects.</p>
+        <h3 class="hero-tagline">AWS | Terraform | DevOps | Financial Services Focus</h3>
+        <p>Systematic transition to DevOps combining IT infrastructure background with modern cloud expertise. Following a strategic certification path starting with AWS Solutions Architect and Terraform Associate while building hands-on portfolio projects for financial services.</p>
         <div class="certification-timeline">
-          <h4><span class="timeline-icon">🎯</span> Certification Journey 2025</h4>
+          <h4><span class="timeline-icon">🎯</span> Strategic Certification Path</h4>
           <div class="timeline-items">
             <div class="timeline-item">
-              <span class="timeline-date">AUG</span>
+              <span class="timeline-date">Phase 1</span>
               <span class="timeline-cert">AWS Solutions Architect Associate</span>
               <span class="timeline-status in-progress">In Progress</span>
             </div>
             <div class="timeline-item">
-              <span class="timeline-date">OCT</span>
-              <span class="timeline-cert">CompTIA Security+ SY0-701</span>
-              <span class="timeline-status planned">Renewal</span>
+              <span class="timeline-date">Phase 1</span>
+              <span class="timeline-cert">HashiCorp Terraform Associate</span>
+              <span class="timeline-status planned">Next</span>
             </div>
             <div class="timeline-item">
-              <span class="timeline-date">NOV</span>
-              <span class="timeline-cert">HashiCorp Terraform Associate</span>
+              <span class="timeline-date">Phase 2</span>
+              <span class="timeline-cert">AWS DevOps Professional</span>
               <span class="timeline-status planned">Planned</span>
             </div>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Targeting DevOps roles starting December 2025</strong>
+            <strong>🚀 Building expertise for senior DevOps roles in financial services</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -49,20 +49,20 @@ layout: default
   <h2>Technical Focus</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
+      <h3>Cloud Infrastructure & Security</h3>
+      <p>AWS specialization for financial services with focus on security, compliance, and high availability architectures.</p>
+    </div>
+    <div class="tech-focus-item">
       <h3>Infrastructure as Code</h3>
-      <p>Building automated, reproducible infrastructure with Terraform and AWS CloudFormation for financial environments.</p>
+      <p>Building automated, reproducible infrastructure with Terraform and AWS CloudFormation for regulated environments.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Containerization & Orchestration</h3>
-      <p>Docker containerization and Kubernetes orchestration with focus on security and high availability.</p>
+      <h3>CI/CD & Deployment Automation</h3>
+      <p>End-to-end pipeline automation with GitHub Actions, Jenkins, and comprehensive testing strategies.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>CI/CD Automation</h3>
-      <p>Continuous integration and delivery pipelines with GitHub Actions, Jenkins, and automated testing.</p>
-    </div>
-    <div class="tech-focus-item">
-      <h3>Terminal-Centric Workflow</h3>
-      <p>Optimized development environment using Neovim, tmux, and CLI tools for maximum productivity.</p>
+      <h3>Container Orchestration</h3>
+      <p>Docker containerization and Kubernetes orchestration with focus on security and scalability.</p>
     </div>
   </div>
 </div>

@@ -13,7 +13,7 @@ permalink: /about/
   
   <p>Currently, I'm focused on building specialized expertise in AWS cloud architecture, Infrastructure as Code with Terraform, and security automation specifically for financial services environments. I'm pursuing AWS Solutions Architect Associate and Terraform Associate certifications while developing portfolio projects that demonstrate secure, compliant infrastructure solutions.</p>
   
-  <p><strong>I'm seeking mid-level DevOps Engineer roles in financial services beginning December 2025, bringing together infrastructure automation expertise with comprehensive AWS, Security+, and Terraform certifications.</strong></p>
+  <p><strong>I'm actively building expertise for DevOps Engineer roles in financial services, following a strategic certification path combining AWS, Terraform, and DevOps specializations with hands-on portfolio projects.</strong></p>
 </div>
 
 <div class="content-section with-divider">
@@ -49,11 +49,11 @@ permalink: /about/
       <li><strong>Google AI Essentials</strong> - AI fundamentals and practical applications</li>
     </ul>
     
-    <h3>Currently Pursuing</h3>
+    <h3>Strategic Certification Path</h3>
     <ul class="cert-list in-progress">
       <li><strong>AWS Solutions Architect Associate</strong> - In Progress</li>
-      <li><strong>CompTIA Security+ SY0-701</strong> - Renewal In Progress</li>
-      <li><strong>HashiCorp Terraform Associate</strong> - In Progress</li>
+      <li><strong>HashiCorp Terraform Associate</strong> - Next</li>
+      <li><strong>AWS DevOps Professional</strong> - Planned</li>
     </ul>
   </div>
   
