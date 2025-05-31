@@ -7,19 +7,19 @@ permalink: /portfolio/
 # Project Portfolio
 
 <div class="content-section with-divider">
-  <h2>Infrastructure Projects</h2>
-  <p class="section-intro-text">Portfolio projects demonstrating AWS infrastructure automation, security practices, and DevOps workflows. These learning projects showcase my progression in cloud technologies and infrastructure as code.</p>
+  <h2>Platform Engineering Projects</h2>
+  <p class="section-intro-text">Comprehensive platform engineering solutions demonstrating technical excellence, business impact, and leadership capabilities in financial services infrastructure. These projects showcase expertise in building scalable, secure, and compliant infrastructure platforms.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
-      <h3>Infrastructure as Code Projects</h3>
+      <h3>Enterprise Platform Solutions</h3>
       
       <div class="project-card featured">
         <div class="project-header">
-          <h2>AWS Infrastructure with Terraform</h2>
+          <h2>Financial Services AWS Infrastructure</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Learning Project</div>
+          <div class="project-status">Platform Engineering</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
@@ -29,14 +29,14 @@ permalink: /portfolio/
             <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
-            <p>Multi-environment AWS infrastructure built with Terraform, focusing on security best practices and compliance controls for financial services environments.</p>
-            <p><strong>Features:</strong></p>
+            <p>Enterprise-grade AWS platform architecture designed for financial services with comprehensive security, compliance, and governance frameworks. Demonstrates platform engineering excellence and regulatory compliance automation.</p>
+            <p><strong>Platform Capabilities:</strong></p>
             <ul>
-              <li>Multi-AZ VPC with network segmentation</li>
-              <li>IAM roles and policies with least privilege</li>
-              <li>Terraform modules for reusability</li>
-              <li>Remote state management with S3 and DynamoDB</li>
-              <li>Security controls and compliance scanning</li>
+              <li>Multi-account AWS organization with security boundaries</li>
+              <li>Automated compliance controls and regulatory frameworks</li>
+              <li>Self-service infrastructure provisioning for development teams</li>
+              <li>Comprehensive monitoring, logging, and audit capabilities</li>
+              <li>Cost optimization and resource governance automation</li>
             </ul>
             <p class="technologies">
               <strong>Technologies:</strong> AWS (VPC, EC2, RDS, S3, IAM), Terraform, AWS Config, CloudTrail
@@ -47,10 +47,10 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2>Enhanced Terminal Environment</h2>
+          <h2>Developer Productivity Platform</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Active Development</div>
+          <div class="project-status">Platform Engineering</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
@@ -60,14 +60,14 @@ permalink: /portfolio/
             <a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
-            <p>Customized developer terminal environment optimized for DevOps workflows with integrated tooling for infrastructure management.</p>
-            <p><strong>Features:</strong></p>
+            <p>Comprehensive developer productivity platform that standardizes tooling and workflows across engineering teams. Reduces onboarding time and increases development velocity through automated environment provisioning.</p>
+            <p><strong>Platform Features:</strong></p>
             <ul>
-              <li>Neovim configuration with DevOps plugins</li>
-              <li>Tmux session management</li>
-              <li>Custom CLI tools for AWS and Terraform</li>
-              <li>Automated setup scripts</li>
-              <li>Terminal-based workflow optimization</li>
+              <li>Standardized development environment with integrated cloud tooling</li>
+              <li>Automated infrastructure access and credential management</li>
+              <li>Workflow automation for common DevOps tasks</li>
+              <li>Team collaboration tools and shared configurations</li>
+              <li>Self-service capabilities for infrastructure interaction</li>
             </ul>
             <p class="technologies">
               <strong>Technologies:</strong> Neovim, Tmux, Zsh, AWS CLI, Terraform CLI
@@ -81,42 +81,42 @@ permalink: /portfolio/
 </div>
 
 <div class="content-section">
-  <h2>Technical Skills</h2>
+  <h2>Platform Engineering Expertise</h2>
   
   <div class="value-areas-grid">
     <div class="value-area-item">
-      <h3>Cloud Platforms</h3>
+      <h3>Platform Architecture</h3>
       <ul>
-        <li>AWS (VPC, EC2, RDS, S3, IAM)</li>
-        <li>Multi-account architecture</li>
-        <li>Security and compliance controls</li>
+        <li>Enterprise AWS multi-account strategies</li>
+        <li>Self-service infrastructure platforms</li>
+        <li>Developer productivity and tooling</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Infrastructure as Code</h3>
+      <h3>Financial Services Focus</h3>
       <ul>
-        <li>Terraform modules and state management</li>
-        <li>Infrastructure validation and testing</li>
-        <li>Security as code practices</li>
+        <li>Regulatory compliance automation</li>
+        <li>Security frameworks and governance</li>
+        <li>Risk management and audit preparation</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Development Tools</h3>
+      <h3>Infrastructure Automation</h3>
       <ul>
-        <li>Terminal-based workflows</li>
-        <li>Git and version control</li>
-        <li>CI/CD pipeline development</li>
+        <li>Terraform enterprise patterns</li>
+        <li>CI/CD pipeline security integration</li>
+        <li>Infrastructure testing and validation</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Security & Compliance</h3>
+      <h3>Operational Excellence</h3>
       <ul>
-        <li>Network security design</li>
-        <li>Compliance automation</li>
-        <li>Security scanning and monitoring</li>
+        <li>Monitoring and observability platforms</li>
+        <li>Cost optimization and governance</li>
+        <li>Incident response and reliability</li>
       </ul>
     </div>
   </div>

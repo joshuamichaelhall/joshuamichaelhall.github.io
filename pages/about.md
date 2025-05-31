@@ -7,33 +7,35 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>I'm a transitioning DevOps Engineer with comprehensive IT infrastructure experience and software engineering foundations. My career combines proven leadership in technical operations with emerging expertise in modern cloud technologies, positioning me uniquely for DevOps roles in regulated industries.</p>
+  <p>Platform engineering leader combining deep technical expertise with proven executive management experience, specializing in infrastructure automation and engineering transformation for financial services organizations. Focused on building scalable developer platforms while developing strategic technology leadership capabilities.</p>
   
-  <p>My professional journey includes leading a 13-person technical team through a 5,000-system deployment at Vanderbilt University Hospital, building and scaling an IT services company serving 40+ clients, and completing 95% of Launch School's rigorous backend curriculum. This diverse background provides a solid foundation for understanding both the operational challenges and technical solutions that define effective DevOps practices.</p>
+  <p><strong>Executive Leadership Background:</strong> Founded and scaled technology services company to significant annual revenue with full P&L responsibility. Led enterprise-scale technical deployments including 13-person teams managing 5,000+ system implementations. Demonstrated success in cross-functional leadership, team building, and strategic business development across multiple high-growth organizations.</p>
   
-  <p>Currently, I'm focused on building specialized expertise in AWS cloud architecture, Infrastructure as Code with Terraform, and security automation specifically for financial services environments. I'm pursuing AWS Solutions Architect Associate and Terraform Associate certifications while developing portfolio projects that demonstrate secure, compliant infrastructure solutions.</p>
+  <p><strong>Platform Engineering Expertise:</strong> Building comprehensive AWS cloud infrastructure solutions with emphasis on security, compliance, and automation. Developing Infrastructure as Code capabilities with Terraform for enterprise-scale deployments. Strong foundation in software development, CI/CD automation, and container orchestration with focus on developer productivity and operational excellence.</p>
   
-  <p><strong>I'm actively building expertise for DevOps Engineer roles in financial services, following a strategic certification path combining AWS, Terraform, and DevOps specializations with hands-on portfolio projects.</strong></p>
+  <p><strong>Strategic Technology Leadership:</strong> Combining technical excellence with business acumen to drive technology initiatives that deliver measurable organizational impact. Experienced in translating complex technical concepts into strategic business value and building engineering cultures focused on innovation and continuous improvement.</p>
+  
+  <p><strong>Career Focus:</strong> Director-level engineering leadership roles in financial services, leveraging platform engineering expertise and proven management capabilities to drive large-scale technology transformation and organizational growth.</p>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Technical Focus</h2>
+  <h2>Platform Engineering & Leadership Expertise</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>AWS Cloud Infrastructure</h3>
-      <p>Building expertise in AWS services for financial services environments, focusing on multi-account architecture, security controls, and compliance requirements.</p>
+      <h3>Platform Engineering Leadership</h3>
+      <p>Designing and implementing developer productivity platforms with self-service infrastructure capabilities. Focus on reducing deployment friction and enabling engineering teams to deliver value faster through automated tooling and standardized processes.</p>
     </div>
     <div class="expertise-item">
-      <h3>Infrastructure as Code</h3>
-      <p>Developing proficiency with Terraform for automated, reproducible infrastructure with emphasis on module development and state management.</p>
+      <h3>Financial Services Infrastructure</h3>
+      <p>AWS cloud architecture specializing in security, compliance, and regulatory requirements for financial institutions. Multi-account strategies, automated governance, and enterprise-scale deployment patterns.</p>
     </div>
     <div class="expertise-item">
-      <h3>Security & Compliance</h3>
-      <p>Leveraging 4 years of hands-on network and security experience with proven expertise in enterprise deployments, now focusing on automated security controls and compliance validation for cloud environments in regulated industries.</p>
+      <h3>DevOps Transformation</h3>
+      <p>Leading organizational change initiatives to implement modern DevOps practices, CI/CD automation, and infrastructure as code. Proven experience managing technical teams through complex transformation projects.</p>
     </div>
     <div class="expertise-item">
-      <h3>Project Leadership</h3>
-      <p>Google Certified Project Manager with CompTIA Project+ certification. Proven experience leading technical teams through complex deployments, including 13-person teams for enterprise-scale projects.</p>
+      <h3>Executive Technology Strategy</h3>
+      <p>Translating technical capabilities into quantifiable business value. Experience with P&L management, strategic planning, and building technology roadmaps aligned with organizational objectives and growth strategies.</p>
     </div>
   </div>
 </div>
@@ -51,65 +53,65 @@ permalink: /about/
     
     <h3>Strategic Certification Path</h3>
     <ul class="cert-list in-progress">
-      <li><strong>CompTIA Security+</strong> - In Progress</li>
-      <li><strong>AWS Solutions Architect Associate</strong> - Next</li>
-      <li><strong>HashiCorp Terraform Associate</strong> - Planned</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - Foundation cloud architecture</li>
+      <li><strong>CompTIA Security+ Renewal (SY0-701)</strong> - Security frameworks and compliance</li>
+      <li><strong>HashiCorp Terraform Associate</strong> - Infrastructure as Code mastery</li>
     </ul>
   </div>
   
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Cloud Specialization<br><small>(Current Focus)</small></h3>
+      <h3>Technical Foundation<br><small>(Current Focus)</small></h3>
       <p>AWS Solutions Architect Associate certification<br>
-      Terraform Associate certification<br>
-      Infrastructure as Code for multi-environment deployment<br>
-      Security automation for financial services compliance<br>
-      Docker containerization with security focus</p>
+      Terraform Associate for Infrastructure as Code<br>
+      Multi-environment deployment automation<br>
+      Security controls for financial services<br>
+      Container orchestration and platform design</p>
     </div>
 
     <div class="expertise-item">
-      <h3>Senior Infrastructure Engineer<br><small>(Near-term Goal)</small></h3>
+      <h3>Platform Engineering Excellence<br><small>(Advanced Development)</small></h3>
       <p>AWS DevOps Professional certification<br>
       Kubernetes Administrator (CKA) certification<br>
-      CI/CD pipeline with security integration<br>
-      Financial services compliance automation<br>
-      Advanced monitoring and observability</p>
+      Developer productivity platform implementation<br>
+      Enterprise CI/CD with security integration<br>
+      Compliance automation and monitoring</p>
     </div>
 
     <div class="expertise-item">
-      <h3>Principal/Staff Engineer<br><small>(Long-term Vision)</small></h3>
-      <p>AWS Solutions Architect Professional certification<br>
-      AWS Security Specialty certification<br>
-      Platform engineering and internal developer platforms<br>
-      Business impact measurement for technical initiatives<br>
-      Technical leadership and strategic planning</p>
+      <h3>Director-Level Leadership<br><small>(Strategic Vision)</small></h3>
+      <p>AWS Security Specialty certification<br>
+      Enterprise architecture and strategic planning<br>
+      Technology roadmap development and execution<br>
+      Large-scale engineering team leadership<br>
+      Business impact measurement and optimization</p>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Business Impact Focus</h2>
-  <p>My approach emphasizes demonstrating business value through:</p>
+  <h2>Strategic Business Value Focus</h2>
+  <p>Delivering measurable organizational impact through strategic technology leadership:</p>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Cost Optimization</h3>
-      <p>Infrastructure right-sizing, resource optimization, and automated cost controls</p>
+      <h3>Developer Productivity</h3>
+      <p>Platform engineering solutions that reduce deployment time and enable engineering teams to focus on business value creation</p>
     </div>
     <div class="expertise-item">
-      <h3>Security Enhancement</h3>
-      <p>Quantifiable security posture improvements and risk reduction metrics</p>
+      <h3>Risk Reduction</h3>
+      <p>Automated security controls and compliance frameworks that reduce operational risk and enhance regulatory posture</p>
     </div>
     <div class="expertise-item">
-      <h3>Operational Efficiency</h3>
-      <p>Automation that reduces manual effort and improves mean time to recovery</p>
+      <h3>Operational Excellence</h3>
+      <p>Infrastructure automation and monitoring that improves system reliability while reducing operational overhead</p>
     </div>
     <div class="expertise-item">
-      <h3>Compliance Automation</h3>
-      <p>Reduced audit preparation time through automated controls and evidence collection</p>
+      <h3>Strategic Cost Management</h3>
+      <p>Technology optimization and resource allocation strategies that deliver sustainable cost reduction without compromising capability</p>
     </div>
     <div class="expertise-item">
-      <h3>Innovation Enablement</h3>
-      <p>Accelerated time-to-market for new products through platform capabilities</p>
+      <h3>Innovation Pipeline</h3>
+      <p>Platform capabilities that enable rapid experimentation and accelerate time-to-market for new business initiatives</p>
     </div>
   </div>
 </div>
