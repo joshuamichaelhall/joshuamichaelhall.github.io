@@ -10,30 +10,30 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Infrastructure Automation & Cloud Security Specialist</h2>
-        <h3 class="hero-tagline">Security+ | AWS | Terraform | Financial Services Focus</h3>
-        <p>Systematic transition to DevOps combining IT infrastructure background with modern cloud expertise. Following a strategic certification path starting with AWS Solutions Architect and Terraform Associate while building hands-on portfolio projects for financial services.</p>
+        <h2>Platform Engineering Leader | Cloud Infrastructure & Executive Leadership</h2>
+        <h3 class="hero-tagline">Director-Level Engineering Leadership | AWS | Security+ | Financial Services</h3>
+        <p>Engineering leader combining deep technical expertise with proven management experience, specializing in platform engineering and DevOps transformation for financial services. Building scalable infrastructure solutions while developing executive leadership capabilities for Director-level roles.</p>
         <div class="certification-timeline">
-          <h4><span class="timeline-icon">🎯</span> Strategic Certification Path</h4>
+          <h4><span class="timeline-icon">🎯</span> Strategic Technical Excellence Path</h4>
           <div class="timeline-items">
             <div class="timeline-item">
               <span class="timeline-date">Foundation</span>
-              <span class="timeline-cert">CompTIA Security+</span>
-              <span class="timeline-status in-progress">In Progress</span>
-            </div>
-            <div class="timeline-item">
-              <span class="timeline-date">Cloud</span>
               <span class="timeline-cert">AWS Solutions Architect Associate</span>
-              <span class="timeline-status planned">Next</span>
+              <span class="timeline-status planned">Cloud Architecture</span>
             </div>
             <div class="timeline-item">
-              <span class="timeline-date">IaC</span>
+              <span class="timeline-date">Specialization</span>
               <span class="timeline-cert">HashiCorp Terraform Associate</span>
-              <span class="timeline-status planned">Planned</span>
+              <span class="timeline-status planned">Infrastructure as Code</span>
+            </div>
+            <div class="timeline-item">
+              <span class="timeline-date">Advanced</span>
+              <span class="timeline-cert">AWS DevOps Professional + Security</span>
+              <span class="timeline-status planned">Platform Engineering</span>
             </div>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Building expertise for senior DevOps roles in financial services</strong>
+            <strong>🚀 Building platform engineering expertise for Director-level engineering leadership</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -45,31 +45,31 @@ layout: default
   </div>
 </div>
 
-<div class="home-section with-divider" id="technical-focus">
-  <h2>Technical Focus</h2>
+<div class="home-section with-divider" id="leadership-focus">
+  <h2>Leadership & Technical Expertise</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Cloud Infrastructure & Security</h3>
-      <p>AWS specialization for financial services with focus on security, compliance, and high availability architectures.</p>
+      <h3>Platform Engineering Leadership</h3>
+      <p>Building developer productivity platforms and self-service infrastructure capabilities for engineering teams at scale.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Infrastructure as Code</h3>
-      <p>Building automated, reproducible infrastructure with Terraform and AWS CloudFormation for regulated environments.</p>
+      <h3>Financial Services Infrastructure</h3>
+      <p>AWS cloud architecture specializing in security, compliance, and regulatory requirements for financial institutions.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>CI/CD & Deployment Automation</h3>
-      <p>End-to-end pipeline automation with GitHub Actions, Jenkins, and comprehensive testing strategies.</p>
+      <h3>DevOps Transformation</h3>
+      <p>Leading organizational change initiatives and implementing CI/CD automation with comprehensive security integration.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Container Orchestration</h3>
-      <p>Docker containerization and Kubernetes orchestration with focus on security and scalability.</p>
+      <h3>Executive Technology Strategy</h3>
+      <p>Translating technical capabilities into business value and developing technology roadmaps aligned with strategic objectives.</p>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="projects">
   <h2>Projects</h2>
-  <p class="section-intro-text">Building portfolio projects to demonstrate DevOps best practices, security automation, and financial services compliance capabilities.</p>
+  <p class="section-intro-text">Developing comprehensive platform engineering solutions that demonstrate technical excellence, business impact, and leadership in financial services infrastructure.</p>
   <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
@@ -78,7 +78,7 @@ layout: default
 
 <div class="home-section no-divider" id="articles">
   <h2>Articles</h2>
-  <p class="section-intro-text">Sharing my learning journey and technical insights on infrastructure automation, containerization, and cloud security.</p>
+  <p class="section-intro-text">Publishing strategic insights on platform engineering, DevOps leadership, and technology transformation in financial services.</p>
   <div id="devto-articles"></div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">View All Articles</a>
