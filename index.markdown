@@ -10,11 +10,11 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Platform Engineering Leader | Cloud Infrastructure & Executive Leadership</h2>
-        <h3 class="hero-tagline">Director-Level Engineering Leadership | AWS | Security+ | Financial Services</h3>
-        <p>Engineering leader combining deep technical expertise with proven management experience, specializing in platform engineering and DevOps transformation for financial services. Building scalable infrastructure solutions while developing executive leadership capabilities for Director-level roles.</p>
+        <h2>Engineering Leader Developing Platform Engineering Expertise</h2>
+        <h3 class="hero-tagline">Proven Team Management | AWS Cloud Focus | Financial Services</h3>
+        <p>Platform engineering professional with 5+ years of proven management experience, systematically building DevOps capabilities while maintaining focus on team leadership and strategic business impact. Combining established leadership foundation with comprehensive technical skill development for financial services infrastructure.</p>
         <div class="certification-timeline">
-          <h4><span class="timeline-icon">🎯</span> Strategic Technical Excellence Path</h4>
+          <h4><span class="timeline-icon">🎯</span> Technical Development Journey</h4>
           <div class="timeline-items">
             <div class="timeline-item">
               <span class="timeline-date">Foundation</span>
@@ -33,7 +33,7 @@ layout: default
             </div>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Building platform engineering expertise for Director-level engineering leadership</strong>
+            <strong>🚀 Combining proven leadership with systematic platform engineering skill development</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -49,27 +49,27 @@ layout: default
   <h2>Leadership & Technical Expertise</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Platform Engineering Leadership</h3>
-      <p>Building developer productivity platforms and self-service infrastructure capabilities for engineering teams at scale.</p>
+      <h3>Management Foundation</h3>
+      <p>5+ years leading technical teams, including 13-person deployments managing enterprise-scale infrastructure with proven business results.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Financial Services Infrastructure</h3>
-      <p>AWS cloud architecture specializing in security, compliance, and regulatory requirements for financial institutions.</p>
+      <h3>Technical Development Focus</h3>
+      <p>Building comprehensive AWS cloud expertise with emphasis on security, compliance, and automation for financial services environments.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>DevOps Transformation</h3>
-      <p>Leading organizational change initiatives and implementing CI/CD automation with comprehensive security integration.</p>
+      <h3>Infrastructure Automation</h3>
+      <p>Developing Infrastructure as Code capabilities using Terraform, focusing on collaboration-ready patterns and team knowledge transfer.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Executive Technology Strategy</h3>
-      <p>Translating technical capabilities into business value and developing technology roadmaps aligned with strategic objectives.</p>
+      <h3>Business-Driven Technology</h3>
+      <p>Translating technical implementations into measurable ROI, leveraging P&L management experience for strategic technology decisions.</p>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="projects">
   <h2>Projects</h2>
-  <p class="section-intro-text">Developing comprehensive platform engineering solutions that demonstrate technical excellence, business impact, and leadership in financial services infrastructure.</p>
+  <p class="section-intro-text">Building platform engineering portfolio showcasing technical delivery combined with business impact measurement and team collaboration insights.</p>
   <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
@@ -78,7 +78,7 @@ layout: default
 
 <div class="home-section no-divider" id="articles">
   <h2>Articles</h2>
-  <p class="section-intro-text">Publishing strategic insights on platform engineering, DevOps leadership, and technology transformation in financial services.</p>
+  <p class="section-intro-text">Sharing technical learning journey, implementation insights, and the intersection of proven leadership with systematic skill development.</p>
   <div id="devto-articles"></div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">View All Articles</a>
