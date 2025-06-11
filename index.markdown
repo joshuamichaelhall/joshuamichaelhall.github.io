@@ -10,30 +10,30 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Engineering Leader Developing Platform Engineering Expertise</h2>
-        <h3 class="hero-tagline">Proven Team Management | AWS Cloud Focus | Financial Services</h3>
-        <p>Platform engineering professional with 5+ years of proven management experience, systematically building DevOps capabilities while maintaining focus on team leadership and strategic business impact. Combining established leadership foundation with comprehensive technical skill development for financial services infrastructure.</p>
+        <h2>AI-Enhanced Platform Engineering Professional</h2>
+        <h3 class="hero-tagline">5+ Years Proven Leadership | AWS SageMaker & MLOps | Financial Services Focus</h3>
+        <p>AI-Enhanced Platform Engineering professional combining 5+ years of proven leadership experience with intensive technical skill development in AWS AI/ML services, MLOps automation, and platform engineering for financial services. Combining proven people leadership with systematic AI platform engineering skill development to drive AI transformation and team success.</p>
         <div class="certification-timeline">
-          <h4><span class="timeline-icon">🎯</span> Technical Development Journey</h4>
+          <h4><span class="timeline-icon">🎯</span> AI-Enhanced Technical Journey</h4>
           <div class="timeline-items">
             <div class="timeline-item">
               <span class="timeline-date">Foundation</span>
-              <span class="timeline-cert">AWS Solutions Architect Associate</span>
-              <span class="timeline-status planned">Cloud Architecture</span>
+              <span class="timeline-cert">AWS SAA + AI/ML Services</span>
+              <span class="timeline-status planned">AI Cloud Architecture</span>
             </div>
             <div class="timeline-item">
               <span class="timeline-date">Specialization</span>
-              <span class="timeline-cert">HashiCorp Terraform Associate</span>
-              <span class="timeline-status planned">Infrastructure as Code</span>
+              <span class="timeline-cert">Terraform + MLOps Automation</span>
+              <span class="timeline-status planned">AI Infrastructure as Code</span>
             </div>
             <div class="timeline-item">
               <span class="timeline-date">Advanced</span>
-              <span class="timeline-cert">AWS DevOps Professional + Security</span>
-              <span class="timeline-status planned">Platform Engineering</span>
+              <span class="timeline-cert">AWS AI/ML Specialty + Platform</span>
+              <span class="timeline-status planned">AI Platform Engineering</span>
             </div>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Combining proven leadership with systematic platform engineering skill development</strong>
+            <strong>🚀 Building AI platform expertise with proven leadership for MLOps team management</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -46,30 +46,30 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="leadership-focus">
-  <h2>Leadership & Technical Expertise</h2>
+  <h2>AI Platform Leadership & Technical Expertise</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Management Foundation</h3>
-      <p>5+ years leading technical teams, including 13-person deployments managing enterprise-scale infrastructure with proven business results.</p>
+      <h3>Proven Leadership Foundation</h3>
+      <p>5+ years leading technical teams through enterprise-scale deployments, now focusing on MLOps team management and AI transformation.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Technical Development Focus</h3>
-      <p>Building comprehensive AWS cloud expertise with emphasis on security, compliance, and automation for financial services environments.</p>
+      <h3>AI Platform Engineering</h3>
+      <p>Developing comprehensive AWS AI/ML infrastructure expertise with SageMaker, Bedrock, and MLOps automation for financial services.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Infrastructure Automation</h3>
-      <p>Developing Infrastructure as Code capabilities using Terraform, focusing on collaboration-ready patterns and team knowledge transfer.</p>
+      <h3>MLOps Automation</h3>
+      <p>Building Infrastructure as Code for AI workloads using Terraform, with emphasis on scalable ML deployment patterns.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Business-Driven Technology</h3>
-      <p>Translating technical implementations into measurable ROI, leveraging P&L management experience for strategic technology decisions.</p>
+      <h3>AI Business Impact</h3>
+      <p>Translating AI technical implementations into measurable business value and ROI for financial services transformation.</p>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="projects">
-  <h2>Projects</h2>
-  <p class="section-intro-text">Building platform engineering portfolio showcasing technical delivery combined with business impact measurement and team collaboration insights.</p>
+  <h2>AI Platform Projects</h2>
+  <p class="section-intro-text">Building AI-enhanced portfolio showcasing MLOps implementations, AI infrastructure automation, and quantified business impact from AI platform initiatives.</p>
   <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
@@ -77,8 +77,8 @@ layout: default
 </div>
 
 <div class="home-section no-divider" id="articles">
-  <h2>Articles</h2>
-  <p class="section-intro-text">Sharing technical learning journey, implementation insights, and the intersection of proven leadership with systematic skill development.</p>
+  <h2>AI Platform Insights</h2>
+  <p class="section-intro-text">Sharing AI transformation insights, MLOps implementation experiences, and the intersection of proven leadership with AI platform engineering development.</p>
   <div id="devto-articles"></div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">View All Articles</a>

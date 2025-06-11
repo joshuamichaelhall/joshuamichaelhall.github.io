@@ -7,39 +7,39 @@ permalink: /portfolio/
 # Project Portfolio
 
 <div class="content-section with-divider">
-  <h2>Platform Engineering Projects</h2>
-  <p class="section-intro-text">Comprehensive platform engineering solutions demonstrating technical excellence, business impact, and leadership capabilities in financial services infrastructure. These projects showcase expertise in building scalable, secure, and compliant infrastructure platforms.</p>
+  <h2>AI Platform Engineering Projects</h2>
+  <p class="section-intro-text">AI-enhanced platform engineering solutions demonstrating MLOps excellence, quantified business impact, and AI transformation leadership in financial services. These projects showcase expertise in building scalable ML platforms, automated AI governance, and production-ready MLOps pipelines.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
-      <h3>Enterprise Platform Solutions</h3>
+      <h3>Enterprise AI Platform Solutions</h3>
       
       <div class="project-card featured">
         <div class="project-header">
-          <h2>Financial Services AWS Infrastructure</h2>
+          <h2>Financial Services AI/ML Infrastructure</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Platform Engineering</div>
+          <div class="project-status">AI Platform Engineering</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
             <div class="project-image">
-              <img src="/assets/images/terraform-aws.png" alt="Terraform AWS Infrastructure" />
+              <img src="/assets/images/terraform-aws.png" alt="AI Platform Infrastructure" />
             </div>
             <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
-            <p>Enterprise-grade AWS platform architecture designed for financial services with comprehensive security, compliance, and governance frameworks. Demonstrates platform engineering excellence and regulatory compliance automation.</p>
-            <p><strong>Platform Capabilities:</strong></p>
+            <p>Enterprise-grade AI/ML platform architecture for financial services with SageMaker integration, MLOps automation, and AI governance frameworks. Demonstrates AI platform engineering excellence and ML model compliance automation.</p>
+            <p><strong>AI Platform Capabilities:</strong></p>
             <ul>
-              <li>Multi-account AWS organization with security boundaries</li>
-              <li>Automated compliance controls and regulatory frameworks</li>
-              <li>Self-service infrastructure provisioning for development teams</li>
-              <li>Comprehensive monitoring, logging, and audit capabilities</li>
-              <li>Cost optimization and resource governance automation</li>
+              <li>Multi-account AWS organization with ML service integration</li>
+              <li>Automated ML pipeline deployment with SageMaker and Bedrock</li>
+              <li>Self-service ML platform for data science teams</li>
+              <li>AI model monitoring, drift detection, and governance</li>
+              <li>ML cost optimization and training resource management</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> AWS (VPC, EC2, RDS, S3, IAM), Terraform, AWS Config, CloudTrail
+              <strong>Technologies:</strong> AWS (SageMaker, Bedrock, Lambda), Terraform, MLflow, Kubeflow, CloudWatch
             </p>
           </div>
         </div>
