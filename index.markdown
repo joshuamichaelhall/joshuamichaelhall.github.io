@@ -10,30 +10,30 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>AI-Enhanced Platform Engineering Professional</h2>
-        <h3 class="hero-tagline">5+ Years Proven Leadership | AWS SageMaker & MLOps | Financial Services Focus</h3>
-        <p>AI-Enhanced Platform Engineering professional combining 5+ years of proven leadership experience with intensive technical skill development in AWS AI/ML services, MLOps automation, and platform engineering for financial services. Combining proven people leadership with systematic AI platform engineering skill development to drive AI transformation and team success.</p>
+        <h2>Experienced Leader Transitioning to AI Platform Engineering</h2>
+        <h3 class="hero-tagline">Intensive 44-Week Development Program | AWS AI/ML & MLOps Focus | Remote-First</h3>
+        <p>Experienced business leader executing comprehensive AI platform engineering development, combining 5+ years of P&L management and team leadership with systematic technical mastery. Building AWS AI/ML infrastructure expertise through intensive preparation targeting DevOps Engineer with AI Enhancement roles in financial services.</p>
         <div class="certification-timeline">
-          <h4><span class="timeline-icon">🎯</span> AI-Enhanced Technical Journey</h4>
+          <h4><span class="timeline-icon">🎯</span> 44-Week AI Platform Engineering Development</h4>
           <div class="timeline-items">
             <div class="timeline-item">
-              <span class="timeline-date">Foundation</span>
-              <span class="timeline-cert">AWS SAA + AI/ML Services</span>
-              <span class="timeline-status planned">AI Cloud Architecture</span>
+              <span class="timeline-date">Weeks 1-16</span>
+              <span class="timeline-cert">AWS Solutions Architect + Security+ + Terraform</span>
+              <span class="timeline-status planned">Foundation Mastery</span>
             </div>
             <div class="timeline-item">
-              <span class="timeline-date">Specialization</span>
-              <span class="timeline-cert">Terraform + MLOps Automation</span>
-              <span class="timeline-status planned">AI Infrastructure as Code</span>
+              <span class="timeline-date">Weeks 17-28</span>
+              <span class="timeline-cert">CAPM + CKA + MLOps Pipelines</span>
+              <span class="timeline-status planned">Advanced Specialization</span>
             </div>
             <div class="timeline-item">
-              <span class="timeline-date">Advanced</span>
-              <span class="timeline-cert">AWS AI/ML Specialty + Platform</span>
-              <span class="timeline-status planned">AI Platform Engineering</span>
+              <span class="timeline-date">Weeks 29-44</span>
+              <span class="timeline-cert">AWS DevOps Pro + AI/ML Specialty</span>
+              <span class="timeline-status planned">Executive Preparation</span>
             </div>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Building AI platform expertise with proven leadership for MLOps team management</strong>
+            <strong>🚀 Systematically building deep AI platform engineering competency for DevOps roles in financial services</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -46,30 +46,30 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="leadership-focus">
-  <h2>AI Platform Leadership & Technical Expertise</h2>
+  <h2>Leadership Foundation & AI Platform Development</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Proven Leadership Foundation</h3>
-      <p>5+ years leading technical teams through enterprise-scale deployments, now focusing on MLOps team management and AI transformation.</p>
+      <h3>Proven Business Leadership</h3>
+      <p>Founded and scaled technology services company with full P&L responsibility. Led 13-person technical teams through enterprise deployments of 5,000+ systems across multiple locations.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>AI Platform Engineering</h3>
-      <p>Developing comprehensive AWS AI/ML infrastructure expertise with SageMaker, Bedrock, and MLOps automation for financial services.</p>
+      <h3>AI Platform Engineering Focus</h3>
+      <p>Building comprehensive AWS AI/ML infrastructure expertise including SageMaker, Bedrock, and Comprehend. Developing MLOps pipeline automation for model deployment and scaling.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>MLOps Automation</h3>
-      <p>Building Infrastructure as Code for AI workloads using Terraform, with emphasis on scalable ML deployment patterns.</p>
+      <h3>Infrastructure as Code Mastery</h3>
+      <p>Creating Terraform modules for AI workload deployment patterns. Establishing CI/CD automation optimized for machine learning model lifecycle management.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>AI Business Impact</h3>
-      <p>Translating AI technical implementations into measurable business value and ROI for financial services transformation.</p>
+      <h3>Business-Driven Technology</h3>
+      <p>Applying P&L management experience to quantify AI ROI and infrastructure cost optimization. Building ML governance expertise for financial services compliance.</p>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="projects">
-  <h2>AI Platform Projects</h2>
-  <p class="section-intro-text">Building AI-enhanced portfolio showcasing MLOps implementations, AI infrastructure automation, and quantified business impact from AI platform initiatives.</p>
+  <h2>Technical Portfolio Development</h2>
+  <p class="section-intro-text">Building production-ready AWS infrastructure projects demonstrating AI service integration, MLOps automation, and enterprise-scale platform engineering with measurable business impact.</p>
   <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
@@ -77,8 +77,8 @@ layout: default
 </div>
 
 <div class="home-section no-divider" id="articles">
-  <h2>AI Platform Insights</h2>
-  <p class="section-intro-text">Sharing AI transformation insights, MLOps implementation experiences, and the intersection of proven leadership with AI platform engineering development.</p>
+  <h2>Learning Journey Insights</h2>
+  <p class="section-intro-text">Documenting technical discoveries, certification progress, and the strategic transition from proven business leadership to AI platform engineering excellence.</p>
   <div id="devto-articles"></div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">View All Articles</a>

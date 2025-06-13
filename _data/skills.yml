@@ -1,181 +1,145 @@
 # Technical Skills
 categories:
-  - name: "Current IT Infrastructure Expertise"
+  - name: "Leadership & Business Foundation"
     skills:
-      - name: "Windows Server Administration"
+      - name: "Team Leadership"
         level: 90
-        description: "Active Directory, Group Policy, server deployment, maintenance"
-      - name: "Network Security"
-        level: 85
-        description: "Firewall configuration, VPN setup, security monitoring"
+        description: "5+ years leading technical teams, P&L management, cross-functional collaboration"
+      - name: "Business Operations"
+        level: 90
+        description: "Founded and scaled technology services company, process optimization"
       - name: "Project Management"
         level: 85
-        description: "Team leadership, budget management, stakeholder coordination"
-      - name: "Business Operations"
+        description: "Enterprise deployments, stakeholder coordination, resource management"
+      - name: "Financial Management"
+        level: 85
+        description: "P&L responsibility, budget management, ROI calculation"
+      - name: "Strategic Planning"
         level: 80
-        description: "Process development, system implementation, client management"
-      - name: "Compliance Implementation"
-        level: 75
-        description: "HIPAA compliance, security controls, documentation"
+        description: "Business development, technical roadmaps, investment prioritization"
 
-  - name: "AWS Specialization (Developing)"
+  - name: "AI Platform Engineering (In Development)"
+    skills:
+      - name: "AWS AI/ML Services"
+        level: 45
+        description: "SageMaker, Bedrock, Comprehend - intensive development focus"
+      - name: "MLOps Automation"
+        level: 40
+        description: "ML pipeline development, model deployment automation - building expertise"
+      - name: "Infrastructure as Code"
+        level: 50
+        description: "Terraform modules for AI workloads - active certification path"
+      - name: "Container Orchestration"
+        level: 35
+        description: "Kubernetes for ML workloads - planned CKA certification"
+      - name: "AI Governance"
+        level: 40
+        description: "ML model compliance, financial services focus - developing"
+
+  - name: "AWS Cloud Platform (Current Focus)"
     skills:
       - name: "AWS Core Services"
-        level: 60
-        description: "EC2, VPC, IAM, S3, CloudTrail - actively learning"
+        level: 55
+        description: "EC2, VPC, IAM, S3 - Solutions Architect certification prep"
       - name: "AWS Architecture"
-        level: 55
-        description: "Multi-account strategy, security design - in development"
-      - name: "AWS Security Services"
-        level: 55
-        description: "IAM, Security Hub, GuardDuty, Config - learning"
-      - name: "Networking in AWS"
         level: 50
-        description: "VPC design, segmentation - target certification area"
-      - name: "Financial Services Controls"
+        description: "Multi-account strategy, Well-Architected Framework - active study"
+      - name: "AWS Security"
+        level: 50
+        description: "Security services, compliance frameworks - Security+ renewal"
+      - name: "AWS Networking"
         level: 45
-        description: "AWS compliance frameworks - planned specialization"
+        description: "VPC design, hybrid connectivity - certification focus area"
+      - name: "AWS DevOps"
+        level: 40
+        description: "CI/CD, automation tools - future certification target"
 
   - name: "Software Engineering Foundation"
     skills:
       - name: "Ruby Programming"
         level: 85
-        description: "OOP principles, functional programming, Launch School mastery"
-      - name: "Database Skills"
+        description: "Launch School mastery, OOP principles, test-driven development"
+      - name: "PostgreSQL"
         level: 80
-        description: "PostgreSQL, complex queries, performance optimization"
+        description: "Database design, complex queries, performance optimization"
       - name: "Web Development"
         level: 75
-        description: "Sinatra applications, HTTP protocols, session management"
-      - name: "Terminal Workflow"
-        level: 90
-        description: "Neovim, tmux, CLI tools for efficient development"
-      - name: "Version Control"
+        description: "Sinatra, Rails basics, RESTful API design"
+      - name: "Git/GitHub"
         level: 85
-        description: "Git/GitHub for collaboration and project management"
-
-  - name: "Infrastructure as Code (Learning)"
-    skills:
-      - name: "Terraform"
-        level: 45
-        description: "Module development, state management - target certification"
-      - name: "Multi-Environment Deployment"
-        level: 40
-        description: "Environment segregation strategies - in development"
-      - name: "Policy as Code"
-        level: 35
-        description: "Compliance automation - planned learning"
-      - name: "Infrastructure Testing"
-        level: 40
-        description: "Validation strategies - portfolio project focus"
-      - name: "State Management"
-        level: 45
-        description: "Remote state concepts - actively studying"
-
-  - name: "Security & Compliance (Current + Developing)"
-    skills:
-      - name: "Network Security"
-        level: 85
-        description: "Firewall configuration, VPN setup, security monitoring (current)"
-      - name: "HIPAA Compliance"
+        description: "Version control, collaboration workflows, code review"
+      - name: "Testing & Debugging"
         level: 80
-        description: "Healthcare compliance implementation, access controls (current)"
+        description: "TDD methodology, systematic debugging approach"
+
+  - name: "DevOps & Automation (Building)"
+    skills:
+      - name: "CI/CD Pipelines"
+        level: 50
+        description: "GitHub Actions, deployment automation - portfolio projects"
+      - name: "Infrastructure Testing"
+        level: 45
+        description: "Validation strategies, compliance checks - developing"
+      - name: "Container Technologies"
+        level: 45
+        description: "Docker fundamentals, container security - active learning"
+      - name: "Scripting & Automation"
+        level: 70
+        description: "Bash scripting, Python basics, automation workflows"
+      - name: "Monitoring & Observability"
+        level: 40
+        description: "CloudWatch, logging strategies - certification prep"
+
+  - name: "Security & Compliance"
+    skills:
+      - name: "Security Fundamentals"
+        level: 75
+        description: "Network security, access controls, current experience"
+      - name: "Cloud Security"
+        level: 50
+        description: "AWS security best practices - Security+ renewal focus"
+      - name: "Compliance Implementation"
+        level: 70
+        description: "HIPAA experience, regulatory frameworks, documentation"
       - name: "DevSecOps"
         level: 40
-        description: "Security integration in pipelines - learning through portfolio projects"
-      - name: "Infrastructure Security"
-        level: 75
-        description: "Defense-in-depth, least privilege - building on current expertise"
-      - name: "Cloud Security"
-        level: 45
-        description: "AWS security services, automated controls - target specialization"
-
-  - name: "Containerization & Orchestration (Learning)"
-    skills:
-      - name: "Docker"
-        level: 50
-        description: "Container fundamentals, image building - actively learning"
-      - name: "Kubernetes"
-        level: 35
-        description: "Container orchestration basics - introduction phase"
-      - name: "Container Security"
-        level: 40
-        description: "Image scanning concepts - portfolio project focus"
-      - name: "Service Mesh"
-        level: 25
-        description: "Advanced orchestration - future learning goal"
-      - name: "GitOps"
-        level: 30
-        description: "Declarative deployment patterns - planned study area"
-
-  - name: "CI/CD & Automation (Developing)"
-    skills:
-      - name: "GitHub Actions"
-        level: 55
-        description: "Basic workflows, deployment automation - portfolio projects"
-      - name: "Pipeline Security"
-        level: 45
-        description: "Security scanning integration - learning focus"
-      - name: "Deployment Automation"
-        level: 50
-        description: "Infrastructure validation strategies - in development"
-      - name: "Scripting & Automation"
-        level: 75
-        description: "Bash scripting, Python basics - building on current skills"
-      - name: "Testing Automation"
-        level: 40
-        description: "Infrastructure testing concepts - target skill area"
-
-  - name: "Monitoring & Observability (Learning)"
-    skills:
-      - name: "CloudWatch"
-        level: 50
-        description: "AWS monitoring basics - actively studying"
-      - name: "Logging & Analysis"
-        level: 45
-        description: "Centralized logging concepts - portfolio project focus"
-      - name: "Prometheus & Grafana"
-        level: 35
-        description: "Monitoring stack fundamentals - planned learning"
-      - name: "Alerting & Incident Response"
-        level: 40
-        description: "Alert design principles - developing understanding"
-      - name: "Compliance Monitoring"
-        level: 50
-        description: "Automated compliance validation - target specialization"
-
-  - name: "Business Impact"
-    skills:
-      - name: "ROI Calculation"
-        level: 70
-        description: "Quantifying the value of technical initiatives"
-      - name: "Executive Communication"
+        description: "Security in CI/CD, automated scanning - developing"
+      - name: "Risk Management"
         level: 65
-        description: "Translating technical concepts for leadership"
-      - name: "Documentation"
-        level: 80
-        description: "Architecture decisions, implementation patterns"
-      - name: "Strategic Planning"
-        level: 65
-        description: "Technical roadmaps, investment prioritization"
-      - name: "Cost Optimization"
-        level: 75
-        description: "Resource efficiency, environment optimization"
+        description: "Security assessment, mitigation strategies"
 
   - name: "Development Environment"
     skills:
       - name: "Neovim"
         level: 90
-        description: "Primary text editor and development environment"
+        description: "Primary development environment, extensive customization"
       - name: "tmux"
         level: 85
-        description: "Terminal multiplexer for session management"
-      - name: "Git"
-        level: 85
-        description: "Version control and collaboration"
+        description: "Terminal multiplexer, session management, productivity"
       - name: "Terminal Workflow"
         level: 90
-        description: "Efficient command-line based operations"
+        description: "CLI mastery, efficient command-line operations"
       - name: "Linux Administration"
+        level: 80
+        description: "System management, shell scripting, troubleshooting"
+      - name: "Documentation"
         level: 85
-        description: "System management, security hardening"
+        description: "Technical writing, architecture decisions, knowledge sharing"
+
+  - name: "Business Impact & Communication"
+    skills:
+      - name: "ROI Calculation"
+        level: 80
+        description: "Quantifying technical value, business case development"
+      - name: "Executive Communication"
+        level: 75
+        description: "Translating technical concepts for leadership buy-in"
+      - name: "Vendor Management"
+        level: 80
+        description: "Relationship optimization, contract negotiation"
+      - name: "Process Improvement"
+        level: 85
+        description: "Operational efficiency, workflow optimization"
+      - name: "Team Development"
+        level: 85
+        description: "Mentoring, skill building, performance management"
