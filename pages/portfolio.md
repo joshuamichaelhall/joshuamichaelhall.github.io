@@ -7,19 +7,19 @@ permalink: /portfolio/
 # Project Portfolio
 
 <div class="content-section with-divider">
-  <h2>AI Platform Engineering Projects</h2>
-  <p class="section-intro-text">AI-enhanced platform engineering solutions demonstrating MLOps excellence, quantified business impact, and AI transformation leadership in financial services. These projects showcase expertise in building scalable ML platforms, automated AI governance, and production-ready MLOps pipelines.</p>
+  <h2>Technical Portfolio Development</h2>
+  <p class="section-intro-text">Building production-ready infrastructure projects as part of intensive 44-week AI platform engineering development. These projects demonstrate AWS multi-account architecture, Infrastructure as Code automation, and the intersection of business leadership with technical implementation.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
-      <h3>Enterprise AI Platform Solutions</h3>
+      <h3>Infrastructure & Platform Engineering</h3>
       
       <div class="project-card featured">
         <div class="project-header">
-          <h2>Financial Services AI/ML Infrastructure</h2>
+          <h2>AWS Multi-Account Infrastructure Platform</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">AI Platform Engineering</div>
+          <div class="project-status">Platform Engineering</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
@@ -29,17 +29,17 @@ permalink: /portfolio/
             <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
-            <p>Enterprise-grade AI/ML platform architecture for financial services with SageMaker integration, MLOps automation, and AI governance frameworks. Demonstrates AI platform engineering excellence and ML model compliance automation.</p>
-            <p><strong>AI Platform Capabilities:</strong></p>
+            <p>Enterprise-grade AWS infrastructure platform demonstrating multi-account strategy, security best practices, and Infrastructure as Code automation. Built as part of comprehensive AI platform engineering preparation.</p>
+            <p><strong>Platform Capabilities:</strong></p>
             <ul>
-              <li>Multi-account AWS organization with ML service integration</li>
-              <li>Automated ML pipeline deployment with SageMaker and Bedrock</li>
-              <li>Self-service ML platform for data science teams</li>
-              <li>AI model monitoring, drift detection, and governance</li>
-              <li>ML cost optimization and training resource management</li>
+              <li>Multi-account AWS organization with automated account provisioning</li>
+              <li>Terraform modules for repeatable infrastructure deployment</li>
+              <li>Self-service developer platform with security guardrails</li>
+              <li>Compliance automation for financial services requirements</li>
+              <li>Cost optimization through automated resource management</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> AWS (SageMaker, Bedrock, Lambda), Terraform, MLflow, Kubeflow, CloudWatch
+              <strong>Technologies:</strong> AWS (Organizations, Control Tower, IAM), Terraform, GitHub Actions, CloudWatch
             </p>
           </div>
         </div>
@@ -81,42 +81,42 @@ permalink: /portfolio/
 </div>
 
 <div class="content-section">
-  <h2>Platform Engineering Expertise</h2>
+  <h2>Development Focus Areas</h2>
   
   <div class="value-areas-grid">
     <div class="value-area-item">
-      <h3>Platform Architecture</h3>
+      <h3>AWS Platform Development</h3>
       <ul>
-        <li>Enterprise AWS multi-account strategies</li>
-        <li>Self-service infrastructure platforms</li>
-        <li>Developer productivity and tooling</li>
+        <li>Multi-account organization strategies</li>
+        <li>Infrastructure as Code with Terraform</li>
+        <li>Security and compliance automation</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Financial Services Focus</h3>
+      <h3>Business-Driven Implementation</h3>
       <ul>
-        <li>Regulatory compliance automation</li>
-        <li>Security frameworks and governance</li>
-        <li>Risk management and audit preparation</li>
+        <li>ROI-focused infrastructure decisions</li>
+        <li>Cost optimization strategies</li>
+        <li>Process automation for efficiency</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Infrastructure Automation</h3>
+      <h3>AI/ML Integration Planning</h3>
       <ul>
-        <li>Terraform enterprise patterns</li>
-        <li>CI/CD pipeline security integration</li>
-        <li>Infrastructure testing and validation</li>
+        <li>SageMaker infrastructure patterns</li>
+        <li>MLOps pipeline development</li>
+        <li>AI governance frameworks</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Operational Excellence</h3>
+      <h3>Leadership & Documentation</h3>
       <ul>
-        <li>Monitoring and observability platforms</li>
-        <li>Cost optimization and governance</li>
-        <li>Incident response and reliability</li>
+        <li>Technical decision documentation</li>
+        <li>Team collaboration patterns</li>
+        <li>Knowledge sharing practices</li>
       </ul>
     </div>
   </div>
