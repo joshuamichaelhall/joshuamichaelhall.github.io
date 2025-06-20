@@ -15,7 +15,7 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> DevOps Engineer (Available December 2025)</p>
+    <p><strong>Status:</strong> DevOps Engineer (Remote-First, Arkansas)</p>
   </div>
 
   <p>Specializing in AWS infrastructure automation and security compliance. Open to discussing DevOps Engineer opportunities in financial services.</p>
@@ -27,13 +27,14 @@ permalink: /contact/
   <p>I'm focused on Infrastructure Automation & Cloud Security with emphasis on:</p>
 
   <ul class="interests-list">
-    <li>AWS cloud architecture for financial services environments</li>
+    <li>AWS cloud architecture and platform engineering for financial services</li>
     <li>Infrastructure as Code with Terraform for reproducible deployments</li>
-    <li>Security automation and compliance validation</li>
-    <li>CI/CD pipeline implementation with security controls</li>
-    <li>Multi-account AWS strategies for regulated industries</li>
-    <li>Container security and orchestration platforms</li>
-    <li>Technical content creation and knowledge sharing</li>
+    <li>Security automation and compliance validation in regulated environments</li>
+    <li>CI/CD pipeline implementation with integrated security controls</li>
+    <li>Multi-account AWS strategies and enterprise infrastructure management</li>
+    <li>Container orchestration and platform engineering for developer experience</li>
+    <li>Technical content creation, thought leadership, and knowledge sharing</li>
+    <li>Sustainable high-performance practices for technical professionals</li>
   </ul>
 </div>
 
@@ -51,15 +52,16 @@ permalink: /contact/
     <div class="tab-content active" id="coaching-tab">
       <div class="services-box">
         <h3>Career Coaching for Technical Professionals</h3>
-        <p>Drawing from my experience transitioning from IT infrastructure to DevOps, I offer personalized career coaching for technologists looking to advance in DevOps, SRE, and cloud engineering roles. My coaching focuses on practical skill development, certification planning, and career positioning strategies.</p>
-        <p><em>Note: Coaching availability is limited during my current intensive learning phase (through 2025).</em></p>
+        <p>Drawing from my experience transitioning from IT infrastructure to DevOps, I offer personalized career coaching for technologists looking to advance in DevOps, SRE, and cloud engineering roles. My coaching integrates technical skill development, strategic career planning, and sustainable high-performance practices for intensive learning periods.</p>
         
         <h4>Coaching Areas:</h4>
         <ul class="coaching-areas">
           <li><strong>Technical Roadmapping</strong> - Customized learning paths for DevOps/cloud careers</li>
           <li><strong>Certification Planning</strong> - Strategic certification approaches for career advancement</li>
-          <li><strong>Portfolio Development</strong> - Guidance on building meaningful technical projects</li>
+          <li><strong>Portfolio Development</strong> - Guidance on building meaningful technical projects with business impact</li>
+          <li><strong>Sustainable Learning Practices</strong> - Health and productivity protocols for intensive technical development</li>
           <li><strong>Technical Interview Preparation</strong> - Infrastructure and systems design practice</li>
+          <li><strong>Professional Networking Strategy</strong> - Building strategic relationships in the DevOps community</li>
         </ul>
       </div>
     </div>

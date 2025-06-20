@@ -11,23 +11,23 @@ layout: default
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
         <h2>Experienced Leader Transitioning to AI Platform Engineering</h2>
-        <h3 class="hero-tagline">Intensive 44-Week Development Program | AWS AI/ML & MLOps Focus | Remote-First</h3>
+        <h3 class="hero-tagline">Comprehensive Development Program | AWS AI/ML & MLOps Focus | Remote-First</h3>
         <p>Experienced business leader executing comprehensive AI platform engineering development, combining 5+ years of P&L management and team leadership with systematic technical mastery. Building AWS AI/ML infrastructure expertise through intensive preparation targeting DevOps Engineer with AI Enhancement roles in financial services.</p>
         <div class="certification-timeline">
-          <h4><span class="timeline-icon">🎯</span> 44-Week AI Platform Engineering Development</h4>
+          <h4><span class="timeline-icon">🎯</span> Comprehensive AI Platform Engineering Development</h4>
           <div class="timeline-items">
             <div class="timeline-item">
-              <span class="timeline-date">Weeks 1-16</span>
+              <span class="timeline-date">Phase 1</span>
               <span class="timeline-cert">AWS Solutions Architect + Security+ + Terraform</span>
               <span class="timeline-status planned">Foundation Mastery</span>
             </div>
             <div class="timeline-item">
-              <span class="timeline-date">Weeks 17-28</span>
+              <span class="timeline-date">Phase 2</span>
               <span class="timeline-cert">CAPM + CKA + MLOps Pipelines</span>
               <span class="timeline-status planned">Advanced Specialization</span>
             </div>
             <div class="timeline-item">
-              <span class="timeline-date">Weeks 29-44</span>
+              <span class="timeline-date">Phase 3</span>
               <span class="timeline-cert">AWS DevOps Pro + AI/ML Specialty</span>
               <span class="timeline-status planned">Executive Preparation</span>
             </div>
