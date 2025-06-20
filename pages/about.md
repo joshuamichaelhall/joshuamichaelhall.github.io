@@ -7,11 +7,11 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Experienced business leader executing intensive 44-week AI platform engineering development program, transitioning from proven P&L management and team leadership into DevOps Engineer with AI Enhancement roles. Combining 5+ years of business operations expertise with systematic technical mastery for financial services AI transformation.</p>
+  <p>Experienced business leader executing comprehensive AI platform engineering development program, transitioning from proven P&L management and team leadership into DevOps Engineer with AI Enhancement roles. Combining 5+ years of business operations expertise with systematic technical mastery and sustainable high-performance practices for financial services AI transformation.</p>
   
   <p><strong>Leadership Foundation & Business Acumen:</strong> Founded and scaled technology services company with full P&L responsibility. Led 13-person technical teams through enterprise deployments of 5,000+ systems across multiple locations. Demonstrated success in cross-functional collaboration, vendor management, and stakeholder communication at scale. Built sustainable operational processes enabling consistent growth and profitability.</p>
   
-  <p><strong>44-Week AI Platform Engineering Development:</strong> Executing comprehensive preparation program targeting AWS Solutions Architect, Security+, and Terraform certification in foundation phase. Building toward CAPM, CKA, and MLOps pipeline development for advanced specialization. Culminating in AWS DevOps Professional and AI/ML Specialty certifications with executive communication training.</p>
+  <p><strong>Comprehensive AI Platform Engineering Development:</strong> Executing systematic preparation program targeting AWS Solutions Architect, Security+, and Terraform certification in foundation phase. Building toward CAPM, CKA, and MLOps pipeline development for advanced specialization. Culminating in AWS DevOps Professional and AI/ML Specialty certifications with executive communication training and sustainable high-performance methodologies.</p>
   
   <p><strong>Technical Foundation Building:</strong> Developing AWS AI/ML infrastructure expertise with focus on SageMaker, Bedrock, and Comprehend for enterprise deployments. Creating Infrastructure as Code capabilities through Terraform modules optimized for AI workload patterns. Establishing CI/CD automation and Kubernetes orchestration for ML model deployment. Strong software development foundation from Launch School backend curriculum.</p>
   
@@ -51,7 +51,7 @@ permalink: /about/
       <li><strong>Google AI Essentials</strong> - AI fundamentals and practical applications</li>
     </ul>
     
-    <h3>44-Week Development Program</h3>
+    <h3>Comprehensive Development Program</h3>
     <ul class="cert-list in-progress">
       <li><strong>AWS Solutions Architect Associate</strong> - Foundation phase with hands-on multi-account infrastructure deployment</li>
       <li><strong>CompTIA Security+ (SY0-701)</strong> - Security frameworks focusing on AI model governance and compliance</li>
@@ -65,7 +65,7 @@ permalink: /about/
   
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Phase 1: Foundation<br><small>(Weeks 1-16)</small></h3>
+      <h3>Phase 1: Foundation<br><small>Core Infrastructure</small></h3>
       <p>AWS Solutions Architect Associate<br>
       Security+ SY0-701 renewal<br>
       Terraform Associate certification<br>
@@ -74,7 +74,7 @@ permalink: /about/
     </div>
 
     <div class="expertise-item">
-      <h3>Phase 2: Specialization<br><small>(Weeks 17-28)</small></h3>
+      <h3>Phase 2: Specialization<br><small>Platform Engineering</small></h3>
       <p>CAPM project management<br>
       Certified Kubernetes Administrator<br>
       CI/CD pipeline development<br>
@@ -83,12 +83,12 @@ permalink: /about/
     </div>
 
     <div class="expertise-item">
-      <h3>Phase 3: Advanced<br><small>(Weeks 29-44)</small></h3>
+      <h3>Phase 3: Advanced<br><small>AI/ML & Leadership</small></h3>
       <p>AWS DevOps Professional<br>
       AWS ML Specialty certification<br>
       Executive communication training<br>
       Portfolio documentation<br>
-      Strategic job search execution</p>
+      Strategic career advancement</p>
     </div>
   </div>
 </div>
