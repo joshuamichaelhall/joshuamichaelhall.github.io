@@ -7,15 +7,15 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Engineering leader who earned 17 professional certifications driving AI platform transformation in financial services. Combining proven P&L management ($250K+ business), team leadership (13+ engineers), and comprehensive technical expertise to deliver enterprise-scale AI/ML infrastructure solutions.</p>
+  <p>Engineering leader who earned 12 professional certifications driving AI platform transformation in financial services. Combining proven P&L management ($250K+ business), team leadership (13+ engineers), and comprehensive technical expertise to deliver enterprise-scale AI/ML infrastructure solutions.</p>
   
-  <p><strong>Technical Leadership & Certification Excellence:</strong> Earned 17 professional certifications including rare CompTIA stackables achieved. Currently maintaining strategic portfolio (Google AI Essentials, Project Management, CompTIA A+, Project+, Cloud Essentials+) while adding AWS Solutions Architect, Security+ renewal, and cloud platform certifications.</p>
+  <p><strong>Technical Leadership & Certification Excellence:</strong> Earned 12 professional certifications including 4 rare CompTIA stackables. Currently maintaining strategic portfolio (Google AI Essentials, Project Management, CompTIA A+, Project+, Cloud Essentials+) while adding AWS Solutions Architect, Security+ renewal, and cloud platform certifications.</p>
   
   <p><strong>Proven Business Impact:</strong> Founded and scaled technology services company with full P&L responsibility, achieving consistent profitability. Led 13-person technical teams through enterprise deployments of 5,000+ systems across multiple locations. Demonstrated expertise in vendor negotiations, stakeholder management, and operational excellence.</p>
   
   <p><strong>AI Platform Engineering Focus:</strong> Building comprehensive AWS AI/ML infrastructure expertise with SageMaker, Bedrock, and Comprehend for enterprise deployments. Creating Infrastructure as Code solutions through Terraform modules optimized for AI workload patterns. Establishing CI/CD automation and Kubernetes orchestration for ML model deployment at scale.</p>
   
-  <p><strong>Strategic Career Trajectory:</strong> Executing systematic development program targeting Engineering Manager roles at $275K+ in financial services. Preparing for Stanford LEAD and executive education programs to accelerate path to VP Engineering and CTO positions. Geographic flexibility from Arkansas base enables optimal opportunity selection.</p>
+  <p><strong>Strategic Career Trajectory:</strong> Executing systematic development program targeting Engineering Manager roles at $220-250K in financial services. Preparing for Stanford LEAD and executive education programs to accelerate path to VP Engineering and CTO positions. Geographic flexibility from Arkansas base enables optimal opportunity selection.</p>
 </div>
 
 <div class="content-section with-divider">
