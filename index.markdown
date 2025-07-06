@@ -10,19 +10,19 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Certified Engineering Leader | 17 Professional Certifications</h2>
+        <h2>Certified Engineering Leader | 17 Certifications Earned</h2>
         <h3 class="hero-tagline">AI Platform Engineering | Financial Services Focus | $275K+ Roles</h3>
-        <p>Engineering leader with rare certification portfolio including CompTIA stackables (CSCP/CCAP/CSIS/CIOS), proven P&L management ($250K+ business), and 13-person team leadership. Building AWS AI/ML infrastructure expertise for Engineering Manager roles in financial services.</p>
+        <p>Engineering leader who earned 17 professional certifications including rare CompTIA stackables, with proven P&L management ($250K+ business) and 13-person team leadership. Building AWS AI/ML infrastructure expertise for Engineering Manager roles in financial services.</p>
         <div class="certification-highlight">
-          <h4><span class="cert-icon">🏆</span> Certification Excellence</h4>
+          <h4><span class="cert-icon">🏆</span> Strategic Certification Portfolio</h4>
           <div class="cert-stats">
             <div class="cert-stat">
               <span class="cert-number">17</span>
-              <span class="cert-label">Active Certifications</span>
+              <span class="cert-label">Certifications Earned</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">4</span>
-              <span class="cert-label">Rare Stackables</span>
+              <span class="cert-number">5</span>
+              <span class="cert-label">Currently Active</span>
             </div>
             <div class="cert-stat">
               <span class="cert-number">6</span>
@@ -30,12 +30,12 @@ layout: default
             </div>
           </div>
           <div class="featured-certs">
-            <span class="cert-badge">CompTIA CSCP</span>
-            <span class="cert-badge">CompTIA CCAP</span>
-            <span class="cert-badge">Security+</span>
+            <span class="cert-badge">Google AI</span>
             <span class="cert-badge">Google PM</span>
+            <span class="cert-badge">CompTIA A+</span>
+            <span class="cert-badge">Project+</span>
             <span class="cert-badge">AWS SAA (2025)</span>
-            <span class="cert-badge">PMP (2025)</span>
+            <span class="cert-badge">Security+ (2025)</span>
           </div>
           <div class="availability-notice">
             <strong>🚀 Open to Engineering Manager opportunities in financial services | Remote-first | Geographic flexibility from Arkansas</strong>
@@ -71,8 +71,8 @@ layout: default
     </div>
     <div class="metric-card">
       <div class="metric-value">17</div>
-      <div class="metric-label">Active Certifications</div>
-      <div class="metric-detail">Including 4 rare CompTIA stackables</div>
+      <div class="metric-label">Certifications Earned</div>
+      <div class="metric-detail">Including rare CompTIA stackables achieved</div>
     </div>
   </div>
 </div>
@@ -101,7 +101,7 @@ layout: default
 
 <div class="home-section with-divider" id="certification-journey">
   <h2>Strategic Certification Roadmap</h2>
-  <p class="section-intro-text">Systematic development program combining 17 existing certifications with 6 strategic additions for AI platform engineering excellence.</p>
+  <p class="section-intro-text">Strategic certification roadmap building on 17 earned credentials with targeted additions for AI platform engineering excellence.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
       <h3>Foundation (Current)</h3>

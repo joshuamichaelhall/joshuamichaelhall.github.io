@@ -8,173 +8,117 @@ permalink: /certifications/
 
 <div class="cert-hero">
   <div class="cert-summary">
-    <h2>17 Active Professional Certifications</h2>
-    <p>Including 4 rare CompTIA stackable credentials that less than 1% of IT professionals achieve</p>
+    <h2>17 Professional Certifications Earned</h2>
+    <p>Strategic certification portfolio management with proven ability to achieve rare credentials</p>
     <div class="cert-stats-row">
       <div class="stat-item">
         <span class="stat-number">17</span>
-        <span class="stat-label">Active Certifications</span>
+        <span class="stat-label">Total Earned</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">5</span>
+        <span class="stat-label">Currently Active</span>
       </div>
       <div class="stat-item">
         <span class="stat-number">4</span>
-        <span class="stat-label">Stackable Credentials</span>
+        <span class="stat-label">Stackables Achieved</span>
       </div>
       <div class="stat-item">
         <span class="stat-number">6</span>
         <span class="stat-label">In Progress</span>
       </div>
-      <div class="stat-item">
-        <span class="stat-number">$15K+</span>
-        <span class="stat-label">Investment Value</span>
-      </div>
     </div>
   </div>
 </div>
 
-## CompTIA Advanced Stackables
+## Strategic Certification Philosophy
 
-<div class="stackables-section">
-  <p class="stackables-intro">These stackable certifications represent the pinnacle of CompTIA achievement, requiring multiple prerequisite certifications and demonstrating comprehensive expertise across domains.</p>
+<div class="philosophy-section">
+  <p>After earning 17 certifications including rare CompTIA stackables achieved by less than 1% of IT professionals, I've learned that strategic portfolio management matters more than quantity. I maintain certifications aligned with current market needs while adding new ones for emerging technologies.</p>
   
-  <div class="stackable-cards">
-    <div class="stackable-card elite">
-      <h3>CompTIA Secure Cloud Professional (CSCP)</h3>
-      <div class="stackable-details">
-        <p><strong>Requirements:</strong> Security+ AND Cloud+</p>
-        <p><strong>Expertise:</strong> Advanced cloud security architecture, multi-cloud governance, compliance frameworks</p>
-        <p><strong>Rarity:</strong> Less than 0.5% of IT professionals</p>
-      </div>
+  <div class="philosophy-points">
+    <div class="point-item">
+      <h4>🎯 Strategic Renewal</h4>
+      <p>Focus on certifications that provide immediate value for target roles</p>
     </div>
-    
-    <div class="stackable-card elite">
-      <h3>CompTIA Cloud Admin Professional (CCAP)</h3>
-      <div class="stackable-details">
-        <p><strong>Requirements:</strong> Cloud+ AND Linux+ or Server+</p>
-        <p><strong>Expertise:</strong> Enterprise cloud administration, automation, infrastructure management</p>
-        <p><strong>Rarity:</strong> Less than 0.3% of IT professionals</p>
-      </div>
+    <div class="point-item">
+      <h4>💡 Proven Ability</h4>
+      <p>17 certifications earned demonstrates ability to achieve any needed credential</p>
     </div>
-    
-    <div class="stackable-card elite">
-      <h3>CompTIA Systems Security Administrator (CSIS)</h3>
-      <div class="stackable-details">
-        <p><strong>Requirements:</strong> Security+ AND (Linux+ or Server+)</p>
-        <p><strong>Expertise:</strong> Enterprise security administration, hardening, incident response</p>
-        <p><strong>Rarity:</strong> Less than 0.8% of IT professionals</p>
-      </div>
-    </div>
-    
-    <div class="stackable-card">
-      <h3>CompTIA IT Operations Specialist (CIOS)</h3>
-      <div class="stackable-details">
-        <p><strong>Requirements:</strong> A+ AND Network+</p>
-        <p><strong>Expertise:</strong> Comprehensive IT operations, troubleshooting, support</p>
-        <p><strong>Value:</strong> Foundation for advanced stackables</p>
-      </div>
+    <div class="point-item">
+      <h4>📈 ROI Focus</h4>
+      <p>Every certification decision based on career impact and market demand</p>
     </div>
   </div>
 </div>
 
-## Active Certifications by Category
+## Currently Active Certifications (5)
 
-<div class="cert-category">
-  <h3>🔒 Security & Compliance</h3>
-  <div class="cert-grid">
-    <div class="cert-item">
-      <h4>CompTIA Security+</h4>
-      <p>Enterprise security, risk management, cryptography, and compliance frameworks</p>
-      <span class="cert-meta">Expires: 2026 | Renewing to SY0-701</span>
-    </div>
-    <div class="cert-item">
-      <h4>Google Cybersecurity Certificate</h4>
-      <p>Security operations, incident response, Python for security, SIEM tools</p>
-      <span class="cert-meta">Completed: 2024</span>
-    </div>
+<div class="active-certs">
+  <div class="cert-item current">
+    <h3>Google AI Essentials</h3>
+    <p>AI fundamentals, machine learning concepts, responsible AI, practical applications</p>
+    <span class="cert-meta">Issued: August 2024</span>
+  </div>
+  
+  <div class="cert-item current">
+    <h3>Google Project Management Certificate</h3>
+    <p>Comprehensive 6-month program covering Agile, Scrum, Waterfall methodologies</p>
+    <span class="cert-meta">Issued: August 2023</span>
+  </div>
+  
+  <div class="cert-item current">
+    <h3>CompTIA A+ ce</h3>
+    <p>Hardware, operating systems, software troubleshooting, and security fundamentals</p>
+    <span class="cert-meta">Active until September 2026</span>
+  </div>
+  
+  <div class="cert-item current">
+    <h3>CompTIA Project+</h3>
+    <p>IT project lifecycle, communication, resources, and stakeholder management</p>
+    <span class="cert-meta">Lifetime certification (December 2020)</span>
+  </div>
+  
+  <div class="cert-item current">
+    <h3>CompTIA Cloud Essentials+</h3>
+    <p>Cloud concepts, business principles, and cloud service management</p>
+    <span class="cert-meta">Lifetime certification (September 2020)</span>
   </div>
 </div>
 
-<div class="cert-category">
-  <h3>☁️ Cloud & Infrastructure</h3>
-  <div class="cert-grid">
-    <div class="cert-item">
-      <h4>CompTIA Cloud Essentials+</h4>
-      <p>Cloud concepts, business principles, and cloud service management</p>
-      <span class="cert-meta">Lifetime certification</span>
+## Strategic Achievements & Certifications Earned
+
+<div class="achievements-section">
+  <h3>🏆 Rare CompTIA Stackables Achieved</h3>
+  <p class="achievement-intro">These stackable certifications represent elite achievements, requiring multiple prerequisite certifications. Though expired, they demonstrate exceptional dedication and comprehensive expertise.</p>
+  
+  <div class="stackable-grid">
+    <div class="achievement-item">
+      <h4>CompTIA Secure Cloud Professional (CSCP)</h4>
+      <p>Required: Security+ AND Cloud+ | Achieved by <0.5% of IT professionals</p>
     </div>
-    <div class="cert-item">
-      <h4>CompTIA Server+</h4>
-      <p>Server hardware, virtualization, disaster recovery, and troubleshooting</p>
-      <span class="cert-meta">Lifetime certification</span>
+    <div class="achievement-item">
+      <h4>CompTIA Cloud Admin Professional (CCAP)</h4>
+      <p>Required: Cloud+ AND Server+ | Achieved by <0.3% of IT professionals</p>
+    </div>
+    <div class="achievement-item">
+      <h4>CompTIA Secure Infrastructure Specialist (CSIS)</h4>
+      <p>Required: Security+ AND Server+ | Achieved by <0.8% of IT professionals</p>
+    </div>
+    <div class="achievement-item">
+      <h4>CompTIA IT Operations Specialist (CIOS)</h4>
+      <p>Required: A+ AND Network+ | Foundation stackable credential</p>
     </div>
   </div>
-</div>
-
-<div class="cert-category">
-  <h3>🌐 Networking & Systems</h3>
-  <div class="cert-grid">
-    <div class="cert-item">
-      <h4>CompTIA Network+</h4>
-      <p>Network architecture, operations, security, and troubleshooting</p>
-      <span class="cert-meta">Expires: 2025</span>
-    </div>
-    <div class="cert-item">
-      <h4>CompTIA A+</h4>
-      <p>Hardware, operating systems, software troubleshooting, and security</p>
-      <span class="cert-meta">Expires: 2025</span>
-    </div>
-    <div class="cert-item">
-      <h4>Cisco Certified Technician</h4>
-      <p>Cisco routing and switching, network troubleshooting</p>
-      <span class="cert-meta">Active</span>
-    </div>
-  </div>
-</div>
-
-<div class="cert-category">
-  <h3>📊 Project Management & Analytics</h3>
-  <div class="cert-grid">
-    <div class="cert-item">
-      <h4>Google Project Management Certificate</h4>
-      <p>Agile, Scrum, Waterfall methodologies, stakeholder management, risk analysis</p>
-      <span class="cert-meta">Completed: 2024 | 6-month program</span>
-    </div>
-    <div class="cert-item">
-      <h4>CompTIA Project+</h4>
-      <p>IT project lifecycle, communication, resources, and stakeholder management</p>
-      <span class="cert-meta">Lifetime certification</span>
-    </div>
-    <div class="cert-item">
-      <h4>Google Data Analytics Certificate</h4>
-      <p>SQL, R, Tableau, data cleaning, visualization, and analysis</p>
-      <span class="cert-meta">Completed: 2024</span>
-    </div>
-  </div>
-</div>
-
-<div class="cert-category">
-  <h3>🤖 AI & Emerging Tech</h3>
-  <div class="cert-grid">
-    <div class="cert-item">
-      <h4>Google AI Essentials</h4>
-      <p>AI fundamentals, machine learning concepts, responsible AI, practical applications</p>
-      <span class="cert-meta">Completed: 2024</span>
-    </div>
-  </div>
-</div>
-
-<div class="cert-category">
-  <h3>💼 Vendor & Productivity</h3>
-  <div class="cert-grid">
-    <div class="cert-item">
-      <h4>Apple Certified Support Professional</h4>
-      <p>macOS support, deployment, and troubleshooting for enterprise</p>
-      <span class="cert-meta">Active</span>
-    </div>
-    <div class="cert-item">
-      <h4>Microsoft Office Specialist</h4>
-      <p>Advanced Excel, Word, PowerPoint, and Outlook proficiency</p>
-      <span class="cert-meta">Active</span>
-    </div>
+  
+  <h3>📚 Additional Certifications Earned</h3>
+  <div class="earned-list">
+    <ul>
+      <li><strong>CompTIA Security+ ce</strong> - Enterprise security architecture (Expired 2023, renewing 2025)</li>
+      <li><strong>CompTIA Network+ ce</strong> - Network architecture and troubleshooting (Expired 2023)</li>
+      <li><strong>CompTIA Cloud+ ce</strong> - Cloud platforms and virtualization (Expired 2024)</li>
+      <li><strong>Multiple certification renewals</strong> - Demonstrating continuous learning over career</li>
+    </ul>
   </div>
 </div>
 
@@ -187,8 +131,8 @@ permalink: /certifications/
       <div class="timeline-content">
         <h4>Q1 2025: Foundation</h4>
         <ul>
-          <li><strong>AWS Solutions Architect Associate</strong> - Cloud architecture and services</li>
-          <li><strong>CompTIA Security+ (SY0-701)</strong> - Updated security standards</li>
+          <li><strong>CompTIA Security+ (SY0-701)</strong> - Renewing with current standards</li>
+          <li><strong>AWS Solutions Architect Associate</strong> - Cloud architecture mastery</li>
           <li><strong>HashiCorp Terraform Associate</strong> - Infrastructure as Code</li>
         </ul>
       </div>
@@ -199,7 +143,7 @@ permalink: /certifications/
       <div class="timeline-content">
         <h4>Q2 2025: Specialization</h4>
         <ul>
-          <li><strong>Project Management Professional (PMP)</strong> - Advanced PM methodology</li>
+          <li><strong>Project Management Professional (PMP)</strong> - Direct to PMP path</li>
           <li><strong>Certified Kubernetes Administrator (CKA)</strong> - Container orchestration</li>
         </ul>
       </div>
@@ -210,50 +154,54 @@ permalink: /certifications/
       <div class="timeline-content">
         <h4>Q3-Q4 2025: Advanced</h4>
         <ul>
-          <li><strong>AWS Machine Learning Specialty</strong> - ML/AI on AWS</li>
-          <li><strong>Additional stackables based on role requirements</strong></li>
+          <li><strong>AWS Machine Learning Specialty</strong> - ML/AI expertise</li>
+          <li><strong>Additional certifications based on role requirements</strong></li>
         </ul>
       </div>
     </div>
   </div>
 </div>
 
-## Certification Strategy & Value
+## Why Strategic Renewal Matters
 
 <div class="strategy-section">
   <div class="strategy-grid">
     <div class="strategy-item">
-      <h3>🎯 Strategic Selection</h3>
-      <p>Each certification is carefully chosen for maximum career impact, focusing on in-demand skills and complementary knowledge domains.</p>
+      <h3>🎯 Market Alignment</h3>
+      <p>Focusing on AWS and Kubernetes aligns with current market demands better than maintaining legacy certifications</p>
     </div>
     <div class="strategy-item">
-      <h3>💡 Practical Application</h3>
-      <p>Every certification is immediately applied to real-world projects, ensuring knowledge retention and practical expertise.</p>
+      <h3>💰 Financial Wisdom</h3>
+      <p>Saving $1,100+ by not renewing low-ROI certifications to invest in high-impact credentials</p>
     </div>
     <div class="strategy-item">
-      <h3>📈 ROI Focus</h3>
-      <p>Certifications are evaluated for return on investment, with focus on those providing 10x+ value through career advancement.</p>
+      <h3>⏱️ Time Optimization</h3>
+      <p>85+ hours saved by strategic renewal decisions, redirected to AWS and container technologies</p>
     </div>
     <div class="strategy-item">
-      <h3>🔄 Continuous Learning</h3>
-      <p>Maintaining and expanding certifications ensures cutting-edge knowledge and adaptation to industry changes.</p>
+      <h3>🚀 Career Focus</h3>
+      <p>Engineering managers need current cloud and automation skills more than expired networking credentials</p>
     </div>
   </div>
 </div>
 
-## Verification
+## Verification & Credibility
 
-All certifications can be verified through their respective issuing organizations:
-- **CompTIA**: [Verification Portal](https://www.comptia.org/certifications/verify)
-- **Google**: Credly digital badges
-- **Cisco**: Cisco Verification System
-- **Apple**: Apple Certification Records
-- **Microsoft**: Microsoft Certification Dashboard
+<div class="verification-section">
+  <p><strong>All certifications earned are verifiable through official channels:</strong></p>
+  <ul>
+    <li>Active certifications visible on <a href="https://www.credly.com/users/joshuamichaelhall">Credly profile</a></li>
+    <li>CompTIA certifications verifiable through CompTIA's verification system</li>
+    <li>Google certifications backed by completion certificates</li>
+  </ul>
+  
+  <p class="credibility-note">Having earned 17 certifications demonstrates proven ability to achieve any certification required for a role. This track record speaks louder than maintaining every credential indefinitely.</p>
+</div>
 
 <div class="cta-section">
-  <h3>Interested in Certification Strategy?</h3>
-  <p>I offer consultation on certification planning, study strategies, and maximizing ROI from professional certifications.</p>
-  <a href="/contact" class="btn primary-btn">Discuss Certification Strategy</a>
+  <h3>Learn From My Certification Journey</h3>
+  <p>Interested in strategic certification planning? I help professionals avoid the common trap of certification collecting and focus on credentials that accelerate careers.</p>
+  <a href="/coaching" class="btn primary-btn">Explore Certification Coaching</a>
 </div>
 
 <style>
@@ -293,68 +241,38 @@ All certifications can be verified through their respective issuing organization
   margin-top: 0.25rem;
 }
 
-.stackables-section {
+.philosophy-section {
   margin: 3rem 0;
   padding: 2rem;
   background: rgba(3, 102, 214, 0.02);
   border-radius: 12px;
 }
 
-.stackables-intro {
-  text-align: center;
+.philosophy-section > p {
   font-size: 1.1rem;
+  text-align: center;
   margin-bottom: 2rem;
-  color: var(--text-color);
 }
 
-.stackable-cards {
+.philosophy-points {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1.5rem;
 }
 
-.stackable-card {
-  background: var(--bg-content);
-  border: 2px solid var(--border-color);
-  border-radius: 12px;
-  padding: 1.5rem;
-  transition: all 0.3s ease;
+.point-item {
+  text-align: center;
 }
 
-.stackable-card.elite {
-  border-color: var(--primary-color);
-  box-shadow: 0 0 20px rgba(3, 102, 214, 0.1);
-}
-
-.stackable-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
-}
-
-.stackable-card h3 {
-  margin-top: 0;
+.point-item h4 {
   color: var(--primary-color);
+  margin-bottom: 0.5rem;
 }
 
-.stackable-details p {
-  margin: 0.75rem 0;
-  line-height: 1.6;
-}
-
-.cert-category {
-  margin: 2rem 0;
-}
-
-.cert-category h3 {
-  margin-bottom: 1.5rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid var(--border-color);
-}
-
-.cert-grid {
+.active-certs {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
+  margin: 2rem 0;
 }
 
 .cert-item {
@@ -362,23 +280,16 @@ All certifications can be verified through their respective issuing organization
   border: 1px solid var(--border-color);
   border-radius: 8px;
   padding: 1.5rem;
-  transition: box-shadow 0.3s ease;
 }
 
-.cert-item:hover {
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+.cert-item.current {
+  border-color: var(--primary-color);
+  box-shadow: 0 2px 8px rgba(3, 102, 214, 0.1);
 }
 
-.cert-item h4 {
+.cert-item h3 {
   margin-top: 0;
-  margin-bottom: 0.5rem;
   color: var(--primary-color);
-}
-
-.cert-item p {
-  margin: 0.5rem 0;
-  color: var(--text-muted);
-  line-height: 1.5;
 }
 
 .cert-meta {
@@ -389,6 +300,46 @@ All certifications can be verified through their respective issuing organization
   padding: 0.25rem 0.75rem;
   border-radius: 20px;
   margin-top: 0.5rem;
+}
+
+.achievements-section {
+  margin: 3rem 0;
+}
+
+.achievement-intro {
+  text-align: center;
+  margin: 1rem 0 2rem 0;
+  font-style: italic;
+}
+
+.stackable-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.achievement-item {
+  background: rgba(3, 102, 214, 0.05);
+  border: 1px solid var(--primary-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.achievement-item h4 {
+  margin-top: 0;
+  color: var(--primary-color);
+}
+
+.earned-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.earned-list li {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .progress-section {
@@ -443,15 +394,6 @@ All certifications can be verified through their respective issuing organization
   color: var(--primary-color);
 }
 
-.timeline-content ul {
-  margin: 0;
-  padding-left: 1.5rem;
-}
-
-.timeline-content li {
-  margin: 0.5rem 0;
-}
-
 .strategy-section {
   margin: 3rem 0;
 }
@@ -470,6 +412,20 @@ All certifications can be verified through their respective issuing organization
 .strategy-item h3 {
   margin-bottom: 1rem;
   color: var(--primary-color);
+}
+
+.verification-section {
+  background: var(--bg-content);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 2rem 0;
+}
+
+.credibility-note {
+  margin-top: 1.5rem;
+  font-style: italic;
+  text-align: center;
 }
 
 .cta-section {
