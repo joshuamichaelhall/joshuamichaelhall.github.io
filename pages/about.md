@@ -7,15 +7,15 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Engineering leader who earned 12 professional certifications driving platform transformation in financial services. Combining proven P&L management ($250K+ business), team leadership (13+ engineers), and comprehensive technical expertise to deliver enterprise-scale platform infrastructure solutions.</p>
+  <p>Platform Engineering leader building security-first production systems with AI assistance while leveraging 12 professional certifications including 4 rare CompTIA stackables (<1% of IT professionals). Combining $250K P&L management and 13-person team leadership with 5-week production development approach for Engineering Manager roles in financial services.</p>
   
   <p><strong>Technical Leadership & Certification Excellence:</strong> Earned 12 professional certifications including 4 rare CompTIA stackables. Currently maintaining strategic portfolio (Google AI Essentials, Project Management, CompTIA A+, Project+, Cloud Essentials+) while adding AWS Solutions Architect, Security+ renewal, and cloud platform certifications.</p>
   
   <p><strong>Proven Business Impact:</strong> Founded and scaled technology services company with full P&L responsibility, achieving consistent profitability. Led 13-person technical teams through enterprise deployments of 5,000+ systems across multiple locations. Demonstrated expertise in vendor negotiations, stakeholder management, and operational excellence.</p>
   
-  <p><strong>Platform Engineering Focus:</strong> Building comprehensive AWS platform infrastructure expertise with EKS, Lambda, and cloud-native services for enterprise deployments. Creating Infrastructure as Code solutions through Terraform modules optimized for platform workload patterns. Establishing CI/CD automation and Kubernetes orchestration for application deployment at scale.</p>
+  <p><strong>Security-First Platform Engineering:</strong> Building comprehensive AWS platform infrastructure using managed services (Cognito, RDS, ECS) with AI-assisted development for enterprise deployments. Creating Infrastructure as Code solutions through Terraform with security-first architecture. Establishing CI/CD automation and monitoring for production systems with financial services compliance standards.</p>
   
-  <p><strong>Strategic Career Trajectory:</strong> Executing systematic development program targeting Platform Engineering Manager roles at $250-275K in financial services. Preparing for Stanford LEAD and executive education programs to accelerate path to VP Engineering and CTO positions. Geographic flexibility from Arkansas base enables optimal opportunity selection.</p>
+  <p><strong>Strategic Career Trajectory:</strong> Executing 5-week production-first development program targeting Platform Engineering Manager roles at $240-275K in financial services. Generating immediate consulting revenue while building technical credibility. Preparing for Stanford LEAD and executive education programs to accelerate path to VP Engineering and CTO positions.</p>
 </div>
 
 <div class="content-section with-divider">

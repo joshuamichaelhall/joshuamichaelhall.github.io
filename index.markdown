@@ -11,8 +11,8 @@ layout: default
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
         <h2>Certified Engineering Leader | 12 Certifications Earned</h2>
-        <h3 class="hero-tagline">Production Platform Engineering | Building Live Systems | $240-275K Roles</h3>
-        <p>Platform Engineering leader building production systems with AI assistance while leveraging 12 professional certifications including 4 rare CompTIA stackables (<1% of IT professionals). Combining $250K P&L management and 13-person team leadership with hands-on technical delivery for Engineering Manager roles in financial services.</p>
+        <h3 class="hero-tagline">Security-First Platform Engineering | AI-Assisted Development | $240-275K Roles</h3>
+        <p>Platform Engineering leader building security-first production systems with AI assistance (Cursor, Copilot, Claude) while leveraging 12 professional certifications including 4 rare CompTIA stackables (<1% of IT professionals). Combining $250K P&L management and 13-person team leadership with 5-week production development approach for Engineering Manager roles in financial services.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🏆</span> Strategic Certification Portfolio</h4>
           <div class="cert-stats">
@@ -38,7 +38,7 @@ layout: default
             <span class="cert-badge">Security+ (2025)</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Building production systems + consulting at $150/hour | Open to Platform EM roles | Remote-first | Arkansas-based</strong>
+            <strong>🚀 5-week security-first development approach + consulting at $150/hour | Open to Platform EM roles | Remote-first | Arkansas-based</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -78,19 +78,19 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-focus">
-  <h2>Production Platform Engineering</h2>
+  <h2>Security-First Platform Engineering with AI</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Live Production Systems</h3>
-      <p>Building and deploying real SaaS applications using AWS ECS, RDS, and cloud-native services. AI-assisted development with proper monitoring, security, and financial services compliance.</p>
+      <h3>Security-First Production Systems</h3>
+      <p>Building and deploying production SaaS applications using AWS managed services (Cognito, RDS, ECS) with AI-assisted development. Security-first approach with encryption, audit logging, and financial services compliance standards.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>AI-Assisted Development</h3>
-      <p>Leveraging AI tools (Claude, GitHub Copilot, Cursor) to rapidly build production-ready systems. Creating Terraform infrastructure and CI/CD pipelines for automated deployment.</p>
+      <h3>AI Development Workflow</h3>
+      <p>Mastering AI tools (Cursor IDE, GitHub Copilot, Claude) with technical advisor review for production-quality code. 5-week development approach vs traditional 9-month study path for rapid capability demonstration.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Business Value Delivery</h3>
-      <p>Applying P&L management experience to platform engineering. Designing cost-optimized architectures with proper monitoring, governance, and business metrics tracking.</p>
+      <h3>Business Leadership + Technical Delivery</h3>
+      <p>Combining $250K P&L management and 13-person team leadership with hands-on platform engineering. Immediate consulting revenue generation while building technical credibility through production systems.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Security & Compliance</h3>
