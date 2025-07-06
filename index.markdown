@@ -10,14 +10,14 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Certified Engineering Leader | 17 Certifications Earned</h2>
+        <h2>Certified Engineering Leader | 12 Certifications Earned</h2>
         <h3 class="hero-tagline">AI Platform Engineering | Financial Services Focus | $275K+ Roles</h3>
-        <p>Engineering leader who earned 17 professional certifications including rare CompTIA stackables, with proven P&L management ($250K+ business) and 13-person team leadership. Building AWS AI/ML infrastructure expertise for Engineering Manager roles in financial services.</p>
+        <p>Engineering leader who earned 12 professional certifications including 4 rare CompTIA stackables, with proven P&L management ($250K+ business) and 13-person team leadership. Building AWS AI/ML infrastructure expertise for Engineering Manager roles in financial services.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🏆</span> Strategic Certification Portfolio</h4>
           <div class="cert-stats">
             <div class="cert-stat">
-              <span class="cert-number">17</span>
+              <span class="cert-number">12</span>
               <span class="cert-label">Certifications Earned</span>
             </div>
             <div class="cert-stat">
@@ -70,9 +70,9 @@ layout: default
       <div class="metric-detail">Zero failure rate across multiple locations</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">17</div>
+      <div class="metric-value">12</div>
       <div class="metric-label">Certifications Earned</div>
-      <div class="metric-detail">Including rare CompTIA stackables achieved</div>
+      <div class="metric-detail">Including 4 rare CompTIA stackables</div>
     </div>
   </div>
 </div>
@@ -101,7 +101,7 @@ layout: default
 
 <div class="home-section with-divider" id="certification-journey">
   <h2>Strategic Certification Roadmap</h2>
-  <p class="section-intro-text">Strategic certification roadmap building on 17 earned credentials with targeted additions for AI platform engineering excellence.</p>
+  <p class="section-intro-text">Strategic certification roadmap building on 12 earned credentials with targeted additions for AI platform engineering excellence.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
       <h3>Foundation (Current)</h3>

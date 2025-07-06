@@ -8,11 +8,11 @@ permalink: /certifications/
 
 <div class="cert-hero">
   <div class="cert-summary">
-    <h2>17 Professional Certifications Earned</h2>
+    <h2>12 Professional Certifications Earned</h2>
     <p>Strategic certification portfolio management with proven ability to achieve rare credentials</p>
     <div class="cert-stats-row">
       <div class="stat-item">
-        <span class="stat-number">17</span>
+        <span class="stat-number">12</span>
         <span class="stat-label">Total Earned</span>
       </div>
       <div class="stat-item">
@@ -34,7 +34,7 @@ permalink: /certifications/
 ## Strategic Certification Philosophy
 
 <div class="philosophy-section">
-  <p>After earning 17 certifications including rare CompTIA stackables achieved by less than 1% of IT professionals, I've learned that strategic portfolio management matters more than quantity. I maintain certifications aligned with current market needs while adding new ones for emerging technologies.</p>
+  <p>After earning 12 certifications including 4 rare CompTIA stackables achieved by less than 1% of IT professionals, I've learned that strategic portfolio management matters more than quantity. I maintain certifications aligned with current market needs while adding new ones for emerging technologies.</p>
   
   <div class="philosophy-points">
     <div class="point-item">
@@ -43,7 +43,7 @@ permalink: /certifications/
     </div>
     <div class="point-item">
       <h4>💡 Proven Ability</h4>
-      <p>17 certifications earned demonstrates ability to achieve any needed credential</p>
+      <p>12 certifications earned demonstrates ability to achieve any needed credential</p>
     </div>
     <div class="point-item">
       <h4>📈 ROI Focus</h4>
@@ -195,7 +195,7 @@ permalink: /certifications/
     <li>Google certifications backed by completion certificates</li>
   </ul>
   
-  <p class="credibility-note">Having earned 17 certifications demonstrates proven ability to achieve any certification required for a role. This track record speaks louder than maintaining every credential indefinitely.</p>
+  <p class="credibility-note">Having earned 12 certifications demonstrates proven ability to achieve any certification required for a role. This track record speaks louder than maintaining every credential indefinitely.</p>
 </div>
 
 <div class="cta-section">
