@@ -7,9 +7,9 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Engineering leader with 17 professional certifications driving AI platform transformation in financial services. Combining proven P&L management ($250K+ business), team leadership (13+ engineers), and comprehensive technical expertise to deliver enterprise-scale AI/ML infrastructure solutions.</p>
+  <p>Engineering leader who earned 17 professional certifications driving AI platform transformation in financial services. Combining proven P&L management ($250K+ business), team leadership (13+ engineers), and comprehensive technical expertise to deliver enterprise-scale AI/ML infrastructure solutions.</p>
   
-  <p><strong>Technical Leadership & Certification Excellence:</strong> Hold 17 active professional certifications including rare CompTIA stackables (CSCP/CCAP/CSIS/CIOS), Google Project Management, and multiple CompTIA credentials. Currently expanding expertise with AWS Solutions Architect, Security+, and Terraform certifications while preparing for PMP, CKA, and AWS ML Specialty.</p>
+  <p><strong>Technical Leadership & Certification Excellence:</strong> Earned 17 professional certifications including rare CompTIA stackables achieved. Currently maintaining strategic portfolio (Google AI Essentials, Project Management, CompTIA A+, Project+, Cloud Essentials+) while adding AWS Solutions Architect, Security+ renewal, and cloud platform certifications.</p>
   
   <p><strong>Proven Business Impact:</strong> Founded and scaled technology services company with full P&L responsibility, achieving consistent profitability. Led 13-person technical teams through enterprise deployments of 5,000+ systems across multiple locations. Demonstrated expertise in vendor negotiations, stakeholder management, and operational excellence.</p>
   
@@ -22,54 +22,36 @@ permalink: /about/
   <h2>Certification Portfolio & Technical Excellence</h2>
   
   <div class="certifications-section">
-    <h3>Active Professional Certifications (17)</h3>
+    <h3>Certification Achievement Portfolio</h3>
     <div class="cert-categories">
       <div class="cert-category">
-        <h4>CompTIA Security Stack</h4>
+        <h4>Currently Active (5)</h4>
         <ul class="cert-list">
-          <li><strong>CompTIA Security+</strong> - Enterprise security architecture</li>
-          <li><strong>CompTIA Server+</strong> - Infrastructure management</li>
-          <li><strong>CompTIA Cloud Essentials+</strong> - Cloud strategy</li>
-          <li><strong>CompTIA IT Operations Specialist (CIOS)</strong> - Stackable credential</li>
-          <li><strong>CompTIA Secure Cloud Professional (CSCP)</strong> - Advanced stackable</li>
-          <li><strong>CompTIA Cloud Admin Professional (CCAP)</strong> - Expert stackable</li>
-          <li><strong>CompTIA Systems Security Administrator (CSIS)</strong> - Elite stackable</li>
+          <li><strong>Google AI Essentials</strong> - AI/ML fundamentals (2024)</li>
+          <li><strong>Google Project Management Certificate</strong> - Agile/Waterfall methodologies (2023)</li>
+          <li><strong>CompTIA A+</strong> - Hardware and OS fundamentals (Active until 2026)</li>
+          <li><strong>CompTIA Project+</strong> - IT project management (Lifetime)</li>
+          <li><strong>CompTIA Cloud Essentials+</strong> - Cloud strategy (Lifetime)</li>
         </ul>
       </div>
       
       <div class="cert-category">
-        <h4>CompTIA Infrastructure</h4>
+        <h4>Strategic Achievements (12 Earned)</h4>
         <ul class="cert-list">
-          <li><strong>CompTIA A+</strong> - Hardware and OS fundamentals</li>
-          <li><strong>CompTIA Network+</strong> - Network architecture</li>
-          <li><strong>CompTIA Project+</strong> - IT project management</li>
+          <li><strong>CompTIA Stackables Achieved:</strong> CSCP, CCAP, CSIS, CIOS - Rare credentials achieved by <1% of IT professionals</li>
+          <li><strong>CompTIA Security+</strong> - Enterprise security (Expired 2023, renewing 2025)</li>
+          <li><strong>CompTIA Network+</strong> - Network architecture (Expired 2023)</li>
+          <li><strong>CompTIA Cloud+</strong> - Cloud platforms (Expired 2024)</li>
+          <li><strong>Historical Achievements:</strong> Multiple certification renewals demonstrating continuous learning</li>
         </ul>
       </div>
       
-      <div class="cert-category">
-        <h4>Project Management & Business</h4>
-        <ul class="cert-list">
-          <li><strong>Google Project Management Certificate</strong> - Agile/Waterfall methodologies</li>
-          <li><strong>Google Data Analytics Certificate</strong> - Data-driven decisions</li>
-          <li><strong>Google Cybersecurity Certificate</strong> - Security fundamentals</li>
-          <li><strong>Google AI Essentials</strong> - AI/ML applications</li>
-          <li><strong>Microsoft Office Specialist</strong> - Advanced productivity</li>
-        </ul>
-      </div>
-      
-      <div class="cert-category">
-        <h4>Vendor & Specialized</h4>
-        <ul class="cert-list">
-          <li><strong>Apple Certified Support Professional</strong> - Enterprise Mac support</li>
-          <li><strong>Cisco Certified Technician</strong> - Network troubleshooting</li>
-        </ul>
-      </div>
     </div>
     
     <h3>In-Progress Certifications (2025)</h3>
     <ul class="cert-list in-progress">
       <li><strong>AWS Solutions Architect Associate</strong> - Cloud architecture mastery</li>
-      <li><strong>CompTIA Security+ (SY0-701)</strong> - Current security standards</li>
+      <li><strong>CompTIA Security+ (SY0-701)</strong> - Renewing for current standards</li>
       <li><strong>HashiCorp Terraform Associate</strong> - Infrastructure as Code</li>
       <li><strong>Project Management Professional (PMP)</strong> - Advanced PM certification</li>
       <li><strong>Certified Kubernetes Administrator</strong> - Container orchestration</li>

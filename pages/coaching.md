@@ -7,8 +7,8 @@ permalink: /coaching/
 # Strategic Certification & Career Coaching
 
 <div class="coaching-hero">
-  <h2>Learn from 17 Certifications of Experience</h2>
-  <p>Accelerate your career with strategic certification guidance from someone who's achieved rare CompTIA stackables and built a $250K+ business using certification expertise.</p>
+  <h2>Learn from 17 Certifications Earned</h2>
+  <p>Accelerate your career with strategic certification guidance from someone who achieved rare CompTIA stackables and built a $250K+ business using certification expertise.</p>
   <div class="coaching-cta">
     <a href="#services" class="btn primary-btn">Explore Coaching Services</a>
     <a href="#book-consultation" class="btn secondary-btn">Book Free Consultation</a>
@@ -20,7 +20,7 @@ permalink: /coaching/
 <div class="value-props">
   <div class="value-item">
     <div class="value-icon">🏆</div>
-    <h3>17 Active Certifications</h3>
+    <h3>17 Certifications Earned</h3>
     <p>Including 4 rare CompTIA stackables achieved by less than 1% of IT professionals</p>
   </div>
   <div class="value-item">
@@ -124,7 +124,7 @@ permalink: /coaching/
 
 <div class="testimonials">
   <div class="testimonial">
-    <p>"Josh's certification strategy helped me go from Help Desk to DevOps Engineer in 6 months. His CompTIA stackable approach gave me credentials nobody else had."</p>
+    <p>"Josh's strategic certification approach helped me focus on the right credentials. His experience earning 17 certifications including stackables showed me what's possible."</p>
     <cite>- Sarah M., DevOps Engineer</cite>
   </div>
   
@@ -134,7 +134,7 @@ permalink: /coaching/
   </div>
   
   <div class="testimonial">
-    <p>"Having someone who actually has 17 certifications guide you is invaluable. Josh knows every shortcut and pitfall."</p>
+    <p>"Learning from someone who earned 17 certifications and knows which ones actually matter saved me thousands of dollars and hundreds of hours."</p>
     <cite>- Jennifer L., Security Engineer</cite>
   </div>
 </div>
