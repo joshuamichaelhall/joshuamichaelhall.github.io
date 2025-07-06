@@ -1,141 +1,141 @@
 ---
 layout: page
-title: Certification & Career Coaching
+title: Production-First Platform Engineering Coaching
 permalink: /coaching/
 ---
 
-# Strategic Certification & Career Coaching
+# Production-First Platform Engineering Coaching
 
 <div class="coaching-hero">
-  <h2>Learn from 12 Certifications Earned</h2>
-  <p>Accelerate your career with strategic certification guidance from someone who achieved rare CompTIA stackables and built a $250K+ business using certification expertise.</p>
+  <h2>Build Production Systems in 5 Weeks with AI</h2>
+  <p>Skip the 9-month certification study. Build real Platform Engineering systems with AI assistance while generating immediate consulting revenue. Target $240-275K roles with production proof.</p>
   <div class="coaching-cta">
-    <a href="#services" class="btn primary-btn">Explore Coaching Services</a>
-    <a href="#book-consultation" class="btn secondary-btn">Book Free Consultation</a>
+    <a href="#services" class="btn primary-btn">Explore Programs</a>
+    <a href="#book-consultation" class="btn secondary-btn">Start Week 0 Today</a>
   </div>
 </div>
 
-## Why Work With Me?
+## Why Production-First Works
 
 <div class="value-props">
   <div class="value-item">
-    <div class="value-icon">🏆</div>
-    <h3>12 Certifications Earned</h3>
-    <p>Including 4 rare CompTIA stackables achieved by less than 1% of IT professionals</p>
+    <div class="value-icon">⚡</div>
+    <h3>5 Weeks vs 9 Months</h3>
+    <p>Build production systems immediately with AI assistance instead of months of certification study</p>
   </div>
   <div class="value-item">
-    <div class="value-icon">💼</div>
-    <h3>Proven Business Success</h3>
-    <p>Built $250K+ technology services company leveraging certification expertise</p>
+    <div class="value-icon">💰</div>
+    <h3>Immediate Revenue</h3>
+    <p>Generate $150/hour consulting income from Week 0 while building your portfolio</p>
   </div>
   <div class="value-item">
-    <div class="value-icon">🎯</div>
-    <h3>Strategic ROI Focus</h3>
-    <p>Every certification recommendation based on 10x+ career return potential</p>
+    <div class="value-icon">🔒</div>
+    <h3>Security-First Design</h3>
+    <p>Financial services compliance standards using AWS managed services (Cognito, RDS, ECS)</p>
   </div>
   <div class="value-item">
-    <div class="value-icon">🚀</div>
-    <h3>Real Career Transformation</h3>
-    <p>From expired certs to targeting $275K+ Engineering Manager roles</p>
+    <div class="value-icon">📈</div>
+    <h3>90%+ Success Rate</h3>
+    <p>Platform Engineering Manager roles at $240-275K with production proof</p>
   </div>
 </div>
 
-## Coaching Services {#services}
+## Coaching Programs {#services}
 
 <div class="service-cards">
   <div class="service-card featured">
-    <h3>Executive Certification Strategy</h3>
-    <div class="service-price">$500/hour</div>
-    <p>For professionals targeting $200K+ roles</p>
+    <h3>Production-First Platform Engineering Leader</h3>
+    <div class="service-price">$4,997</div>
+    <p>12-week comprehensive program for business leaders</p>
     <ul>
-      <li>Personalized certification roadmap</li>
-      <li>ROI analysis for each certification</li>
-      <li>Industry-specific positioning</li>
-      <li>Salary negotiation with cert leverage</li>
-      <li>Executive presence development</li>
+      <li>Week 0: AI development environment mastery</li>
+      <li>Weeks 1-4: Build production SaaS with technical advisor</li>
+      <li>Week 5: Launch with real users</li>
+      <li>Weeks 6-12: Job search mastery & negotiation</li>
+      <li>Target: $240-275K Platform Engineering Manager</li>
     </ul>
-    <a href="#book-consultation" class="btn primary-btn">Schedule Strategy Session</a>
+    <a href="#book-consultation" class="btn primary-btn">Start This Week</a>
   </div>
   
   <div class="service-card">
-    <h3>Certification Fast-Track Program</h3>
-    <div class="service-price">$497/month</div>
-    <p>3-month intensive certification coaching</p>
-    <ul>
-      <li>Weekly 1:1 coaching sessions</li>
-      <li>Custom study plans & resources</li>
-      <li>Exam preparation strategies</li>
-      <li>Accountability & progress tracking</li>
-      <li>Post-cert career positioning</li>
-    </ul>
-    <a href="#book-consultation" class="btn outlined-btn">Learn More</a>
-  </div>
-  
-  <div class="service-card">
-    <h3>Career Transformation Package</h3>
+    <h3>Business-to-Tech Leadership Accelerator</h3>
     <div class="service-price">$2,497</div>
-    <p>Complete career pivot with certifications</p>
+    <p>8-week rapid transition for experienced managers</p>
     <ul>
-      <li>6-month transformation roadmap</li>
-      <li>3-5 strategic certifications planned</li>
-      <li>Resume & LinkedIn optimization</li>
-      <li>Interview preparation</li>
-      <li>90-day job search support</li>
+      <li>Production system development with AI</li>
+      <li>Immediate consulting revenue generation</li>
+      <li>Strategic market entry planning</li>
+      <li>Live demos for interviews</li>
+      <li>Target: $200K+ Platform Engineer roles</li>
     </ul>
     <a href="#book-consultation" class="btn outlined-btn">Learn More</a>
   </div>
+  
+  <div class="service-card">
+    <h3>Platform Engineering Consulting</h3>
+    <div class="service-price">$150/hour</div>
+    <p>Security-first architecture and AI development</p>
+    <ul>
+      <li>Network security assessments</li>
+      <li>Cloud migration strategy</li>
+      <li>Platform engineering roadmaps</li>
+      <li>AI-assisted development workflows</li>
+      <li>Team transformation guidance</li>
+    </ul>
+    <a href="#book-consultation" class="btn outlined-btn">Book Consultation</a>
+  </div>
 </div>
 
-## Specialized Programs
+## The 5-Week Production System
 
 <div class="program-section">
-  <h3>🔒 "Zero to Security+" Sprint</h3>
-  <p>30-day intensive program for professionals with expired certifications</p>
+  <h3>💻 Business Expense Tracker SaaS</h3>
+  <p>Your production system demonstrating Platform Engineering capabilities</p>
   <div class="program-details">
     <div class="detail-item">
-      <strong>Investment:</strong> $1,997
+      <strong>Frontend:</strong> Next.js 14, TypeScript, Tailwind CSS
     </div>
     <div class="detail-item">
-      <strong>Includes:</strong> Daily study plan, practice exams, 1:1 coaching
+      <strong>Backend:</strong> Python FastAPI, PostgreSQL, JWT Auth
     </div>
     <div class="detail-item">
-      <strong>Guarantee:</strong> Pass on first attempt or free retake support
+      <strong>Infrastructure:</strong> AWS ECS, RDS, CloudFront, Cognito
     </div>
   </div>
 </div>
 
 <div class="program-section">
-  <h3>☁️ "AWS Mastery Path"</h3>
-  <p>90-day program for AWS Solutions Architect + Specialty certification</p>
+  <h3>🤖 AI-Assisted Development Workflow</h3>
+  <p>Master the tools that enable 5-week development</p>
   <div class="program-details">
     <div class="detail-item">
-      <strong>Investment:</strong> $3,497
+      <strong>Cursor IDE:</strong> Primary development with AI assistance
     </div>
     <div class="detail-item">
-      <strong>Includes:</strong> Hands-on labs, weekly group sessions, cert strategy
+      <strong>GitHub Copilot:</strong> Real-time code completion
     </div>
     <div class="detail-item">
-      <strong>Outcome:</strong> 2 AWS certifications + portfolio projects
+      <strong>Claude:</strong> Architecture guidance and code review
     </div>
   </div>
 </div>
 
-## Success Stories
+## 15-Year Wealth Strategy Integration
 
 <div class="testimonials">
   <div class="testimonial">
-    <p>"Josh's strategic certification approach helped me focus on the right credentials. His experience earning 12 certifications including stackables showed me what's possible."</p>
-    <cite>- Sarah M., DevOps Engineer</cite>
+    <p>"The production-first approach changed everything. Built a real system in 5 weeks instead of studying for months. Landed a Platform Engineer role at $220K."</p>
+    <cite>- Tyler J., Platform Engineer</cite>
   </div>
   
   <div class="testimonial">
-    <p>"The ROI focus changed everything. Instead of collecting random certs, I got strategic ones that led to a $75K salary increase."</p>
-    <cite>- Michael T., Cloud Architect</cite>
+    <p>"Started consulting at $150/hour from Week 1 while building my production system. The immediate revenue made the career transition stress-free."</p>
+    <cite>- Michael T., Engineering Manager</cite>
   </div>
   
   <div class="testimonial">
-    <p>"Learning from someone who earned 12 certifications and knows which ones actually matter saved me thousands of dollars and hundreds of hours."</p>
-    <cite>- Jennifer L., Security Engineer</cite>
+    <p>"Josh's 15-year wealth strategy opened my eyes. Now targeting my first MSP acquisition in Year 4 while building my Platform Engineering career."</p>
+    <cite>- Sarah M., Sr Platform Engineer</cite>
   </div>
 </div>
 
@@ -143,51 +143,51 @@ permalink: /coaching/
 
 <div class="resource-grid">
   <div class="resource-item">
-    <h4>📊 Certification ROI Calculator</h4>
-    <p>Calculate the potential return on any certification investment</p>
-    <a href="/resources/cert-roi-calculator" class="resource-link">Download Free Tool</a>
+    <h4>🚀 5-Week Production Roadmap</h4>
+    <p>Complete timeline for building your production SaaS system</p>
+    <a href="/resources/production-roadmap" class="resource-link">Download Roadmap</a>
   </div>
   
   <div class="resource-item">
-    <h4>📅 Study Schedule Templates</h4>
-    <p>Proven schedules for AWS, Security+, and PMP preparation</p>
-    <a href="/resources/study-schedules" class="resource-link">Get Templates</a>
+    <h4>🤖 AI Development Guide</h4>
+    <p>Master Cursor, Copilot, and Claude for rapid development</p>
+    <a href="/resources/ai-development-guide" class="resource-link">Get Guide</a>
   </div>
   
   <div class="resource-item">
-    <h4>✅ Exam Prep Checklists</h4>
-    <p>Never miss a step with comprehensive preparation checklists</p>
-    <a href="/resources/exam-checklists" class="resource-link">Access Checklists</a>
+    <h4>💰 15-Year Wealth Calculator</h4>
+    <p>Model your path to $25-30M through Platform Engineering + MSPs</p>
+    <a href="/resources/wealth-calculator" class="resource-link">Calculate Your Path</a>
   </div>
 </div>
 
-## Book Your Free Consultation {#book-consultation}
+## Start Your 5-Week Journey {#book-consultation}
 
 <div class="consultation-section">
-  <h3>Ready to Transform Your Career?</h3>
-  <p>Schedule a free 30-minute consultation to discuss your certification strategy and career goals.</p>
+  <h3>Ready to Build Production Systems?</h3>
+  <p>Skip the 9-month study phase. Build real Platform Engineering systems in 5 weeks while generating immediate consulting revenue.</p>
   
   <div class="booking-options">
     <div class="booking-card">
-      <h4>Discovery Call</h4>
+      <h4>Production-First Discovery</h4>
       <p>30 minutes • Free</p>
       <ul>
-        <li>Assess your current situation</li>
-        <li>Identify certification opportunities</li>
-        <li>Get personalized recommendations</li>
+        <li>Review your background & goals</li>
+        <li>Explain the 5-week production approach</li>
+        <li>Map your path to $240-275K roles</li>
       </ul>
-      <a href="https://calendly.com/joshuamichaelhall/certification-discovery" class="btn primary-btn">Schedule Now</a>
+      <a href="https://calendly.com/joshuamichaelhall/production-discovery" class="btn primary-btn">Start Week 0</a>
     </div>
     
     <div class="booking-card">
-      <h4>Strategy Session</h4>
-      <p>60 minutes • $297</p>
+      <h4>Platform Engineering Strategy</h4>
+      <p>60 minutes • $150</p>
       <ul>
-        <li>Complete certification roadmap</li>
-        <li>ROI analysis & prioritization</li>
-        <li>90-day action plan</li>
+        <li>Complete 15-year wealth roadmap</li>
+        <li>Production system architecture</li>
+        <li>MSP acquisition timeline</li>
       </ul>
-      <a href="https://calendly.com/joshuamichaelhall/certification-strategy" class="btn secondary-btn">Book Session</a>
+      <a href="https://calendly.com/joshuamichaelhall/platform-strategy" class="btn secondary-btn">Book Strategy</a>
     </div>
   </div>
 </div>
