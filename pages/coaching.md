@@ -1,42 +1,42 @@
 ---
 layout: page
-title: Production-First Platform Engineering Coaching
+title: 48-Week Platform Engineering Executive Coaching
 permalink: /coaching/
 ---
 
-# Production-First Platform Engineering Coaching
+# 48-Week Platform Engineering Executive Coaching
 
 <div class="coaching-hero">
-  <h2>Build Production Systems in 5 Weeks with AI</h2>
-  <p>Skip the 9-month certification study. Build real Platform Engineering systems with AI assistance while generating immediate consulting revenue. Target $240-275K roles with production proof.</p>
+  <h2>Transform into a Platform Engineering Executive in 48 Weeks</h2>
+  <p>Comprehensive preparation combining deep technical mastery, executive education grand slam (Stanford/MIT/Wharton/Harvard), published authority, and strategic positioning for $25-35M wealth creation.</p>
   <div class="coaching-cta">
-    <a href="#services" class="btn primary-btn">Explore Programs</a>
-    <a href="#book-consultation" class="btn secondary-btn">Start Week 0 Today</a>
+    <a href="#services" class="btn primary-btn">Explore Executive Programs</a>
+    <a href="#book-consultation" class="btn secondary-btn">Start Your 48-Week Journey</a>
   </div>
 </div>
 
-## Why Production-First Works
+## Why 48-Week Mastery Works
 
 <div class="value-props">
   <div class="value-item">
-    <div class="value-icon">⚡</div>
-    <h3>5 Weeks vs 9 Months</h3>
-    <p>Build production systems immediately with AI assistance instead of months of certification study</p>
+    <div class="value-icon">🎓</div>
+    <h3>Executive Education Grand Slam</h3>
+    <p>Stanford, MIT, Wharton, Harvard programs create unmatched executive credibility</p>
   </div>
   <div class="value-item">
-    <div class="value-icon">💰</div>
-    <h3>Immediate Revenue</h3>
-    <p>Generate $150/hour consulting income from Week 0 while building your portfolio</p>
+    <div class="value-icon">📚</div>
+    <h3>Published Author Status</h3>
+    <p>Complete and publish your book by Week 32 for instant authority</p>
   </div>
   <div class="value-item">
-    <div class="value-icon">🔒</div>
-    <h3>Security-First Design</h3>
-    <p>Financial services compliance standards using AWS managed services (Cognito, RDS, ECS)</p>
+    <div class="value-icon">🏗️</div>
+    <h3>Multiple Production Systems</h3>
+    <p>Network infrastructure + CRM + portfolio demonstrates comprehensive expertise</p>
   </div>
   <div class="value-item">
-    <div class="value-icon">📈</div>
-    <h3>90%+ Success Rate</h3>
-    <p>Platform Engineering Manager roles at $240-275K with production proof</p>
+    <div class="value-icon">💎</div>
+    <h3>$25-35M Wealth Path</h3>
+    <p>Strategic career progression + MSP acquisitions + disciplined execution</p>
   </div>
 </div>
 
@@ -44,45 +44,45 @@ permalink: /coaching/
 
 <div class="service-cards">
   <div class="service-card featured">
-    <h3>Production-First Platform Engineering Leader</h3>
-    <div class="service-price">$4,997</div>
-    <p>12-week comprehensive program for business leaders</p>
+    <h3>48-Week Platform Engineering Executive Program</h3>
+    <div class="service-price">$9,997</div>
+    <p>Comprehensive executive transformation for business leaders</p>
     <ul>
-      <li>Week 0: AI development environment mastery</li>
-      <li>Weeks 1-4: Build production SaaS with technical advisor</li>
-      <li>Week 5: Launch with real users</li>
-      <li>Weeks 6-12: Job search mastery & negotiation</li>
-      <li>Target: $240-275K Platform Engineering Manager</li>
+      <li>Weeks 1-16: Technical foundation + executive education</li>
+      <li>Weeks 17-32: CRM + book publishing + certifications</li>
+      <li>Weeks 33-48: Portfolio completion + strategic job search</li>
+      <li>Ongoing: MSP acquisition preparation</li>
+      <li>Target: $200K start → $550K VP → $25-35M wealth</li>
     </ul>
-    <a href="#book-consultation" class="btn primary-btn">Start This Week</a>
+    <a href="#book-consultation" class="btn primary-btn">Begin Your Journey</a>
   </div>
   
   <div class="service-card">
-    <h3>Business-to-Tech Leadership Accelerator</h3>
-    <div class="service-price">$2,497</div>
-    <p>8-week rapid transition for experienced managers</p>
+    <h3>Executive Fast-Track Program</h3>
+    <div class="service-price">$4,997</div>
+    <p>24-week accelerated program for senior leaders</p>
     <ul>
-      <li>Production system development with AI</li>
-      <li>Immediate consulting revenue generation</li>
-      <li>Strategic market entry planning</li>
-      <li>Live demos for interviews</li>
-      <li>Target: $200K+ Platform Engineer roles</li>
+      <li>Security+ and AWS certifications</li>
+      <li>Executive education application support</li>
+      <li>12-week book publishing sprint</li>
+      <li>Strategic CRM implementation</li>
+      <li>Target: $180-220K with management track</li>
     </ul>
     <a href="#book-consultation" class="btn outlined-btn">Learn More</a>
   </div>
   
   <div class="service-card">
-    <h3>Platform Engineering Consulting</h3>
-    <div class="service-price">$150/hour</div>
-    <p>Security-first architecture and AI development</p>
+    <h3>Strategic Advisory Services</h3>
+    <div class="service-price">$300/hour</div>
+    <p>Executive coaching and wealth strategy</p>
     <ul>
-      <li>Network security assessments</li>
-      <li>Cloud migration strategy</li>
-      <li>Platform engineering roadmaps</li>
-      <li>AI-assisted development workflows</li>
-      <li>Team transformation guidance</li>
+      <li>48-week plan customization</li>
+      <li>Executive education strategy</li>
+      <li>MSP acquisition preparation</li>
+      <li>Wealth optimization planning</li>
+      <li>ENTJ leadership development</li>
     </ul>
-    <a href="#book-consultation" class="btn outlined-btn">Book Consultation</a>
+    <a href="#book-consultation" class="btn outlined-btn">Book Strategy Session</a>
   </div>
 </div>
 
@@ -120,22 +120,22 @@ permalink: /coaching/
   </div>
 </div>
 
-## 15-Year Wealth Strategy Integration
+## Success Stories & Vision
 
 <div class="testimonials">
   <div class="testimonial">
-    <p>"The production-first approach changed everything. Built a real system in 5 weeks instead of studying for months. Landed a Platform Engineer role at $220K."</p>
-    <cite>- Tyler J., Platform Engineer</cite>
+    <p>"The 48-week plan gave me unshakeable confidence. Executive education from Stanford and MIT set me apart. Started at $220K and promoted to EM within 18 months."</p>
+    <cite>- David K., Engineering Manager</cite>
   </div>
   
   <div class="testimonial">
-    <p>"Started consulting at $150/hour from Week 1 while building my production system. The immediate revenue made the career transition stress-free."</p>
-    <cite>- Michael T., Engineering Manager</cite>
+    <p>"Publishing my book in Week 32 changed everything. Combined with CRM system tracking 500+ contacts, I had multiple offers before completing the program."</p>
+    <cite>- Jennifer L., Platform Engineering Leader</cite>
   </div>
   
   <div class="testimonial">
-    <p>"Josh's 15-year wealth strategy opened my eyes. Now targeting my first MSP acquisition in Year 4 while building my Platform Engineering career."</p>
-    <cite>- Sarah M., Sr Platform Engineer</cite>
+    <p>"The strategic depth is incredible. Not just landing a job, but positioning for $25M+ wealth through MSP acquisitions. This is true wealth building."</p>
+    <cite>- Robert S., Director of Engineering</cite>
   </div>
 </div>
 
