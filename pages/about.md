@@ -15,7 +15,7 @@ permalink: /about/
   
   <p><strong>AI Platform Engineering Focus:</strong> Building comprehensive AWS AI/ML infrastructure expertise with SageMaker, Bedrock, and Comprehend for enterprise deployments. Creating Infrastructure as Code solutions through Terraform modules optimized for AI workload patterns. Establishing CI/CD automation and Kubernetes orchestration for ML model deployment at scale.</p>
   
-  <p><strong>Strategic Career Trajectory:</strong> Executing systematic development program targeting Engineering Manager roles at $220-250K in financial services. Preparing for Stanford LEAD and executive education programs to accelerate path to VP Engineering and CTO positions. Geographic flexibility from Arkansas base enables optimal opportunity selection.</p>
+  <p><strong>Strategic Career Trajectory:</strong> Executing systematic development program targeting Engineering Manager roles at $275K+ in financial services. Preparing for Stanford LEAD and executive education programs to accelerate path to VP Engineering and CTO positions. Geographic flexibility from Arkansas base enables optimal opportunity selection.</p>
 </div>
 
 <div class="content-section with-divider">
