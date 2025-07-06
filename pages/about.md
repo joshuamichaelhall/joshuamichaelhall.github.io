@@ -7,15 +7,15 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Engineering leader who earned 12 professional certifications driving AI platform transformation in financial services. Combining proven P&L management ($250K+ business), team leadership (13+ engineers), and comprehensive technical expertise to deliver enterprise-scale AI/ML infrastructure solutions.</p>
+  <p>Engineering leader who earned 12 professional certifications driving platform transformation in financial services. Combining proven P&L management ($250K+ business), team leadership (13+ engineers), and comprehensive technical expertise to deliver enterprise-scale platform infrastructure solutions.</p>
   
   <p><strong>Technical Leadership & Certification Excellence:</strong> Earned 12 professional certifications including 4 rare CompTIA stackables. Currently maintaining strategic portfolio (Google AI Essentials, Project Management, CompTIA A+, Project+, Cloud Essentials+) while adding AWS Solutions Architect, Security+ renewal, and cloud platform certifications.</p>
   
   <p><strong>Proven Business Impact:</strong> Founded and scaled technology services company with full P&L responsibility, achieving consistent profitability. Led 13-person technical teams through enterprise deployments of 5,000+ systems across multiple locations. Demonstrated expertise in vendor negotiations, stakeholder management, and operational excellence.</p>
   
-  <p><strong>AI Platform Engineering Focus:</strong> Building comprehensive AWS AI/ML infrastructure expertise with SageMaker, Bedrock, and Comprehend for enterprise deployments. Creating Infrastructure as Code solutions through Terraform modules optimized for AI workload patterns. Establishing CI/CD automation and Kubernetes orchestration for ML model deployment at scale.</p>
+  <p><strong>Platform Engineering Focus:</strong> Building comprehensive AWS platform infrastructure expertise with EKS, Lambda, and cloud-native services for enterprise deployments. Creating Infrastructure as Code solutions through Terraform modules optimized for platform workload patterns. Establishing CI/CD automation and Kubernetes orchestration for application deployment at scale.</p>
   
-  <p><strong>Strategic Career Trajectory:</strong> Executing systematic development program targeting Engineering Manager roles at $275K+ in financial services. Preparing for Stanford LEAD and executive education programs to accelerate path to VP Engineering and CTO positions. Geographic flexibility from Arkansas base enables optimal opportunity selection.</p>
+  <p><strong>Strategic Career Trajectory:</strong> Executing systematic development program targeting Platform Engineering Manager roles at $250-275K in financial services. Preparing for Stanford LEAD and executive education programs to accelerate path to VP Engineering and CTO positions. Geographic flexibility from Arkansas base enables optimal opportunity selection.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -86,8 +86,8 @@ permalink: /about/
   <h2>Technical Expertise & Development Focus</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>AWS AI/ML Infrastructure</h3>
-      <p>Building production-ready solutions with SageMaker, Bedrock, and Comprehend. Focus on financial services compliance and multi-account architectures.</p>
+      <h3>AWS Platform Infrastructure</h3>
+      <p>Building production-ready solutions with EKS, Lambda, and cloud-native services. Focus on financial services compliance and multi-account architectures.</p>
     </div>
     <div class="expertise-item">
       <h3>Infrastructure as Code</h3>
@@ -98,8 +98,8 @@ permalink: /about/
       <p>Designing security frameworks for regulated environments. Expertise in PCI DSS, SOX, and financial services compliance requirements.</p>
     </div>
     <div class="expertise-item">
-      <h3>MLOps & Automation</h3>
-      <p>Building CI/CD pipelines for ML model deployment. Implementing monitoring and governance for production AI systems.</p>
+      <h3>Platform Automation</h3>
+      <p>Building CI/CD pipelines for application deployment. Implementing monitoring and governance for production platform systems.</p>
     </div>
     <div class="expertise-item">
       <h3>Cost Optimization</h3>

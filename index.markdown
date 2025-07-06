@@ -11,8 +11,8 @@ layout: default
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
         <h2>Certified Engineering Leader | 12 Certifications Earned</h2>
-        <h3 class="hero-tagline">AI Platform Engineering | Financial Services Focus | $275K+ Roles</h3>
-        <p>Engineering leader who earned 12 professional certifications including 4 rare CompTIA stackables, with proven P&L management ($250K+ business) and 13-person team leadership. Building AWS AI/ML infrastructure expertise for Engineering Manager roles in financial services.</p>
+        <h3 class="hero-tagline">Platform Engineering | Financial Services Focus | $250-275K Roles</h3>
+        <p>Engineering leader who earned 12 professional certifications including 4 rare CompTIA stackables (<1% of IT professionals), with proven P&L management ($250K+ business) and 13-person team leadership. Building AWS platform infrastructure expertise for Engineering Manager roles in financial services.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🏆</span> Strategic Certification Portfolio</h4>
           <div class="cert-stats">
@@ -78,19 +78,19 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-focus">
-  <h2>AI Platform Engineering Expertise</h2>
+  <h2>Platform Engineering Expertise</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>AWS AI/ML Infrastructure</h3>
-      <p>Building production-ready solutions with SageMaker, Bedrock, and Comprehend. Multi-account architectures optimized for financial services compliance and scale.</p>
+      <h3>AWS Platform Infrastructure</h3>
+      <p>Building production-ready platform solutions with EKS, Lambda, and cloud-native services. Multi-account architectures optimized for financial services compliance and scale.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Infrastructure as Code</h3>
       <p>Creating Terraform modules for automated AI workload deployment. GitOps workflows and policy-as-code for regulated environments.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>MLOps & Automation</h3>
-      <p>Designing CI/CD pipelines for ML model lifecycle. Implementing monitoring, governance, and drift detection for production AI systems.</p>
+      <h3>Platform Automation</h3>
+      <p>Designing CI/CD pipelines for application lifecycle. Implementing monitoring, governance, and observability for production platform systems.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Security & Compliance</h3>
@@ -101,7 +101,7 @@ layout: default
 
 <div class="home-section with-divider" id="certification-journey">
   <h2>Strategic Certification Roadmap</h2>
-  <p class="section-intro-text">Strategic certification roadmap building on 12 earned credentials with targeted additions for AI platform engineering excellence.</p>
+  <p class="section-intro-text">Strategic certification roadmap building on 12 earned credentials with targeted additions for platform engineering excellence.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
       <h3>Foundation (Current)</h3>
@@ -116,7 +116,7 @@ layout: default
       <ul>
         <li>Project Management Professional (PMP)</li>
         <li>Certified Kubernetes Administrator</li>
-        <li>MLOps Pipeline Development</li>
+        <li>Platform Engineering Foundations</li>
       </ul>
     </div>
     <div class="roadmap-phase">
@@ -132,7 +132,7 @@ layout: default
 
 <div class="home-section with-divider" id="projects">
   <h2>Technical Portfolio</h2>
-  <p class="section-intro-text">Production-ready projects demonstrating AWS infrastructure, MLOps automation, and enterprise-scale platform engineering.</p>
+  <p class="section-intro-text">Production-ready projects demonstrating AWS infrastructure, platform automation, and enterprise-scale platform engineering.</p>
   <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
@@ -141,7 +141,7 @@ layout: default
 
 <div class="home-section no-divider" id="thought-leadership">
   <h2>Technical Insights & Thought Leadership</h2>
-  <p class="section-intro-text">Sharing expertise on certification strategy, AI platform engineering, and leadership development.</p>
+  <p class="section-intro-text">Sharing expertise on certification strategy, platform engineering, and leadership development.</p>
   <div id="devto-articles"></div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">Read All Articles</a>
