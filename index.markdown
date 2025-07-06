@@ -10,78 +10,141 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Experienced Leader Transitioning to AI Platform Engineering</h2>
-        <h3 class="hero-tagline">Comprehensive Development Program | AWS AI/ML & MLOps Focus | Remote-First</h3>
-        <p>Experienced business leader executing comprehensive AI platform engineering development, combining 5+ years of P&L management and team leadership with systematic technical mastery. Building AWS AI/ML infrastructure expertise through intensive preparation targeting DevOps Engineer with AI Enhancement roles in financial services.</p>
-        <div class="certification-timeline">
-          <h4><span class="timeline-icon">🎯</span> Comprehensive AI Platform Engineering Development</h4>
-          <div class="timeline-items">
-            <div class="timeline-item">
-              <span class="timeline-date">Phase 1</span>
-              <span class="timeline-cert">AWS Solutions Architect + Security+ + Terraform</span>
-              <span class="timeline-status planned">Foundation Mastery</span>
+        <h2>Certified Engineering Leader | 17 Professional Certifications</h2>
+        <h3 class="hero-tagline">AI Platform Engineering | Financial Services Focus | $275K+ Roles</h3>
+        <p>Engineering leader with rare certification portfolio including CompTIA stackables (CSCP/CCAP/CSIS/CIOS), proven P&L management ($250K+ business), and 13-person team leadership. Building AWS AI/ML infrastructure expertise for Engineering Manager roles in financial services.</p>
+        <div class="certification-highlight">
+          <h4><span class="cert-icon">🏆</span> Certification Excellence</h4>
+          <div class="cert-stats">
+            <div class="cert-stat">
+              <span class="cert-number">17</span>
+              <span class="cert-label">Active Certifications</span>
             </div>
-            <div class="timeline-item">
-              <span class="timeline-date">Phase 2</span>
-              <span class="timeline-cert">CAPM + CKA + MLOps Pipelines</span>
-              <span class="timeline-status planned">Advanced Specialization</span>
+            <div class="cert-stat">
+              <span class="cert-number">4</span>
+              <span class="cert-label">Rare Stackables</span>
             </div>
-            <div class="timeline-item">
-              <span class="timeline-date">Phase 3</span>
-              <span class="timeline-cert">AWS DevOps Pro + AI/ML Specialty</span>
-              <span class="timeline-status planned">Executive Preparation</span>
+            <div class="cert-stat">
+              <span class="cert-number">6</span>
+              <span class="cert-label">In Progress</span>
             </div>
           </div>
+          <div class="featured-certs">
+            <span class="cert-badge">CompTIA CSCP</span>
+            <span class="cert-badge">CompTIA CCAP</span>
+            <span class="cert-badge">Security+</span>
+            <span class="cert-badge">Google PM</span>
+            <span class="cert-badge">AWS SAA (2025)</span>
+            <span class="cert-badge">PMP (2025)</span>
+          </div>
           <div class="availability-notice">
-            <strong>🚀 Systematically building deep AI platform engineering competency for DevOps roles in financial services</strong>
+            <strong>🚀 Open to Engineering Manager opportunities in financial services | Remote-first | Geographic flexibility from Arkansas</strong>
           </div>
         </div>
         <div class="hero-links">
-          <a href="/portfolio" class="btn primary-btn cta-main-btn">View Portfolio</a>
+          <a href="/portfolio" class="btn primary-btn cta-main-btn">View Technical Portfolio</a>
           <a href="https://linkedin.com/in/joshuamichaelhall" class="btn secondary-btn cta-main-btn">Connect on LinkedIn</a>
+          <a href="/certifications" class="btn outlined-btn cta-main-btn">Certification Details</a>
         </div>
       </div>
     </div>
   </div>
 </div>
 
-<div class="home-section with-divider" id="leadership-focus">
-  <h2>Leadership Foundation & AI Platform Development</h2>
+<div class="home-section with-divider" id="leadership-impact">
+  <h2>Proven Leadership & Business Impact</h2>
+  <div class="impact-metrics">
+    <div class="metric-card">
+      <div class="metric-value">$250K+</div>
+      <div class="metric-label">Business P&L Managed</div>
+      <div class="metric-detail">Founded & scaled profitable technology services company</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-value">13</div>
+      <div class="metric-label">Team Members Led</div>
+      <div class="metric-detail">Enterprise deployments at Vanderbilt University</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-value">5,000+</div>
+      <div class="metric-label">Systems Deployed</div>
+      <div class="metric-detail">Zero failure rate across multiple locations</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-value">17</div>
+      <div class="metric-label">Active Certifications</div>
+      <div class="metric-detail">Including 4 rare CompTIA stackables</div>
+    </div>
+  </div>
+</div>
+
+<div class="home-section with-divider" id="technical-focus">
+  <h2>AI Platform Engineering Expertise</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Proven Business Leadership</h3>
-      <p>Founded and scaled technology services company with full P&L responsibility. Led 13-person technical teams through enterprise deployments of 5,000+ systems across multiple locations.</p>
+      <h3>AWS AI/ML Infrastructure</h3>
+      <p>Building production-ready solutions with SageMaker, Bedrock, and Comprehend. Multi-account architectures optimized for financial services compliance and scale.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>AI Platform Engineering Focus</h3>
-      <p>Building comprehensive AWS AI/ML infrastructure expertise including SageMaker, Bedrock, and Comprehend. Developing MLOps pipeline automation for model deployment and scaling.</p>
+      <h3>Infrastructure as Code</h3>
+      <p>Creating Terraform modules for automated AI workload deployment. GitOps workflows and policy-as-code for regulated environments.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Infrastructure as Code Mastery</h3>
-      <p>Creating Terraform modules for AI workload deployment patterns. Establishing CI/CD automation optimized for machine learning model lifecycle management.</p>
+      <h3>MLOps & Automation</h3>
+      <p>Designing CI/CD pipelines for ML model lifecycle. Implementing monitoring, governance, and drift detection for production AI systems.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Business-Driven Technology</h3>
-      <p>Applying P&L management experience to quantify AI ROI and infrastructure cost optimization. Building ML governance expertise for financial services compliance.</p>
+      <h3>Security & Compliance</h3>
+      <p>Expertise in PCI DSS, SOX, and financial regulations. Building automated compliance frameworks and security-first architectures.</p>
+    </div>
+  </div>
+</div>
+
+<div class="home-section with-divider" id="certification-journey">
+  <h2>Strategic Certification Roadmap</h2>
+  <p class="section-intro-text">Systematic development program combining 17 existing certifications with 6 strategic additions for AI platform engineering excellence.</p>
+  <div class="roadmap-phases">
+    <div class="roadmap-phase">
+      <h3>Foundation (Current)</h3>
+      <ul>
+        <li>AWS Solutions Architect Associate</li>
+        <li>CompTIA Security+ Renewal</li>
+        <li>HashiCorp Terraform Associate</li>
+      </ul>
+    </div>
+    <div class="roadmap-phase">
+      <h3>Specialization (Q2 2025)</h3>
+      <ul>
+        <li>Project Management Professional (PMP)</li>
+        <li>Certified Kubernetes Administrator</li>
+        <li>MLOps Pipeline Development</li>
+      </ul>
+    </div>
+    <div class="roadmap-phase">
+      <h3>Advanced (Q3-Q4 2025)</h3>
+      <ul>
+        <li>AWS Machine Learning Specialty</li>
+        <li>Executive Education Programs</li>
+        <li>Stanford Engineering Leadership</li>
+      </ul>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="projects">
-  <h2>Technical Portfolio Development</h2>
-  <p class="section-intro-text">Building production-ready AWS infrastructure projects demonstrating AI service integration, MLOps automation, and enterprise-scale platform engineering with measurable business impact.</p>
+  <h2>Technical Portfolio</h2>
+  <p class="section-intro-text">Production-ready projects demonstrating AWS infrastructure, MLOps automation, and enterprise-scale platform engineering.</p>
   <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
   </div>
 </div>
 
-<div class="home-section no-divider" id="articles">
-  <h2>Learning Journey Insights</h2>
-  <p class="section-intro-text">Documenting technical discoveries, certification progress, and the strategic transition from proven business leadership to AI platform engineering excellence.</p>
+<div class="home-section no-divider" id="thought-leadership">
+  <h2>Technical Insights & Thought Leadership</h2>
+  <p class="section-intro-text">Sharing expertise on certification strategy, AI platform engineering, and leadership development.</p>
   <div id="devto-articles"></div>
   <div class="section-link">
-    <a href="/blog" class="btn outlined-btn">View All Articles</a>
+    <a href="/blog" class="btn outlined-btn">Read All Articles</a>
   </div>
 </div>
 
@@ -146,32 +209,18 @@ layout: default
     margin: 0.5rem 0 1rem 0;
   }
   
-  /* Enhanced Certification Timeline */
-  .certification-timeline {
+  /* Certification Highlight */
+  .certification-highlight {
     background: var(--bg-content);
     border: 2px solid var(--primary-color);
     border-radius: 12px;
     padding: 2rem;
     margin: 2rem auto;
-    max-width: 700px;
+    max-width: 800px;
     box-shadow: var(--card-shadow);
-    position: relative;
-    overflow: hidden;
   }
   
-  .certification-timeline::before {
-    content: '';
-    position: absolute;
-    top: -50%;
-    right: -50%;
-    width: 200%;
-    height: 200%;
-    background: radial-gradient(circle, var(--primary-color) 0%, transparent 70%);
-    opacity: 0.05;
-    pointer-events: none;
-  }
-  
-  .certification-timeline h4 {
+  .certification-highlight h4 {
     margin: 0 0 1.5rem 0;
     font-size: 1.2rem;
     color: var(--primary-color);
@@ -183,111 +232,140 @@ layout: default
     gap: 0.5rem;
   }
   
-  .timeline-icon {
+  .cert-icon {
     font-size: 1.4rem;
   }
   
-  .timeline-items {
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
-    margin-bottom: 2rem;
-    position: relative;
-  }
-  
-  /* Remove any pseudo-elements that might create lines */
-  .timeline-items::before,
-  .timeline-items::after,
-  .timeline-item::before,
-  .timeline-item::after {
-    display: none !important;
-  }
-  
-  .timeline-item {
-    display: grid !important;
-    grid-template-columns: 60px 1fr auto;
-    align-items: center;
+  .cert-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
-    padding: 1rem;
-    background: rgba(3, 102, 214, 0.1) !important;
-    border-radius: 8px;
-    border: 2px solid var(--border-color) !important;
-    transition: all 0.3s ease;
-    margin-bottom: 0.75rem;
-    visibility: visible !important;
-    opacity: 1 !important;
-    height: auto !important;
-    min-height: 60px;
-    position: relative;
-    z-index: 1;
+    margin-bottom: 1.5rem;
   }
   
-  .timeline-item:hover {
-    transform: translateX(5px);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    border-color: var(--primary-color);
-  }
-  
-  .timeline-date {
-    font-weight: 700 !important;
-    font-size: 1.1rem !important;
-    color: var(--primary-color) !important;
+  .cert-stat {
     text-align: center;
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    text-decoration: none !important;
+    padding: 1rem;
+    background: rgba(3, 102, 214, 0.05);
+    border-radius: 8px;
   }
   
-  .timeline-cert {
-    font-weight: 600 !important;
-    color: var(--text-color) !important;
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    text-decoration: none !important;
+  .cert-number {
+    display: block;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 0.25rem;
   }
   
-  .timeline-status {
+  .cert-label {
+    display: block;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+  }
+  
+  .featured-certs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .cert-badge {
+    background: var(--primary-color);
+    color: white;
     padding: 0.25rem 0.75rem;
     border-radius: 20px;
-    font-size: 0.85rem !important;
-    font-weight: 600 !important;
-    text-transform: uppercase;
-    display: inline-block !important;
-    white-space: nowrap;
-    visibility: visible !important;
-    opacity: 1 !important;
+    font-size: 0.85rem;
+    font-weight: 600;
   }
   
-  .timeline-status.in-progress {
-    background: rgba(227, 98, 9, 0.15);
-    color: var(--accent-color);
-    border: 1px solid rgba(227, 98, 9, 0.4);
+  .impact-metrics {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
   }
   
-  .timeline-status.planned {
-    background: rgba(3, 102, 214, 0.15);
+  .metric-card {
+    background: var(--bg-content);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .metric-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  }
+  
+  .metric-value {
+    font-size: 2.5rem;
+    font-weight: 700;
     color: var(--primary-color);
-    border: 1px solid rgba(3, 102, 214, 0.4);
+    margin-bottom: 0.5rem;
+  }
+  
+  .metric-label {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  
+  .metric-detail {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    line-height: 1.4;
+  }
+  
+  .roadmap-phases {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  
+  .roadmap-phase {
+    background: var(--bg-content);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+  }
+  
+  .roadmap-phase h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+  }
+  
+  .roadmap-phase ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .roadmap-phase li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--border-color);
+  }
+  
+  .roadmap-phase li:last-child {
+    border-bottom: none;
   }
   
   .availability-notice {
-    margin-top: 2.5rem;
-    padding: 1.5rem;
-    background: linear-gradient(135deg, rgba(var(--primary-color), 0.05) 0%, rgba(var(--primary-color), 0.1) 100%);
-    border-radius: 12px;
-    border: 2px solid var(--primary-color);
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background: linear-gradient(135deg, rgba(3, 102, 214, 0.1) 0%, rgba(3, 102, 214, 0.05) 100%);
+    border-radius: 8px;
     text-align: center;
-    clear: both;
-    position: relative;
-    z-index: 2;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   }
   
   .availability-notice strong {
     color: var(--primary-color);
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
   
   .hero-links {
@@ -295,6 +373,7 @@ layout: default
     gap: 1rem;
     margin-top: 2rem;
     justify-content: center;
+    flex-wrap: wrap;
   }
   
   @media (max-width: 768px) {
@@ -308,100 +387,27 @@ layout: default
       height: 180px;
     }
     
-    .certification-timeline {
-      padding: 1.5rem;
-      margin: 1.5rem auto;
-    }
-    
-    .timeline-item {
+    .cert-stats {
       grid-template-columns: 1fr;
-      gap: 0.5rem;
-      text-align: left;
+      gap: 0.75rem;
     }
     
-    .timeline-date {
-      font-size: 0.9rem !important;
-      margin-bottom: 0.25rem;
-      text-align: left;
+    .impact-metrics {
+      grid-template-columns: 1fr;
     }
     
-    .timeline-cert {
-      margin-bottom: 0.5rem;
-    }
-    
-    .timeline-status {
-      justify-self: start;
-      margin-top: 0;
+    .roadmap-phases {
+      grid-template-columns: 1fr;
     }
     
     .hero-links {
-      flex-wrap: wrap;
-    }
-  }
-  
-  @media (max-width: 480px) {
-    .hero-layout {
-      gap: 1rem;
-      padding: 1rem;
-    }
-    
-    .hero-image {
-      width: 150px;
-      height: 150px;
-    }
-    
-    .hero-links {
-      gap: 0.5rem;
+      flex-direction: column;
+      align-items: center;
     }
     
     .hero-links .btn {
-      font-size: 0.9rem;
-      padding: 0.6rem 1rem;
-    }
-  }
-</style>
-
-<style>
-  .career-phases {
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-    max-width: 1000px;
-    margin: 0 auto;
-  }
-  
-  .career-phase {
-    background: var(--bg-content);
-    border: 1px solid var(--border-color);
-    border-radius: 12px;
-    padding: 2rem;
-    transition: box-shadow 0.3s ease;
-  }
-  
-  .career-phase:hover {
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
-  }
-  
-  .phase-content h3 {
-    margin-top: 0;
-    margin-bottom: 1rem;
-    color: var(--primary-color);
-    font-size: 1.4rem;
-    font-weight: 600;
-  }
-  
-  .phase-content p {
-    margin-bottom: 1.5rem;
-    line-height: 1.6;
-  }
-  
-  @media (max-width: 768px) {
-    .career-phases {
-      gap: 1.5rem;
-    }
-    
-    .career-phase {
-      padding: 1.5rem;
+      width: 100%;
+      max-width: 300px;
     }
   }
 </style>

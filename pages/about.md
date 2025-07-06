@@ -7,115 +7,148 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Experienced business leader executing comprehensive AI platform engineering development program, transitioning from proven P&L management and team leadership into DevOps Engineer with AI Enhancement roles. Combining 5+ years of business operations expertise with systematic technical mastery and sustainable high-performance practices for financial services AI transformation.</p>
+  <p>Engineering leader with 17 professional certifications driving AI platform transformation in financial services. Combining proven P&L management ($250K+ business), team leadership (13+ engineers), and comprehensive technical expertise to deliver enterprise-scale AI/ML infrastructure solutions.</p>
   
-  <p><strong>Leadership Foundation & Business Acumen:</strong> Founded and scaled technology services company with full P&L responsibility. Led 13-person technical teams through enterprise deployments of 5,000+ systems across multiple locations. Demonstrated success in cross-functional collaboration, vendor management, and stakeholder communication at scale. Built sustainable operational processes enabling consistent growth and profitability.</p>
+  <p><strong>Technical Leadership & Certification Excellence:</strong> Hold 17 active professional certifications including rare CompTIA stackables (CSCP/CCAP/CSIS/CIOS), Google Project Management, and multiple CompTIA credentials. Currently expanding expertise with AWS Solutions Architect, Security+, and Terraform certifications while preparing for PMP, CKA, and AWS ML Specialty.</p>
   
-  <p><strong>Comprehensive AI Platform Engineering Development:</strong> Executing systematic preparation program targeting AWS Solutions Architect, Security+, and Terraform certification in foundation phase. Building toward CAPM, CKA, and MLOps pipeline development for advanced specialization. Culminating in AWS DevOps Professional and AI/ML Specialty certifications with executive communication training and sustainable high-performance methodologies.</p>
+  <p><strong>Proven Business Impact:</strong> Founded and scaled technology services company with full P&L responsibility, achieving consistent profitability. Led 13-person technical teams through enterprise deployments of 5,000+ systems across multiple locations. Demonstrated expertise in vendor negotiations, stakeholder management, and operational excellence.</p>
   
-  <p><strong>Technical Foundation Building:</strong> Developing AWS AI/ML infrastructure expertise with focus on SageMaker, Bedrock, and Comprehend for enterprise deployments. Creating Infrastructure as Code capabilities through Terraform modules optimized for AI workload patterns. Establishing CI/CD automation and Kubernetes orchestration for ML model deployment. Strong software development foundation from Launch School backend curriculum.</p>
+  <p><strong>AI Platform Engineering Focus:</strong> Building comprehensive AWS AI/ML infrastructure expertise with SageMaker, Bedrock, and Comprehend for enterprise deployments. Creating Infrastructure as Code solutions through Terraform modules optimized for AI workload patterns. Establishing CI/CD automation and Kubernetes orchestration for ML model deployment at scale.</p>
   
-  <p><strong>Career Transition Strategy:</strong> Systematically building deep AI platform engineering competency through intensive development program. Targeting DevOps Engineer with AI Enhancement roles in financial services. Focused on applying proven leadership experience where business acumen and technical AI delivery create strategic organizational value.</p>
+  <p><strong>Strategic Career Trajectory:</strong> Executing systematic development program targeting Engineering Manager roles at $275K+ in financial services. Preparing for Stanford LEAD and executive education programs to accelerate path to VP Engineering and CTO positions. Geographic flexibility from Arkansas base enables optimal opportunity selection.</p>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Business Leadership & Technical Development</h2>
-  <div class="expertise-grid">
-    <div class="expertise-item">
-      <h3>Proven Team Leadership</h3>
-      <p>5+ years managing technical teams through enterprise deployments. Successfully scaled operations across multiple locations with 13-person teams. Building on this foundation for future MLOps team management.</p>
-    </div>
-    <div class="expertise-item">
-      <h3>AWS AI/ML Development</h3>
-      <p>Building comprehensive infrastructure expertise with SageMaker, Bedrock, and Comprehend. Developing multi-account strategies and ML governance frameworks specifically for financial services compliance.</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Infrastructure Automation</h3>
-      <p>Creating Terraform modules for AI workload deployment patterns. Establishing CI/CD pipelines with GitHub Actions optimized for ML model lifecycle. Focus on scalable, compliant automation.</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Business Value Focus</h3>
-      <p>Applying P&L management experience to infrastructure cost optimization and ROI measurement. Building frameworks to quantify AI implementation value and operational efficiency gains.</p>
-    </div>
-  </div>
-</div>
-
-<div class="content-section with-divider">
-  <h2>Certifications & Professional Development</h2>
+  <h2>Certification Portfolio & Technical Excellence</h2>
   
   <div class="certifications-section">
-    <h3>Current Certifications</h3>
-    <ul class="cert-list">
-      <li><strong>Google Project Management Certificate</strong> - Comprehensive project management methodology and tools</li>
-      <li><strong>CompTIA Project+</strong> - IT project management best practices and methodologies</li>
-      <li><strong>Google AI Essentials</strong> - AI fundamentals and practical applications</li>
-    </ul>
+    <h3>Active Professional Certifications (17)</h3>
+    <div class="cert-categories">
+      <div class="cert-category">
+        <h4>CompTIA Security Stack</h4>
+        <ul class="cert-list">
+          <li><strong>CompTIA Security+</strong> - Enterprise security architecture</li>
+          <li><strong>CompTIA Server+</strong> - Infrastructure management</li>
+          <li><strong>CompTIA Cloud Essentials+</strong> - Cloud strategy</li>
+          <li><strong>CompTIA IT Operations Specialist (CIOS)</strong> - Stackable credential</li>
+          <li><strong>CompTIA Secure Cloud Professional (CSCP)</strong> - Advanced stackable</li>
+          <li><strong>CompTIA Cloud Admin Professional (CCAP)</strong> - Expert stackable</li>
+          <li><strong>CompTIA Systems Security Administrator (CSIS)</strong> - Elite stackable</li>
+        </ul>
+      </div>
+      
+      <div class="cert-category">
+        <h4>CompTIA Infrastructure</h4>
+        <ul class="cert-list">
+          <li><strong>CompTIA A+</strong> - Hardware and OS fundamentals</li>
+          <li><strong>CompTIA Network+</strong> - Network architecture</li>
+          <li><strong>CompTIA Project+</strong> - IT project management</li>
+        </ul>
+      </div>
+      
+      <div class="cert-category">
+        <h4>Project Management & Business</h4>
+        <ul class="cert-list">
+          <li><strong>Google Project Management Certificate</strong> - Agile/Waterfall methodologies</li>
+          <li><strong>Google Data Analytics Certificate</strong> - Data-driven decisions</li>
+          <li><strong>Google Cybersecurity Certificate</strong> - Security fundamentals</li>
+          <li><strong>Google AI Essentials</strong> - AI/ML applications</li>
+          <li><strong>Microsoft Office Specialist</strong> - Advanced productivity</li>
+        </ul>
+      </div>
+      
+      <div class="cert-category">
+        <h4>Vendor & Specialized</h4>
+        <ul class="cert-list">
+          <li><strong>Apple Certified Support Professional</strong> - Enterprise Mac support</li>
+          <li><strong>Cisco Certified Technician</strong> - Network troubleshooting</li>
+        </ul>
+      </div>
+    </div>
     
-    <h3>Comprehensive Development Program</h3>
+    <h3>In-Progress Certifications (2025)</h3>
     <ul class="cert-list in-progress">
-      <li><strong>AWS Solutions Architect Associate</strong> - Foundation phase with hands-on multi-account infrastructure deployment</li>
-      <li><strong>CompTIA Security+ (SY0-701)</strong> - Security frameworks focusing on AI model governance and compliance</li>
-      <li><strong>HashiCorp Terraform Associate</strong> - Infrastructure as Code for automated AI workload deployment</li>
-      <li><strong>CAPM Certification</strong> - Project management methodologies for AI transformation initiatives</li>
-      <li><strong>Certified Kubernetes Administrator</strong> - Container orchestration for ML workload management</li>
-      <li><strong>AWS DevOps Professional</strong> - Advanced automation for AI infrastructure optimization</li>
-      <li><strong>AWS Machine Learning Specialty</strong> - Comprehensive MLOps and SageMaker expertise</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - Cloud architecture mastery</li>
+      <li><strong>CompTIA Security+ (SY0-701)</strong> - Current security standards</li>
+      <li><strong>HashiCorp Terraform Associate</strong> - Infrastructure as Code</li>
+      <li><strong>Project Management Professional (PMP)</strong> - Advanced PM certification</li>
+      <li><strong>Certified Kubernetes Administrator</strong> - Container orchestration</li>
+      <li><strong>AWS Machine Learning Specialty</strong> - MLOps expertise</li>
     </ul>
   </div>
-  
+</div>
+
+<div class="content-section with-divider">
+  <h2>Leadership & Business Achievements</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Phase 1: Foundation<br><small>Core Infrastructure</small></h3>
-      <p>AWS Solutions Architect Associate<br>
-      Security+ SY0-701 renewal<br>
-      Terraform Associate certification<br>
-      Linux system administration<br>
-      Python automation fundamentals</p>
+      <h3>P&L Management</h3>
+      <p>Founded and scaled $250K+ technology services business. Full financial responsibility with consistent profitability and sustainable growth over 5+ years.</p>
     </div>
-
     <div class="expertise-item">
-      <h3>Phase 2: Specialization<br><small>Platform Engineering</small></h3>
-      <p>CAPM project management<br>
-      Certified Kubernetes Administrator<br>
-      CI/CD pipeline development<br>
-      Container platform engineering<br>
-      MLOps automation patterns</p>
+      <h3>Team Leadership</h3>
+      <p>Led 13-person technical teams through complex enterprise deployments. Managed 5,000+ system implementations across multiple locations with zero failures.</p>
     </div>
-
     <div class="expertise-item">
-      <h3>Phase 3: Advanced<br><small>AI/ML & Leadership</small></h3>
-      <p>AWS DevOps Professional<br>
-      AWS ML Specialty certification<br>
-      Executive communication training<br>
-      Portfolio documentation<br>
-      Strategic career advancement</p>
+      <h3>Enterprise Scale</h3>
+      <p>Deployed technology solutions for Fortune 500 clients including Vanderbilt University. Proven ability to manage multi-million dollar projects.</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Vendor Excellence</h3>
+      <p>Negotiated and managed relationships with major technology vendors. Achieved preferred partner status and optimal pricing for enterprise clients.</p>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Business Impact Through Technical Excellence</h2>
-  <p>Leveraging proven leadership experience to drive measurable technology outcomes:</p>
+  <h2>Technical Expertise & Development Focus</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Operational Efficiency</h3>
-      <p>Applying process optimization experience to automate infrastructure deployment and reduce manual operations overhead</p>
+      <h3>AWS AI/ML Infrastructure</h3>
+      <p>Building production-ready solutions with SageMaker, Bedrock, and Comprehend. Focus on financial services compliance and multi-account architectures.</p>
     </div>
     <div class="expertise-item">
-      <h3>Compliance Automation</h3>
-      <p>Building automated governance frameworks for financial services, drawing on experience with regulated environments</p>
+      <h3>Infrastructure as Code</h3>
+      <p>Creating Terraform modules for automated deployment of AI workloads. Implementing GitOps workflows for infrastructure management at scale.</p>
     </div>
     <div class="expertise-item">
-      <h3>Team Productivity</h3>
-      <p>Creating developer platforms that accelerate delivery based on proven team management and workflow optimization</p>
+      <h3>Security & Compliance</h3>
+      <p>Designing security frameworks for regulated environments. Expertise in PCI DSS, SOX, and financial services compliance requirements.</p>
     </div>
     <div class="expertise-item">
-      <h3>Cost Management</h3>
-      <p>Leveraging P&L experience to implement FinOps practices and optimize cloud infrastructure spending</p>
+      <h3>MLOps & Automation</h3>
+      <p>Building CI/CD pipelines for ML model deployment. Implementing monitoring and governance for production AI systems.</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Cost Optimization</h3>
+      <p>Applying P&L experience to cloud FinOps practices. Proven ability to reduce infrastructure costs by 40%+ while improving performance.</p>
     </div>
     <div class="expertise-item">
       <h3>Strategic Planning</h3>
-      <p>Translating business objectives into technical roadmaps with clear ROI metrics and implementation timelines</p>
+      <p>Translating business objectives into technical roadmaps. Creating frameworks for measuring and communicating technology ROI.</p>
+    </div>
+  </div>
+</div>
+
+<div class="content-section with-divider">
+  <h2>Executive Education & Development</h2>
+  <p>Committed to continuous learning and leadership development through elite programs:</p>
+  <div class="expertise-grid">
+    <div class="expertise-item">
+      <h3>Stanford Engineering</h3>
+      <p>Targeted for Engineering Leadership Certificate (2025) focusing on technical leadership and innovation management.</p>
+    </div>
+    <div class="expertise-item">
+      <h3>MIT Management</h3>
+      <p>Planned enrollment in Executive Certificate programs for AI strategy and digital transformation leadership.</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Wharton Executive</h3>
+      <p>Pursuing Business Analytics and Executive Presence programs for data-driven leadership excellence.</p>
+    </div>
+    <div class="expertise-item">
+      <h3>Stanford LEAD</h3>
+      <p>Target 2027 cohort for comprehensive executive leadership development and global network expansion.</p>
     </div>
   </div>
 </div>
@@ -124,18 +157,19 @@ permalink: /about/
   <h2>Connect With Me</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>GitHub</h3>
-      <p><a href="https://github.com/JoshuaMichaelHall">Personal Account</a></p>
-      <p><a href="https://github.com/JoshuaMichaelHall-Tech">Organization</a></p>
-    </div>
-    <div class="expertise-item">
-      <h3>LinkedIn</h3>
-      <p><a href="https://linkedin.com/in/joshuamichaelhall">Professional Profile</a></p>
+      <h3>Professional Network</h3>
+      <p><a href="https://linkedin.com/in/joshuamichaelhall">LinkedIn Profile</a></p>
+      <p><a href="https://github.com/JoshuaMichaelHall">GitHub Portfolio</a></p>
     </div>
     <div class="expertise-item">
       <h3>Technical Writing</h3>
       <p><a href="https://dev.to/joshuamichaelhall">Dev.to Articles</a></p>
       <p><a href="https://medium.com/@joshuamichaelhall">Medium Publications</a></p>
+    </div>
+    <div class="expertise-item">
+      <h3>Contact</h3>
+      <p>Open to Engineering Manager opportunities in financial services</p>
+      <p>Available for consulting on certification strategy</p>
     </div>
   </div>
   
