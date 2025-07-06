@@ -11,8 +11,8 @@ layout: default
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
         <h2>Certified Engineering Leader | 12 Certifications Earned</h2>
-        <h3 class="hero-tagline">Platform Engineering | Financial Services Focus | $250-275K Roles</h3>
-        <p>Engineering leader who earned 12 professional certifications including 4 rare CompTIA stackables (<1% of IT professionals), with proven P&L management ($250K+ business) and 13-person team leadership. Building AWS platform infrastructure expertise for Engineering Manager roles in financial services.</p>
+        <h3 class="hero-tagline">Production Platform Engineering | Building Live Systems | $240-275K Roles</h3>
+        <p>Platform Engineering leader building production systems with AI assistance while leveraging 12 professional certifications including 4 rare CompTIA stackables (<1% of IT professionals). Combining $250K P&L management and 13-person team leadership with hands-on technical delivery for Engineering Manager roles in financial services.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🏆</span> Strategic Certification Portfolio</h4>
           <div class="cert-stats">
@@ -38,7 +38,7 @@ layout: default
             <span class="cert-badge">Security+ (2025)</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Open to Engineering Manager opportunities in financial services | Remote-first | Geographic flexibility from Arkansas</strong>
+            <strong>🚀 Building production systems + consulting at $150/hour | Open to Platform EM roles | Remote-first | Arkansas-based</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -78,19 +78,19 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-focus">
-  <h2>Platform Engineering Expertise</h2>
+  <h2>Production Platform Engineering</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>AWS Platform Infrastructure</h3>
-      <p>Building production-ready platform solutions with EKS, Lambda, and cloud-native services. Multi-account architectures optimized for financial services compliance and scale.</p>
+      <h3>Live Production Systems</h3>
+      <p>Building and deploying real SaaS applications using AWS ECS, RDS, and cloud-native services. AI-assisted development with proper monitoring, security, and financial services compliance.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Infrastructure as Code</h3>
-      <p>Creating Terraform modules for automated AI workload deployment. GitOps workflows and policy-as-code for regulated environments.</p>
+      <h3>AI-Assisted Development</h3>
+      <p>Leveraging AI tools (Claude, GitHub Copilot, Cursor) to rapidly build production-ready systems. Creating Terraform infrastructure and CI/CD pipelines for automated deployment.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Platform Automation</h3>
-      <p>Designing CI/CD pipelines for application lifecycle. Implementing monitoring, governance, and observability for production platform systems.</p>
+      <h3>Business Value Delivery</h3>
+      <p>Applying P&L management experience to platform engineering. Designing cost-optimized architectures with proper monitoring, governance, and business metrics tracking.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Security & Compliance</h3>
@@ -132,7 +132,7 @@ layout: default
 
 <div class="home-section with-divider" id="projects">
   <h2>Technical Portfolio</h2>
-  <p class="section-intro-text">Production-ready projects demonstrating AWS infrastructure, platform automation, and enterprise-scale platform engineering.</p>
+  <p class="section-intro-text">Live production systems demonstrating Platform Engineering capabilities, AI-assisted development, and business value delivery.</p>
   <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
