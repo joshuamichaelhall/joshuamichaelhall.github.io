@@ -8,46 +8,46 @@ permalink: /certifications/
 
 <div class="cert-hero">
   <div class="cert-summary">
-    <h2>12 Professional Certifications Earned</h2>
-    <p>Strategic certification portfolio management with proven ability to achieve rare credentials</p>
+    <h2>Honest Certification Status</h2>
+    <p>Transparent approach: 5 active certifications, others expired. Focus on certifications that directly support platform engineering goals.</p>
     <div class="cert-stats-row">
-      <div class="stat-item">
-        <span class="stat-number">12</span>
-        <span class="stat-label">Total Earned</span>
-      </div>
       <div class="stat-item">
         <span class="stat-number">5</span>
         <span class="stat-label">Currently Active</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number">4</span>
-        <span class="stat-label">Stackables Achieved</span>
+        <span class="stat-number">7</span>
+        <span class="stat-label">Expired</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number">6</span>
-        <span class="stat-label">In Progress</span>
+        <span class="stat-number">3</span>
+        <span class="stat-label">In Progress 2025</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">March 2025</span>
+        <span class="stat-label">CKA Target</span>
       </div>
     </div>
   </div>
 </div>
 
-## Strategic Certification Philosophy
+## Honest Certification Approach
 
 <div class="philosophy-section">
-  <p>After earning 12 certifications including 4 rare CompTIA stackables achieved by less than 1% of IT professionals, I've learned that strategic portfolio management matters more than quantity. I maintain certifications aligned with current market needs while adding new ones for emerging technologies.</p>
+  <p>I've earned various certifications over my career, but I believe in being honest about current status. I maintain 5 active certifications and will pursue others based on specific role requirements. Quality and relevance matter more than quantity.</p>
   
   <div class="philosophy-points">
     <div class="point-item">
-      <h4>🎯 Strategic Renewal</h4>
-      <p>Focus on certifications that provide immediate value for target roles</p>
+      <h4>🎯 Focused Learning</h4>
+      <p>CKA is primary focus for platform engineering readiness</p>
     </div>
     <div class="point-item">
-      <h4>💡 Proven Ability</h4>
-      <p>12 certifications earned demonstrates ability to achieve any needed credential</p>
+      <h4>💡 Practical Application</h4>
+      <p>Certifications paired with real project experience</p>
     </div>
     <div class="point-item">
-      <h4>📈 ROI Focus</h4>
-      <p>Every certification decision based on career impact and market demand</p>
+      <h4>📈 Strategic Renewal</h4>
+      <p>Only renew certifications when needed for specific opportunities</p>
     </div>
   </div>
 </div>
@@ -86,54 +86,55 @@ permalink: /certifications/
   </div>
 </div>
 
-## Strategic Achievements & Certifications Earned
+## Expired Certifications
 
 <div class="achievements-section">
-  <h3>🏆 Rare CompTIA Stackables Achieved</h3>
-  <p class="achievement-intro">These stackable certifications represent elite achievements, requiring multiple prerequisite certifications. Though expired, they demonstrate exceptional dedication and comprehensive expertise.</p>
+  <h3>📅 Previously Held Certifications</h3>
+  <p class="achievement-intro">These certifications have expired. I will renew specific certifications based on role requirements rather than maintaining all credentials indefinitely.</p>
   
+  <div class="earned-list">
+    <ul>
+      <li><strong>CompTIA Security+ ce</strong> - Expired 2023 (Planning renewal in 2025)</li>
+      <li><strong>CompTIA Network+ ce</strong> - Expired 2023</li>
+      <li><strong>CompTIA Cloud+ ce</strong> - Expired 2024</li>
+      <li><strong>CompTIA Server+</strong> - Expired</li>
+    </ul>
+  </div>
+  
+  <h3>📦 CompTIA Stackables (Expired)</h3>
+  <p>These stackable certifications expired when their prerequisite certifications expired:</p>
   <div class="stackable-grid">
     <div class="achievement-item">
       <h4>CompTIA Secure Cloud Professional (CSCP)</h4>
-      <p>Required: Security+ AND Cloud+ | Achieved by <0.5% of IT professionals</p>
+      <p>Required: Security+ AND Cloud+ (Both expired)</p>
     </div>
     <div class="achievement-item">
       <h4>CompTIA Cloud Admin Professional (CCAP)</h4>
-      <p>Required: Cloud+ AND Server+ | Achieved by <0.3% of IT professionals</p>
+      <p>Required: Cloud+ AND Server+ (Both expired)</p>
     </div>
     <div class="achievement-item">
       <h4>CompTIA Secure Infrastructure Specialist (CSIS)</h4>
-      <p>Required: Security+ AND Server+ | Achieved by <0.8% of IT professionals</p>
+      <p>Required: Security+ AND Server+ (Both expired)</p>
     </div>
     <div class="achievement-item">
       <h4>CompTIA IT Operations Specialist (CIOS)</h4>
-      <p>Required: A+ AND Network+ | Foundation stackable credential</p>
+      <p>Required: A+ AND Network+ (Network+ expired)</p>
     </div>
-  </div>
-  
-  <h3>📚 Additional Certifications Earned</h3>
-  <div class="earned-list">
-    <ul>
-      <li><strong>CompTIA Security+ ce</strong> - Enterprise security architecture (Expired 2023, renewing 2025)</li>
-      <li><strong>CompTIA Network+ ce</strong> - Network architecture and troubleshooting (Expired 2023)</li>
-      <li><strong>CompTIA Cloud+ ce</strong> - Cloud platforms and virtualization (Expired 2024)</li>
-      <li><strong>Multiple certification renewals</strong> - Demonstrating continuous learning over career</li>
-    </ul>
   </div>
 </div>
 
-## Certifications In Progress (2025)
+## 2025 Certification Focus
 
 <div class="progress-section">
   <div class="timeline">
     <div class="timeline-item current">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h4>Q1 2025: Foundation</h4>
+        <h4>Primary Focus: Kubernetes</h4>
         <ul>
-          <li><strong>CompTIA Security+ (SY0-701)</strong> - Renewing with current standards</li>
-          <li><strong>AWS Solutions Architect Associate</strong> - Cloud architecture mastery</li>
-          <li><strong>HashiCorp Terraform Associate</strong> - Infrastructure as Code</li>
+          <li><strong>Certified Kubernetes Administrator (CKA)</strong> - Target: March 2025</li>
+          <li>Daily study routine with hands-on labs</li>
+          <li>Building practice clusters and real projects</li>
         </ul>
       </div>
     </div>
@@ -141,10 +142,10 @@ permalink: /certifications/
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h4>Q2 2025: Specialization</h4>
+        <h4>Secondary Goals</h4>
         <ul>
-          <li><strong>Project Management Professional (PMP)</strong> - Direct to PMP path</li>
-          <li><strong>Certified Kubernetes Administrator (CKA)</strong> - Container orchestration</li>
+          <li><strong>AWS Solutions Architect Associate</strong> - After CKA completion</li>
+          <li><strong>CompTIA Security+ Renewal</strong> - For security-focused roles</li>
         </ul>
       </div>
     </div>
@@ -152,56 +153,57 @@ permalink: /certifications/
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h4>Q3-Q4 2025: Advanced</h4>
+        <h4>Future Considerations</h4>
         <ul>
-          <li><strong>AWS Machine Learning Specialty</strong> - ML/AI expertise</li>
-          <li><strong>Additional certifications based on role requirements</strong></li>
+          <li>Additional certifications based on role requirements</li>
+          <li>Focus on practical application over credential collection</li>
         </ul>
       </div>
     </div>
   </div>
 </div>
 
-## Why Strategic Renewal Matters
+## Why This Honest Approach
 
 <div class="strategy-section">
   <div class="strategy-grid">
     <div class="strategy-item">
-      <h3>🎯 Market Alignment</h3>
-      <p>Focusing on AWS and Kubernetes aligns with current market demands better than maintaining legacy certifications</p>
+      <h3>🎯 Real Skills Focus</h3>
+      <p>Building actual platform engineering skills through daily practice and real projects</p>
     </div>
     <div class="strategy-item">
-      <h3>💰 Financial Wisdom</h3>
-      <p>Saving $1,100+ by not renewing low-ROI certifications to invest in high-impact credentials</p>
+      <h3>💰 Smart Investment</h3>
+      <p>Only pursuing certifications that directly support career goals</p>
     </div>
     <div class="strategy-item">
-      <h3>⏱️ Time Optimization</h3>
-      <p>85+ hours saved by strategic renewal decisions, redirected to AWS and container technologies</p>
+      <h3>⏱️ Contract-to-Hire Ready</h3>
+      <p>Honest credentials allow mutual evaluation during contract period</p>
     </div>
     <div class="strategy-item">
-      <h3>🚀 Career Focus</h3>
-      <p>Engineering managers need current cloud and automation skills more than expired networking credentials</p>
+      <h3>🚀 Continuous Learning</h3>
+      <p>Daily study routine demonstrates commitment to growth</p>
     </div>
   </div>
 </div>
 
-## Verification & Credibility
+## Verification & Transparency
 
 <div class="verification-section">
-  <p><strong>All certifications earned are verifiable through official channels:</strong></p>
+  <p><strong>Current Status (Fully Verifiable):</strong></p>
   <ul>
-    <li>Active certifications visible on <a href="https://www.credly.com/users/joshuamichaelhall">Credly profile</a></li>
+    <li>5 active certifications visible on <a href="https://www.credly.com/users/joshuamichaelhall">Credly profile</a></li>
     <li>CompTIA certifications verifiable through CompTIA's verification system</li>
     <li>Google certifications backed by completion certificates</li>
+    <li>Expired certifications honestly disclosed</li>
   </ul>
   
-  <p class="credibility-note">Having earned 12 certifications demonstrates proven ability to achieve any certification required for a role. This track record speaks louder than maintaining every credential indefinitely.</p>
+  <p class="credibility-note">I believe in honest representation. I have 5 active certifications and am focused on earning certifications that directly support my platform engineering goals. Quality and relevance over quantity.</p>
 </div>
 
 <div class="cta-section">
-  <h3>Learn From My Certification Journey</h3>
-  <p>Interested in strategic certification planning? I help professionals avoid the common trap of certification collecting and focus on credentials that accelerate careers.</p>
-  <a href="/coaching" class="btn primary-btn">Explore Certification Coaching</a>
+  <h3>My Certification Philosophy</h3>
+  <p>Focus on certifications that directly support your career goals. Build real skills through projects and daily practice. Be honest about your credentials.</p>
+  <a href="/contact" class="btn primary-btn">Connect With Me</a>
 </div>
 
 <style>

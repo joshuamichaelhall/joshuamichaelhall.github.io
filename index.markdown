@@ -10,35 +10,34 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Certified Engineering Leader | 12 Certifications Earned</h2>
-        <h3 class="hero-tagline">Security-First Platform Engineering | AI-Assisted Development | $240-275K Roles</h3>
-        <p>Platform Engineering leader building security-first production systems with AI assistance (Cursor, Copilot, Claude) while leveraging 12 professional certifications including 4 rare CompTIA stackables (<1% of IT professionals). Combining $250K P&L management and 13-person team leadership with 5-week production development approach for Engineering Manager roles in financial services.</p>
+        <h2>Former Business Owner | Platform Engineering Journey | 5 Active Certifications</h2>
+        <h3 class="hero-tagline">Network Security Implementation | Contract-to-Hire Ready | 48-Week Development Path</h3>
+        <p>Former business owner transitioning to platform engineering through hands-on projects and strategic certification. Currently implementing Phase 1 network security infrastructure with pfSense while building Kubernetes expertise (CKA target: March 2025). Daily study routine with honest credentials: 5 active certifications, real projects, and contract-to-hire readiness.</p>
         <div class="certification-highlight">
-          <h4><span class="cert-icon">🏆</span> Strategic Certification Portfolio</h4>
+          <h4><span class="cert-icon">🎯</span> Current Projects & Credentials</h4>
           <div class="cert-stats">
             <div class="cert-stat">
-              <span class="cert-number">12</span>
-              <span class="cert-label">Certifications Earned</span>
-            </div>
-            <div class="cert-stat">
               <span class="cert-number">5</span>
-              <span class="cert-label">Currently Active</span>
+              <span class="cert-label">Active Certifications</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">6</span>
-              <span class="cert-label">In Progress</span>
+              <span class="cert-number">Phase 1</span>
+              <span class="cert-label">Network Security</span>
+            </div>
+            <div class="cert-stat">
+              <span class="cert-number">48 Weeks</span>
+              <span class="cert-label">Platform Journey</span>
             </div>
           </div>
           <div class="featured-certs">
-            <span class="cert-badge">Google AI</span>
-            <span class="cert-badge">Google PM</span>
+            <span class="cert-badge">Google AI Essentials</span>
+            <span class="cert-badge">Google PM Certificate</span>
             <span class="cert-badge">CompTIA A+</span>
             <span class="cert-badge">Project+</span>
-            <span class="cert-badge">AWS SAA (2025)</span>
-            <span class="cert-badge">Security+ (2025)</span>
+            <span class="cert-badge">Cloud Essentials+</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 5-week security-first development approach + consulting at $150/hour | Open to Platform EM roles | Remote-first | Arkansas-based</strong>
+            <strong>🚀 Missouri LLC for consulting services | Contract-to-hire preferred | Building real projects daily | Remote-first</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -52,96 +51,98 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="leadership-impact">
-  <h2>Proven Leadership & Business Impact</h2>
+  <h2>Business Background & Current Journey</h2>
   <div class="impact-metrics">
     <div class="metric-card">
-      <div class="metric-value">$250K+</div>
-      <div class="metric-label">Business P&L Managed</div>
-      <div class="metric-detail">Founded & scaled profitable technology services company</div>
+      <div class="metric-value">Business Owner</div>
+      <div class="metric-label">5+ Years Experience</div>
+      <div class="metric-detail">Technology services company with P&L responsibility</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">13</div>
-      <div class="metric-label">Team Members Led</div>
-      <div class="metric-detail">Enterprise deployments at Vanderbilt University</div>
+      <div class="metric-value">Phase 1</div>
+      <div class="metric-label">Network Security</div>
+      <div class="metric-detail">pfSense infrastructure implementation</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">5,000+</div>
-      <div class="metric-label">Systems Deployed</div>
-      <div class="metric-detail">Zero failure rate across multiple locations</div>
+      <div class="metric-value">Daily Study</div>
+      <div class="metric-label">Kubernetes Focus</div>
+      <div class="metric-detail">CKA preparation for March 2025</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">12</div>
-      <div class="metric-label">Certifications Earned</div>
-      <div class="metric-detail">Including 4 rare CompTIA stackables</div>
+      <div class="metric-value">5 Active</div>
+      <div class="metric-label">Current Certifications</div>
+      <div class="metric-detail">Others expired/renewing as needed</div>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="technical-focus">
-  <h2>Security-First Platform Engineering with AI</h2>
+  <h2>Current Projects & Development Focus</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Security-First Production Systems</h3>
-      <p>Building and deploying production SaaS applications using AWS managed services (Cognito, RDS, ECS) with AI-assisted development. Security-first approach with encryption, audit logging, and financial services compliance standards.</p>
+      <h3>Phase 1: Network Security Infrastructure</h3>
+      <p>Currently implementing pfSense-based network security infrastructure. Real-world project demonstrating security fundamentals, network architecture, and infrastructure management skills.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>AI Development Workflow</h3>
-      <p>Mastering AI tools (Cursor IDE, GitHub Copilot, Claude) with technical advisor review for production-quality code. 5-week development approach vs traditional 9-month study path for rapid capability demonstration.</p>
+      <h3>CRM Implementation (Upcoming)</h3>
+      <p>Next phase: Implementing customer relationship management system. Combines business process understanding with technical implementation for practical value delivery.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Business Leadership + Technical Delivery</h3>
-      <p>Combining $250K P&L management and 13-person team leadership with hands-on platform engineering. Immediate consulting revenue generation while building technical credibility through production systems.</p>
+      <h3>Daily Kubernetes Study</h3>
+      <p>Dedicated daily study routine for Kubernetes mastery. Working through hands-on labs, practice clusters, and real scenarios. CKA certification target: March 2025.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Security & Compliance</h3>
-      <p>Expertise in PCI DSS, SOX, and financial regulations. Building automated compliance frameworks and security-first architectures.</p>
+      <h3>Platform Engineering Portfolio</h3>
+      <p>Building portfolio projects that demonstrate platform engineering capabilities. Focus on Infrastructure as Code, CI/CD pipelines, and container orchestration.</p>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="certification-journey">
-  <h2>Strategic Certification Roadmap</h2>
-  <p class="section-intro-text">Strategic certification roadmap building on 12 earned credentials with targeted additions for platform engineering excellence.</p>
+  <h2>Honest Certification Status</h2>
+  <p class="section-intro-text">Transparent approach to certifications: 5 currently active, others expired or in progress. Focus on certifications that directly support platform engineering goals.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
-      <h3>Foundation (Current)</h3>
+      <h3>Currently Active (5)</h3>
       <ul>
+        <li>Google AI Essentials</li>
+        <li>Google Project Management</li>
+        <li>CompTIA A+</li>
+        <li>CompTIA Project+</li>
+        <li>CompTIA Cloud Essentials+</li>
+      </ul>
+    </div>
+    <div class="roadmap-phase">
+      <h3>In Progress (2025)</h3>
+      <ul>
+        <li>Certified Kubernetes Administrator (Primary focus)</li>
         <li>AWS Solutions Architect Associate</li>
-        <li>CompTIA Security+ Renewal</li>
-        <li>HashiCorp Terraform Associate</li>
+        <li>CompTIA Security+ (Renewal)</li>
       </ul>
     </div>
     <div class="roadmap-phase">
-      <h3>Specialization (Q2 2025)</h3>
+      <h3>Expired/Future</h3>
       <ul>
-        <li>Project Management Professional (PMP)</li>
-        <li>Certified Kubernetes Administrator</li>
-        <li>Platform Engineering Foundations</li>
-      </ul>
-    </div>
-    <div class="roadmap-phase">
-      <h3>Advanced (Q3-Q4 2025)</h3>
-      <ul>
-        <li>AWS Machine Learning Specialty</li>
-        <li>Executive Education Programs</li>
-        <li>Stanford Engineering Leadership</li>
+        <li>CompTIA Network+ (Expired)</li>
+        <li>CompTIA Security+ (Expired)</li>
+        <li>Other certifications as needed for roles</li>
       </ul>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="projects">
-  <h2>Technical Portfolio</h2>
-  <p class="section-intro-text">Live production systems demonstrating Platform Engineering capabilities, AI-assisted development, and business value delivery.</p>
+  <h2>Current & Upcoming Projects</h2>
+  <p class="section-intro-text">Real projects in active development, demonstrating practical skills and business value. No inflated claims - just honest progress.</p>
   <div id="github-projects"></div>
   <div class="section-link">
-    <a href="/portfolio" class="btn outlined-btn">View All Projects</a>
+    <a href="/portfolio" class="btn outlined-btn">View Project Details</a>
   </div>
 </div>
 
 <div class="home-section no-divider" id="thought-leadership">
-  <h2>Technical Insights & Thought Leadership</h2>
-  <p class="section-intro-text">Sharing expertise on certification strategy, platform engineering, and leadership development.</p>
+  <h2>Learning Journey & Technical Writing</h2>
+  <p class="section-intro-text">Documenting the journey from business owner to platform engineer. Sharing real experiences and lessons learned.</p>
   <div id="devto-articles"></div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">Read All Articles</a>

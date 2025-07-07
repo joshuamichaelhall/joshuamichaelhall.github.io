@@ -1,70 +1,60 @@
-# Portfolio Projects
-- title: "Multi-Environment AWS Infrastructure for Financial Services"
-  description: "Production-grade, multi-environment infrastructure for financial services applications using Terraform and AWS, implementing secure, compliant, and scalable environments with comprehensive security controls and compliance automation."
-  technologies: ["AWS", "Terraform", "CloudTrail", "Security Hub", "CloudWatch", "Config", "IAM", "KMS"]
-  github: "https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure"
-  image: "/assets/images/terraform-aws.png"
-  featured: true
-  category: "infrastructure"
-  status: "Active Development"
-  business_value: "Environment creation reduced from days to 30 minutes, 85% fewer configuration incidents, 70% less audit preparation time"
-
-- title: "Containerized Microservices Platform"
-  description: "A production-ready containerized microservices platform designed for financial services applications that require high reliability, security, and observability with comprehensive security controls and compliance automation."
-  technologies: ["Kubernetes", "Istio", "Prometheus", "Grafana", "ELK", "Trivy", "Falco", "Vault", "ArgoCD"]
-  github: "https://github.com/JoshuaMichaelHall-Tech/project-container-platform"
-  image: "/assets/images/kubernetes.png"
-  featured: true
-  category: "containers"
-  status: "Active Development"
-  business_value: "Deployment velocity improved from weeks to hours, infrastructure utilization improved by 40-60%, 99.95% service availability"
-
-- title: "Security Automation Suite for Financial Services"
-  description: "An automated security and compliance toolchain for financial services environments, ensuring continuous compliance monitoring, security validation, and evidence generation for regulatory requirements."
-  technologies: ["AWS Security Hub", "GuardDuty", "Config", "Terraform", "Docker", "Kubernetes", "Trivy", "OPA"]
-  github: "https://github.com/JoshuaMichaelHall-Tech/project-security-automation"
+# Portfolio Projects - Honest Current Status
+- title: "Phase 1: Network Security Infrastructure"
+  description: "Currently implementing pfSense-based network security infrastructure. Real-world project demonstrating security fundamentals, network architecture, and infrastructure management skills. Part of structured 48-week platform engineering journey."
+  technologies: ["pfSense", "Network Security", "Firewall Management", "VPN", "VLAN", "Network Monitoring"]
+  github: "#"
   image: "/assets/images/security-automation.png"
   featured: true
-  category: "security"
-  status: "Active Development"
-  business_value: "Audit preparation time reduced from weeks to hours, security vulnerabilities addressed before production, 90% reduction in security patch implementation time"
+  category: "infrastructure"
+  status: "Active Implementation"
+  business_value: "Practical security implementation experience, network architecture understanding, hands-on infrastructure management"
 
-- title: "DevOps Pipeline for Financial Applications"
-  description: "A robust CI/CD pipeline designed specifically for financial services applications, providing comprehensive security scanning, compliance validation, and automated deployment with regulatory controls."
-  technologies: ["GitHub Actions", "AWS CodePipeline", "SonarQube", "OWASP scanning", "Terraform", "CloudFormation Guard"]
-  github: "https://github.com/JoshuaMichaelHall-Tech/project-devops-pipeline-financial"
-  image: "/assets/images/cicd-pipeline.png"
+- title: "Phase 2: CRM Implementation"
+  description: "Upcoming project to implement customer relationship management system. Combines business process understanding from 5+ years of business ownership with technical implementation skills."
+  technologies: ["CRM Platform", "API Integration", "Database Management", "Business Process Automation"]
+  github: "#"
+  image: "/assets/images/devops_sre_mastery_project.png"
+  featured: true
+  category: "business-systems"
+  status: "Starting Soon"
+  business_value: "Business process automation, customer data management, practical value delivery"
+
+- title: "Platform Engineering Portfolio"
+  description: "Building portfolio of platform engineering projects through daily Kubernetes study and hands-on practice. Focus on practical implementations that demonstrate readiness for platform engineering roles."
+  technologies: ["Kubernetes", "Docker", "Terraform", "CI/CD", "GitHub Actions", "Monitoring"]
+  github: "#"
+  image: "/assets/images/kubernetes.png"
+  featured: true
+  category: "platform"
+  status: "In Progress"
+  business_value: "Demonstrating platform engineering capabilities, building practical skills, contract-to-hire readiness"
+
+- title: "Daily Kubernetes Study"
+  description: "Dedicated daily study routine for Kubernetes mastery. Working through CKA curriculum with hands-on labs and practice clusters. Target certification: March 2025."
+  technologies: ["Kubernetes", "Container Orchestration", "Linux", "Networking", "Security"]
+  github: "#"
+  image: "/assets/images/kubernetes-operator.png"
+  featured: false
+  category: "learning"
+  status: "Daily Progress"
+  business_value: "CKA certification preparation, hands-on Kubernetes experience, platform engineering readiness"
+
+- title: "Infrastructure as Code Learning"
+  description: "Learning Terraform through practical projects. Building reusable modules and understanding GitOps workflows for infrastructure management."
+  technologies: ["Terraform", "AWS", "GitOps", "Infrastructure Automation"]
+  github: "#"
+  image: "/assets/images/terraform-aws.png"
   featured: false
   category: "infrastructure"
-  status: "Active Development"
-  business_value: "Release frequency increased by 300%, change failure rate reduced by 60%, lead time for changes reduced from weeks to days"
-
+  status: "Active Learning"
+  business_value: "IaC skills development, automation capabilities, modern infrastructure practices"
 
 - title: "Enhanced Terminal Environment"
-  description: "Customized developer terminal environment with integrated tooling for zsh, tmux, and neovim focused on DevOps workflow optimization for financial services infrastructure management."
-  technologies: ["Shell", "Neovim", "Tmux", "Git", "Zsh", "AWS CLI", "Terraform CLI"]
-  github: "https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment"
+  description: "Customized developer terminal environment with integrated tooling. Practical project for improving daily development workflow."
+  technologies: ["Shell", "Neovim", "Tmux", "Git", "Zsh"]
+  github: "https://github.com/JoshuaMichaelHall/enhanced-terminal-environment"
   image: "/assets/images/enhanced_terminal_environment.png"
-  featured: true
+  featured: false
   category: "developer-tools"
-  status: "Ongoing Development"
-
-- title: "Platform Engineering for Financial Services"
-  description: "Internal developer platform with self-service capabilities, compliance guardrails, and integrated security controls designed specifically for financial services development teams."
-  technologies: ["Kubernetes", "ArgoCD", "Backstage", "OPA", "Terraform", "AWS", "GitHub Actions"]
-  github: "https://github.com/JoshuaMichaelHall-Tech/enterprise-developer-platform"
-  image: "/assets/images/developer-platform.png"
-  featured: false
-  category: "platform"
-  status: "Planned (Q4 2025)"
-  business_value: "Developer productivity enhancement (30%+), compliance automation, accelerated time-to-market for financial products"
-
-- title: "Financial Services Compliance Framework"
-  description: "Automated compliance validation and evidence collection framework for financial services regulations including SOX, PCI-DSS, and GDPR with continuous monitoring and remediation."
-  technologies: ["AWS Config", "CloudWatch", "Lambda", "Python", "Terraform", "OPA", "AWS Security Hub"]
-  github: "https://github.com/JoshuaMichaelHall-Tech/compliance-automation-framework"
-  image: "/assets/images/compliance-framework.png"
-  featured: false
-  category: "security"
-  status: "Planned (Q1 2026)"
-  business_value: "Audit cost reduction (70%+), continuous compliance validation, automated evidence collection"
+  status: "Ongoing Enhancement"
+  business_value: "Productivity improvement, development workflow optimization, tool mastery"

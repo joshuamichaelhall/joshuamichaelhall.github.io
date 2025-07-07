@@ -7,39 +7,38 @@ permalink: /portfolio/
 # Project Portfolio
 
 <div class="content-section with-divider">
-  <h2>Technical Portfolio Development</h2>
-  <p class="section-intro-text">Building production-ready infrastructure projects as part of intensive 44-week AI platform engineering development. These projects demonstrate AWS multi-account architecture, Infrastructure as Code automation, and the intersection of business leadership with technical implementation.</p>
+  <h2>Current Projects & Portfolio Development</h2>
+  <p class="section-intro-text">Building real projects as part of 48-week platform engineering journey. Currently focused on Phase 1 network security infrastructure with pfSense, followed by CRM implementation and platform engineering portfolio development.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
-      <h3>Infrastructure & Platform Engineering</h3>
+      <h3>Active Projects</h3>
       
       <div class="project-card featured">
         <div class="project-header">
-          <h2>AWS Multi-Account Infrastructure Platform</h2>
+          <h2>Phase 1: Network Security Infrastructure</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Platform Engineering</div>
+          <div class="project-status">Currently Implementing</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
             <div class="project-image">
-              <img src="/assets/images/terraform-aws.png" alt="AI Platform Infrastructure" />
+              <img src="/assets/images/security-automation.png" alt="Network Security Infrastructure" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/project-aws-infrastructure" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
-            <p>Enterprise-grade AWS infrastructure platform demonstrating multi-account strategy, security best practices, and Infrastructure as Code automation. Built as part of comprehensive AI platform engineering preparation.</p>
-            <p><strong>Platform Capabilities:</strong></p>
+            <p>Implementing pfSense-based network security infrastructure as Phase 1 of platform engineering journey. Real-world project demonstrating security fundamentals, network architecture, and infrastructure management skills.</p>
+            <p><strong>Project Components:</strong></p>
             <ul>
-              <li>Multi-account AWS organization with automated account provisioning</li>
-              <li>Terraform modules for repeatable infrastructure deployment</li>
-              <li>Self-service developer platform with security guardrails</li>
-              <li>Compliance automation for financial services requirements</li>
-              <li>Cost optimization through automated resource management</li>
+              <li>pfSense firewall configuration and management</li>
+              <li>Network segmentation and VLAN implementation</li>
+              <li>VPN setup for secure remote access</li>
+              <li>Security policies and rule management</li>
+              <li>Monitoring and logging infrastructure</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> AWS (Organizations, Control Tower, IAM), Terraform, GitHub Actions, CloudWatch
+              <strong>Technologies:</strong> pfSense, Network Security, VPN, Firewall Management, VLAN Configuration
             </p>
           </div>
         </div>
@@ -47,30 +46,54 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2>Developer Productivity Platform</h2>
+          <h2>Phase 2: CRM Implementation</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Platform Engineering</div>
+          <div class="project-status">Upcoming Project</div>
+        </div>
+        <div class="project-content-section">
+          <div class="project-description">
+            <p>Next phase: Implementing customer relationship management system. Combines business process understanding from ownership experience with technical implementation skills.</p>
+            <p><strong>Planned Features:</strong></p>
+            <ul>
+              <li>Customer data management and tracking</li>
+              <li>Business process automation</li>
+              <li>Integration with existing systems</li>
+              <li>Reporting and analytics</li>
+              <li>Security and compliance considerations</li>
+            </ul>
+            <p class="technologies">
+              <strong>Technologies:</strong> CRM Platform (TBD), API Integration, Database Management, Business Process Automation
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="project-card">
+        <div class="project-header">
+          <h2>Platform Engineering Portfolio</h2>
+        </div>
+        <div class="project-status-line">
+          <div class="project-status">In Development</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
             <div class="project-image">
-              <img src="/assets/images/enhanced_terminal_environment.png" alt="Enhanced Terminal Environment" />
+              <img src="/assets/images/kubernetes.png" alt="Platform Engineering" />
             </div>
-            <a href="https://github.com/JoshuaMichaelHall-Tech/enhanced-terminal-environment" class="btn primary-btn" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </div>
           <div class="project-description">
-            <p>Comprehensive developer productivity platform that standardizes tooling and workflows across engineering teams. Reduces onboarding time and increases development velocity through automated environment provisioning.</p>
-            <p><strong>Platform Features:</strong></p>
+            <p>Building portfolio of platform engineering projects to demonstrate practical skills. Focus on Kubernetes, Infrastructure as Code, and CI/CD pipelines.</p>
+            <p><strong>Portfolio Components:</strong></p>
             <ul>
-              <li>Standardized development environment with integrated cloud tooling</li>
-              <li>Automated infrastructure access and credential management</li>
-              <li>Workflow automation for common DevOps tasks</li>
-              <li>Team collaboration tools and shared configurations</li>
-              <li>Self-service capabilities for infrastructure interaction</li>
+              <li>Kubernetes cluster deployment and management</li>
+              <li>Terraform modules for infrastructure automation</li>
+              <li>CI/CD pipeline implementations</li>
+              <li>Container orchestration projects</li>
+              <li>Monitoring and observability solutions</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> Neovim, Tmux, Zsh, AWS CLI, Terraform CLI
+              <strong>Technologies:</strong> Kubernetes, Terraform, Docker, GitHub Actions, Prometheus
             </p>
           </div>
         </div>
@@ -81,42 +104,42 @@ permalink: /portfolio/
 </div>
 
 <div class="content-section">
-  <h2>Development Focus Areas</h2>
+  <h2>Daily Focus Areas</h2>
   
   <div class="value-areas-grid">
     <div class="value-area-item">
-      <h3>AWS Platform Development</h3>
+      <h3>Kubernetes Mastery</h3>
       <ul>
-        <li>Multi-account organization strategies</li>
-        <li>Infrastructure as Code with Terraform</li>
-        <li>Security and compliance automation</li>
+        <li>Daily hands-on practice</li>
+        <li>CKA curriculum study</li>
+        <li>Building practice clusters</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Business-Driven Implementation</h3>
+      <h3>Network Security</h3>
       <ul>
-        <li>ROI-focused infrastructure decisions</li>
-        <li>Cost optimization strategies</li>
-        <li>Process automation for efficiency</li>
+        <li>pfSense implementation</li>
+        <li>Security fundamentals</li>
+        <li>Network architecture</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>AI/ML Integration Planning</h3>
+      <h3>Infrastructure as Code</h3>
       <ul>
-        <li>SageMaker infrastructure patterns</li>
-        <li>MLOps pipeline development</li>
-        <li>AI governance frameworks</li>
+        <li>Terraform learning</li>
+        <li>GitOps workflows</li>
+        <li>Automation practices</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Leadership & Documentation</h3>
+      <h3>Business Value</h3>
       <ul>
-        <li>Technical decision documentation</li>
-        <li>Team collaboration patterns</li>
-        <li>Knowledge sharing practices</li>
+        <li>Practical implementations</li>
+        <li>Real-world problem solving</li>
+        <li>Value-driven development</li>
       </ul>
     </div>
   </div>
