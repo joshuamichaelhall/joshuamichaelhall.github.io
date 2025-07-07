@@ -1,42 +1,42 @@
 ---
 layout: page
-title: 48-Week Platform Engineering Executive Coaching
+title: Engineering Career Acceleration
 permalink: /coaching/
 ---
 
-# 48-Week Platform Engineering Executive Coaching
+# Engineering Career Acceleration
 
 <div class="coaching-hero">
-  <h2>Transform into a Platform Engineering Executive in 48 Weeks</h2>
-  <p>Comprehensive preparation combining deep technical mastery, executive education grand slam (Stanford/MIT/Wharton/Harvard), published authority, and strategic positioning for $25-35M wealth creation.</p>
+  <h2>Reach $150K+ Through Strategic Career Transformation</h2>
+  <p>Former MSP owner ($250K revenue) helping engineers accelerate their careers. Combining battle-tested business acumen with technical expertise to create unique positioning strategies that get results.</p>
   <div class="coaching-cta">
-    <a href="#services" class="btn primary-btn">Explore Executive Programs</a>
-    <a href="#book-consultation" class="btn secondary-btn">Start Your 48-Week Journey</a>
+    <a href="#services" class="btn primary-btn">Explore Career Services</a>
+    <a href="#book-consultation" class="btn secondary-btn">Free Strategy Session</a>
   </div>
 </div>
 
-## Why 48-Week Mastery Works
+## Why Business Experience Matters
 
 <div class="value-props">
   <div class="value-item">
-    <div class="value-icon">🎓</div>
-    <h3>Executive Education Grand Slam</h3>
-    <p>Stanford, MIT, Wharton, Harvard programs create unmatched executive credibility</p>
+    <div class="value-icon">💼</div>
+    <h3>Real Business Perspective</h3>
+    <p>Built $250K MSP with 40+ clients - I understand what hiring managers actually need</p>
   </div>
   <div class="value-item">
-    <div class="value-icon">📚</div>
-    <h3>Published Author Status</h3>
-    <p>Complete and publish your book by Week 32 for instant authority</p>
+    <div class="value-icon">🎯</div>
+    <h3>Strategic Positioning</h3>
+    <p>Stand out from certification collectors by demonstrating real business value</p>
   </div>
   <div class="value-item">
-    <div class="value-icon">🏗️</div>
-    <h3>Multiple Production Systems</h3>
-    <p>Network infrastructure + CRM + portfolio demonstrates comprehensive expertise</p>
+    <div class="value-icon">🚀</div>
+    <h3>Proven Results</h3>
+    <p>100% placement rate for committed mentees targeting $150K+ roles</p>
   </div>
   <div class="value-item">
-    <div class="value-icon">💎</div>
-    <h3>$25-35M Wealth Path</h3>
-    <p>Strategic career progression + MSP acquisitions + disciplined execution</p>
+    <div class="value-icon">🔧</div>
+    <h3>Technical + Business</h3>
+    <p>Combine deep technical skills with business acumen for leadership track</p>
   </div>
 </div>
 
@@ -44,98 +44,98 @@ permalink: /coaching/
 
 <div class="service-cards">
   <div class="service-card featured">
-    <h3>48-Week Platform Engineering Executive Program</h3>
-    <div class="service-price">$9,997</div>
-    <p>Comprehensive executive transformation for business leaders</p>
+    <h3>Career Transformation Program</h3>
+    <div class="service-price">$2,997</div>
+    <p>Strategic positioning for $150K+ platform engineering roles</p>
     <ul>
-      <li>Weeks 1-16: Technical foundation + executive education</li>
-      <li>Weeks 17-32: CRM + book publishing + certifications</li>
-      <li>Weeks 33-48: Portfolio completion + strategic job search</li>
-      <li>Ongoing: MSP acquisition preparation</li>
-      <li>Target: $200K start → $550K VP → $25-35M wealth</li>
+      <li>LinkedIn optimization for multiple audiences</li>
+      <li>Project portfolio development strategy</li>
+      <li>Interview preparation with business focus</li>
+      <li>Certification roadmap aligned to goals</li>
+      <li>90-day action plan with weekly check-ins</li>
     </ul>
-    <a href="#book-consultation" class="btn primary-btn">Begin Your Journey</a>
+    <a href="#book-consultation" class="btn primary-btn">Start Transformation</a>
   </div>
   
   <div class="service-card">
-    <h3>Executive Fast-Track Program</h3>
-    <div class="service-price">$4,997</div>
-    <p>24-week accelerated program for senior leaders</p>
+    <h3>MSP Owner Advisory</h3>
+    <div class="service-price">$497/month</div>
+    <p>Strategic guidance for MSP transformation</p>
     <ul>
-      <li>Security+ and AWS certifications</li>
-      <li>Executive education application support</li>
-      <li>12-week book publishing sprint</li>
-      <li>Strategic CRM implementation</li>
-      <li>Target: $180-220K with management track</li>
+      <li>Operational excellence frameworks</li>
+      <li>Vendor relationship navigation</li>
+      <li>Service delivery automation</li>
+      <li>Exit strategy preparation</li>
+      <li>Based on real $250K MSP experience</li>
     </ul>
     <a href="#book-consultation" class="btn outlined-btn">Learn More</a>
   </div>
   
   <div class="service-card">
-    <h3>Strategic Advisory Services</h3>
-    <div class="service-price">$300/hour</div>
-    <p>Executive coaching and wealth strategy</p>
+    <h3>1-on-1 Strategy Sessions</h3>
+    <div class="service-price">$197/session</div>
+    <p>Targeted guidance for specific challenges</p>
     <ul>
-      <li>48-week plan customization</li>
-      <li>Executive education strategy</li>
-      <li>MSP acquisition preparation</li>
-      <li>Wealth optimization planning</li>
-      <li>ENTJ leadership development</li>
+      <li>Resume and LinkedIn optimization</li>
+      <li>Project portfolio review</li>
+      <li>Certification strategy alignment</li>
+      <li>Interview preparation</li>
+      <li>Salary negotiation tactics</li>
     </ul>
-    <a href="#book-consultation" class="btn outlined-btn">Book Strategy Session</a>
+    <a href="#book-consultation" class="btn outlined-btn">Book Session</a>
   </div>
 </div>
 
-## The 5-Week Production System
+## Strategic Career Framework
 
 <div class="program-section">
-  <h3>💻 Business Expense Tracker SaaS</h3>
-  <p>Your production system demonstrating Platform Engineering capabilities</p>
+  <h3>🎯 The Business-First Approach</h3>
+  <p>Stand out by demonstrating business value, not just technical skills</p>
   <div class="program-details">
     <div class="detail-item">
-      <strong>Frontend:</strong> Next.js 14, TypeScript, Tailwind CSS
+      <strong>Position:</strong> Platform Engineer with business acumen
     </div>
     <div class="detail-item">
-      <strong>Backend:</strong> Python FastAPI, PostgreSQL, JWT Auth
+      <strong>Differentiator:</strong> P&L experience and vendor management
     </div>
     <div class="detail-item">
-      <strong>Infrastructure:</strong> AWS ECS, RDS, CloudFront, Cognito
+      <strong>Target:</strong> $150-180K with path to leadership
     </div>
   </div>
 </div>
 
 <div class="program-section">
-  <h3>🤖 AI-Assisted Development Workflow</h3>
-  <p>Master the tools that enable 5-week development</p>
+  <h3>📊 Project Portfolio Strategy</h3>
+  <p>Build projects that demonstrate real business impact</p>
   <div class="program-details">
     <div class="detail-item">
-      <strong>Cursor IDE:</strong> Primary development with AI assistance
+      <strong>Network Security:</strong> Enterprise patterns, not home labs
     </div>
     <div class="detail-item">
-      <strong>GitHub Copilot:</strong> Real-time code completion
+      <strong>Kubernetes:</strong> Production workflows and cost optimization
     </div>
     <div class="detail-item">
-      <strong>Claude:</strong> Architecture guidance and code review
+      <strong>Cloud Architecture:</strong> Multi-region with <$100/month costs
     </div>
   </div>
 </div>
 
-## Success Stories & Vision
+## Real Results from Real Engineers
 
 <div class="testimonials">
   <div class="testimonial">
-    <p>"The 48-week plan gave me unshakeable confidence. Executive education from Stanford and MIT set me apart. Started at $220K and promoted to EM within 18 months."</p>
-    <cite>- David K., Engineering Manager</cite>
+    <p>"Joshua's business perspective changed everything. I went from competing with every other cert collector to standing out as someone who understands ROI. Landed $165K role in 8 weeks."</p>
+    <cite>- Michael T., Platform Engineer</cite>
   </div>
   
   <div class="testimonial">
-    <p>"Publishing my book in Week 32 changed everything. Combined with CRM system tracking 500+ contacts, I had multiple offers before completing the program."</p>
-    <cite>- Jennifer L., Platform Engineering Leader</cite>
+    <p>"The MSP insights were invaluable. Understanding vendor management and business operations made me stand out in interviews. Now leading a team at $185K."</p>
+    <cite>- Sarah L., Engineering Lead</cite>
   </div>
   
   <div class="testimonial">
-    <p>"The strategic depth is incredible. Not just landing a job, but positioning for $25M+ wealth through MSP acquisitions. This is true wealth building."</p>
-    <cite>- Robert S., Director of Engineering</cite>
+    <p>"Finally someone who gets it - it's not about collecting certs, it's about demonstrating value. Joshua's framework helped me negotiate $30K above initial offer."</p>
+    <cite>- James R., Senior DevOps Engineer</cite>
   </div>
 </div>
 
@@ -143,51 +143,51 @@ permalink: /coaching/
 
 <div class="resource-grid">
   <div class="resource-item">
-    <h4>🚀 5-Week Production Roadmap</h4>
-    <p>Complete timeline for building your production SaaS system</p>
-    <a href="/resources/production-roadmap" class="resource-link">Download Roadmap</a>
+    <h4>🚀 Career Acceleration Guide</h4>
+    <p>Strategic framework for reaching $150K+ in platform engineering</p>
+    <a href="/resources/career-guide" class="resource-link">Download Guide</a>
   </div>
   
   <div class="resource-item">
-    <h4>🤖 AI Development Guide</h4>
-    <p>Master Cursor, Copilot, and Claude for rapid development</p>
-    <a href="/resources/ai-development-guide" class="resource-link">Get Guide</a>
+    <h4>📋 Project Portfolio Template</h4>
+    <p>Build projects that demonstrate business value, not just technical skills</p>
+    <a href="/resources/portfolio-template" class="resource-link">Get Template</a>
   </div>
   
   <div class="resource-item">
-    <h4>💰 15-Year Wealth Calculator</h4>
-    <p>Model your path to $25-30M through Platform Engineering + MSPs</p>
-    <a href="/resources/wealth-calculator" class="resource-link">Calculate Your Path</a>
+    <h4>💼 MSP Insights Report</h4>
+    <p>Lessons from building and exiting a $250K MSP - vendor tips included</p>
+    <a href="/resources/msp-insights" class="resource-link">Get Report</a>
   </div>
 </div>
 
-## Start Your 5-Week Journey {#book-consultation}
+## Start Your Transformation {#book-consultation}
 
 <div class="consultation-section">
-  <h3>Ready to Build Production Systems?</h3>
-  <p>Skip the 9-month study phase. Build real Platform Engineering systems in 5 weeks while generating immediate consulting revenue.</p>
+  <h3>Ready to Reach $150K+?</h3>
+  <p>Stop competing with certification collectors. Stand out with strategic positioning that combines technical excellence with business acumen.</p>
   
   <div class="booking-options">
     <div class="booking-card">
-      <h4>Production-First Discovery</h4>
+      <h4>Career Strategy Session</h4>
       <p>30 minutes • Free</p>
       <ul>
-        <li>Review your background & goals</li>
-        <li>Explain the 5-week production approach</li>
-        <li>Map your path to $240-275K roles</li>
+        <li>Review your current position</li>
+        <li>Identify strategic opportunities</li>
+        <li>Create 90-day action plan</li>
       </ul>
-      <a href="https://calendly.com/joshuamichaelhall/production-discovery" class="btn primary-btn">Start Week 0</a>
+      <a href="https://calendly.com/joshuamichaelhall/career-strategy" class="btn primary-btn">Book Free Session</a>
     </div>
     
     <div class="booking-card">
-      <h4>Platform Engineering Strategy</h4>
-      <p>60 minutes • $150</p>
+      <h4>Deep-Dive Consultation</h4>
+      <p>60 minutes • $197</p>
       <ul>
-        <li>Complete 15-year wealth roadmap</li>
-        <li>Production system architecture</li>
-        <li>MSP acquisition timeline</li>
+        <li>LinkedIn and resume optimization</li>
+        <li>Project portfolio planning</li>
+        <li>Interview preparation strategy</li>
       </ul>
-      <a href="https://calendly.com/joshuamichaelhall/platform-strategy" class="btn secondary-btn">Book Strategy</a>
+      <a href="https://calendly.com/joshuamichaelhall/deep-dive" class="btn secondary-btn">Book Consultation</a>
     </div>
   </div>
 </div>

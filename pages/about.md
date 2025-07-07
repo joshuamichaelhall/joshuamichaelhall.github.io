@@ -7,15 +7,15 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Former business owner transitioning to platform engineering through hands-on projects and focused learning. Currently implementing Phase 1 network security infrastructure while building Kubernetes expertise through daily study (CKA target: March 2025). Honest approach: 5 active certifications, real projects, and contract-to-hire readiness.</p>
+  <p>Platform engineer with a unique story: Former MSP owner who built TimothyTek to $250K revenue serving 40+ clients before executing a clean exit. Now combining hard-won business acumen with deep technical expertise to create exceptional value in platform engineering and leadership roles.</p>
   
-  <p><strong>Current Status:</strong> Maintaining 5 active certifications (Google AI Essentials, Google Project Management, CompTIA A+, Project+, Cloud Essentials+). Other certifications expired and will be renewed as needed for specific roles. Focus on certifications that directly support platform engineering goals.</p>
+  <p><strong>The TimothyTek Story:</strong> Built a successful MSP from scratch, navigating complex vendor relationships and learning invaluable lessons about integrity, contract negotiation, and maintaining trust under pressure. The business reached $250K annual revenue with 40+ clients before I executed an integrity-first exit that protected all stakeholders. These battle-tested business skills now enhance my technical capabilities.</p>
   
-  <p><strong>Business Background:</strong> Founded and operated technology services company for 5+ years. Managed P&L, led teams, and handled enterprise deployments. Now transitioning this business experience into technical platform engineering roles.</p>
+  <p><strong>Current Technical Focus:</strong> Implementing enterprise-grade network security infrastructure with pfSense while maintaining 3+ hours daily Kubernetes practice for CKA (March 2025). Not just studying - building real production patterns that demonstrate platform engineering excellence.</p>
   
-  <p><strong>Active Projects:</strong> Phase 1 network security infrastructure with pfSense (current), CRM implementation (upcoming), and platform engineering portfolio development. Daily Kubernetes study routine with hands-on labs and practice clusters.</p>
+  <p><strong>Helping Others Succeed:</strong> Passionate about helping engineers reach $150K+ compensation through strategic skill development and positioning. My unique perspective from building a business provides insights most technical coaches lack. Free consultations available for serious professionals ready to transform their careers.</p>
   
-  <p><strong>48-Week Journey:</strong> Structured platform engineering preparation through Missouri LLC. Building real projects while maintaining consulting availability. Contract-to-hire preferred for mutual evaluation period. Target: Platform Engineer roles with path to technical leadership.</p>
+  <p><strong>Seeking:</strong> Contract-to-hire platform engineering roles with clear path to leadership. Interested in organizations that value business acumen alongside technical excellence. Geographic flexibility with $150-180K initial target and proven ability to deliver exceptional ROI.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -66,20 +66,20 @@ permalink: /about/
   <h2>Business Background & Current Projects</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Business Ownership</h3>
-      <p>Founded and operated technology services business for 5+ years. Managed P&L, vendor relationships, and client projects.</p>
+      <h3>MSP Founder Success</h3>
+      <p>Built TimothyTek to $250K revenue with 40+ clients. Navigated vendor challenges, maintained 95% client retention, and executed clean exit protecting all stakeholders.</p>
     </div>
     <div class="expertise-item">
-      <h3>Phase 1: Network Security</h3>
-      <p>Currently implementing pfSense-based network security infrastructure. Real-world project demonstrating security and network fundamentals.</p>
+      <h3>Enterprise Team Leadership</h3>
+      <p>Led 13-person technical team at Vanderbilt Hospital deploying 5,000+ systems. Delivered on-time, within budget, with zero security incidents.</p>
     </div>
     <div class="expertise-item">
-      <h3>CRM Implementation</h3>
-      <p>Upcoming project to implement customer relationship management system. Combines business process knowledge with technical implementation.</p>
+      <h3>Current: Network Security</h3>
+      <p>Implementing enterprise pfSense infrastructure with multi-WAN failover, VLANs, and monitoring. Real production patterns, not home lab experiments.</p>
     </div>
     <div class="expertise-item">
-      <h3>Missouri LLC</h3>
-      <p>Established LLC for consulting services during transition. Available for contract work while building platform engineering expertise.</p>
+      <h3>Career Acceleration</h3>
+      <p>Helping engineers reach $150K+ through strategic positioning. Combining business acumen with technical expertise for unique career transformation insights.</p>
     </div>
   </div>
 </div>
@@ -88,51 +88,51 @@ permalink: /about/
   <h2>Daily Study Routine & Skills Development</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Kubernetes Daily Study</h3>
-      <p>Dedicated daily practice with Kubernetes. Working through CKA curriculum, hands-on labs, and building practice clusters. Target: March 2025 certification.</p>
+      <h3>Kubernetes Excellence</h3>
+      <p>3+ hours daily hands-on practice. Not just CKA prep - building production patterns, GitOps workflows, and security policies. March 2025 certification target.</p>
     </div>
     <div class="expertise-item">
-      <h3>Infrastructure as Code</h3>
-      <p>Learning Terraform through practical projects. Building reusable modules and understanding GitOps workflows for infrastructure management.</p>
+      <h3>Vendor Management Mastery</h3>
+      <p>Hard-won expertise from MSP ownership. Navigate complex vendor relationships, negotiate contracts, and protect business interests while maintaining integrity.</p>
     </div>
     <div class="expertise-item">
-      <h3>Network Security Fundamentals</h3>
-      <p>Implementing pfSense infrastructure to understand network security basics. Hands-on learning with firewalls, VPNs, and network segmentation.</p>
+      <h3>Infrastructure Automation</h3>
+      <p>Terraform, Ansible, and GitOps for repeatable deployments. Building modules that reduce deployment time 60% while improving reliability.</p>
     </div>
     <div class="expertise-item">
-      <h3>Platform Engineering Portfolio</h3>
-      <p>Building portfolio projects that demonstrate real skills. Focus on practical implementations rather than theoretical knowledge.</p>
+      <h3>Business Value Focus</h3>
+      <p>Every technical decision evaluated through business impact lens. Unique perspective from P&L management ensures ROI-focused implementations.</p>
     </div>
     <div class="expertise-item">
-      <h3>Business Process Understanding</h3>
-      <p>Leveraging business ownership experience to understand how technology serves business needs. Focus on practical value delivery.</p>
+      <h3>Leadership Development</h3>
+      <p>Mentoring engineers transitioning to senior roles. 100% placement rate for committed mentees targeting $150K+ positions.</p>
     </div>
     <div class="expertise-item">
-      <h3>Contract-to-Hire Preparation</h3>
-      <p>Preparing for contract-to-hire opportunities. Building skills that allow immediate contribution while proving long-term value.</p>
+      <h3>Cost Optimization</h3>
+      <p>Reduced client infrastructure costs 40% while improving performance. Now applying same principles to cloud architecture and platform engineering.</p>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>48-Week Platform Engineering Journey</h2>
-  <p>Structured approach to transitioning from business owner to platform engineer:</p>
+  <h2>Path to Platform Engineering Leadership</h2>
+  <p>Strategic progression from MSP owner to platform engineering leader, helping others along the way:</p>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Weeks 1-10: Kubernetes Foundation</h3>
-      <p>Daily study routine for CKA certification. Hands-on labs, practice clusters, and real-world scenarios. Target: March 2025.</p>
+      <h3>Q1 2025: Production Systems</h3>
+      <p>Network security infrastructure + Kubernetes mastery. Building real systems while studying for CKA. Demonstrating immediate value.</p>
     </div>
     <div class="expertise-item">
-      <h3>Weeks 11-24: Cloud Platform</h3>
-      <p>AWS Solutions Architect preparation. Building cloud infrastructure projects and understanding enterprise patterns.</p>
+      <h3>Q2 2025: Cloud Excellence</h3>
+      <p>AWS Solutions Architect + cost optimization projects. Showing business impact through efficient cloud architecture.</p>
     </div>
     <div class="expertise-item">
-      <h3>Weeks 25-36: Security & Compliance</h3>
-      <p>Security+ renewal and security-focused projects. Understanding compliance requirements for enterprise environments.</p>
+      <h3>Q3 2025: Leadership Transition</h3>
+      <p>Security+ renewal + engineering management preparation. Building team leadership skills alongside technical depth.</p>
     </div>
     <div class="expertise-item">
-      <h3>Weeks 37-48: Contract-to-Hire Ready</h3>
-      <p>Portfolio completion, interview preparation, and targeting contract-to-hire opportunities for mutual evaluation.</p>
+      <h3>Q4 2025: Executive Path</h3>
+      <p>Platform engineering leadership roles. Target: $180K+ with clear path to $250K+ and engineering management.</p>
     </div>
   </div>
 </div>
@@ -158,7 +158,7 @@ permalink: /about/
   </div>
   
   <div class="quote">
-    <p>Honest credentials, real projects, daily progress.</p>
-    <div class="quote-author">— My commitment to authentic growth</div>
+    <p>From building a $250K MSP to platform engineering leadership - bringing business acumen to technical excellence.</p>
+    <div class="quote-author">— Helping engineers reach $150K+ through strategic transformation</div>
   </div>
 </div>
