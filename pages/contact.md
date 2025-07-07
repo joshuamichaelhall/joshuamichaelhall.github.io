@@ -15,26 +15,26 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> DevOps Engineer (Remote-First, Arkansas)</p>
+    <p><strong>Status:</strong> Former Business Owner | Platform Engineering Journey | Contract-to-Hire Ready</p>
   </div>
 
-  <p>Specializing in AWS infrastructure automation and security compliance. Open to discussing DevOps Engineer opportunities in financial services.</p>
+  <p>Currently implementing Phase 1 network security infrastructure while building platform engineering skills. Available for contract-to-hire opportunities and consulting through Missouri LLC.</p>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Professional Interests</h2>
+  <h2>Current Focus Areas</h2>
 
-  <p>I'm focused on Infrastructure Automation & Cloud Security with emphasis on:</p>
+  <p>Building platform engineering skills through structured 48-week journey:</p>
 
   <ul class="interests-list">
-    <li>AWS cloud architecture and platform engineering for financial services</li>
-    <li>Infrastructure as Code with Terraform for reproducible deployments</li>
-    <li>Security automation and compliance validation in regulated environments</li>
-    <li>CI/CD pipeline implementation with integrated security controls</li>
-    <li>Multi-account AWS strategies and enterprise infrastructure management</li>
-    <li>Container orchestration and platform engineering for developer experience</li>
-    <li>Technical content creation, thought leadership, and knowledge sharing</li>
-    <li>Sustainable high-performance practices for technical professionals</li>
+    <li>Phase 1 network security infrastructure implementation with pfSense</li>
+    <li>Daily Kubernetes study routine targeting CKA certification (March 2025)</li>
+    <li>Infrastructure as Code learning with Terraform</li>
+    <li>CRM implementation project (upcoming Phase 2)</li>
+    <li>Platform engineering portfolio development</li>
+    <li>Contract-to-hire opportunities for mutual evaluation</li>
+    <li>Business process understanding from 5+ years ownership experience</li>
+    <li>Honest approach to career transition and skill building</li>
   </ul>
 </div>
 
@@ -51,17 +51,17 @@ permalink: /contact/
     
     <div class="tab-content active" id="coaching-tab">
       <div class="services-box">
-        <h3>Career Coaching for Technical Professionals</h3>
-        <p>Drawing from my experience transitioning from IT infrastructure to DevOps, I offer personalized career coaching for technologists looking to advance in DevOps, SRE, and cloud engineering roles. My coaching integrates technical skill development, strategic career planning, and sustainable high-performance practices for intensive learning periods.</p>
+        <h3>Career Transition Support</h3>
+        <p>As someone currently transitioning from business ownership to platform engineering, I understand the challenges of career change. I share my honest journey and lessons learned with others making similar transitions.</p>
         
-        <h4>Coaching Areas:</h4>
+        <h4>Support Areas:</h4>
         <ul class="coaching-areas">
-          <li><strong>Technical Roadmapping</strong> - Customized learning paths for DevOps/cloud careers</li>
-          <li><strong>Certification Planning</strong> - Strategic certification approaches for career advancement</li>
-          <li><strong>Portfolio Development</strong> - Guidance on building meaningful technical projects with business impact</li>
-          <li><strong>Sustainable Learning Practices</strong> - Health and productivity protocols for intensive technical development</li>
-          <li><strong>Technical Interview Preparation</strong> - Infrastructure and systems design practice</li>
-          <li><strong>Professional Networking Strategy</strong> - Building strategic relationships in the DevOps community</li>
+          <li><strong>Honest Career Transitions</strong> - Real experiences from business owner to technical roles</li>
+          <li><strong>Practical Certification Strategy</strong> - Focus on certifications that matter, not credential collecting</li>
+          <li><strong>Real Project Development</strong> - Building actual projects instead of just studying</li>
+          <li><strong>Daily Study Routines</strong> - Sustainable practices for consistent learning</li>
+          <li><strong>Contract-to-Hire Strategy</strong> - Using C2H for mutual evaluation periods</li>
+          <li><strong>Business Experience Value</strong> - Leveraging ownership experience in technical roles</li>
         </ul>
       </div>
     </div>

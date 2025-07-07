@@ -7,22 +7,22 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Platform Engineering leader building security-first production systems with AI assistance while leveraging 12 professional certifications including 4 rare CompTIA stackables (<1% of IT professionals). Combining $250K P&L management and 13-person team leadership with 5-week production development approach for Engineering Manager roles in financial services.</p>
+  <p>Former business owner transitioning to platform engineering through hands-on projects and focused learning. Currently implementing Phase 1 network security infrastructure while building Kubernetes expertise through daily study (CKA target: March 2025). Honest approach: 5 active certifications, real projects, and contract-to-hire readiness.</p>
   
-  <p><strong>Technical Leadership & Certification Excellence:</strong> Earned 12 professional certifications including 4 rare CompTIA stackables. Currently maintaining strategic portfolio (Google AI Essentials, Project Management, CompTIA A+, Project+, Cloud Essentials+) while adding AWS Solutions Architect, Security+ renewal, and cloud platform certifications.</p>
+  <p><strong>Current Status:</strong> Maintaining 5 active certifications (Google AI Essentials, Google Project Management, CompTIA A+, Project+, Cloud Essentials+). Other certifications expired and will be renewed as needed for specific roles. Focus on certifications that directly support platform engineering goals.</p>
   
-  <p><strong>Proven Business Impact:</strong> Founded and scaled technology services company with full P&L responsibility, achieving consistent profitability. Led 13-person technical teams through enterprise deployments of 5,000+ systems across multiple locations. Demonstrated expertise in vendor negotiations, stakeholder management, and operational excellence.</p>
+  <p><strong>Business Background:</strong> Founded and operated technology services company for 5+ years. Managed P&L, led teams, and handled enterprise deployments. Now transitioning this business experience into technical platform engineering roles.</p>
   
-  <p><strong>Security-First Platform Engineering:</strong> Building comprehensive AWS platform infrastructure using managed services (Cognito, RDS, ECS) with AI-assisted development for enterprise deployments. Creating Infrastructure as Code solutions through Terraform with security-first architecture. Establishing CI/CD automation and monitoring for production systems with financial services compliance standards.</p>
+  <p><strong>Active Projects:</strong> Phase 1 network security infrastructure with pfSense (current), CRM implementation (upcoming), and platform engineering portfolio development. Daily Kubernetes study routine with hands-on labs and practice clusters.</p>
   
-  <p><strong>Strategic Career Trajectory:</strong> Executing 5-week production-first development program targeting Platform Engineering Manager roles at $240-275K in financial services. Generating immediate consulting revenue while building technical credibility. Preparing for Stanford LEAD and executive education programs to accelerate path to VP Engineering and CTO positions.</p>
+  <p><strong>48-Week Journey:</strong> Structured platform engineering preparation through Missouri LLC. Building real projects while maintaining consulting availability. Contract-to-hire preferred for mutual evaluation period. Target: Platform Engineer roles with path to technical leadership.</p>
 </div>
 
 <div class="content-section with-divider">
   <h2>Certification Portfolio & Technical Excellence</h2>
   
   <div class="certifications-section">
-    <h3>Certification Achievement Portfolio</h3>
+    <h3>Honest Certification Status</h3>
     <div class="cert-categories">
       <div class="cert-category">
         <h4>Currently Active (5)</h4>
@@ -36,13 +36,13 @@ permalink: /about/
       </div>
       
       <div class="cert-category">
-        <h4>Strategic Achievements (12 Earned)</h4>
+        <h4>Expired Certifications</h4>
         <ul class="cert-list">
-          <li><strong>CompTIA Stackables Achieved:</strong> CSCP, CCAP, CSIS, CIOS - Rare credentials achieved by <1% of IT professionals</li>
-          <li><strong>CompTIA Security+</strong> - Enterprise security (Expired 2023, renewing 2025)</li>
-          <li><strong>CompTIA Network+</strong> - Network architecture (Expired 2023)</li>
-          <li><strong>CompTIA Cloud+</strong> - Cloud platforms (Expired 2024)</li>
-          <li><strong>Historical Achievements:</strong> Multiple certification renewals demonstrating continuous learning</li>
+          <li><strong>CompTIA Security+</strong> - Expired 2023 (Renewing in 2025)</li>
+          <li><strong>CompTIA Network+</strong> - Expired 2023</li>
+          <li><strong>CompTIA Cloud+</strong> - Expired 2024</li>
+          <li><strong>CompTIA Stackables:</strong> CSCP, CCAP, CSIS, CIOS - Expired with prerequisite certs</li>
+          <li><strong>Note:</strong> Will renew certifications as needed for specific role requirements</li>
         </ul>
       </div>
       
@@ -50,87 +50,89 @@ permalink: /about/
     
     <h3>In-Progress Certifications (2025)</h3>
     <ul class="cert-list in-progress">
-      <li><strong>AWS Solutions Architect Associate</strong> - Cloud architecture mastery</li>
-      <li><strong>CompTIA Security+ (SY0-701)</strong> - Renewing for current standards</li>
-      <li><strong>HashiCorp Terraform Associate</strong> - Infrastructure as Code</li>
-      <li><strong>Project Management Professional (PMP)</strong> - Advanced PM certification</li>
-      <li><strong>Certified Kubernetes Administrator</strong> - Container orchestration</li>
-      <li><strong>AWS Machine Learning Specialty</strong> - MLOps expertise</li>
+      <li><strong>Certified Kubernetes Administrator (CKA)</strong> - Primary focus, target: March 2025</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - Cloud architecture fundamentals</li>
+      <li><strong>CompTIA Security+ (SY0-701)</strong> - Renewal for current standards</li>
+    </ul>
+    <h3>Future Considerations</h3>
+    <ul class="cert-list">
+      <li>Additional certifications will be pursued based on specific role requirements</li>
+      <li>Focus on certifications that provide direct value for platform engineering</li>
     </ul>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Leadership & Business Achievements</h2>
+  <h2>Business Background & Current Projects</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>P&L Management</h3>
-      <p>Founded and scaled $250K+ technology services business. Full financial responsibility with consistent profitability and sustainable growth over 5+ years.</p>
+      <h3>Business Ownership</h3>
+      <p>Founded and operated technology services business for 5+ years. Managed P&L, vendor relationships, and client projects.</p>
     </div>
     <div class="expertise-item">
-      <h3>Team Leadership</h3>
-      <p>Led 13-person technical teams through complex enterprise deployments. Managed 5,000+ system implementations across multiple locations with zero failures.</p>
+      <h3>Phase 1: Network Security</h3>
+      <p>Currently implementing pfSense-based network security infrastructure. Real-world project demonstrating security and network fundamentals.</p>
     </div>
     <div class="expertise-item">
-      <h3>Enterprise Scale</h3>
-      <p>Deployed technology solutions for Fortune 500 clients including Vanderbilt University. Proven ability to manage multi-million dollar projects.</p>
+      <h3>CRM Implementation</h3>
+      <p>Upcoming project to implement customer relationship management system. Combines business process knowledge with technical implementation.</p>
     </div>
     <div class="expertise-item">
-      <h3>Vendor Excellence</h3>
-      <p>Negotiated and managed relationships with major technology vendors. Achieved preferred partner status and optimal pricing for enterprise clients.</p>
+      <h3>Missouri LLC</h3>
+      <p>Established LLC for consulting services during transition. Available for contract work while building platform engineering expertise.</p>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Technical Expertise & Development Focus</h2>
+  <h2>Daily Study Routine & Skills Development</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>AWS Platform Infrastructure</h3>
-      <p>Building production-ready solutions with EKS, Lambda, and cloud-native services. Focus on financial services compliance and multi-account architectures.</p>
+      <h3>Kubernetes Daily Study</h3>
+      <p>Dedicated daily practice with Kubernetes. Working through CKA curriculum, hands-on labs, and building practice clusters. Target: March 2025 certification.</p>
     </div>
     <div class="expertise-item">
       <h3>Infrastructure as Code</h3>
-      <p>Creating Terraform modules for automated deployment of AI workloads. Implementing GitOps workflows for infrastructure management at scale.</p>
+      <p>Learning Terraform through practical projects. Building reusable modules and understanding GitOps workflows for infrastructure management.</p>
     </div>
     <div class="expertise-item">
-      <h3>Security & Compliance</h3>
-      <p>Designing security frameworks for regulated environments. Expertise in PCI DSS, SOX, and financial services compliance requirements.</p>
+      <h3>Network Security Fundamentals</h3>
+      <p>Implementing pfSense infrastructure to understand network security basics. Hands-on learning with firewalls, VPNs, and network segmentation.</p>
     </div>
     <div class="expertise-item">
-      <h3>Platform Automation</h3>
-      <p>Building CI/CD pipelines for application deployment. Implementing monitoring and governance for production platform systems.</p>
+      <h3>Platform Engineering Portfolio</h3>
+      <p>Building portfolio projects that demonstrate real skills. Focus on practical implementations rather than theoretical knowledge.</p>
     </div>
     <div class="expertise-item">
-      <h3>Cost Optimization</h3>
-      <p>Applying P&L experience to cloud FinOps practices. Proven ability to reduce infrastructure costs by 40%+ while improving performance.</p>
+      <h3>Business Process Understanding</h3>
+      <p>Leveraging business ownership experience to understand how technology serves business needs. Focus on practical value delivery.</p>
     </div>
     <div class="expertise-item">
-      <h3>Strategic Planning</h3>
-      <p>Translating business objectives into technical roadmaps. Creating frameworks for measuring and communicating technology ROI.</p>
+      <h3>Contract-to-Hire Preparation</h3>
+      <p>Preparing for contract-to-hire opportunities. Building skills that allow immediate contribution while proving long-term value.</p>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Executive Education & Development</h2>
-  <p>Committed to continuous learning and leadership development through elite programs:</p>
+  <h2>48-Week Platform Engineering Journey</h2>
+  <p>Structured approach to transitioning from business owner to platform engineer:</p>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Stanford Engineering</h3>
-      <p>Targeted for Engineering Leadership Certificate (2025) focusing on technical leadership and innovation management.</p>
+      <h3>Weeks 1-10: Kubernetes Foundation</h3>
+      <p>Daily study routine for CKA certification. Hands-on labs, practice clusters, and real-world scenarios. Target: March 2025.</p>
     </div>
     <div class="expertise-item">
-      <h3>MIT Management</h3>
-      <p>Planned enrollment in Executive Certificate programs for AI strategy and digital transformation leadership.</p>
+      <h3>Weeks 11-24: Cloud Platform</h3>
+      <p>AWS Solutions Architect preparation. Building cloud infrastructure projects and understanding enterprise patterns.</p>
     </div>
     <div class="expertise-item">
-      <h3>Wharton Executive</h3>
-      <p>Pursuing Business Analytics and Executive Presence programs for data-driven leadership excellence.</p>
+      <h3>Weeks 25-36: Security & Compliance</h3>
+      <p>Security+ renewal and security-focused projects. Understanding compliance requirements for enterprise environments.</p>
     </div>
     <div class="expertise-item">
-      <h3>Stanford LEAD</h3>
-      <p>Target 2027 cohort for comprehensive executive leadership development and global network expansion.</p>
+      <h3>Weeks 37-48: Contract-to-Hire Ready</h3>
+      <p>Portfolio completion, interview preparation, and targeting contract-to-hire opportunities for mutual evaluation.</p>
     </div>
   </div>
 </div>
@@ -150,13 +152,13 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Contact</h3>
-      <p>Open to Engineering Manager opportunities in financial services</p>
-      <p>Available for consulting on certification strategy</p>
+      <p>Open to contract-to-hire platform engineering opportunities</p>
+      <p>Missouri LLC available for consulting engagements</p>
     </div>
   </div>
   
   <div class="quote">
-    <p>Master the basics. Then practice them every day without fail.</p>
-    <div class="quote-author">— John C. Maxwell</div>
+    <p>Honest credentials, real projects, daily progress.</p>
+    <div class="quote-author">— My commitment to authentic growth</div>
   </div>
 </div>
