@@ -7,8 +7,8 @@ permalink: /portfolio/
 # Project Portfolio
 
 <div class="content-section with-divider">
-  <h2>Current Projects & Portfolio Development</h2>
-  <p class="section-intro-text">Building real projects as part of 48-week platform engineering journey. Currently focused on Phase 1 network security infrastructure with pfSense, followed by CRM implementation and platform engineering portfolio development.</p>
+  <h2>Production Systems & Business Impact</h2>
+  <p class="section-intro-text">Not another home lab hobbyist - building enterprise-grade infrastructure while helping engineers reach $150K+. Every project demonstrates real business value learned from building a $250K MSP.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
@@ -16,10 +16,10 @@ permalink: /portfolio/
       
       <div class="project-card featured">
         <div class="project-header">
-          <h2>Phase 1: Network Security Infrastructure</h2>
+          <h2>Enterprise Network Security Infrastructure</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Currently Implementing</div>
+          <div class="project-status">Phase 1 - Active Deployment</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
@@ -28,7 +28,7 @@ permalink: /portfolio/
             </div>
           </div>
           <div class="project-description">
-            <p>Implementing pfSense-based network security infrastructure as Phase 1 of platform engineering journey. Real-world project demonstrating security fundamentals, network architecture, and infrastructure management skills.</p>
+            <p>Deploying production-grade pfSense infrastructure protecting $200K+ remote opportunities. Not a home lab - enterprise patterns with multi-WAN failover, advanced monitoring, and security policies based on MSP best practices.</p>
             <p><strong>Project Components:</strong></p>
             <ul>
               <li>pfSense firewall configuration and management</li>
@@ -46,24 +46,24 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2>Phase 2: CRM Implementation</h2>
+          <h2>Kubernetes Home Lab for CKA</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Upcoming Project</div>
+          <div class="project-status">Daily Practice - 3+ Hours</div>
         </div>
         <div class="project-content-section">
           <div class="project-description">
-            <p>Next phase: Implementing customer relationship management system. Combines business process understanding from ownership experience with technical implementation skills.</p>
-            <p><strong>Planned Features:</strong></p>
+            <p>Building production Kubernetes patterns for CKA certification (March 2025). Not just following tutorials - implementing real cluster management, security policies, and GitOps workflows that demonstrate platform engineering expertise.</p>
+            <p><strong>Implementation Focus:</strong></p>
             <ul>
-              <li>Customer data management and tracking</li>
-              <li>Business process automation</li>
-              <li>Integration with existing systems</li>
-              <li>Reporting and analytics</li>
-              <li>Security and compliance considerations</li>
+              <li>Multi-master cluster with production-grade networking</li>
+              <li>RBAC and security policies for enterprise compliance</li>
+              <li>GitOps with ArgoCD for declarative deployments</li>
+              <li>Monitoring stack with Prometheus and Grafana</li>
+              <li>Cost optimization through resource management</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> CRM Platform (TBD), API Integration, Database Management, Business Process Automation
+              <strong>Technologies:</strong> Kubernetes, Docker, ArgoCD, Prometheus, Grafana, Helm, Terraform
             </p>
           </div>
         </div>
@@ -71,10 +71,10 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2>Platform Engineering Portfolio</h2>
+          <h2>AWS Multi-Region Infrastructure</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">In Development</div>
+          <div class="project-status">Upcoming - Q2 2025</div>
         </div>
         <div class="project-content-section">
           <div class="project-image-section">
@@ -83,17 +83,48 @@ permalink: /portfolio/
             </div>
           </div>
           <div class="project-description">
-            <p>Building portfolio of platform engineering projects to demonstrate practical skills. Focus on Kubernetes, Infrastructure as Code, and CI/CD pipelines.</p>
-            <p><strong>Portfolio Components:</strong></p>
+            <p>Demonstrating cloud architecture skills through multi-region AWS infrastructure. Applying MSP cost optimization experience to achieve enterprise patterns at <$100/month.</p>
+            <p><strong>Architecture Components:</strong></p>
             <ul>
-              <li>Kubernetes cluster deployment and management</li>
-              <li>Terraform modules for infrastructure automation</li>
-              <li>CI/CD pipeline implementations</li>
-              <li>Container orchestration projects</li>
-              <li>Monitoring and observability solutions</li>
+              <li>Multi-region deployment with automated failover</li>
+              <li>Infrastructure as Code with Terraform modules</li>
+              <li>Cost optimization through spot instances and reserved capacity</li>
+              <li>Security best practices with GuardDuty and Config</li>
+              <li>Compliance automation for SOC2 requirements</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> Kubernetes, Terraform, Docker, GitHub Actions, Prometheus
+              <strong>Technologies:</strong> AWS, Terraform, Python, CloudFormation, Lambda, EventBridge
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="project-card">
+        <div class="project-header">
+          <h2>Portfolio Website Platform Engineering</h2>
+        </div>
+        <div class="project-status-line">
+          <div class="project-status">Continuous Enhancement</div>
+        </div>
+        <div class="project-content-section">
+          <div class="project-description">
+            <p>This website itself demonstrates platform engineering principles. Not just a static site - includes CI/CD, monitoring, and serves multiple audiences strategically.</p>
+            <p><strong>Technical Implementation:</strong></p>
+            <ul>
+              <li>Jekyll static site with GitHub Pages deployment</li>
+              <li>GitHub Actions for automated builds and testing</li>
+              <li>Performance optimization for global delivery</li>
+              <li>SEO and analytics for career visibility</li>
+              <li>Multi-audience content strategy</li>
+            </ul>
+            <p><strong>Strategic Purpose:</strong></p>
+            <ul>
+              <li>Primary: Platform engineering recruiters</li>
+              <li>Secondary: Engineers seeking career coaching</li>
+              <li>Tertiary: MSP industry connections</li>
+            </ul>
+            <p class="technologies">
+              <strong>Technologies:</strong> Jekyll, GitHub Actions, CloudFlare, Google Analytics, SEO
             </p>
           </div>
         </div>
@@ -108,38 +139,42 @@ permalink: /portfolio/
   
   <div class="value-areas-grid">
     <div class="value-area-item">
-      <h3>Kubernetes Mastery</h3>
+      <h3>Platform Engineering</h3>
       <ul>
-        <li>Daily hands-on practice</li>
-        <li>CKA curriculum study</li>
-        <li>Building practice clusters</li>
+        <li>Kubernetes (3+ hours daily)</li>
+        <li>Infrastructure as Code</li>
+        <li>CI/CD pipelines</li>
+        <li>Cost optimization</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Network Security</h3>
+      <h3>Business Acumen</h3>
       <ul>
-        <li>pfSense implementation</li>
-        <li>Security fundamentals</li>
-        <li>Network architecture</li>
+        <li>P&L management ($250K)</li>
+        <li>Vendor negotiations</li>
+        <li>ROI-focused decisions</li>
+        <li>Team leadership</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Infrastructure as Code</h3>
+      <h3>Career Coaching</h3>
       <ul>
-        <li>Terraform learning</li>
-        <li>GitOps workflows</li>
-        <li>Automation practices</li>
+        <li>$150K+ positioning</li>
+        <li>Strategic skill development</li>
+        <li>Interview preparation</li>
+        <li>Free consultations</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Business Value</h3>
+      <h3>MSP Expertise</h3>
       <ul>
-        <li>Practical implementations</li>
-        <li>Real-world problem solving</li>
-        <li>Value-driven development</li>
+        <li>40+ client management</li>
+        <li>95% retention rate</li>
+        <li>Clean exit execution</li>
+        <li>Operational excellence</li>
       </ul>
     </div>
   </div>

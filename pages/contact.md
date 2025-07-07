@@ -68,8 +68,8 @@ permalink: /contact/
     
     <div class="tab-content" id="tools-tab">
       <div class="services-box">
-        <h3>Business Dashboards & Custom Tools</h3>
-        <p>I develop custom dashboards and business tools that provide real-time insights and streamline your workflows. My software solutions help businesses track metrics, monitor progress, and make data-driven decisions with intuitive visualizations and secure data management.</p>
+        <h3>Business Intelligence & Automation</h3>
+        <p>Leveraging MSP operational experience to build dashboards and tools that actually matter. Having managed 40+ clients and $250K revenue, I understand what metrics drive business success and how to automate workflows for maximum efficiency.</p>
         
         <h4>Available Solutions:</h4>
         <ul class="service-areas">
@@ -84,8 +84,8 @@ permalink: /contact/
     
     <div class="tab-content" id="web-tab">
       <div class="services-box">
-        <h3>Web Development Services</h3>
-        <p>I build professional websites for technical professionals and small businesses with a focus on performance, clean design, and modern development practices. My web development approach emphasizes security, maintainability, and technical excellence.</p>
+        <h3>Strategic Web Presence</h3>
+        <p>Building websites that serve multiple audiences strategically - just like this site. Whether you need to attract recruiters, coaching clients, or business partners, I create web presences that position you for all your goals simultaneously.</p>
         
         <h4>Development Services:</h4>
         <ul class="service-areas">
@@ -99,8 +99,8 @@ permalink: /contact/
     
     <div class="tab-content" id="infra-tab">
       <div class="services-box">
-        <h3>Infrastructure & Hosting Services</h3>
-        <p>I provide secure, reliable hosting and infrastructure services specifically designed for technical professionals who need specialized configurations or enhanced security. My infrastructure services focus on applying DevOps best practices to small business needs.</p>
+        <h3>Enterprise Infrastructure Consulting</h3>
+        <p>Implementing production-grade infrastructure with cost optimization focus. From my current pfSense deployment to multi-region AWS architectures, I bring MSP-level operational excellence to platform engineering challenges.</p>
         
         <h4>Infrastructure Services:</h4>
         <ul class="service-areas">

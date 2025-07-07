@@ -8,8 +8,8 @@ permalink: /certifications/
 
 <div class="cert-hero">
   <div class="cert-summary">
-    <h2>Honest Certification Status</h2>
-    <p>Transparent approach: 5 active certifications, others expired. Focus on certifications that directly support platform engineering goals.</p>
+    <h2>Strategic Certification Approach</h2>
+    <p>No inflated claims - exactly 5 active certifications. Former MSP owner who values real skills over credential collecting. Focus on certifications that demonstrate business value.</p>
     <div class="cert-stats-row">
       <div class="stat-item">
         <span class="stat-number">5</span>
@@ -34,20 +34,20 @@ permalink: /certifications/
 ## Honest Certification Approach
 
 <div class="philosophy-section">
-  <p>I've earned various certifications over my career, but I believe in being honest about current status. I maintain 5 active certifications and will pursue others based on specific role requirements. Quality and relevance matter more than quantity.</p>
+  <p>As a former MSP owner who built a $250K business, I understand the difference between paper credentials and real expertise. I maintain exactly 5 active certifications and focus on those that directly support platform engineering with business impact. This honest approach has served me well - it's about demonstrating value, not collecting badges.</p>
   
   <div class="philosophy-points">
     <div class="point-item">
-      <h4>🎯 Focused Learning</h4>
-      <p>CKA is primary focus for platform engineering readiness</p>
+      <h4>🎯 Business Value Focus</h4>
+      <p>Every certification chosen for ROI - learned this managing 40+ MSP clients</p>
     </div>
     <div class="point-item">
-      <h4>💡 Practical Application</h4>
-      <p>Certifications paired with real project experience</p>
+      <h4>💡 Real Implementation</h4>
+      <p>Currently deploying enterprise pfSense while studying for CKA</p>
     </div>
     <div class="point-item">
-      <h4>📈 Strategic Renewal</h4>
-      <p>Only renew certifications when needed for specific opportunities</p>
+      <h4>📈 Strategic Investment</h4>
+      <p>Smart about renewals - business owner mindset on certification ROI</p>
     </div>
   </div>
 </div>
@@ -168,20 +168,20 @@ permalink: /certifications/
 <div class="strategy-section">
   <div class="strategy-grid">
     <div class="strategy-item">
-      <h3>🎯 Real Skills Focus</h3>
-      <p>Building actual platform engineering skills through daily practice and real projects</p>
+      <h3>🎯 MSP Owner Perspective</h3>
+      <p>Built $250K business - I know which certifications actually matter to employers</p>
     </div>
     <div class="strategy-item">
-      <h3>💰 Smart Investment</h3>
-      <p>Only pursuing certifications that directly support career goals</p>
+      <h3>💰 Business ROI Mindset</h3>
+      <p>Every certification evaluated for impact on $150K+ career trajectory</p>
     </div>
     <div class="strategy-item">
-      <h3>⏱️ Contract-to-Hire Ready</h3>
-      <p>Honest credentials allow mutual evaluation during contract period</p>
+      <h3>⏱️ Leadership Track</h3>
+      <p>Positioning for platform engineering with path to management</p>
     </div>
     <div class="strategy-item">
-      <h3>🚀 Continuous Learning</h3>
-      <p>Daily study routine demonstrates commitment to growth</p>
+      <h3>🚀 3+ Hours Daily</h3>
+      <p>Kubernetes mastery through disciplined practice, not just videos</p>
     </div>
   </div>
 </div>
@@ -197,13 +197,13 @@ permalink: /certifications/
     <li>Expired certifications honestly disclosed</li>
   </ul>
   
-  <p class="credibility-note">I believe in honest representation. I have 5 active certifications and am focused on earning certifications that directly support my platform engineering goals. Quality and relevance over quantity.</p>
+  <p class="credibility-note">From building a $250K MSP to platform engineering - I've learned that honest credentials combined with real business acumen creates exceptional value. This approach helps me coach others to reach $150K+ by focusing on what actually matters.</p>
 </div>
 
 <div class="cta-section">
-  <h3>My Certification Philosophy</h3>
-  <p>Focus on certifications that directly support your career goals. Build real skills through projects and daily practice. Be honest about your credentials.</p>
-  <a href="/contact" class="btn primary-btn">Connect With Me</a>
+  <h3>Ready to Reach $150K+?</h3>
+  <p>Stop competing with certification collectors. Learn how to position your skills strategically from someone who built a successful business. Free consultation for serious professionals.</p>
+  <a href="/coaching" class="btn primary-btn">Explore Career Acceleration</a>
 </div>
 
 <style>

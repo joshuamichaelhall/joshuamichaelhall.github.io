@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Former Business Owner | Platform Engineering Journey | 5 Active Certifications</h2>
-        <h3 class="hero-tagline">Network Security Implementation | Contract-to-Hire Ready | 48-Week Development Path</h3>
-        <p>Former business owner transitioning to platform engineering through hands-on projects and strategic certification. Currently implementing Phase 1 network security infrastructure with pfSense while building Kubernetes expertise (CKA target: March 2025). Daily study routine with honest credentials: 5 active certifications, real projects, and contract-to-hire readiness.</p>
+        <h2>Platform Engineer → Engineering Leader | Former MSP Owner ($250K Revenue) | Helping Engineers Reach $150K+</h2>
+        <h3 class="hero-tagline">Network Security Infrastructure | 5 Active Certifications | Contract-to-Hire Ready</h3>
+        <p>Former MSP founder who built TimothyTek to $250K serving 40+ clients. Now combining technical expertise with battle-tested business acumen to transition into platform engineering leadership. Currently implementing enterprise-grade network security infrastructure while helping other engineers accelerate their careers to $150K+.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Current Projects & Credentials</h4>
           <div class="cert-stats">
@@ -37,7 +37,7 @@ layout: default
             <span class="cert-badge">Cloud Essentials+</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Missouri LLC for consulting services | Contract-to-hire preferred | Building real projects daily | Remote-first</strong>
+            <strong>🚀 Missouri LLC for consulting | Contract-to-hire platform engineering roles | Career acceleration coaching | Remote-first</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -51,27 +51,27 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="leadership-impact">
-  <h2>Business Background & Current Journey</h2>
+  <h2>From MSP Owner to Platform Engineering Leader</h2>
   <div class="impact-metrics">
     <div class="metric-card">
-      <div class="metric-value">Business Owner</div>
-      <div class="metric-label">5+ Years Experience</div>
-      <div class="metric-detail">Technology services company with P&L responsibility</div>
+      <div class="metric-value">$250K</div>
+      <div class="metric-label">MSP Revenue Built</div>
+      <div class="metric-detail">TimothyTek: 40+ clients, clean exit, integrity maintained</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-value">13-Person</div>
+      <div class="metric-label">Team Leadership</div>
+      <div class="metric-detail">Vanderbilt Hospital: 5,000+ deployments</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-value">$150K+</div>
+      <div class="metric-label">Career Coaching</div>
+      <div class="metric-detail">Helping engineers reach senior compensation</div>
     </div>
     <div class="metric-card">
       <div class="metric-value">Phase 1</div>
       <div class="metric-label">Network Security</div>
-      <div class="metric-detail">pfSense infrastructure implementation</div>
-    </div>
-    <div class="metric-card">
-      <div class="metric-value">Daily Study</div>
-      <div class="metric-label">Kubernetes Focus</div>
-      <div class="metric-detail">CKA preparation for March 2025</div>
-    </div>
-    <div class="metric-card">
-      <div class="metric-value">5 Active</div>
-      <div class="metric-label">Current Certifications</div>
-      <div class="metric-detail">Others expired/renewing as needed</div>
+      <div class="metric-detail">Enterprise pfSense infrastructure deployment</div>
     </div>
   </div>
 </div>
@@ -80,27 +80,27 @@ layout: default
   <h2>Current Projects & Development Focus</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Phase 1: Network Security Infrastructure</h3>
-      <p>Currently implementing pfSense-based network security infrastructure. Real-world project demonstrating security fundamentals, network architecture, and infrastructure management skills.</p>
+      <h3>Enterprise Network Security (Current)</h3>
+      <p>Deploying production-grade pfSense infrastructure with multi-WAN failover, VLANs, and monitoring. Real enterprise patterns, not just home lab experiments.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>CRM Implementation (Upcoming)</h3>
-      <p>Next phase: Implementing customer relationship management system. Combines business process understanding with technical implementation for practical value delivery.</p>
+      <h3>Kubernetes Home Lab for CKA</h3>
+      <p>3+ hours daily practice building production patterns. Not just studying - implementing real cluster management, security policies, and GitOps workflows.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Daily Kubernetes Study</h3>
-      <p>Dedicated daily study routine for Kubernetes mastery. Working through hands-on labs, practice clusters, and real scenarios. CKA certification target: March 2025.</p>
+      <h3>AWS Infrastructure Project</h3>
+      <p>Upcoming: Multi-region infrastructure demonstrating cost optimization, security best practices, and Infrastructure as Code. Target: <$100/month with enterprise patterns.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Platform Engineering Portfolio</h3>
-      <p>Building portfolio projects that demonstrate platform engineering capabilities. Focus on Infrastructure as Code, CI/CD pipelines, and container orchestration.</p>
+      <h3>Career Acceleration Framework</h3>
+      <p>Building frameworks helping engineers reach $150K+. Combining MSP business experience with technical expertise to create unique career transformation strategies.</p>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="certification-journey">
-  <h2>Honest Certification Status</h2>
-  <p class="section-intro-text">Transparent approach to certifications: 5 currently active, others expired or in progress. Focus on certifications that directly support platform engineering goals.</p>
+  <h2>Honest Certification Approach</h2>
+  <p class="section-intro-text">No inflated claims - exactly 5 active certifications. Others expired and will renew based on role requirements. Focus on certifications that demonstrate real value, not just collection.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
       <h3>Currently Active (5)</h3>
@@ -132,8 +132,8 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="projects">
-  <h2>Current & Upcoming Projects</h2>
-  <p class="section-intro-text">Real projects in active development, demonstrating practical skills and business value. No inflated claims - just honest progress.</p>
+  <h2>Production Projects & Business Impact</h2>
+  <p class="section-intro-text">Not another certification collector - building real infrastructure while helping others transform their careers. Every project demonstrates business value alongside technical excellence.</p>
   <div id="github-projects"></div>
   <div class="section-link">
     <a href="/portfolio" class="btn outlined-btn">View Project Details</a>
@@ -141,8 +141,8 @@ layout: default
 </div>
 
 <div class="home-section no-divider" id="thought-leadership">
-  <h2>Learning Journey & Technical Writing</h2>
-  <p class="section-intro-text">Documenting the journey from business owner to platform engineer. Sharing real experiences and lessons learned.</p>
+  <h2>Career Transformation Insights</h2>
+  <p class="section-intro-text">Sharing hard-won lessons from building a $250K MSP and transitioning to platform engineering. Real stories about vendor management, business challenges, and technical growth.</p>
   <div id="devto-articles"></div>
   <div class="section-link">
     <a href="/blog" class="btn outlined-btn">Read All Articles</a>
