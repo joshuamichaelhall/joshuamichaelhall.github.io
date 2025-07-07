@@ -15,26 +15,26 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> Former Business Owner | Platform Engineering Journey | Contract-to-Hire Ready</p>
+    <p><strong>Status:</strong> Platform Engineer | Kubernetes & AWS Focus | Open to Opportunities</p>
   </div>
 
-  <p>Currently implementing Phase 1 network security infrastructure while building platform engineering skills. Available for contract-to-hire opportunities and consulting through Missouri LLC.</p>
+  <p>Platform engineer with focus on Kubernetes, AWS, and infrastructure automation. Building production-grade systems with 3+ hours daily hands-on practice. Open to platform engineering opportunities.</p>
 </div>
 
 <div class="content-section with-divider">
   <h2>Current Focus Areas</h2>
 
-  <p>Building platform engineering skills through structured 48-week journey:</p>
+  <p>Current technical focus areas and projects:</p>
 
   <ul class="interests-list">
-    <li>Phase 1 network security infrastructure implementation with pfSense</li>
-    <li>Daily Kubernetes study routine targeting CKA certification (March 2025)</li>
-    <li>Infrastructure as Code learning with Terraform</li>
-    <li>CRM implementation project (upcoming Phase 2)</li>
-    <li>Platform engineering portfolio development</li>
-    <li>Contract-to-hire opportunities for mutual evaluation</li>
-    <li>Business process understanding from 5+ years ownership experience</li>
-    <li>Honest approach to career transition and skill building</li>
+    <li>Kubernetes cluster management and CKA certification preparation</li>
+    <li>AWS multi-region infrastructure with Terraform</li>
+    <li>Network security implementation with pfSense</li>
+    <li>GitOps workflows with ArgoCD</li>
+    <li>Infrastructure as Code and automation</li>
+    <li>CI/CD pipeline development</li>
+    <li>Monitoring and observability stack implementation</li>
+    <li>Container orchestration and microservices</li>
   </ul>
 </div>
 
@@ -43,71 +43,73 @@ permalink: /contact/
   
   <div class="services-tabs">
     <div class="tab-headers">
-      <button class="tab-button active" data-tab="coaching">Career Coaching</button>
-      <button class="tab-button" data-tab="tools">Dashboards & Tools</button>
-      <button class="tab-button" data-tab="web">Web Development</button>
-      <button class="tab-button" data-tab="infra">Infrastructure</button>
+      <button class="tab-button active" data-tab="infra">Infrastructure</button>
+      <button class="tab-button" data-tab="automation">Automation & DevOps</button>
+      <button class="tab-button" data-tab="cloud">Cloud Architecture</button>
+      <button class="tab-button" data-tab="consulting">Technical Consulting</button>
     </div>
     
-    <div class="tab-content active" id="coaching-tab">
+    <div class="tab-content active" id="infra-tab">
       <div class="services-box">
-        <h3>Career Transition Support</h3>
-        <p>As someone currently transitioning from business ownership to platform engineering, I understand the challenges of career change. I share my honest journey and lessons learned with others making similar transitions.</p>
-        
-        <h4>Support Areas:</h4>
-        <ul class="coaching-areas">
-          <li><strong>Honest Career Transitions</strong> - Real experiences from business owner to technical roles</li>
-          <li><strong>Practical Certification Strategy</strong> - Focus on certifications that matter, not credential collecting</li>
-          <li><strong>Real Project Development</strong> - Building actual projects instead of just studying</li>
-          <li><strong>Daily Study Routines</strong> - Sustainable practices for consistent learning</li>
-          <li><strong>Contract-to-Hire Strategy</strong> - Using C2H for mutual evaluation periods</li>
-          <li><strong>Business Experience Value</strong> - Leveraging ownership experience in technical roles</li>
-        </ul>
-      </div>
-    </div>
-    
-    <div class="tab-content" id="tools-tab">
-      <div class="services-box">
-        <h3>Business Intelligence & Automation</h3>
-        <p>Leveraging MSP operational experience to build dashboards and tools that actually matter. Having managed 40+ clients and $250K revenue, I understand what metrics drive business success and how to automate workflows for maximum efficiency.</p>
-        
-        <h4>Available Solutions:</h4>
-        <ul class="service-areas">
-          <li><strong>Performance Dashboards</strong> - Custom metrics visualization for business KPIs</li>
-          <li><strong>Progress Tracking Tools</strong> - Specialized software for tracking goals and initiatives</li>
-          <li><strong>Business Intelligence Systems</strong> - Data aggregation and visualization platforms</li>
-          <li><strong>Custom Business Tools</strong> - Specialized applications for your unique workflows</li>
-          <li><strong>CRM Integrations</strong> - Connect your data with existing systems like Clay CRM</li>
-        </ul>
-      </div>
-    </div>
-    
-    <div class="tab-content" id="web-tab">
-      <div class="services-box">
-        <h3>Strategic Web Presence</h3>
-        <p>Building websites that serve multiple audiences strategically - just like this site. Whether you need to attract recruiters, coaching clients, or business partners, I create web presences that position you for all your goals simultaneously.</p>
-        
-        <h4>Development Services:</h4>
-        <ul class="service-areas">
-          <li><strong>Professional Portfolio Sites</strong> - Custom-built portfolio websites for technical professionals</li>
-          <li><strong>Static Site Generation</strong> - Fast, secure websites using Jekyll, Hugo, or similar technologies</li>
-          <li><strong>Technical Content Platforms</strong> - Specialized sites for presenting technical content</li>
-          <li><strong>Developer Blogs</strong> - Customized blogging platforms for technical writers</li>
-        </ul>
-      </div>
-    </div>
-    
-    <div class="tab-content" id="infra-tab">
-      <div class="services-box">
-        <h3>Enterprise Infrastructure Consulting</h3>
-        <p>Implementing production-grade infrastructure with cost optimization focus. From my current pfSense deployment to multi-region AWS architectures, I bring MSP-level operational excellence to platform engineering challenges.</p>
+        <h3>Infrastructure Engineering Services</h3>
+        <p>Building production-grade infrastructure with focus on reliability, security, and automation. Experience with enterprise patterns and best practices.</p>
         
         <h4>Infrastructure Services:</h4>
         <ul class="service-areas">
-          <li><strong>Secure Email Hosting</strong> - Private email services with enhanced security controls</li>
-          <li><strong>Static Site Hosting</strong> - Fast, reliable hosting with CI/CD integration</li>
-          <li><strong>Development Environment Setup</strong> - Containerized development environments</li>
-          <li><strong>Infrastructure Automation</strong> - Small-scale infrastructure as code implementations</li>
+          <li><strong>Kubernetes Deployment</strong> - Production cluster setup and management</li>
+          <li><strong>Network Security</strong> - pfSense, VLANs, and security policies</li>
+          <li><strong>Infrastructure as Code</strong> - Terraform modules and automation</li>
+          <li><strong>Monitoring Setup</strong> - Prometheus, Grafana, and alerting</li>
+          <li><strong>CI/CD Implementation</strong> - GitHub Actions and GitOps</li>
+          <li><strong>Container Orchestration</strong> - Docker and Kubernetes workflows</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="tab-content" id="automation-tab">
+      <div class="services-box">
+        <h3>Automation & DevOps</h3>
+        <p>Implementing automation to reduce manual work and improve reliability. Focus on GitOps, CI/CD, and infrastructure automation for efficient operations.</p>
+        
+        <h4>Automation Services:</h4>
+        <ul class="service-areas">
+          <li><strong>GitOps Workflows</strong> - ArgoCD implementation and management</li>
+          <li><strong>CI/CD Pipelines</strong> - GitHub Actions, Jenkins automation</li>
+          <li><strong>Configuration Management</strong> - Ansible playbooks and automation</li>
+          <li><strong>Infrastructure Automation</strong> - Terraform modules and provisioning</li>
+          <li><strong>Deployment Automation</strong> - Zero-downtime deployment strategies</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="tab-content" id="cloud-tab">
+      <div class="services-box">
+        <h3>Cloud Architecture</h3>
+        <p>Designing and implementing cloud infrastructure on AWS with focus on scalability, security, and cost optimization. Multi-region deployments and high availability.</p>
+        
+        <h4>Cloud Services:</h4>
+        <ul class="service-areas">
+          <li><strong>AWS Architecture</strong> - VPC design, multi-region setup</li>
+          <li><strong>Cost Optimization</strong> - Right-sizing and efficient resource usage</li>
+          <li><strong>Security Implementation</strong> - IAM policies, security groups</li>
+          <li><strong>High Availability</strong> - Multi-AZ deployments, failover</li>
+          <li><strong>Serverless Solutions</strong> - Lambda functions, API Gateway</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="tab-content" id="consulting-tab">
+      <div class="services-box">
+        <h3>Technical Consulting</h3>
+        <p>Providing technical guidance based on real-world experience. Focus on practical solutions that balance technical excellence with business needs.</p>
+        
+        <h4>Consulting Areas:</h4>
+        <ul class="service-areas">
+          <li><strong>Infrastructure Assessment</strong> - Review and optimization recommendations</li>
+          <li><strong>Technology Selection</strong> - Choosing the right tools for your needs</li>
+          <li><strong>Migration Planning</strong> - Cloud migration and modernization</li>
+          <li><strong>Security Review</strong> - Infrastructure security assessment</li>
+          <li><strong>Performance Optimization</strong> - Identifying and resolving bottlenecks</li>
         </ul>
       </div>
     </div>
@@ -157,17 +159,17 @@ permalink: /contact/
         <label for="subject">Subject</label>
         <select name="subject" id="subject" required>
           <option value="" disabled selected>Select a topic...</option>
-          <optgroup label="Professional Services">
-            <option value="Career Coaching">Career Coaching</option>
-            <option value="Dashboards & Tools">Dashboards & Tools</option>
-            <option value="Web Development">Web Development</option>
+          <optgroup label="Technical Services">
             <option value="Infrastructure Services">Infrastructure Services</option>
+            <option value="Automation & DevOps">Automation & DevOps</option>
+            <option value="Cloud Architecture">Cloud Architecture</option>
+            <option value="Technical Consulting">Technical Consulting</option>
           </optgroup>
-          <optgroup label="Career & Collaboration">
-            <option value="Job Opportunity">Job Opportunity</option>
-            <option value="Project Collaboration">Project Collaboration</option>
-            <option value="Technical Question">Technical Question</option>
-            <option value="Content Creation">Content Creation</option>
+          <optgroup label="Career Opportunities">
+            <option value="Platform Engineering Role">Platform Engineering Role</option>
+            <option value="Contract Opportunity">Contract Opportunity</option>
+            <option value="Technical Collaboration">Technical Collaboration</option>
+            <option value="Project Discussion">Project Discussion</option>
           </optgroup>
           <option value="Other">Other</option>
         </select>
@@ -228,14 +230,14 @@ permalink: /contact/
       // Set the subject dropdown to the appropriate service
       const subjectSelect = document.getElementById('subject');
       if(subjectSelect) {
-        if(service === 'web') {
-          subjectSelect.value = 'Web Development';
+        if(service === 'cloud') {
+          subjectSelect.value = 'Cloud Architecture';
         } else if(service === 'infra') {
           subjectSelect.value = 'Infrastructure Services';
-        } else if(service === 'coaching') {
-          subjectSelect.value = 'Career Coaching';
-        } else if(service === 'tools') {
-          subjectSelect.value = 'Dashboards & Tools';
+        } else if(service === 'automation') {
+          subjectSelect.value = 'Automation & DevOps';
+        } else if(service === 'consulting') {
+          subjectSelect.value = 'Technical Consulting';
         }
       }
     }

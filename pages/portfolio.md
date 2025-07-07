@@ -7,8 +7,8 @@ permalink: /portfolio/
 # Project Portfolio
 
 <div class="content-section with-divider">
-  <h2>Production Systems & Business Impact</h2>
-  <p class="section-intro-text">Not another home lab hobbyist - building enterprise-grade infrastructure while helping engineers reach $150K+. Every project demonstrates real business value learned from building a $250K MSP.</p>
+  <h2>Technical Projects & Infrastructure</h2>
+  <p class="section-intro-text">Building production-grade infrastructure with focus on Kubernetes, AWS, and automation. Real implementations demonstrating platform engineering skills.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
@@ -28,7 +28,7 @@ permalink: /portfolio/
             </div>
           </div>
           <div class="project-description">
-            <p>Deploying production-grade pfSense infrastructure protecting $200K+ remote opportunities. Not a home lab - enterprise patterns with multi-WAN failover, advanced monitoring, and security policies based on MSP best practices.</p>
+            <p>Production-grade pfSense infrastructure with enterprise patterns. Multi-WAN failover, VLAN segmentation, and comprehensive monitoring. Real-world security policies for remote access and network protection.</p>
             <p><strong>Project Components:</strong></p>
             <ul>
               <li>pfSense firewall configuration and management</li>
@@ -53,7 +53,7 @@ permalink: /portfolio/
         </div>
         <div class="project-content-section">
           <div class="project-description">
-            <p>Building production Kubernetes patterns for CKA certification (March 2025). Not just following tutorials - implementing real cluster management, security policies, and GitOps workflows that demonstrate platform engineering expertise.</p>
+            <p>Daily hands-on Kubernetes practice building production patterns. Multi-master clusters with enterprise networking, RBAC implementation, and GitOps workflows. Preparing for CKA certification through real implementations.</p>
             <p><strong>Implementation Focus:</strong></p>
             <ul>
               <li>Multi-master cluster with production-grade networking</li>
@@ -83,7 +83,7 @@ permalink: /portfolio/
             </div>
           </div>
           <div class="project-description">
-            <p>Demonstrating cloud architecture skills through multi-region AWS infrastructure. Applying MSP cost optimization experience to achieve enterprise patterns at <$100/month.</p>
+            <p>Multi-region AWS infrastructure demonstrating cloud architecture skills. Focus on high availability, security best practices, and cost optimization. Enterprise patterns with efficient resource utilization.</p>
             <p><strong>Architecture Components:</strong></p>
             <ul>
               <li>Multi-region deployment with automated failover</li>
@@ -108,7 +108,7 @@ permalink: /portfolio/
         </div>
         <div class="project-content-section">
           <div class="project-description">
-            <p>This website itself demonstrates platform engineering principles. Not just a static site - includes CI/CD, monitoring, and serves multiple audiences strategically.</p>
+            <p>This website demonstrates platform engineering principles through infrastructure as code. Automated deployment, performance optimization, and reliable content delivery.</p>
             <p><strong>Technical Implementation:</strong></p>
             <ul>
               <li>Jekyll static site with GitHub Pages deployment</li>
@@ -119,9 +119,9 @@ permalink: /portfolio/
             </ul>
             <p><strong>Strategic Purpose:</strong></p>
             <ul>
-              <li>Primary: Platform engineering recruiters</li>
-              <li>Secondary: Engineers seeking career coaching</li>
-              <li>Tertiary: MSP industry connections</li>
+              <li>GitHub Actions for CI/CD automation</li>
+              <li>Infrastructure as Code principles</li>
+              <li>Performance and SEO optimization</li>
             </ul>
             <p class="technologies">
               <strong>Technologies:</strong> Jekyll, GitHub Actions, CloudFlare, Google Analytics, SEO
@@ -149,32 +149,32 @@ permalink: /portfolio/
     </div>
     
     <div class="value-area-item">
-      <h3>Business Acumen</h3>
+      <h3>Cloud Technologies</h3>
       <ul>
-        <li>P&L management ($250K)</li>
-        <li>Vendor negotiations</li>
-        <li>ROI-focused decisions</li>
-        <li>Team leadership</li>
+        <li>AWS (EC2, VPC, IAM, Lambda)</li>
+        <li>Multi-region architecture</li>
+        <li>Cost optimization</li>
+        <li>Security best practices</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>Career Coaching</h3>
+      <h3>DevOps Tools</h3>
       <ul>
-        <li>$150K+ positioning</li>
-        <li>Strategic skill development</li>
-        <li>Interview preparation</li>
-        <li>Free consultations</li>
+        <li>GitHub Actions</li>
+        <li>ArgoCD</li>
+        <li>Prometheus & Grafana</li>
+        <li>ELK Stack</li>
       </ul>
     </div>
     
     <div class="value-area-item">
-      <h3>MSP Expertise</h3>
+      <h3>Programming</h3>
       <ul>
-        <li>40+ client management</li>
-        <li>95% retention rate</li>
-        <li>Clean exit execution</li>
-        <li>Operational excellence</li>
+        <li>Python automation</li>
+        <li>Bash scripting</li>
+        <li>YAML/JSON</li>
+        <li>Go (learning)</li>
       </ul>
     </div>
   </div>

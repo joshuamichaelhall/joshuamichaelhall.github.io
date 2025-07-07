@@ -7,30 +7,43 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Platform engineer with a unique story: Former MSP owner who built TimothyTek to $250K revenue serving 40+ clients before executing a clean exit. Now combining hard-won business acumen with deep technical expertise to create exceptional value in platform engineering and leadership roles.</p>
+  <p>Platform engineer focused on Kubernetes, AWS, and infrastructure automation. Building production-grade systems with 3+ hours daily hands-on practice. Launch School graduate with strong software engineering foundation and practical infrastructure experience.</p>
   
-  <p><strong>The TimothyTek Story:</strong> Built a successful MSP from scratch, navigating complex vendor relationships and learning invaluable lessons about integrity, contract negotiation, and maintaining trust under pressure. The business reached $250K annual revenue with 40+ clients before I executed an integrity-first exit that protected all stakeholders. These battle-tested business skills now enhance my technical capabilities.</p>
+  <p><strong>Technical Foundation:</strong> Completed Launch School's rigorous Core Curriculum, providing deep understanding of software engineering principles. Currently implementing enterprise network security with pfSense while preparing for CKA certification (March 2025). Not just studying - building real production patterns daily.</p>
   
-  <p><strong>Current Technical Focus:</strong> Implementing enterprise-grade network security infrastructure with pfSense while maintaining 3+ hours daily Kubernetes practice for CKA (March 2025). Not just studying - building real production patterns that demonstrate platform engineering excellence.</p>
+  <p><strong>Infrastructure Experience:</strong> Implementing multi-WAN failover, VLANs, and monitoring with pfSense. Building Kubernetes clusters with production-grade networking, RBAC, and GitOps workflows. Creating Terraform modules for repeatable AWS deployments with focus on cost optimization.</p>
   
-  <p><strong>Helping Others Succeed:</strong> Passionate about helping engineers reach $150K+ compensation through strategic skill development and positioning. My unique perspective from building a business provides insights most technical coaches lack. Free consultations available for serious professionals ready to transform their careers.</p>
+  <p><strong>Business Background:</strong> Former owner of TimothyTek MSP ($250K revenue, 40+ clients). This experience provides unique perspective on ROI, vendor management, and operational excellence - skills that enhance technical implementations and team collaboration.</p>
   
-  <p><strong>Seeking:</strong> Contract-to-hire platform engineering roles with clear path to leadership. Interested in organizations that value business acumen alongside technical excellence. Geographic flexibility with $150-180K initial target and proven ability to deliver exceptional ROI.</p>
+  <p><strong>Seeking:</strong> Platform engineering roles focused on Kubernetes, AWS, and infrastructure automation. Particularly interested in teams building production infrastructure at scale. Open to contract-to-hire arrangements for mutual evaluation. Remote-first preferred.</p>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Certification Portfolio & Technical Excellence</h2>
+  <h2>Technical Skills & Certifications</h2>
   
   <div class="certifications-section">
-    <h3>Honest Certification Status</h3>
+    <h3>Current Technical Stack</h3>
     <div class="cert-categories">
       <div class="cert-category">
-        <h4>Currently Active (5)</h4>
+        <h4>Core Technologies</h4>
+        <ul class="cert-list">
+          <li><strong>Kubernetes</strong> - Daily practice with production patterns (CKA prep)</li>
+          <li><strong>AWS</strong> - EC2, VPC, IAM, Lambda, CloudFormation</li>
+          <li><strong>Infrastructure as Code</strong> - Terraform, Ansible, GitOps</li>
+          <li><strong>Containerization</strong> - Docker, container orchestration</li>
+          <li><strong>CI/CD</strong> - GitHub Actions, ArgoCD, Jenkins</li>
+          <li><strong>Monitoring</strong> - Prometheus, Grafana, ELK stack</li>
+          <li><strong>Programming</strong> - Python, Bash, Go (learning)</li>
+        </ul>
+      </div>
+      
+      <div class="cert-category">
+        <h4>Active Certifications</h4>
         <ul class="cert-list">
           <li><strong>Google AI Essentials</strong> - AI/ML fundamentals (2024)</li>
-          <li><strong>Google Project Management Certificate</strong> - Agile/Waterfall methodologies (2023)</li>
+          <li><strong>Launch School Core Curriculum</strong> - Software engineering foundation (2024)</li>
           <li><strong>CompTIA A+</strong> - Hardware and OS fundamentals (Active until 2026)</li>
-          <li><strong>CompTIA Project+</strong> - IT project management (Lifetime)</li>
+          <li><strong>CompTIA Project+</strong> - Technical project management (Lifetime)</li>
           <li><strong>CompTIA Cloud Essentials+</strong> - Cloud strategy (Lifetime)</li>
         </ul>
       </div>
@@ -63,76 +76,76 @@ permalink: /about/
 </div>
 
 <div class="content-section with-divider">
-  <h2>Business Background & Current Projects</h2>
+  <h2>Current Projects & Technical Focus</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>MSP Founder Success</h3>
-      <p>Built TimothyTek to $250K revenue with 40+ clients. Navigated vendor challenges, maintained 95% client retention, and executed clean exit protecting all stakeholders.</p>
+      <h3>Kubernetes Home Lab</h3>
+      <p>3+ hours daily building production patterns. Multi-master clusters, RBAC, GitOps with ArgoCD, monitoring stack. Preparing for CKA certification (March 2025).</p>
     </div>
     <div class="expertise-item">
-      <h3>Enterprise Team Leadership</h3>
-      <p>Led 13-person technical team at Vanderbilt Hospital deploying 5,000+ systems. Delivered on-time, within budget, with zero security incidents.</p>
+      <h3>AWS Multi-Region Project</h3>
+      <p>Building cost-optimized infrastructure with Terraform. Multi-region deployment, automated failover, security best practices. Target: enterprise patterns at <$100/month.</p>
     </div>
     <div class="expertise-item">
-      <h3>Current: Network Security</h3>
-      <p>Implementing enterprise pfSense infrastructure with multi-WAN failover, VLANs, and monitoring. Real production patterns, not home lab experiments.</p>
+      <h3>Network Security Infrastructure</h3>
+      <p>Production pfSense deployment with multi-WAN failover, VLANs, and monitoring. Enterprise-grade security policies based on real-world requirements.</p>
     </div>
     <div class="expertise-item">
-      <h3>Career Acceleration</h3>
-      <p>Helping engineers reach $150K+ through strategic positioning. Combining business acumen with technical expertise for unique career transformation insights.</p>
+      <h3>Infrastructure Automation</h3>
+      <p>Terraform modules for repeatable deployments. Ansible playbooks for configuration management. Focus on reducing deployment time while improving reliability.</p>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Daily Study Routine & Skills Development</h2>
+  <h2>Technical Skills Development</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Kubernetes Excellence</h3>
-      <p>3+ hours daily hands-on practice. Not just CKA prep - building production patterns, GitOps workflows, and security policies. March 2025 certification target.</p>
+      <h3>Container Orchestration</h3>
+      <p>Deep dive into Kubernetes architecture. Building production clusters, implementing security policies, service mesh, and observability. Daily hands-on practice.</p>
     </div>
     <div class="expertise-item">
-      <h3>Vendor Management Mastery</h3>
-      <p>Hard-won expertise from MSP ownership. Navigate complex vendor relationships, negotiate contracts, and protect business interests while maintaining integrity.</p>
+      <h3>Cloud Architecture</h3>
+      <p>AWS services mastery: EC2, VPC, IAM, Lambda, RDS. Building resilient, scalable infrastructure with focus on cost optimization and security.</p>
     </div>
     <div class="expertise-item">
       <h3>Infrastructure Automation</h3>
       <p>Terraform, Ansible, and GitOps for repeatable deployments. Building modules that reduce deployment time 60% while improving reliability.</p>
     </div>
     <div class="expertise-item">
-      <h3>Business Value Focus</h3>
-      <p>Every technical decision evaluated through business impact lens. Unique perspective from P&L management ensures ROI-focused implementations.</p>
+      <h3>DevOps Practices</h3>
+      <p>CI/CD pipelines with GitHub Actions. GitOps with ArgoCD. Infrastructure as Code with Terraform. Focus on automation and reliability.</p>
     </div>
     <div class="expertise-item">
-      <h3>Leadership Development</h3>
-      <p>Mentoring engineers transitioning to senior roles. 100% placement rate for committed mentees targeting $150K+ positions.</p>
+      <h3>Monitoring & Observability</h3>
+      <p>Prometheus and Grafana for metrics. ELK stack for centralized logging. Building comprehensive monitoring for production systems.</p>
     </div>
     <div class="expertise-item">
-      <h3>Cost Optimization</h3>
-      <p>Reduced client infrastructure costs 40% while improving performance. Now applying same principles to cloud architecture and platform engineering.</p>
+      <h3>Security Best Practices</h3>
+      <p>Network segmentation, IAM policies, secrets management. Implementing defense in depth strategies across infrastructure layers.</p>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Path to Platform Engineering Leadership</h2>
-  <p>Strategic progression from MSP owner to platform engineering leader, helping others along the way:</p>
+  <h2>Technical Roadmap</h2>
+  <p>Structured progression building platform engineering expertise:</p>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Q1 2025: Production Systems</h3>
-      <p>Network security infrastructure + Kubernetes mastery. Building real systems while studying for CKA. Demonstrating immediate value.</p>
+      <h3>Q1 2025: Kubernetes Mastery</h3>
+      <p>CKA certification preparation. Building production clusters, implementing security, GitOps workflows. Daily hands-on practice.</p>
     </div>
     <div class="expertise-item">
-      <h3>Q2 2025: Cloud Excellence</h3>
-      <p>AWS Solutions Architect + cost optimization projects. Showing business impact through efficient cloud architecture.</p>
+      <h3>Q2 2025: AWS Architecture</h3>
+      <p>AWS Solutions Architect certification. Multi-region infrastructure projects. Cost optimization and security best practices.</p>
     </div>
     <div class="expertise-item">
-      <h3>Q3 2025: Leadership Transition</h3>
-      <p>Security+ renewal + engineering management preparation. Building team leadership skills alongside technical depth.</p>
+      <h3>Q3 2025: Advanced Platform Skills</h3>
+      <p>Service mesh implementation. Advanced monitoring and observability. Production-grade CI/CD pipelines.</p>
     </div>
     <div class="expertise-item">
-      <h3>Q4 2025: Executive Path</h3>
-      <p>Platform engineering leadership roles. Target: $180K+ with clear path to $250K+ and engineering management.</p>
+      <h3>Q4 2025: Senior Platform Engineer</h3>
+      <p>Target senior platform engineering roles. Focus on large-scale infrastructure, team collaboration, and technical leadership.</p>
     </div>
   </div>
 </div>
@@ -158,7 +171,7 @@ permalink: /about/
   </div>
   
   <div class="quote">
-    <p>From building a $250K MSP to platform engineering leadership - bringing business acumen to technical excellence.</p>
-    <div class="quote-author">— Helping engineers reach $150K+ through strategic transformation</div>
+    <p>Building production infrastructure with Kubernetes, AWS, and automation. Engineer with business understanding.</p>
+    <div class="quote-author">— Platform Engineer | Launch School Graduate | Infrastructure Focus</div>
   </div>
 </div>
