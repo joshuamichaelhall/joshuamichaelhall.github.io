@@ -10,40 +10,39 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Platform Engineer | Kubernetes & AWS | Building Production Infrastructure</h2>
-        <h3 class="hero-tagline">CKA Prep | AWS Solutions Architect | Infrastructure as Code | Remote</h3>
-        <p>Platform engineer implementing enterprise-grade infrastructure with focus on Kubernetes, AWS, and automation. 3+ hours daily hands-on practice building production patterns. Former business owner bringing unique perspective to technical roles.</p>
+        <h2>Cloud Business Strategist | TAM Candidate | Former MSP Owner</h2>
+        <h3 class="hero-tagline">Helping Enterprises Maximize Cloud Investments | AWS Certified (In Progress)</h3>
+        <p>Technical Account Manager candidate with unique blend of technical expertise and business leadership. Built and operated successful MSP serving 40+ clients. Now focused on helping enterprises achieve cloud transformation success.</p>
         <div class="certification-highlight">
-          <h4><span class="cert-icon">🎯</span> Current Projects & Credentials</h4>
+          <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
             <div class="cert-stat">
-              <span class="cert-number">5</span>
-              <span class="cert-label">Active Certifications</span>
+              <span class="cert-number">$250K</span>
+              <span class="cert-label">MSP Revenue Built</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">Phase 1</span>
-              <span class="cert-label">Network Security</span>
+              <span class="cert-number">95%</span>
+              <span class="cert-label">Client Retention</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">48 Weeks</span>
-              <span class="cert-label">Platform Journey</span>
+              <span class="cert-number">50+</span>
+              <span class="cert-label">Cloud Migrations</span>
             </div>
           </div>
           <div class="featured-certs">
-            <span class="cert-badge">Google AI Essentials</span>
-            <span class="cert-badge">Google PM Certificate</span>
-            <span class="cert-badge">CompTIA A+</span>
-            <span class="cert-badge">Project+</span>
-            <span class="cert-badge">Cloud Essentials+</span>
+            <span class="cert-badge">Former Business Owner</span>
+            <span class="cert-badge">AWS SA Associate (In Progress)</span>
+            <span class="cert-badge">Security+ Certified</span>
+            <span class="cert-badge">Launch School Graduate</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Open to platform engineering roles | Contract-to-hire preferred | Remote-first | Launch School graduate</strong>
+            <strong>🚀 Actively seeking Technical Account Manager opportunities | Remote or Relocation Ready</strong>
           </div>
         </div>
         <div class="hero-links">
-          <a href="/portfolio" class="btn primary-btn cta-main-btn">View Technical Portfolio</a>
+          <a href="/about" class="btn primary-btn cta-main-btn">Learn About My Journey</a>
           <a href="https://linkedin.com/in/joshuamichaelhall" class="btn secondary-btn cta-main-btn">Connect on LinkedIn</a>
-          <a href="/certifications" class="btn outlined-btn cta-main-btn">Certification Details</a>
+          <a href="/contact" class="btn outlined-btn cta-main-btn">Let's Talk</a>
         </div>
       </div>
     </div>
@@ -51,101 +50,126 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-achievements">
-  <h2>Technical Skills & Infrastructure Experience</h2>
+  <h2>Why I Excel at Technical Account Management</h2>
   <div class="impact-metrics">
     <div class="metric-card">
-      <div class="metric-value">3+ Hours</div>
-      <div class="metric-label">Daily Kubernetes Practice</div>
-      <div class="metric-detail">Building production patterns for CKA certification</div>
+      <div class="metric-value">Business</div>
+      <div class="metric-label">P&L Management</div>
+      <div class="metric-detail">Built profitable MSP from zero with full financial responsibility</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">5 Active</div>
-      <div class="metric-label">Technical Certifications</div>
-      <div class="metric-detail">Google AI, CompTIA suite, pursuing CKA & AWS</div>
+      <div class="metric-value">Technical</div>
+      <div class="metric-label">Cloud Expertise</div>
+      <div class="metric-detail">50+ migrations, security frameworks, cost optimization</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">Launch School</div>
-      <div class="metric-label">Core Curriculum Complete</div>
-      <div class="metric-detail">Rigorous software engineering foundation</div>
+      <div class="metric-value">Customer</div>
+      <div class="metric-label">Success Focus</div>
+      <div class="metric-detail">95% retention through exceptional service delivery</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">Production</div>
-      <div class="metric-label">Infrastructure Projects</div>
-      <div class="metric-detail">pfSense, Kubernetes, AWS multi-region</div>
+      <div class="metric-value">Results</div>
+      <div class="metric-label">ROI Driven</div>
+      <div class="metric-detail">Saved clients 30%+ on cloud costs while improving performance</div>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="technical-focus">
-  <h2>Current Projects & Development Focus</h2>
+  <h2>Core Competencies for TAM Excellence</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Enterprise Network Security (Current)</h3>
-      <p>Deploying production-grade pfSense infrastructure with multi-WAN failover, VLANs, and monitoring. Real enterprise patterns, not just home lab experiments.</p>
+      <h3>Business Leadership</h3>
+      <p>Former MSP owner with deep understanding of business operations, P&L management, strategic planning, and vendor relationships. Translate technical solutions to business outcomes.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Kubernetes Home Lab for CKA</h3>
-      <p>3+ hours daily practice building production patterns. Not just studying - implementing real cluster management, security policies, and GitOps workflows.</p>
+      <h3>Cloud Architecture</h3>
+      <p>Hands-on experience with AWS, Azure, and hybrid environments. Led 50+ cloud migrations with focus on security, cost optimization, and business continuity.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>AWS Infrastructure Project</h3>
-      <p>Upcoming: Multi-region infrastructure demonstrating cost optimization, security best practices, and Infrastructure as Code. Target: <$100/month with enterprise patterns.</p>
+      <h3>Customer Success</h3>
+      <p>Built business on 95% retention rate. Expert at stakeholder management, conflict resolution, and building long-term trusted relationships.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Infrastructure as Code</h3>
-      <p>Terraform modules for repeatable deployments. GitOps workflows with ArgoCD. Focus on automation and reliability for production systems.</p>
+      <h3>Technical Communication</h3>
+      <p>Proven ability to communicate complex technical concepts to all levels, from engineers to C-suite executives. Create compelling business cases for technology investments.</p>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="certification-journey">
-  <h2>Certification & Learning Path</h2>
-  <p class="section-intro-text">Focused on certifications that matter for platform engineering. Launch School foundation plus targeted cloud and container certifications.</p>
+  <h2>Professional Development & Certifications</h2>
+  <p class="section-intro-text">Continuous learner combining business experience with technical certifications for comprehensive TAM expertise.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
-      <h3>Technical Foundation</h3>
+      <h3>Business Foundation</h3>
       <ul>
+        <li>Built & sold $250K MSP</li>
+        <li>40+ clients across industries</li>
+        <li>Team leadership & development</li>
+        <li>Vendor partnership management</li>
+        <li>Financial planning & analysis</li>
+      </ul>
+    </div>
+    <div class="roadmap-phase">
+      <h3>Technical Certifications</h3>
+      <ul>
+        <li>AWS Solutions Architect (In Progress)</li>
+        <li>CompTIA Security+ (Renewing)</li>
         <li>Launch School Core Curriculum</li>
-        <li>Google AI Essentials</li>
-        <li>CompTIA A+</li>
-        <li>CompTIA Cloud Essentials+</li>
-        <li>Daily Kubernetes practice</li>
+        <li>Google Project Management</li>
+        <li>Multiple CompTIA certifications</li>
       </ul>
     </div>
     <div class="roadmap-phase">
-      <h3>In Progress (2025)</h3>
+      <h3>Industry Expertise</h3>
       <ul>
-        <li>Certified Kubernetes Administrator (Primary focus)</li>
-        <li>AWS Solutions Architect Associate</li>
-        <li>CompTIA Security+ (Renewal)</li>
-      </ul>
-    </div>
-    <div class="roadmap-phase">
-      <h3>Expired/Future</h3>
-      <ul>
-        <li>CompTIA Network+ (Expired)</li>
-        <li>CompTIA Security+ (Expired)</li>
-        <li>Other certifications as needed for roles</li>
+        <li>Healthcare (HIPAA compliance)</li>
+        <li>Financial Services (security focus)</li>
+        <li>Manufacturing (ERP integration)</li>
+        <li>Professional Services (cloud first)</li>
+        <li>Education (budget optimization)</li>
       </ul>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="projects">
-  <h2>Technical Projects & Infrastructure</h2>
-  <p class="section-intro-text">Building production-grade infrastructure with focus on Kubernetes, AWS, and automation. Real implementations, not just tutorials.</p>
-  <div id="github-projects"></div>
+  <h2>Cloud Transformation Success Stories</h2>
+  <p class="section-intro-text">Real-world examples of helping businesses maximize their technology investments and achieve transformation goals.</p>
+  <div class="success-stories">
+    <div class="success-story">
+      <h3>Healthcare Cloud Migration</h3>
+      <p>Led HIPAA-compliant migration for medical practice group. Reduced IT costs by 35% while improving uptime to 99.9%. Implemented disaster recovery with 4-hour RTO.</p>
+    </div>
+    <div class="success-story">
+      <h3>Financial Services Security</h3>
+      <p>Designed and implemented security framework for regional bank. Achieved compliance with federal regulations while reducing security incidents by 90%.</p>
+    </div>
+    <div class="success-story">
+      <h3>Manufacturing Digital Transformation</h3>
+      <p>Modernized legacy infrastructure for manufacturer. Integrated cloud-based ERP, improved shop floor connectivity, and reduced downtime by 60%.</p>
+    </div>
+  </div>
   <div class="section-link">
-    <a href="/portfolio" class="btn outlined-btn">View Project Details</a>
+    <a href="/portfolio" class="btn outlined-btn">View More Success Stories</a>
   </div>
 </div>
 
 <div class="home-section no-divider" id="thought-leadership">
-  <h2>Technical Articles & Learning</h2>
-  <p class="section-intro-text">Documenting platform engineering journey with practical tutorials and implementation guides. Focus on Kubernetes, AWS, and infrastructure automation.</p>
-  <div id="devto-articles"></div>
+  <h2>Thought Leadership & Industry Insights</h2>
+  <p class="section-intro-text">Sharing insights on cloud transformation, business value creation, and technology leadership based on real-world experience.</p>
+  <div class="article-preview">
+    <h3>Recent Topics</h3>
+    <ul>
+      <li>Why TAMs Drive Cloud Success: Business Value Beyond Technical Support</li>
+      <li>From MSP to Cloud: Transformation Lessons for Service Providers</li>
+      <li>The Real Cost of Cloud: ROI Metrics That Matter</li>
+      <li>Building Trust in Technology: A Customer Success Framework</li>
+    </ul>
+  </div>
   <div class="section-link">
-    <a href="/blog" class="btn outlined-btn">Read All Articles</a>
+    <a href="/blog" class="btn outlined-btn">Read Articles</a>
   </div>
 </div>
 
@@ -375,6 +399,54 @@ layout: default
     margin-top: 2rem;
     justify-content: center;
     flex-wrap: wrap;
+  }
+  
+  .success-stories {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+  
+  .success-story {
+    background: var(--bg-content);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+  }
+  
+  .success-story h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+  }
+  
+  .article-preview {
+    background: var(--bg-content);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+  }
+  
+  .article-preview h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+  }
+  
+  .article-preview ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .article-preview li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--border-color);
+  }
+  
+  .article-preview li:last-child {
+    border-bottom: none;
   }
   
   @media (max-width: 768px) {
