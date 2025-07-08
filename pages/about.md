@@ -7,145 +7,132 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Platform engineer focused on Kubernetes, AWS, and infrastructure automation. Building production-grade systems with 3+ hours daily hands-on practice. Launch School graduate with strong software engineering foundation and practical infrastructure experience.</p>
+  <p>Cloud Business Strategist transitioning to Technical Account Manager roles. Former MSP owner with unique blend of technical expertise and business acumen, focused on helping enterprises maximize their cloud investments.</p>
   
-  <p><strong>Technical Foundation:</strong> Completed Launch School's rigorous Core Curriculum, providing deep understanding of software engineering principles. Currently implementing enterprise network security with pfSense while preparing for CKA certification (March 2025). Not just studying - building real production patterns daily.</p>
+  <p><strong>Business Leadership:</strong> Built and successfully operated TimothyTek MSP ($250K revenue, 40+ clients). Led 50+ cloud migrations and digital transformations. This experience provides deep understanding of customer challenges, vendor relationships, and business value creation.</p>
   
-  <p><strong>Infrastructure Experience:</strong> Implementing multi-WAN failover, VLANs, and monitoring with pfSense. Building Kubernetes clusters with production-grade networking, RBAC, and GitOps workflows. Creating Terraform modules for repeatable AWS deployments with focus on cost optimization.</p>
+  <p><strong>Technical Foundation:</strong> AWS Solutions Architect Associate (in progress), Security+ certified, Launch School graduate with strong software engineering foundation. Deep understanding of cloud architectures, cost optimization, and security frameworks.</p>
   
-  <p><strong>Business Background:</strong> Former owner of TimothyTek MSP ($250K revenue, 40+ clients). This experience provides unique perspective on ROI, vendor management, and operational excellence - skills that enhance technical implementations and team collaboration.</p>
+  <p><strong>Customer Success Focus:</strong> 95% client retention rate as MSP owner. Proven ability to translate complex technical concepts to business value. Expert at building trust, managing stakeholder relationships, and driving measurable outcomes.</p>
   
-  <p><strong>Seeking:</strong> Platform engineering roles focused on Kubernetes, AWS, and infrastructure automation. Particularly interested in teams building production infrastructure at scale. Open to contract-to-hire arrangements for mutual evaluation. Remote-first preferred.</p>
+  <p><strong>Seeking:</strong> Technical Account Manager roles at cloud platforms, enterprise software companies, or high-growth SaaS organizations. Particularly interested in positions where business acumen and technical depth create exceptional customer value.</p>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Technical Skills & Certifications</h2>
+  <h2>Core Competencies</h2>
   
   <div class="certifications-section">
-    <h3>Current Technical Stack</h3>
+    <h3>Customer Success Skills</h3>
     <div class="cert-categories">
       <div class="cert-category">
-        <h4>Core Technologies</h4>
+        <h4>Business Leadership</h4>
         <ul class="cert-list">
-          <li><strong>Kubernetes</strong> - Daily practice with production patterns (CKA prep)</li>
-          <li><strong>AWS</strong> - EC2, VPC, IAM, Lambda, CloudFormation</li>
-          <li><strong>Infrastructure as Code</strong> - Terraform, Ansible, GitOps</li>
-          <li><strong>Containerization</strong> - Docker, container orchestration</li>
-          <li><strong>CI/CD</strong> - GitHub Actions, ArgoCD, Jenkins</li>
-          <li><strong>Monitoring</strong> - Prometheus, Grafana, ELK stack</li>
-          <li><strong>Programming</strong> - Python, Bash, Go (learning)</li>
+          <li><strong>P&L Management</strong> - Built profitable MSP from zero</li>
+          <li><strong>Strategic Planning</strong> - Business transformation expertise</li>
+          <li><strong>Vendor Management</strong> - Strategic partnership development</li>
+          <li><strong>Team Leadership</strong> - Hired and developed technical teams</li>
+          <li><strong>Financial Analysis</strong> - ROI modeling and TCO calculations</li>
         </ul>
       </div>
       
       <div class="cert-category">
-        <h4>Active Certifications</h4>
+        <h4>Technical Expertise</h4>
         <ul class="cert-list">
-          <li><strong>Google AI Essentials</strong> - AI/ML fundamentals (2024)</li>
-          <li><strong>Launch School Core Curriculum</strong> - Software engineering foundation (2024)</li>
-          <li><strong>CompTIA A+</strong> - Hardware and OS fundamentals (Active until 2026)</li>
-          <li><strong>CompTIA Project+</strong> - Technical project management (Lifetime)</li>
-          <li><strong>CompTIA Cloud Essentials+</strong> - Cloud strategy (Lifetime)</li>
+          <li><strong>Cloud Architecture</strong> - AWS, Azure, hybrid environments</li>
+          <li><strong>Security Frameworks</strong> - Compliance and risk mitigation</li>
+          <li><strong>Cost Optimization</strong> - Saved clients 30%+ on cloud spend</li>
+          <li><strong>Migration Planning</strong> - 50+ successful transformations</li>
+          <li><strong>Infrastructure Design</strong> - Enterprise-grade solutions</li>
         </ul>
       </div>
       
       <div class="cert-category">
-        <h4>Expired Certifications</h4>
+        <h4>Relationship Management</h4>
         <ul class="cert-list">
-          <li><strong>CompTIA Security+</strong> - Expired 2023 (Renewing in 2025)</li>
-          <li><strong>CompTIA Network+</strong> - Expired 2023</li>
-          <li><strong>CompTIA Cloud+</strong> - Expired 2024</li>
-          <li><strong>CompTIA Stackables:</strong> CSCP, CCAP, CSIS, CIOS - Expired with prerequisite certs</li>
-          <li><strong>Note:</strong> Will renew certifications as needed for specific role requirements</li>
+          <li><strong>Executive Communication</strong> - C-suite engagement</li>
+          <li><strong>Stakeholder Management</strong> - Multi-level coordination</li>
+          <li><strong>Conflict Resolution</strong> - De-escalation expertise</li>
+          <li><strong>Trust Building</strong> - Long-term relationship focus</li>
+          <li><strong>Customer Advocacy</strong> - Voice of customer champion</li>
         </ul>
       </div>
       
     </div>
     
-    <h3>In-Progress Certifications (2025)</h3>
+    <h3>Certifications & Education</h3>
     <ul class="cert-list in-progress">
-      <li><strong>Certified Kubernetes Administrator (CKA)</strong> - Primary focus, target: March 2025</li>
-      <li><strong>AWS Solutions Architect Associate</strong> - Cloud architecture fundamentals</li>
-      <li><strong>CompTIA Security+ (SY0-701)</strong> - Renewal for current standards</li>
-    </ul>
-    <h3>Future Considerations</h3>
-    <ul class="cert-list">
-      <li>Additional certifications will be pursued based on specific role requirements</li>
-      <li>Focus on certifications that provide direct value for platform engineering</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - In progress (February 2025)</li>
+      <li><strong>CompTIA Security+</strong> - Renewing (March 2025)</li>
+      <li><strong>Launch School Core Curriculum</strong> - Software engineering foundation (2024)</li>
+      <li><strong>Google Project Management</strong> - Modern PM practices (2023)</li>
+      <li><strong>Master of Divinity</strong> - Advanced communication and leadership (2013)</li>
     </ul>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Current Projects & Technical Focus</h2>
+  <h2>Value Proposition</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Kubernetes Home Lab</h3>
-      <p>3+ hours daily building production patterns. Multi-master clusters, RBAC, GitOps with ArgoCD, monitoring stack. Preparing for CKA certification (March 2025).</p>
+      <h3>Business Understanding</h3>
+      <p>Former business owner who understands P&L impact, ROI requirements, and strategic planning. Translate technical solutions to business outcomes.</p>
     </div>
     <div class="expertise-item">
-      <h3>AWS Multi-Region Project</h3>
-      <p>Building cost-optimized infrastructure with Terraform. Multi-region deployment, automated failover, security best practices. Target: enterprise patterns at <$100/month.</p>
+      <h3>Technical Credibility</h3>
+      <p>Hands-on experience with cloud migrations, security implementations, and infrastructure design. Currently pursuing AWS certifications.</p>
     </div>
     <div class="expertise-item">
-      <h3>Network Security Infrastructure</h3>
-      <p>Production pfSense deployment with multi-WAN failover, VLANs, and monitoring. Enterprise-grade security policies based on real-world requirements.</p>
+      <h3>Customer Success</h3>
+      <p>Track record of 95% retention through exceptional service delivery. Expert at building trust and managing complex relationships.</p>
     </div>
     <div class="expertise-item">
-      <h3>Infrastructure Automation</h3>
-      <p>Terraform modules for repeatable deployments. Ansible playbooks for configuration management. Focus on reducing deployment time while improving reliability.</p>
+      <h3>Industry Knowledge</h3>
+      <p>Deep understanding of MSP operations, enterprise IT challenges, and cloud transformation journeys from both vendor and customer perspectives.</p>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Technical Skills Development</h2>
+  <h2>Professional Experience Highlights</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Container Orchestration</h3>
-      <p>Deep dive into Kubernetes architecture. Building production clusters, implementing security policies, service mesh, and observability. Daily hands-on practice.</p>
+      <h3>MSP Founder & CEO</h3>
+      <p>Built $250K technology services company serving 40+ clients. Led digital transformations, implemented security frameworks, and achieved 95% retention.</p>
     </div>
     <div class="expertise-item">
-      <h3>Cloud Architecture</h3>
-      <p>AWS services mastery: EC2, VPC, IAM, Lambda, RDS. Building resilient, scalable infrastructure with focus on cost optimization and security.</p>
+      <h3>Cloud Transformations</h3>
+      <p>Led 50+ cloud migrations saving clients average of 30% on IT costs. Designed disaster recovery solutions with 99.9% uptime.</p>
     </div>
     <div class="expertise-item">
-      <h3>Infrastructure Automation</h3>
-      <p>Terraform, Ansible, and GitOps for repeatable deployments. Building modules that reduce deployment time 60% while improving reliability.</p>
+      <h3>Enterprise Leadership</h3>
+      <p>Managed 13-person team for 5,000+ system deployment at Vanderbilt Hospital. Delivered on time and budget with zero security incidents.</p>
     </div>
     <div class="expertise-item">
-      <h3>DevOps Practices</h3>
-      <p>CI/CD pipelines with GitHub Actions. GitOps with ArgoCD. Infrastructure as Code with Terraform. Focus on automation and reliability.</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Monitoring & Observability</h3>
-      <p>Prometheus and Grafana for metrics. ELK stack for centralized logging. Building comprehensive monitoring for production systems.</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Security Best Practices</h3>
-      <p>Network segmentation, IAM policies, secrets management. Implementing defense in depth strategies across infrastructure layers.</p>
+      <h3>Strategic Consulting</h3>
+      <p>Provide cloud strategy consulting to regional businesses. Focus on cost optimization, security improvements, and digital transformation.</p>
     </div>
   </div>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Technical Roadmap</h2>
-  <p>Structured progression building platform engineering expertise:</p>
+  <h2>Industry Expertise</h2>
+  <p>Deep understanding across multiple verticals:</p>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Q1 2025: Kubernetes Mastery</h3>
-      <p>CKA certification preparation. Building production clusters, implementing security, GitOps workflows. Daily hands-on practice.</p>
+      <h3>Healthcare</h3>
+      <p>HIPAA compliance, EMR integrations, clinical workflow optimization. Supported medical practices and hospitals.</p>
     </div>
     <div class="expertise-item">
-      <h3>Q2 2025: AWS Architecture</h3>
-      <p>AWS Solutions Architect certification. Multi-region infrastructure projects. Cost optimization and security best practices.</p>
+      <h3>Financial Services</h3>
+      <p>Security frameworks, compliance requirements, high-availability systems. Worked with banks and investment firms.</p>
     </div>
     <div class="expertise-item">
-      <h3>Q3 2025: Advanced Platform Skills</h3>
-      <p>Service mesh implementation. Advanced monitoring and observability. Production-grade CI/CD pipelines.</p>
+      <h3>Manufacturing</h3>
+      <p>ERP integrations, shop floor systems, supply chain optimization. Modernized legacy infrastructure.</p>
     </div>
     <div class="expertise-item">
-      <h3>Q4 2025: Senior Platform Engineer</h3>
-      <p>Target senior platform engineering roles. Focus on large-scale infrastructure, team collaboration, and technical leadership.</p>
+      <h3>Professional Services</h3>
+      <p>Practice management, document systems, remote work enablement. Transformed traditional offices.</p>
     </div>
   </div>
 </div>
@@ -159,19 +146,19 @@ permalink: /about/
       <p><a href="https://github.com/JoshuaMichaelHall">GitHub Portfolio</a></p>
     </div>
     <div class="expertise-item">
-      <h3>Technical Writing</h3>
-      <p><a href="https://dev.to/joshuamichaelhall">Dev.to Articles</a></p>
-      <p><a href="https://medium.com/@joshuamichaelhall">Medium Publications</a></p>
+      <h3>Thought Leadership</h3>
+      <p>Publishing content on cloud business value</p>
+      <p>Speaking at industry events</p>
     </div>
     <div class="expertise-item">
       <h3>Contact</h3>
-      <p>Open to contract-to-hire platform engineering opportunities</p>
-      <p>Missouri LLC available for consulting engagements</p>
+      <p>Open to TAM opportunities nationwide</p>
+      <p>Remote or relocation ready</p>
     </div>
   </div>
   
   <div class="quote">
-    <p>Building production infrastructure with Kubernetes, AWS, and automation. Engineer with business understanding.</p>
-    <div class="quote-author">— Platform Engineer | Launch School Graduate | Infrastructure Focus</div>
+    <p>Helping enterprises maximize cloud investments through technical expertise and business acumen.</p>
+    <div class="quote-author">— Cloud Business Strategist | Former MSP Owner | TAM Candidate</div>
   </div>
 </div>
