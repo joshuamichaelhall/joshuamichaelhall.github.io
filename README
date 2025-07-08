@@ -4,15 +4,15 @@ This repository contains the source code for my personal website at [joshuamicha
 
 ## About Me
 
-I'm a DevOps/SRE engineer and former MSP owner specializing in infrastructure automation, containerization, and platform engineering for financial services. With 22 months of experience running an IT services company handling complex multi-platform environments, I bring a unique business perspective to technical challenges. My focus is on building secure, reliable, and compliant infrastructure using modern DevOps practices and tools, with special expertise in complex environment automation.
+I'm a Cloud Business Strategist and former MSP owner pursuing Technical Account Manager roles in cloud/SaaS companies. With experience building and selling a $250K revenue MSP, I bring a unique business perspective to cloud transformation. My focus is on helping enterprises maximize cloud ROI while building toward a vision of acquiring and transforming traditional MSPs through AI and automation.
 
 ## Website Features
 
-- **Professional Portfolio**: Showcasing DevOps/SRE projects with a focus on financial services and complex MSP environments
-- **Technical Blog**: Articles on infrastructure automation, containerization, and cloud security
-- **Skills & Experience**: Detailed overview of my technical skills and experience
+- **Professional Portfolio**: Cloud transformation case studies and business value demonstrations
+- **Technical Blog**: Articles on cloud economics, customer success, and MSP transformation
+- **Business Experience**: Detailed overview of my MSP journey and cloud expertise
 - **Responsive Design**: Mobile-friendly layout for all screen sizes
-- **Career Roadmap**: DevOps career progression from MSP owner to platform engineering leadership
+- **Career Vision**: TAM to cloud consulting empire through MSP acquisitions
 
 ## Technical Stack
 
@@ -29,15 +29,15 @@ This website integrates with several other repositories in my ecosystem:
 
 ### Integrated Repositories
 
-1. **[devops-sre-mastery](https://github.com/joshuamichaelhall/devops-sre-mastery)**
-   - Projects from this repository are showcased in the portfolio section
-   - Technical concepts are expanded into blog articles
-   - Code samples are embedded in blog posts
+1. **[tam-career-strategy](https://github.com/joshuamichaelhall/tam-career-strategy)**
+   - TAM-to-Empire master strategy
+   - Cloud business content and insights
+   - MSP transformation frameworks
    
-2. **[enhanced-terminal-environment](https://github.com/joshuamichaelhall/enhanced-terminal-environment)**
-   - Terminal configuration featured in the portfolio
-   - Terminal workflow tools and productivity enhancement
-   - DevOps-oriented productivity improvements
+2. **[msp-acquisition-pipeline](https://github.com/joshuamichaelhall/msp-acquisition-pipeline)**
+   - MSP acquisition pipeline
+   - Industry relationship tracking
+   - Cloud ecosystem networking
 
 ### Content Synchronization
 
