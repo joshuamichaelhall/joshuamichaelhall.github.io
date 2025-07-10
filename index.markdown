@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Business Strategist | TAM Candidate | Former MSP Owner</h2>
-        <h3 class="hero-tagline">Helping Enterprises Maximize Cloud Investments | AWS Certified (In Progress)</h3>
-        <p>Technical Account Manager candidate with unique blend of technical expertise and business leadership. Built and operated successful MSP serving 40+ clients. Now focused on helping enterprises achieve cloud transformation success.</p>
+        <h2>Cloud Cost Optimization Specialist | Former MSP Owner | Strategic Advisor</h2>
+        <h3 class="hero-tagline">Reducing Enterprise Cloud Costs by 30-50% | Proven Optimization Frameworks</h3>
+        <p>Cloud optimization specialist with unique blend of technical expertise and business leadership. Built and operated successful MSP serving 30+ clients with 100% satisfaction. Now focused on helping enterprises reduce cloud costs while improving performance.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
@@ -36,7 +36,7 @@ layout: default
             <span class="cert-badge">Launch School Graduate</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Actively seeking Technical Account Manager opportunities | Remote or Relocation Ready</strong>
+            <strong>🚀 Open to Strategic Cloud Optimization Opportunities | Remote or Relocation Ready</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -50,7 +50,7 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-achievements">
-  <h2>Why I Excel at Technical Account Management</h2>
+  <h2>Why I Excel at Cloud Cost Optimization</h2>
   <div class="impact-metrics">
     <div class="metric-card">
       <div class="metric-value">Business</div>
@@ -70,13 +70,13 @@ layout: default
     <div class="metric-card">
       <div class="metric-value">Results</div>
       <div class="metric-label">ROI Driven</div>
-      <div class="metric-detail">Saved clients 30%+ on cloud costs while improving performance</div>
+      <div class="metric-detail">$2M+ in documented cloud savings delivered to clients</div>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="technical-focus">
-  <h2>Core Competencies for TAM Excellence</h2>
+  <h2>Core Competencies for Cloud Optimization</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
       <h3>Business Leadership</h3>
