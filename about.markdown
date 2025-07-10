@@ -4,19 +4,19 @@ title: About
 permalink: /about/
 ---
 
-# DevOps Platform Engineer | Former MSP Owner | Complex Environment Specialist
+# Cloud Cost Optimization Specialist | Former MSP Owner | Business-Minded Technologist
 
 ## Professional Summary
 
-I'm a DevOps/SRE engineer with a unique background as a former MSP (Managed Service Provider) owner, bringing 22 months of operational experience managing complex multi-platform environments. This business perspective, combined with deep technical expertise, allows me to approach infrastructure challenges with both technical excellence and business impact in mind.
+I'm a cloud cost optimization specialist with a unique background as a former MSP (Managed Service Provider) owner who built a $250K business serving 30+ clients. This P&L experience, combined with deep technical expertise, allows me to identify and eliminate cloud waste while maintaining security and performance - typically achieving 30-50% cost reductions.
 
 ## Unique Background
 
-### MSP Business Experience (2022-2024)
-- Founded and operated an IT services company for 18 months
-- Specialized in complex multi-platform environments (Linux/Mac/Windows)
-- Managed enterprise networks and infrastructure for demanding clients
-- Gained invaluable insights into scaling technical operations
+### MSP Business Experience (2020-2023)
+- Built IT services company to $250K annual revenue
+- Served 30+ SMB clients with 100% satisfaction rate
+- Managed complex cloud migrations and cost optimizations
+- Developed deep understanding of business ROI requirements
 
 ### Key Learnings
 - **Technical Complexity**: Mastered integration across heterogeneous environments
@@ -34,11 +34,12 @@ I'm a DevOps/SRE engineer with a unique background as a former MSP (Managed Serv
 - **Monitoring**: Prometheus, Grafana, ELK Stack, Datadog
 - **Security**: DevSecOps practices, compliance automation
 
-### Certifications (In Progress)
-- AWS Solutions Architect Associate
-- HashiCorp Terraform Associate
-- Certified Kubernetes Administrator (CKA)
-- CompTIA Security+ (Renewal)
+### Certifications & Training
+- FinOps Certified Practitioner (In Progress)
+- AWS Cloud Practitioner (In Progress)
+- AWS Solutions Architect Associate (In Progress)
+- CompTIA Security+ (Current)
+- CompTIA Cloud Essentials+ (Current)
 
 ### Previous Certifications
 - CompTIA A+, Network+, Security+, Project+, Cloud+
@@ -47,7 +48,11 @@ I'm a DevOps/SRE engineer with a unique background as a former MSP (Managed Serv
 ## What Makes Me Different
 
 ### Business-First Approach
-Having run an MSP, I understand the real cost of technical decisions. Every solution I design considers:
+Having run a profitable MSP, I understand that technology must deliver ROI. Every optimization I recommend considers:
+- Immediate cost impact vs implementation effort
+- Long-term sustainability and scalability
+- Compliance and security requirements
+- Organizational change management
 - ROI and business impact
 - Operational sustainability
 - Team scalability
