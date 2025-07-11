@@ -11,8 +11,8 @@ layout: default
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
         <h2>AWS Solutions Architect (In Progress) | Security+ | Former MSP Founder</h2>
-        <h3 class="hero-tagline">Dallas AWS Bootcamp Week 2 | $250K Business Built | 60-Hour Weekly Commitment</h3>
-        <p>Former MSP Founder executing aggressive cloud transition through Dallas AWS intensive bootcamp. Combining Security+ certification (Week 1) with AWS Solutions Architect (Week 2) via intensive in-person training. Leveraging business acumen, Launch School engineering foundation, and proven learning ability for accelerated cloud career. Available for Cloud Engineering roles in Dallas.</p>
+        <h3 class="hero-tagline">Dallas AWS Bootcamp | $250K Business Built | 60-Hour Weekly Commitment</h3>
+        <p>Former MSP Founder executing strategic cloud transition through Dallas AWS intensive bootcamp. Combining Security+ certification with AWS Solutions Architect via structured training and networking. Leveraging business acumen, Launch School engineering foundation, and proven learning ability. Targeting Cloud Engineering roles in Dallas market - ready to contribute by Week 12.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
@@ -36,7 +36,7 @@ layout: default
             <span class="cert-badge">Launch School 95% Complete</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Available for Dallas Cloud Engineering Roles | $110K+ | Starting Month 2</strong>
+            <strong>🚀 Available for Dallas Cloud Engineering Roles | $110-115K | Starting Week 10-12</strong>
           </div>
         </div>
         <div class="hero-links">
