@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>AWS Solutions Architect (In Progress) | Security+ | Former MSP Founder</h2>
-        <h3 class="hero-tagline">Dallas AWS Bootcamp | $250K Business Built | 60-Hour Weekly Commitment</h3>
-        <p>Former MSP Founder executing strategic cloud transition through Dallas AWS intensive bootcamp. Combining Security+ certification with AWS Solutions Architect via structured training and networking. Leveraging business acumen, Launch School engineering foundation, and proven learning ability. Targeting Cloud Engineering roles in Dallas market - ready to contribute by Week 12.</p>
+        <h2>AWS Solutions Architect (July 2025) | Security+ | Former MSP Founder</h2>
+        <h3 class="hero-tagline">Training Camp July 21-26 | Relocating to Dallas | 60-Hour Weekly Sprint</h3>
+        <p>Former MSP Founder executing aggressive cloud transition via Training Camp's intensive AWS bootcamp (July 21-26). Combining Security+ certification with AWS Solutions Architect and Professional training. Leveraging business acumen, Launch School engineering foundation (95% complete), and proven learning ability. Building Dallas network virtually before relocation. Available for Cloud Engineering roles October 2025.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
@@ -31,12 +31,12 @@ layout: default
           </div>
           <div class="featured-certs">
             <span class="cert-badge">MSP Founder</span>
-            <span class="cert-badge">Security+ (Week 1 Target)</span>
-            <span class="cert-badge">AWS SAA (Week 2 Bootcamp)</span>
+            <span class="cert-badge">Security+ (July 18 Target)</span>
+            <span class="cert-badge">AWS SAA + Pro (July 21-26 Bootcamp)</span>
             <span class="cert-badge">Launch School 95% Complete</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Available for Dallas Cloud Engineering Roles | $110-115K | Starting Week 10-12</strong>
+            <strong>🚀 Available for Dallas Cloud Engineering Roles | $110-115K | October 2025</strong>
           </div>
         </div>
         <div class="hero-links">
