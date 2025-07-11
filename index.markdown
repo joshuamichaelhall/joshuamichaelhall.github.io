@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Engineer | MSP Founder | AWS Solutions Architect Path</h2>
-        <h3 class="hero-tagline">20-30% Cost Reduction Track Record | P&L Management | Remote-First</h3>
-        <p>Cloud professional and MSP Founder pursuing AWS Solutions Architect and Security+ certifications (completion: August 2025). Built and scaled IT services company to $250K revenue serving 30+ SMB clients with 100% satisfaction. Proven track record of 20-30% cloud cost reductions while improving performance.</p>
+        <h2>AWS Solutions Architect (In Progress) | Security+ | Former MSP Founder</h2>
+        <h3 class="hero-tagline">Dallas AWS Bootcamp Week 2 | $250K Business Built | 60-Hour Weekly Commitment</h3>
+        <p>Former MSP Founder executing aggressive cloud transition through Dallas AWS intensive bootcamp. Combining Security+ certification (Week 1) with AWS Solutions Architect (Week 2) via intensive in-person training. Leveraging business acumen, Launch School engineering foundation, and proven learning ability for accelerated cloud career. Available for Cloud Engineering roles in Dallas.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
@@ -31,12 +31,12 @@ layout: default
           </div>
           <div class="featured-certs">
             <span class="cert-badge">MSP Founder</span>
-            <span class="cert-badge">AWS Cloud Practitioner (In Progress)</span>
-            <span class="cert-badge">Security+ SY0-701 (In Progress)</span>
-            <span class="cert-badge">FinOps Methodologies</span>
+            <span class="cert-badge">Security+ (Week 1 Target)</span>
+            <span class="cert-badge">AWS SAA (Week 2 Bootcamp)</span>
+            <span class="cert-badge">Launch School 95% Complete</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Available Immediately for Remote Cloud Engineer Roles | $150K+ | Full-Time Preferred</strong>
+            <strong>🚀 Available for Dallas Cloud Engineering Roles | $110K+ | Starting Month 2</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -83,8 +83,8 @@ layout: default
       <p>Former MSP owner with deep understanding of business operations, P&L management, strategic planning, and vendor relationships. Translate technical solutions to business outcomes.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Cloud Architecture</h3>
-      <p>Hands-on experience with AWS, Azure, and hybrid environments. Led 50+ cloud migrations with focus on security, cost optimization, and business continuity.</p>
+      <h3>Accelerated Cloud Transition</h3>
+      <p>Executing 4-week certification sprint: Security+ (Week 1) + Dallas AWS Bootcamp (Week 2). Combining MSP operations experience with intensive hands-on training alongside Dallas cloud professionals. 60-hour weekly commitment to master cloud architecture.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Customer Success</h3>
@@ -99,13 +99,13 @@ layout: default
 
 <div class="home-section with-divider" id="certification-journey">
   <h2>Professional Development & Certifications</h2>
-  <p class="section-intro-text">Continuous learner combining business experience with technical certifications for comprehensive TAM expertise.</p>
+  <p class="section-intro-text">Continuous learner transitioning from traditional IT to cloud technologies while leveraging strong business foundation.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
       <h3>Business Foundation</h3>
       <ul>
         <li>Built & sold $250K MSP</li>
-        <li>40+ clients across industries</li>
+        <li>30+ clients across industries</li>
         <li>Team leadership & development</li>
         <li>Vendor partnership management</li>
         <li>Financial planning & analysis</li>
@@ -114,8 +114,8 @@ layout: default
     <div class="roadmap-phase">
       <h3>Technical Certifications</h3>
       <ul>
-        <li>AWS Solutions Architect (In Progress)</li>
-        <li>CompTIA Security+ (Renewing)</li>
+        <li>Security+ Certification (Week 1)</li>
+        <li>AWS SAA via Dallas Bootcamp (Week 2)</li>
         <li>Launch School Core Curriculum</li>
         <li>Google Project Management</li>
         <li>Multiple CompTIA certifications</li>
@@ -140,7 +140,7 @@ layout: default
   <div class="success-stories">
     <div class="success-story">
       <h3>Healthcare Cloud Migration</h3>
-      <p>Led HIPAA-compliant migration for medical practice group. Reduced IT costs by 35% while improving uptime to 99.9%. Implemented disaster recovery with 4-hour RTO.</p>
+      <p>Transformed medical practice operations achieving 35% cost reduction. My business-first approach and P&L ownership experience directly translates to cloud cost optimization - the same discipline I'll apply to AWS architecture.</p>
     </div>
     <div class="success-story">
       <h3>Financial Services Security</h3>
@@ -162,7 +162,7 @@ layout: default
   <div class="article-preview">
     <h3>Recent Topics</h3>
     <ul>
-      <li>Why TAMs Drive Cloud Success: Business Value Beyond Technical Support</li>
+      <li>From MSP Owner to Cloud: My Learning Journey</li>
       <li>From MSP to Cloud: Transformation Lessons for Service Providers</li>
       <li>The Real Cost of Cloud: ROI Metrics That Matter</li>
       <li>Building Trust in Technology: A Customer Success Framework</li>
