@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Cost Optimization Specialist | Former MSP Owner | Strategic Advisor</h2>
-        <h3 class="hero-tagline">Reducing Enterprise Cloud Costs by 30-50% | Proven Optimization Frameworks</h3>
-        <p>Cloud optimization specialist with unique blend of technical expertise and business leadership. Built and operated successful MSP serving 30+ clients with 100% satisfaction. Now focused on helping enterprises reduce cloud costs while improving performance.</p>
+        <h2>Cloud Engineer & TAM | MSP Founder | AWS/Security+ In Progress</h2>
+        <h3 class="hero-tagline">20-30% Cost Reduction Track Record | P&L Management | Remote-First</h3>
+        <p>Cloud professional and MSP Founder pursuing AWS Solutions Architect and Security+ certifications (completion: August 2025). Built and scaled IT services company to $250K revenue serving 30+ SMB clients with 100% satisfaction. Proven track record of 20-30% cloud cost reductions while improving performance.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
@@ -21,22 +21,22 @@ layout: default
               <span class="cert-label">MSP Revenue Built</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">95%</span>
-              <span class="cert-label">Client Retention</span>
+              <span class="cert-number">100%</span>
+              <span class="cert-label">Client Satisfaction</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">50+</span>
-              <span class="cert-label">Cloud Migrations</span>
+              <span class="cert-number">20-30%</span>
+              <span class="cert-label">Avg Cost Reduction</span>
             </div>
           </div>
           <div class="featured-certs">
-            <span class="cert-badge">Former Business Owner</span>
-            <span class="cert-badge">AWS SA Associate (In Progress)</span>
-            <span class="cert-badge">Security+ Certified</span>
-            <span class="cert-badge">Launch School Graduate</span>
+            <span class="cert-badge">MSP Founder</span>
+            <span class="cert-badge">AWS Cloud Practitioner (In Progress)</span>
+            <span class="cert-badge">Security+ SY0-701 (In Progress)</span>
+            <span class="cert-badge">FinOps Methodologies</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Open to Strategic Cloud Optimization Opportunities | Remote or Relocation Ready</strong>
+            <strong>🚀 Available Immediately for Remote Cloud Engineer/TAM Roles | $120K+ | Contract-to-Hire Welcome</strong>
           </div>
         </div>
         <div class="hero-links">
