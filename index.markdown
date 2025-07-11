@@ -10,7 +10,7 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Engineer & TAM | MSP Founder | AWS/Security+ In Progress</h2>
+        <h2>Cloud Engineer | MSP Founder | AWS Solutions Architect Path</h2>
         <h3 class="hero-tagline">20-30% Cost Reduction Track Record | P&L Management | Remote-First</h3>
         <p>Cloud professional and MSP Founder pursuing AWS Solutions Architect and Security+ certifications (completion: August 2025). Built and scaled IT services company to $250K revenue serving 30+ SMB clients with 100% satisfaction. Proven track record of 20-30% cloud cost reductions while improving performance.</p>
         <div class="certification-highlight">
@@ -36,7 +36,7 @@ layout: default
             <span class="cert-badge">FinOps Methodologies</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Available Immediately for Remote Cloud Engineer/TAM Roles | $120K+ | Contract-to-Hire Welcome</strong>
+            <strong>🚀 Available Immediately for Remote Cloud Engineer Roles | $150K+ | Full-Time Preferred</strong>
           </div>
         </div>
         <div class="hero-links">
