@@ -11,8 +11,8 @@ layout: default
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
         <h2>AWS Solutions Architect (July 2025) | Security+ | Former MSP Founder</h2>
-        <h3 class="hero-tagline">Training Camp July 21-26 | Relocating to Dallas | 60-Hour Weekly Sprint</h3>
-        <p>Former MSP Founder executing aggressive cloud transition via Training Camp's intensive AWS bootcamp (July 21-26). Combining Security+ certification with AWS Solutions Architect and Professional training. Leveraging business acumen, Launch School engineering foundation (95% complete), and proven learning ability. Building Dallas network virtually before relocation. Available for Cloud Engineering roles October 2025.</p>
+        <h3 class="hero-tagline">Training Camp July 21-26 | Relocating to Raleigh-Durham | 60-Hour Weekly Sprint</h3>
+        <p>Former MSP Founder executing strategic cloud transition via Training Camp's intensive virtual AWS bootcamp (July 21-26). Combining Security+ certification with AWS Solutions Architect and Professional training. Leveraging business acumen, Launch School engineering foundation (95% complete), and proven MSP scaling experience. Building Triangle network through university partnerships, church community, and biotech connections while preparing for strategic MSP acquisitions. Available for Cloud Engineering roles October 2025.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
@@ -36,7 +36,7 @@ layout: default
             <span class="cert-badge">Launch School 95% Complete</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Available for Dallas Cloud Engineering Roles | $110-115K | October 2025</strong>
+            <strong>🚀 Available for Raleigh-Durham Cloud Engineering Roles | $115-125K | October 2025</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -50,7 +50,7 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-achievements">
-  <h2>Why I Excel at Cloud Cost Optimization</h2>
+  <h2>Why I Excel at Cloud Cost Optimization + MSP Transformation</h2>
   <div class="impact-metrics">
     <div class="metric-card">
       <div class="metric-value">Business</div>
@@ -70,7 +70,7 @@ layout: default
     <div class="metric-card">
       <div class="metric-value">Results</div>
       <div class="metric-label">ROI Driven</div>
-      <div class="metric-detail">$2M+ in documented cloud savings delivered to clients</div>
+      <div class="metric-detail">$2M+ in documented cloud savings + MSP scaling experience</div>
     </div>
   </div>
 </div>
@@ -79,12 +79,12 @@ layout: default
   <h2>Core Competencies for Cloud Optimization</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Business Leadership</h3>
-      <p>Former MSP owner with deep understanding of business operations, P&L management, strategic planning, and vendor relationships. Translate technical solutions to business outcomes.</p>
+      <h3>Business Leadership + MSP Experience + Community Networks</h3>
+      <p>Former MSP owner with deep understanding of business operations, P&L management, strategic planning, and vendor relationships. Proven ability to scale MSP to $250K revenue. Strong faith-based community connections and university partnerships. Translate technical solutions to business outcomes while identifying strategic acquisition opportunities through diverse professional networks.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Accelerated Cloud Transition</h3>
-      <p>Executing 4-week certification sprint: Security+ (Week 1) + Dallas AWS Bootcamp (Week 2). Combining MSP operations experience with intensive hands-on training alongside Dallas cloud professionals. 60-hour weekly commitment to master cloud architecture.</p>
+      <p>Executing strategic 10-year Triangle wealth building plan: Virtual AWS Bootcamp (July 21-26) + Global Knowledge Cary advanced training. Combining MSP operations experience with Research Triangle's biotech and healthcare focus. Building university partnerships and church community networks while establishing Holly Springs/Apex residence. Planning strategic MSP acquisitions for $1M+ annual income by Year 5-7 (85% success probability).</p>
     </div>
     <div class="tech-focus-item">
       <h3>Customer Success</h3>
@@ -115,7 +115,7 @@ layout: default
       <h3>Technical Certifications</h3>
       <ul>
         <li>Security+ Certification (Week 1)</li>
-        <li>AWS SAA via Dallas Bootcamp (Week 2)</li>
+        <li>AWS SAA via Virtual Bootcamp (Week 2)</li>
         <li>Launch School Core Curriculum</li>
         <li>Google Project Management</li>
         <li>Multiple CompTIA certifications</li>
@@ -124,11 +124,12 @@ layout: default
     <div class="roadmap-phase">
       <h3>Industry Expertise</h3>
       <ul>
-        <li>Healthcare (HIPAA compliance)</li>
-        <li>Financial Services (security focus)</li>
-        <li>Manufacturing (ERP integration)</li>
-        <li>Professional Services (cloud first)</li>
-        <li>Education (budget optimization)</li>
+        <li>Biotech (Research Triangle specialization)</li>
+        <li>Healthcare (Duke/UNC/WakeMed systems)</li>
+        <li>University Research (computing optimization)</li>
+        <li>Faith-Based Business (church community networking)</li>
+        <li>MSP Transformation (cloud-first modernization)</li>
+        <li>Strategic Acquisitions (cash-only Triangle MSPs)</li>
       </ul>
     </div>
   </div>
@@ -139,8 +140,8 @@ layout: default
   <p class="section-intro-text">Real-world examples of helping businesses maximize their technology investments and achieve transformation goals.</p>
   <div class="success-stories">
     <div class="success-story">
-      <h3>Healthcare Cloud Migration</h3>
-      <p>Transformed medical practice operations achieving 35% cost reduction. My business-first approach and P&L ownership experience directly translates to cloud cost optimization - the same discipline I'll apply to AWS architecture.</p>
+      <h3>Healthcare Cloud Migration + MSP Transformation + Community Impact</h3>
+      <p>Transformed medical practice operations achieving 35% cost reduction. My business-first approach, P&L ownership experience, and strong community values directly translate to cloud cost optimization and MSP acquisition strategy. Committed to building businesses that create jobs and serve communities - the same discipline I'll apply to AWS architecture and strategic business acquisitions.</p>
     </div>
     <div class="success-story">
       <h3>Financial Services Security</h3>
