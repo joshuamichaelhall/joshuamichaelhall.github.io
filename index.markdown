@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>AWS Solutions Architect (July 2025) | Security+ | Former MSP Founder</h2>
-        <h3 class="hero-tagline">Training Camp July 21-26 | Relocating to Raleigh-Durham | 60-Hour Weekly Sprint</h3>
-        <p>Former MSP Founder executing strategic cloud transition via Training Camp's intensive virtual AWS bootcamp (July 21-26). Combining Security+ certification with AWS Solutions Architect and Professional training. Leveraging business acumen, Launch School engineering foundation (95% complete), and proven MSP scaling experience. Building Triangle network through university partnerships, church community, and biotech connections while preparing for strategic MSP acquisitions. Available for Cloud Engineering roles October 2025.</p>
+        <h2>Cloud Engineer | AWS Certified | Former MSP Founder | Building Scalable Solutions with Code</h2>
+        <h3 class="hero-tagline">90-Day Sprint to $130K+ | 100% Remote | Cloud Engineer Who Can Actually Code</h3>
+        <p>Former MSP Founder executing 90-day cloud engineering sprint. Combining AWS Solutions Architect certification with 4 production-ready projects showcasing serverless, IaC, security automation, and container platforms. Leveraging business acumen, Launch School programming foundation (top 15% Codewars), and proven experience scaling infrastructure for 30+ businesses. Available for remote Cloud Engineering roles immediately.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
@@ -30,13 +30,13 @@ layout: default
             </div>
           </div>
           <div class="featured-certs">
-            <span class="cert-badge">MSP Founder</span>
-            <span class="cert-badge">Security+ (July 18 Target)</span>
-            <span class="cert-badge">AWS SAA + Pro (July 21-26 Bootcamp)</span>
-            <span class="cert-badge">Launch School 95% Complete</span>
+            <span class="cert-badge">MSP Founder ($250K Revenue)</span>
+            <span class="cert-badge">AWS SAA (In Progress)</span>
+            <span class="cert-badge">Launch School Graduate</span>
+            <span class="cert-badge">Top 15% Codewars</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Available for Raleigh-Durham Cloud Engineering Roles | $115-125K | October 2025</strong>
+            <strong>🚀 Available for Remote Cloud Engineering Roles | $130-150K | Immediate</strong>
           </div>
         </div>
         <div class="hero-links">
