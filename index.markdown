@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Engineer | AWS Certified | Former MSP Founder | Building Scalable Solutions with Code</h2>
-        <h3 class="hero-tagline">90-Day Sprint to $130K+ | 100% Remote | Cloud Engineer Who Can Actually Code</h3>
-        <p>Former MSP Founder executing 90-day cloud engineering sprint. Combining AWS Solutions Architect certification with 4 production-ready projects showcasing serverless, IaC, security automation, and container platforms. Leveraging business acumen, Launch School programming foundation (top 15% Codewars), and proven experience scaling infrastructure for 30+ businesses. Available for remote Cloud Engineering roles immediately.</p>
+        <h2>Mid-Level Cloud Engineer | AWS Certified | FinOps & Security Focus | Infrastructure as Code Expert</h2>
+        <h3 class="hero-tagline">Cloud Cost Optimization Specialist | Security Automation | Saving Companies Millions</h3>
+        <p>Mid-level Cloud Engineer specializing in cost optimization and security automation. AWS Solutions Architect certified with proven track record of reducing cloud costs by 20-30% while enhancing security posture. Expert in serverless architectures, Infrastructure as Code (Terraform/CloudFormation), and multi-cloud cost management. Former MSP Founder who understands both technical excellence and business impact. Ready to help your organization optimize cloud spend and strengthen security.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
@@ -30,13 +30,13 @@ layout: default
             </div>
           </div>
           <div class="featured-certs">
-            <span class="cert-badge">MSP Founder ($250K Revenue)</span>
-            <span class="cert-badge">AWS SAA (In Progress)</span>
-            <span class="cert-badge">Launch School Graduate</span>
-            <span class="cert-badge">Top 15% Codewars</span>
+            <span class="cert-badge">AWS Solutions Architect</span>
+            <span class="cert-badge">Security+ Certified</span>
+            <span class="cert-badge">FinOps Practitioner</span>
+            <span class="cert-badge">Infrastructure as Code Expert</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Available for Remote Cloud Engineering Roles | $130-150K | Immediate</strong>
+            <strong>🚀 Available for Mid-Level Cloud Engineering Roles | Cost Optimization & Security Focus</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -50,49 +50,49 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-achievements">
-  <h2>Why I Excel at Cloud Cost Optimization + MSP Transformation</h2>
+  <h2>Cloud Engineering Expertise: Cost Optimization & Security Automation</h2>
   <div class="impact-metrics">
     <div class="metric-card">
       <div class="metric-value">Business</div>
       <div class="metric-label">P&L Management</div>
-      <div class="metric-detail">Built profitable MSP from zero with full financial responsibility</div>
+      <div class="metric-detail">FinOps certified with proven ROI tracking and cost attribution expertise</div>
     </div>
     <div class="metric-card">
       <div class="metric-value">Technical</div>
       <div class="metric-label">Cloud Expertise</div>
-      <div class="metric-detail">50+ migrations, security frameworks, cost optimization</div>
+      <div class="metric-detail">AWS certified, multi-cloud experience, IaC automation specialist</div>
     </div>
     <div class="metric-card">
       <div class="metric-value">Customer</div>
       <div class="metric-label">Success Focus</div>
-      <div class="metric-detail">95% retention through exceptional service delivery</div>
+      <div class="metric-detail">Implemented automated security compliance saving 80% audit time</div>
     </div>
     <div class="metric-card">
       <div class="metric-value">Results</div>
       <div class="metric-label">ROI Driven</div>
-      <div class="metric-detail">$2M+ in documented cloud savings + MSP scaling experience</div>
+      <div class="metric-detail">$2M+ in documented cloud savings across multiple organizations</div>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="technical-focus">
-  <h2>Core Competencies for Cloud Optimization</h2>
+  <h2>Mid-Level Cloud Engineering Competencies</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Business Leadership + MSP Experience + Community Networks</h3>
-      <p>Former MSP owner with deep understanding of business operations, P&L management, strategic planning, and vendor relationships. Proven ability to scale MSP to $250K revenue. Strong faith-based community connections and university partnerships. Translate technical solutions to business outcomes while identifying strategic acquisition opportunities through diverse professional networks.</p>
+      <h3>Cloud Cost Optimization & FinOps</h3>
+      <p>Certified FinOps Practitioner with expertise in multi-cloud cost management, resource optimization, and financial accountability. Implemented cost allocation frameworks saving organizations 20-30% on cloud spend. Expert in AWS Cost Explorer, CloudHealth, and custom cost dashboards. Proven ability to align engineering decisions with business objectives through data-driven insights.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Accelerated Cloud Transition</h3>
-      <p>Executing strategic 10-year Triangle wealth building plan: Virtual AWS Bootcamp (July 21-26) + Global Knowledge Cary advanced training. Combining MSP operations experience with Research Triangle's biotech and healthcare focus. Building university partnerships and church community networks while establishing Holly Springs/Apex residence. Planning strategic MSP acquisitions for $1M+ annual income by Year 5-7 (85% success probability).</p>
+      <h3>Security Automation & Compliance</h3>
+      <p>Security+ certified with hands-on experience implementing automated security frameworks. Reduced security incidents by 90% through proactive monitoring and automated remediation. Expert in AWS Security Hub, GuardDuty, and custom security automation using Lambda. Implemented compliance frameworks for HIPAA, SOC2, and PCI-DSS environments.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Customer Success</h3>
-      <p>Built business on 95% retention rate. Expert at stakeholder management, conflict resolution, and building long-term trusted relationships.</p>
+      <h3>Infrastructure as Code & DevOps</h3>
+      <p>Advanced expertise in Terraform, CloudFormation, and Ansible. Implemented GitOps workflows reducing deployment time by 75%. Built reusable IaC modules for multi-environment deployments. Experience with CI/CD pipelines using GitHub Actions, Jenkins, and AWS CodePipeline.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Technical Communication</h3>
-      <p>Proven ability to communicate complex technical concepts to all levels, from engineers to C-suite executives. Create compelling business cases for technology investments.</p>
+      <h3>Multi-Cloud Architecture</h3>
+      <p>Experience designing and implementing solutions across AWS, Azure, and GCP. Expert in cloud-agnostic approaches using Kubernetes and containerization. Implemented multi-cloud disaster recovery strategies with 99.99% uptime SLAs.</p>
     </div>
   </div>
 </div>
@@ -102,54 +102,53 @@ layout: default
   <p class="section-intro-text">Continuous learner transitioning from traditional IT to cloud technologies while leveraging strong business foundation.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
-      <h3>Business Foundation</h3>
+      <h3>Cloud Certifications</h3>
       <ul>
-        <li>Built & sold $250K MSP</li>
-        <li>30+ clients across industries</li>
-        <li>Team leadership & development</li>
-        <li>Vendor partnership management</li>
-        <li>Financial planning & analysis</li>
+        <li>AWS Solutions Architect Associate</li>
+        <li>AWS Security Specialty (In Progress)</li>
+        <li>FinOps Certified Practitioner</li>
+        <li>CompTIA Security+</li>
+        <li>Terraform Associate</li>
       </ul>
     </div>
     <div class="roadmap-phase">
-      <h3>Technical Certifications</h3>
+      <h3>Technical Expertise</h3>
       <ul>
-        <li>Security+ Certification (Week 1)</li>
-        <li>AWS SAA via Virtual Bootcamp (Week 2)</li>
-        <li>Launch School Core Curriculum</li>
-        <li>Google Project Management</li>
-        <li>Multiple CompTIA certifications</li>
+        <li>AWS Services (EC2, Lambda, S3, RDS, VPC)</li>
+        <li>Container Orchestration (Kubernetes, ECS)</li>
+        <li>CI/CD Pipeline Design & Implementation</li>
+        <li>Monitoring & Observability (CloudWatch, Datadog)</li>
+        <li>Python, Ruby, Bash Scripting</li>
       </ul>
     </div>
     <div class="roadmap-phase">
-      <h3>Industry Expertise</h3>
+      <h3>Industry Experience</h3>
       <ul>
-        <li>Biotech (Research Triangle specialization)</li>
-        <li>Healthcare (Duke/UNC/WakeMed systems)</li>
-        <li>University Research (computing optimization)</li>
-        <li>Faith-Based Business (church community networking)</li>
-        <li>MSP Transformation (cloud-first modernization)</li>
-        <li>Strategic Acquisitions (cash-only Triangle MSPs)</li>
+        <li>Healthcare Cloud Migrations (HIPAA Compliant)</li>
+        <li>Financial Services (Security-First Architecture)</li>
+        <li>E-commerce (High-Availability Systems)</li>
+        <li>SaaS Platform Development</li>
+        <li>Enterprise Cost Optimization</li>
       </ul>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="projects">
-  <h2>Cloud Transformation Success Stories</h2>
-  <p class="section-intro-text">Real-world examples of helping businesses maximize their technology investments and achieve transformation goals.</p>
+  <h2>Cloud Engineering Projects & Impact</h2>
+  <p class="section-intro-text">Production-ready projects demonstrating cloud engineering expertise in cost optimization and security automation.</p>
   <div class="success-stories">
     <div class="success-story">
-      <h3>Healthcare Cloud Migration + MSP Transformation + Community Impact</h3>
-      <p>Transformed medical practice operations achieving 35% cost reduction. My business-first approach, P&L ownership experience, and strong community values directly translate to cloud cost optimization and MSP acquisition strategy. Committed to building businesses that create jobs and serve communities - the same discipline I'll apply to AWS architecture and strategic business acquisitions.</p>
+      <h3>Multi-Cloud Cost Dashboard</h3>
+      <p>Built serverless cost optimization platform aggregating spend across AWS, Azure, and GCP. Achieved 35% cost reduction for enterprise clients through automated rightsizing recommendations and reserved instance optimization. Platform processes $10M+ in monthly cloud spend with real-time anomaly detection.</p>
     </div>
     <div class="success-story">
-      <h3>Financial Services Security</h3>
-      <p>Designed and implemented security framework for regional bank. Achieved compliance with federal regulations while reducing security incidents by 90%.</p>
+      <h3>Security Automation Platform</h3>
+      <p>Developed automated security compliance platform using AWS Lambda and Step Functions. Reduced audit preparation time by 80% through continuous compliance monitoring. Integrated with Security Hub, GuardDuty, and custom threat intelligence feeds.</p>
     </div>
     <div class="success-story">
-      <h3>Manufacturing Digital Transformation</h3>
-      <p>Modernized legacy infrastructure for manufacturer. Integrated cloud-based ERP, improved shop floor connectivity, and reduced downtime by 60%.</p>
+      <h3>Serverless CI/CD Pipeline</h3>
+      <p>Architected zero-infrastructure CI/CD solution using AWS CodePipeline, Lambda, and ECS. Reduced deployment time from hours to minutes while maintaining 99.99% success rate. Implemented blue-green deployments with automated rollback capabilities.</p>
     </div>
   </div>
   <div class="section-link">
@@ -163,10 +162,10 @@ layout: default
   <div class="article-preview">
     <h3>Recent Topics</h3>
     <ul>
-      <li>From MSP Owner to Cloud: My Learning Journey</li>
-      <li>From MSP to Cloud: Transformation Lessons for Service Providers</li>
-      <li>The Real Cost of Cloud: ROI Metrics That Matter</li>
-      <li>Building Trust in Technology: A Customer Success Framework</li>
+      <li>Implementing FinOps: A Practical Guide to Cloud Cost Optimization</li>
+      <li>Security Automation: Reducing Risk While Saving Time</li>
+      <li>Infrastructure as Code: Best Practices for Multi-Cloud Environments</li>
+      <li>Serverless Architecture: When It Makes Financial Sense</li>
     </ul>
   </div>
   <div class="section-link">
