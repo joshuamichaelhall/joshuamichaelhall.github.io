@@ -42,7 +42,7 @@ I'm a mid-level cloud engineer specializing in FinOps and security automation wi
 - Kubernetes Application Developer (CKAD) - In Progress
 
 ### Technical Education
-- Launch School Backend Development Program (Top 10% Graduate)
+- Completed 9 backend courses (Ruby, Python, SQL, databases, OOP) - Top 10% performance
 - AWS Advanced Training - Security & Cost Optimization
 - Cloud Security Alliance - CCSK Training
 

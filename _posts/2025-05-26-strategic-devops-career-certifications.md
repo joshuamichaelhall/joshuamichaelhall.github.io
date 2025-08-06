@@ -233,7 +233,7 @@ The order of certifications creates compounding value:
 
 Leveraging my complementary experience:
 - TimothyTek IT services company: Network security and compliance experience
-- Launch School software engineering: Development workflow and automation
+- 9 backend courses (Ruby, Python, SQL, databases, OOP): Development workflow and automation
 - Project management background: Systematic approach to complex implementations
 - Real estate operations: Business analysis and ROI measurement skills
 

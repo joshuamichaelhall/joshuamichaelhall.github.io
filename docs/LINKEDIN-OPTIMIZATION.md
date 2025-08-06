@@ -34,7 +34,7 @@ Currently building cloud solutions while pursuing AWS certifications to formaliz
 Unique value I bring:
 • Founded and scaled an MSP to $250K (I understand ROI and business impact)
 • 20 years of leadership experience, including 4 years leading technical teams (I excel at collaboration and communication) 
-• Launch School graduate with strong Python fundamentals (I build, not just configure)
+• Completed 9 backend courses (Ruby, Python, SQL, databases, OOP) with strong programming fundamentals (I build, not just configure)
 • Developing production-ready cloud infrastructure (I deliver working solutions)
 
 Technical focus:

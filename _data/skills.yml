@@ -58,7 +58,7 @@ categories:
     skills:
       - name: "Ruby Programming"
         level: 85
-        description: "Launch School mastery, OOP principles, test-driven development"
+        description: "Mastery from 9 backend courses, OOP principles, test-driven development"
       - name: "PostgreSQL"
         level: 80
         description: "Database design, complex queries, performance optimization"

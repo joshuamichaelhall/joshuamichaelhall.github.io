@@ -13,7 +13,7 @@ Execute a 90-day sprint (August 5 - November 4, 2025) to land a $110-130K remote
 ## Current Position & Target
 
 ### What You Are
-- **Strong programmer** with Launch School's rigorous backend training
+- **Strong programmer** with rigorous backend training (9 courses: Ruby, Python, SQL, databases, OOP)
 - **Proven leader** with 20 years driving transformation
 - **Quick learner** who masters new technologies rapidly
 - **Builder** who can create tools and automate solutions
@@ -156,7 +156,7 @@ Weekend: 4 hours Saturday only
 ## Interview Positioning
 
 ### Phase 1 Core Pitch
-"I bring a unique combination: I founded and scaled an MSP to $250K revenue, giving me deep understanding of infrastructure at scale and business impact. Combined with strong programming fundamentals from Launch School and AWS expertise, I can build automation solutions, not just configure services."
+"I bring a unique combination: I founded and scaled an MSP to $250K revenue, giving me deep understanding of infrastructure at scale and business impact. Combined with strong programming fundamentals from 9 backend courses (Ruby, Python, SQL, databases, OOP) and AWS expertise, I can build automation solutions, not just configure services."
 
 ### Key Differentiators
 - **Business Acumen**: Understand ROI, not just technology

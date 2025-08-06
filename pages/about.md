@@ -11,7 +11,7 @@ permalink: /about/
   
   <p><strong>Business Leadership:</strong> Built and successfully operated TimothyTek MSP ($250K revenue, 40+ clients). Led 50+ cloud migrations and digital transformations. This experience provides deep understanding of customer challenges, vendor relationships, and business value creation.</p>
   
-  <p><strong>Technical Foundation:</strong> AWS Solutions Architect Associate (in progress), Security+ certified, Launch School graduate with strong software engineering foundation. Deep understanding of cloud architectures, cost optimization, and security frameworks.</p>
+  <p><strong>Technical Foundation:</strong> AWS Solutions Architect Associate (in progress), Security+ certified, completed 9 backend courses (Ruby, Python, SQL, databases, OOP) with strong software engineering foundation. Deep understanding of cloud architectures, cost optimization, and security frameworks.</p>
   
   <p><strong>Customer Success Focus:</strong> 95% client retention rate as MSP owner. Proven ability to translate complex technical concepts to business value. Expert at building trust, managing stakeholder relationships, and driving measurable outcomes.</p>
   
@@ -63,7 +63,7 @@ permalink: /about/
     <ul class="cert-list in-progress">
       <li><strong>AWS Solutions Architect Associate</strong> - In progress (February 2025)</li>
       <li><strong>CompTIA Security+</strong> - Renewing (March 2025)</li>
-      <li><strong>Launch School Core Curriculum</strong> - Software engineering foundation (2024)</li>
+      <li><strong>Backend Programming Courses</strong> - 9 courses (Ruby, Python, SQL, databases, OOP) software engineering foundation (2024)</li>
       <li><strong>Google Project Management</strong> - Modern PM practices (2023)</li>
       <li><strong>Master of Divinity</strong> - Advanced communication and leadership (2013)</li>
     </ul>
