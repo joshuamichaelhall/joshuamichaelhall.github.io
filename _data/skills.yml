@@ -100,7 +100,7 @@ categories:
         description: "AWS security best practices - Security+ renewal focus"
       - name: "Compliance Implementation"
         level: 70
-        description: "HIPAA experience, regulatory frameworks, documentation"
+        description: "AI governance experience, regulatory frameworks, enterprise documentation"
       - name: "DevSecOps"
         level: 40
         description: "Security in CI/CD, automated scanning - developing"

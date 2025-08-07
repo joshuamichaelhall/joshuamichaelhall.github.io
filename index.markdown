@@ -17,8 +17,8 @@ layout: default
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
             <div class="cert-stat">
-              <span class="cert-number">$250K</span>
-              <span class="cert-label">MSP Revenue Built</span>
+              <span class="cert-number">MSP</span>
+              <span class="cert-label">Founded & Operated</span>
             </div>
             <div class="cert-stat">
               <span class="cert-number">100%</span>
@@ -70,7 +70,7 @@ layout: default
     <div class="metric-card">
       <div class="metric-value">Results</div>
       <div class="metric-label">ROI Driven</div>
-      <div class="metric-detail">$2M+ in documented cloud savings across multiple organizations</div>
+      <div class="metric-detail">Significant documented cloud savings across multiple organizations</div>
     </div>
   </div>
 </div>
@@ -140,7 +140,7 @@ layout: default
   <div class="success-stories">
     <div class="success-story">
       <h3>Multi-Cloud Cost Dashboard</h3>
-      <p>Built serverless cost optimization platform aggregating spend across AWS, Azure, and GCP. Achieved 35% cost reduction for enterprise clients through automated rightsizing recommendations and reserved instance optimization. Platform processes $10M+ in monthly cloud spend with real-time anomaly detection.</p>
+      <p>Built serverless cost optimization platform aggregating spend across AWS, Azure, and GCP. Achieved 35% cost reduction for enterprise clients through automated rightsizing recommendations and reserved instance optimization. Platform includes real-time anomaly detection and automated alerting.</p>
     </div>
     <div class="success-story">
       <h3>Security Automation Platform</h3>

@@ -4,24 +4,24 @@ title: About
 permalink: /about/
 ---
 
-# Mid-Level Cloud Engineer | FinOps & Security Specialist | Infrastructure Automation Expert
+# Cloud Engineer | AWS Certified | Cost & Security Optimization Specialist
 
 ## Professional Summary
 
-I'm a mid-level cloud engineer specializing in FinOps and security automation with 3+ years of hands-on experience building scalable cloud solutions. My expertise in AWS architecture, Infrastructure as Code, and cost optimization has helped organizations save millions while strengthening their security posture. I bring a unique combination of technical depth and business acumen from my background as a former MSP owner.
+I'm a Cloud Engineer building expertise through an Elite 4-Certification strategy, combining systematic technical development with business understanding from my background as an MSP founder. My focus on cost optimization and security within cloud infrastructure leverages practical experience managing enterprise systems and a strong programming foundation.
 
 ## Cloud Engineering Experience
 
 ### Technical Achievements
-- Architected multi-cloud solutions processing $10M+ monthly spend with 35% cost reduction
-- Implemented security automation reducing audit preparation time by 80%
-- Built serverless CI/CD pipelines achieving 99.99% deployment success rate
-- Designed Infrastructure as Code frameworks used across 50+ production environments
+- Built cloud infrastructure solutions with automated cost monitoring and optimization
+- Implemented security automation and compliance workflows
+- Developed serverless CI/CD pipelines with automated testing and deployment
+- Created Infrastructure as Code frameworks for consistent, repeatable deployments
 
 ### Core Competencies
 - **Cloud Architecture**: Expert in AWS services (EC2, Lambda, S3, RDS, VPC, ECS/EKS)
 - **Cost Optimization**: FinOps certified, implemented tagging strategies and reserved instance optimization
-- **Security Automation**: Automated compliance monitoring for HIPAA, SOC2, PCI-DSS
+- **AI Governance**: Automated compliance monitoring for SEC AI regulations, EU AI Act, Enterprise governance
 - **DevOps Excellence**: GitOps workflows, blue-green deployments, infrastructure automation
 
 ## Technical Expertise
@@ -50,12 +50,12 @@ I'm a mid-level cloud engineer specializing in FinOps and security automation wi
 
 ### FinOps & Cost Excellence
 As a certified FinOps practitioner, I drive cloud financial accountability through:
-- Real-time cost visibility dashboards saving $2M+ annually
-- Automated rightsizing recommendations with ML-based predictions
-- Reserved instance optimization achieving 65% discount rates
-- Multi-cloud cost allocation and chargeback implementation
-- Waste elimination through automated resource lifecycle management
-- Budget alerts and anomaly detection preventing cost overruns
+- Real-time cost visibility dashboards with automated alerting
+- Automated rightsizing recommendations and optimization scripts
+- Reserved instance analysis and purchasing recommendations
+- Multi-cloud cost allocation and resource tagging strategies
+- Automated resource lifecycle management and cleanup
+- Budget monitoring and anomaly detection systems
 
 ### Security Automation Leadership
 Implemented enterprise-grade security solutions including:
@@ -67,20 +67,20 @@ Implemented enterprise-grade security solutions including:
 
 ### Infrastructure as Code Excellence
 Delivered production-ready IaC solutions:
-- Terraform modules managing 1000+ resources across environments
+- Terraform modules for consistent infrastructure provisioning
 - GitOps workflows with automated testing and validation
-- Reusable component libraries reducing deployment time 75%
-- Multi-region disaster recovery implementations
-- Immutable infrastructure patterns
+- Reusable component libraries for faster deployments
+- Multi-region infrastructure patterns
+- Immutable infrastructure implementations
 
 ## Current Projects & Focus
 
 ### Production Systems
 Actively managing and improving:
-- Multi-cloud cost optimization platform processing $10M+ monthly
+- Multi-cloud cost optimization and monitoring platform
 - Security automation framework for continuous compliance
-- Serverless event-driven architectures at scale
-- Container orchestration platforms with service mesh
+- Serverless event-driven architectures
+- Container orchestration with Kubernetes and Docker
 
 ### Technical Leadership
 - Contributing to open-source FinOps and security tools
