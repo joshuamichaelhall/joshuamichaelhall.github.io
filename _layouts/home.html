@@ -52,52 +52,5 @@ layout: default
     </div>
   </div>
 
-  <div class="home-section" id="career-vision">
-    <h2>Career Vision</h2>
-    <div class="career-timeline">
-      <div class="timeline-item">
-        <div class="timeline-marker"></div>
-        <div class="timeline-content">
-          <h3>2025: Mid-Level DevOps Engineer</h3>
-          <p>Initial DevOps/SRE role with focus on infrastructure automation and container orchestration.</p>
-          <p class="target">Target: $110K-$150K</p>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-marker"></div>
-        <div class="timeline-content">
-          <h3>2026-2027: Senior DevOps Engineer</h3>
-          <p>Advanced DevOps role with expanded responsibilities in platform engineering.</p>
-          <p class="target">Target: $140K-$170K</p>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-marker"></div>
-        <div class="timeline-content">
-          <h3>2028+: Senior Platform Engineer</h3>
-          <p>Platform engineering leadership focused on financial services compliance and infrastructure.</p>
-          <p class="target">Target: $160K-$200K+</p>
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
 
-<script>
-  // Add animation to timeline items
-  document.addEventListener('DOMContentLoaded', function() {
-    const timelineItems = document.querySelectorAll('.timeline-item');
-    
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('animate');
-        }
-      });
-    }, { threshold: 0.5 });
-    
-    timelineItems.forEach(item => {
-      observer.observe(item);
-    });
-  });
-</script>

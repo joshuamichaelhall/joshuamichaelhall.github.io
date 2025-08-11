@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Mid-Level Cloud Engineer | AWS Certified | FinOps & Security Focus | Infrastructure as Code Expert</h2>
+        <h2>Cloud Architect | AWS Certified | FinOps & Security Focus | Infrastructure as Code Expert</h2>
         <h3 class="hero-tagline">Cloud Cost Optimization Specialist | Security Automation | Saving Companies Millions</h3>
-        <p>Mid-level Cloud Engineer specializing in cost optimization and security automation. AWS Solutions Architect certified with proven track record of reducing cloud costs by 20-30% while enhancing security posture. Expert in serverless architectures, Infrastructure as Code (Terraform/CloudFormation), and multi-cloud cost management. Former MSP Founder who understands both technical excellence and business impact. Ready to help your organization optimize cloud spend and strengthen security.</p>
+        <p>Cloud Architect specializing in cost optimization and security automation. AWS Solutions Architect certified with proven track record of reducing cloud costs by 20-30% while enhancing security posture. Expert in serverless architectures, Infrastructure as Code (Terraform/CloudFormation), and multi-cloud cost management. Former MSP Founder who understands both technical excellence and business impact. Currently targeting opportunities in the Dallas-Fort Worth area while remaining open to remote positions.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
@@ -36,7 +36,7 @@ layout: default
             <span class="cert-badge">Infrastructure as Code Expert</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Available for Mid-Level Cloud Engineering Roles | Cost Optimization & Security Focus</strong>
+            <strong>🚀 Available for Cloud Architect Roles | DFW Area & Remote | Cost Optimization & Security Focus</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -76,7 +76,7 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-focus">
-  <h2>Mid-Level Cloud Engineering Competencies</h2>
+  <h2>Cloud Architecture Competencies</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
       <h3>Cloud Cost Optimization & FinOps</h3>

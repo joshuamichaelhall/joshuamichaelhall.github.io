@@ -34,7 +34,7 @@ permalink: /certifications/
 ## Honest Certification Approach
 
 <div class="philosophy-section">
-  <p>As a former MSP owner who built a $250K business, I understand the difference between paper credentials and real expertise. I maintain exactly 5 active certifications and focus on those that directly support platform engineering with business impact. This honest approach has served me well - it's about demonstrating value, not collecting badges.</p>
+  <p>As a former MSP owner who built a successful business, I understand the difference between paper credentials and real expertise. I maintain exactly 5 active certifications and focus on those that directly support platform engineering with business impact. This honest approach has served me well - it's about demonstrating value, not collecting badges.</p>
   
   <div class="philosophy-points">
     <div class="point-item">
@@ -169,11 +169,11 @@ permalink: /certifications/
   <div class="strategy-grid">
     <div class="strategy-item">
       <h3>🎯 MSP Owner Perspective</h3>
-      <p>Built $250K business - I know which certifications actually matter to employers</p>
+      <p>Built successful business - I know which certifications actually matter to employers</p>
     </div>
     <div class="strategy-item">
       <h3>💰 Business ROI Mindset</h3>
-      <p>Every certification evaluated for impact on $150K+ career trajectory</p>
+      <p>Every certification evaluated for impact on senior career trajectory</p>
     </div>
     <div class="strategy-item">
       <h3>⏱️ Leadership Track</h3>
@@ -197,11 +197,11 @@ permalink: /certifications/
     <li>Expired certifications honestly disclosed</li>
   </ul>
   
-  <p class="credibility-note">From building a $250K MSP to platform engineering - I've learned that honest credentials combined with real business acumen creates exceptional value. This approach helps me coach others to reach $150K+ by focusing on what actually matters.</p>
+  <p class="credibility-note">From building a successful MSP to platform engineering - I've learned that honest credentials combined with real business acumen creates exceptional value. This approach helps me coach others to reach senior positions by focusing on what actually matters.</p>
 </div>
 
 <div class="cta-section">
-  <h3>Ready to Reach $150K+?</h3>
+  <h3>Ready for Senior Roles?</h3>
   <p>Stop competing with certification collectors. Learn how to position your skills strategically from someone who built a successful business. Free consultation for serious professionals.</p>
   <a href="/coaching" class="btn primary-btn">Explore Career Acceleration</a>
 </div>

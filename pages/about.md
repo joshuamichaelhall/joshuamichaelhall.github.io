@@ -7,15 +7,15 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Cloud Business Strategist transitioning to Technical Account Manager roles. Former MSP owner with unique blend of technical expertise and business acumen, focused on helping enterprises maximize their cloud investments.</p>
+  <p>Cloud Architect with unique blend of technical expertise and business acumen, focused on helping enterprises maximize their cloud investments. Former MSP owner transitioning to enterprise cloud architecture roles with specialization in cost optimization and security automation.</p>
   
-  <p><strong>Business Leadership:</strong> Built and successfully operated TimothyTek MSP ($250K revenue, 40+ clients). Led 50+ cloud migrations and digital transformations. This experience provides deep understanding of customer challenges, vendor relationships, and business value creation.</p>
+  <p><strong>Business Leadership:</strong> Built and successfully operated TimothyTek MSP serving 40+ clients. Led 50+ cloud migrations and digital transformations. This experience provides deep understanding of customer challenges, vendor relationships, and business value creation.</p>
   
   <p><strong>Technical Foundation:</strong> AWS Solutions Architect Associate (in progress), Security+ certified, completed 9 backend courses (Ruby, Python, SQL, databases, OOP) with strong software engineering foundation. Deep understanding of cloud architectures, cost optimization, and security frameworks.</p>
   
   <p><strong>Customer Success Focus:</strong> 95% client retention rate as MSP owner. Proven ability to translate complex technical concepts to business value. Expert at building trust, managing stakeholder relationships, and driving measurable outcomes.</p>
   
-  <p><strong>Seeking:</strong> Technical Account Manager roles at cloud platforms, enterprise software companies, or high-growth SaaS organizations. Particularly interested in positions where business acumen and technical depth create exceptional customer value.</p>
+  <p><strong>Seeking:</strong> Cloud Architect roles at enterprise organizations, high-growth SaaS companies, or cloud-native organizations. Particularly interested in positions in the Dallas-Fort Worth area or remote opportunities where business acumen and technical depth drive measurable cloud optimization results.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -97,7 +97,7 @@ permalink: /about/
   <div class="expertise-grid">
     <div class="expertise-item">
       <h3>MSP Founder & CEO</h3>
-      <p>Built $250K technology services company serving 40+ clients. Led digital transformations, implemented security frameworks, and achieved 95% retention.</p>
+      <p>Built successful technology services company serving 40+ clients. Led digital transformations, implemented security frameworks, and achieved 95% retention.</p>
     </div>
     <div class="expertise-item">
       <h3>Cloud Transformations</h3>
@@ -152,13 +152,13 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Contact</h3>
-      <p>Open to TAM opportunities nationwide</p>
-      <p>Remote or relocation ready</p>
+      <p>Open to Cloud Architect opportunities in DFW area</p>
+      <p>Remote positions also considered</p>
     </div>
   </div>
   
   <div class="quote">
     <p>Helping enterprises maximize cloud investments through technical expertise and business acumen.</p>
-    <div class="quote-author">— Cloud Business Strategist | Former MSP Owner | TAM Candidate</div>
+    <div class="quote-author">— Cloud Architect | Former MSP Owner | DFW Area</div>
   </div>
 </div>

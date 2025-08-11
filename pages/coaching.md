@@ -7,8 +7,8 @@ permalink: /coaching/
 # Engineering Career Acceleration
 
 <div class="coaching-hero">
-  <h2>Reach $150K+ Through Strategic Career Transformation</h2>
-  <p>Former MSP owner ($250K revenue) helping engineers accelerate their careers. Combining battle-tested business acumen with technical expertise to create unique positioning strategies that get results.</p>
+  <h2>Strategic Career Transformation</h2>
+  <p>Former MSP owner helping engineers accelerate their careers. Combining battle-tested business acumen with technical expertise to create unique positioning strategies that get results.</p>
   <div class="coaching-cta">
     <a href="#services" class="btn primary-btn">Explore Career Services</a>
     <a href="#book-consultation" class="btn secondary-btn">Free Strategy Session</a>
@@ -21,7 +21,7 @@ permalink: /coaching/
   <div class="value-item">
     <div class="value-icon">💼</div>
     <h3>Real Business Perspective</h3>
-    <p>Built $250K MSP with 40+ clients - I understand what hiring managers actually need</p>
+    <p>Built successful MSP with 40+ clients - I understand what hiring managers actually need</p>
   </div>
   <div class="value-item">
     <div class="value-icon">🎯</div>
@@ -31,7 +31,7 @@ permalink: /coaching/
   <div class="value-item">
     <div class="value-icon">🚀</div>
     <h3>Proven Results</h3>
-    <p>100% placement rate for committed mentees targeting $150K+ roles</p>
+    <p>100% placement rate for committed mentees targeting senior engineering roles</p>
   </div>
   <div class="value-item">
     <div class="value-icon">🔧</div>
@@ -46,7 +46,7 @@ permalink: /coaching/
   <div class="service-card featured">
     <h3>Career Transformation Program</h3>
     <div class="service-price">$2,997</div>
-    <p>Strategic positioning for $150K+ platform engineering roles</p>
+    <p>Strategic positioning for senior platform engineering roles</p>
     <ul>
       <li>LinkedIn optimization for multiple audiences</li>
       <li>Project portfolio development strategy</li>
@@ -66,7 +66,7 @@ permalink: /coaching/
       <li>Vendor relationship navigation</li>
       <li>Service delivery automation</li>
       <li>Exit strategy preparation</li>
-      <li>Based on real $250K MSP experience</li>
+      <li>Based on real MSP experience</li>
     </ul>
     <a href="#book-consultation" class="btn outlined-btn">Learn More</a>
   </div>
@@ -80,7 +80,7 @@ permalink: /coaching/
       <li>Project portfolio review</li>
       <li>Certification strategy alignment</li>
       <li>Interview preparation</li>
-      <li>Salary negotiation tactics</li>
+      <li>Negotiation tactics</li>
     </ul>
     <a href="#book-consultation" class="btn outlined-btn">Book Session</a>
   </div>
@@ -99,7 +99,7 @@ permalink: /coaching/
       <strong>Differentiator:</strong> P&L experience and vendor management
     </div>
     <div class="detail-item">
-      <strong>Target:</strong> $150-180K with path to leadership
+      <strong>Target:</strong> Senior role with path to leadership
     </div>
   </div>
 </div>
@@ -115,7 +115,7 @@ permalink: /coaching/
       <strong>Kubernetes:</strong> Production workflows and cost optimization
     </div>
     <div class="detail-item">
-      <strong>Cloud Architecture:</strong> Multi-region with <$100/month costs
+      <strong>Cloud Architecture:</strong> Multi-region with cost optimization
     </div>
   </div>
 </div>
@@ -124,17 +124,17 @@ permalink: /coaching/
 
 <div class="testimonials">
   <div class="testimonial">
-    <p>"Joshua's business perspective changed everything. I went from competing with every other cert collector to standing out as someone who understands ROI. Landed $165K role in 8 weeks."</p>
+    <p>"Joshua's business perspective changed everything. I went from competing with every other cert collector to standing out as someone who understands ROI. Landed senior role in 8 weeks."</p>
     <cite>- Michael T., Platform Engineer</cite>
   </div>
   
   <div class="testimonial">
-    <p>"The MSP insights were invaluable. Understanding vendor management and business operations made me stand out in interviews. Now leading a team at $185K."</p>
+    <p>"The MSP insights were invaluable. Understanding vendor management and business operations made me stand out in interviews. Now leading a team."</p>
     <cite>- Sarah L., Engineering Lead</cite>
   </div>
   
   <div class="testimonial">
-    <p>"Finally someone who gets it - it's not about collecting certs, it's about demonstrating value. Joshua's framework helped me negotiate $30K above initial offer."</p>
+    <p>"Finally someone who gets it - it's not about collecting certs, it's about demonstrating value. Joshua's framework helped me negotiate significantly above initial offer."</p>
     <cite>- James R., Senior DevOps Engineer</cite>
   </div>
 </div>
@@ -144,7 +144,7 @@ permalink: /coaching/
 <div class="resource-grid">
   <div class="resource-item">
     <h4>🚀 Career Acceleration Guide</h4>
-    <p>Strategic framework for reaching $150K+ in platform engineering</p>
+    <p>Strategic framework for reaching senior positions in platform engineering</p>
     <a href="/resources/career-guide" class="resource-link">Download Guide</a>
   </div>
   
@@ -156,7 +156,7 @@ permalink: /coaching/
   
   <div class="resource-item">
     <h4>💼 MSP Insights Report</h4>
-    <p>Lessons from building and exiting a $250K MSP - vendor tips included</p>
+    <p>Lessons from building and exiting a successful MSP - vendor tips included</p>
     <a href="/resources/msp-insights" class="resource-link">Get Report</a>
   </div>
 </div>
@@ -164,7 +164,7 @@ permalink: /coaching/
 ## Start Your Transformation {#book-consultation}
 
 <div class="consultation-section">
-  <h3>Ready to Reach $150K+?</h3>
+  <h3>Ready for Career Transformation?</h3>
   <p>Stop competing with certification collectors. Stand out with strategic positioning that combines technical excellence with business acumen.</p>
   
   <div class="booking-options">
