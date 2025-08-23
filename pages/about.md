@@ -7,15 +7,15 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Cloud Architect with unique blend of technical expertise and business acumen, focused on helping enterprises maximize their cloud investments. Former MSP owner transitioning to enterprise cloud architecture roles with specialization in cost optimization and security automation.</p>
+  <p>Business leader expanding into cloud architecture by applying proven track record of customer obsession, operational excellence, and cost optimization. Not a career changer or beginner, but experienced business leader with technical competence expanding expertise into cloud solutions.</p>
   
-  <p><strong>Business Leadership:</strong> Built and successfully operated TimothyTek MSP serving 40+ clients. Led 50+ cloud migrations and digital transformations. This experience provides deep understanding of customer challenges, vendor relationships, and business value creation.</p>
+  <p><strong>Business Leadership Foundation:</strong> Founded and scaled managed services practice generating $250K annual revenue with 100% client retention across 30+ demanding business customers. Achieved customer success through business-focused approach to technical implementations and exceptional service delivery.</p>
   
-  <p><strong>Technical Foundation:</strong> AWS Solutions Architect Associate (in progress), Security+ certified, completed 9 backend courses (Ruby, Python, SQL, databases, OOP) with strong software engineering foundation. Deep understanding of cloud architectures, cost optimization, and security frameworks.</p>
+  <p><strong>Technical Competence:</strong> AWS Solutions Architect certified with systematic problem-solving methodology from Launch School engineering foundation. Combining business judgment with technical expertise to deliver cloud solutions that achieve both technical functionality and measurable business outcomes.</p>
   
-  <p><strong>Customer Success Focus:</strong> 95% client retention rate as MSP owner. Proven ability to translate complex technical concepts to business value. Expert at building trust, managing stakeholder relationships, and driving measurable outcomes.</p>
+  <p><strong>Customer Success Excellence:</strong> 100% client retention demonstrates proven customer obsession capability. Expert at translating technical implementations to business value, managing complex stakeholder relationships, and delivering operational excellence with measurable performance standards.</p>
   
-  <p><strong>Seeking:</strong> Cloud Architect roles at enterprise organizations, high-growth SaaS companies, or cloud-native organizations. Particularly interested in positions in the Dallas-Fort Worth area or remote opportunities where business acumen and technical depth drive measurable cloud optimization results.</p>
+  <p><strong>Seeking:</strong> Associate-level cloud roles where business leadership background provides competitive advantage and positions for rapid advancement. Targeting customer success, technical account management, and operations excellence roles at Fortune 500 companies and high-growth technology firms.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -27,22 +27,22 @@ permalink: /about/
       <div class="cert-category">
         <h4>Business Leadership</h4>
         <ul class="cert-list">
-          <li><strong>P&L Management</strong> - Built profitable MSP from zero</li>
-          <li><strong>Strategic Planning</strong> - Business transformation expertise</li>
-          <li><strong>Vendor Management</strong> - Strategic partnership development</li>
-          <li><strong>Team Leadership</strong> - Hired and developed technical teams</li>
-          <li><strong>Financial Analysis</strong> - ROI modeling and TCO calculations</li>
+          <li><strong>P&L Management</strong> - Generated $250K annual revenue with consistent profitability</li>
+          <li><strong>Customer Success</strong> - Achieved 100% client retention through customer obsession</li>
+          <li><strong>Operational Excellence</strong> - Service delivery standards and performance management</li>
+          <li><strong>Team Leadership</strong> - Hired, trained, and led technical professionals</li>
+          <li><strong>Executive Communication</strong> - Seminary training and stakeholder management expertise</li>
         </ul>
       </div>
       
       <div class="cert-category">
         <h4>Technical Expertise</h4>
         <ul class="cert-list">
-          <li><strong>Cloud Architecture</strong> - AWS, Azure, hybrid environments</li>
-          <li><strong>Security Frameworks</strong> - Compliance and risk mitigation</li>
-          <li><strong>Cost Optimization</strong> - Saved clients 30%+ on cloud spend</li>
-          <li><strong>Migration Planning</strong> - 50+ successful transformations</li>
-          <li><strong>Infrastructure Design</strong> - Enterprise-grade solutions</li>
+          <li><strong>AWS Cloud Architecture</strong> - Solutions Architect certified with business-focused approach</li>
+          <li><strong>Systematic Problem-Solving</strong> - Launch School engineering methodology</li>
+          <li><strong>Cost-Conscious Implementation</strong> - Business judgment in technical decisions</li>
+          <li><strong>Service Delivery Excellence</strong> - Operational reliability and performance standards</li>
+          <li><strong>Business Value Focus</strong> - Technical solutions that achieve measurable outcomes</li>
         </ul>
       </div>
       

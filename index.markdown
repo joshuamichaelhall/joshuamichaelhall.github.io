@@ -10,33 +10,33 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Architect | AWS Certified | FinOps & Security Focus | Infrastructure as Code Expert</h2>
-        <h3 class="hero-tagline">Cloud Cost Optimization Specialist | Security Automation | Saving Companies Millions</h3>
-        <p>Cloud Architect specializing in cost optimization and security automation. AWS Solutions Architect certified with proven track record of reducing cloud costs by 20-30% while enhancing security posture. Expert in serverless architectures, Infrastructure as Code (Terraform/CloudFormation), and multi-cloud cost management. Former MSP Founder who understands both technical excellence and business impact. Currently targeting opportunities in the Dallas-Fort Worth area while remaining open to remote positions.</p>
+        <h2>Business Leader | Expanding into AWS Cloud Architecture | Customer Success & Operational Excellence</h2>
+        <h3 class="hero-tagline">Applying Proven Business Leadership to Cloud Solutions That Deliver Measurable Outcomes</h3>
+        <p>Business leader expanding into cloud architecture by applying proven track record of customer obsession and operational excellence. Founded and scaled MSP to 30+ clients with 100% retention through business-focused approach to technical implementations. AWS Solutions Architect certified with systematic problem-solving methodology, specializing in customer success, cost optimization, and operational reliability. Targeting associate-level cloud roles with advancement potential.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
             <div class="cert-stat">
-              <span class="cert-number">MSP</span>
-              <span class="cert-label">Founded & Operated</span>
+              <span class="cert-number">$250K</span>
+              <span class="cert-label">MSP Annual Revenue</span>
             </div>
             <div class="cert-stat">
               <span class="cert-number">100%</span>
-              <span class="cert-label">Client Satisfaction</span>
+              <span class="cert-label">Client Retention</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">20-30%</span>
-              <span class="cert-label">Avg Cost Reduction</span>
+              <span class="cert-number">P&L</span>
+              <span class="cert-label">Management Experience</span>
             </div>
           </div>
           <div class="featured-certs">
+            <span class="cert-badge">Business Leadership</span>
             <span class="cert-badge">AWS Solutions Architect</span>
-            <span class="cert-badge">Security+ Certified</span>
-            <span class="cert-badge">FinOps Practitioner</span>
-            <span class="cert-badge">Infrastructure as Code Expert</span>
+            <span class="cert-badge">Customer Success Expert</span>
+            <span class="cert-badge">Operational Excellence</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Available for Cloud Architect Roles | DFW Area & Remote | Cost Optimization & Security Focus</strong>
+            <strong>🚀 Seeking Associate-Level Cloud Roles | Customer Success & Technical Account Management | $95-110K Target</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -50,27 +50,27 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-achievements">
-  <h2>Cloud Engineering Expertise: Cost Optimization & Security Automation</h2>
+  <h2>Business Leadership Foundation Applied to Cloud Solutions</h2>
   <div class="impact-metrics">
     <div class="metric-card">
       <div class="metric-value">Business</div>
-      <div class="metric-label">P&L Management</div>
-      <div class="metric-detail">FinOps certified with proven ROI tracking and cost attribution expertise</div>
-    </div>
-    <div class="metric-card">
-      <div class="metric-value">Technical</div>
-      <div class="metric-label">Cloud Expertise</div>
-      <div class="metric-detail">AWS certified, multi-cloud experience, IaC automation specialist</div>
+      <div class="metric-label">Leadership Track Record</div>
+      <div class="metric-detail">Founded and scaled MSP generating $250K revenue with 100% client retention</div>
     </div>
     <div class="metric-card">
       <div class="metric-value">Customer</div>
-      <div class="metric-label">Success Focus</div>
-      <div class="metric-detail">Implemented automated security compliance saving 80% audit time</div>
+      <div class="metric-label">Success Excellence</div>
+      <div class="metric-detail">30+ demanding business clients served with operational excellence and reliability</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">Results</div>
-      <div class="metric-label">ROI Driven</div>
-      <div class="metric-detail">Significant documented cloud savings across multiple organizations</div>
+      <div class="metric-value">Technical</div>
+      <div class="metric-label">Cloud Competence</div>
+      <div class="metric-detail">AWS certified with systematic problem-solving methodology and business judgment</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-value">Communication</div>
+      <div class="metric-label">Executive Engagement</div>
+      <div class="metric-detail">Seminary training providing advanced presentation and stakeholder management skills</div>
     </div>
   </div>
 </div>
