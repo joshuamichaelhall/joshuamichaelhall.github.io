@@ -17,8 +17,8 @@ layout: default
           <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
           <div class="cert-stats">
             <div class="cert-stat">
-              <span class="cert-number">$250K</span>
-              <span class="cert-label">MSP Annual Revenue</span>
+              <span class="cert-number">MSP</span>
+              <span class="cert-label">Founded & Operated</span>
             </div>
             <div class="cert-stat">
               <span class="cert-number">100%</span>
@@ -36,7 +36,7 @@ layout: default
             <span class="cert-badge">Operational Excellence</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Seeking Associate-Level Cloud Roles | Customer Success & Technical Account Management | $95-110K Target</strong>
+            <strong>🚀 Seeking Associate-Level Cloud Roles | Customer Success & Technical Account Management | Competitive Compensation</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -55,7 +55,7 @@ layout: default
     <div class="metric-card">
       <div class="metric-value">Business</div>
       <div class="metric-label">Leadership Track Record</div>
-      <div class="metric-detail">Founded and scaled MSP generating $250K revenue with 100% client retention</div>
+      <div class="metric-detail">Founded and scaled MSP with 100% client retention across 30+ demanding business clients</div>
     </div>
     <div class="metric-card">
       <div class="metric-value">Customer</div>

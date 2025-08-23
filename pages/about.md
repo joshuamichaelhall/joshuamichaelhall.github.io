@@ -9,7 +9,7 @@ permalink: /about/
 <div class="content-section with-divider">
   <p>Business leader expanding into cloud architecture by applying proven track record of customer obsession, operational excellence, and cost optimization. Not a career changer or beginner, but experienced business leader with technical competence expanding expertise into cloud solutions.</p>
   
-  <p><strong>Business Leadership Foundation:</strong> Founded and scaled managed services practice generating $250K annual revenue with 100% client retention across 30+ demanding business customers. Achieved customer success through business-focused approach to technical implementations and exceptional service delivery.</p>
+  <p><strong>Business Leadership Foundation:</strong> Founded and scaled managed services practice with 100% client retention across 30+ demanding business customers. Achieved customer success through business-focused approach to technical implementations and exceptional service delivery.</p>
   
   <p><strong>Technical Competence:</strong> AWS Solutions Architect certified with systematic problem-solving methodology from Launch School engineering foundation. Combining business judgment with technical expertise to deliver cloud solutions that achieve both technical functionality and measurable business outcomes.</p>
   
@@ -27,7 +27,7 @@ permalink: /about/
       <div class="cert-category">
         <h4>Business Leadership</h4>
         <ul class="cert-list">
-          <li><strong>P&L Management</strong> - Generated $250K annual revenue with consistent profitability</li>
+          <li><strong>P&L Management</strong> - Built profitable MSP with full business responsibility</li>
           <li><strong>Customer Success</strong> - Achieved 100% client retention through customer obsession</li>
           <li><strong>Operational Excellence</strong> - Service delivery standards and performance management</li>
           <li><strong>Team Leadership</strong> - Hired, trained, and led technical professionals</li>
