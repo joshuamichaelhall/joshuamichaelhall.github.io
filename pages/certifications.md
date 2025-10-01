@@ -34,7 +34,7 @@ permalink: /certifications/
 ## Honest Certification Approach
 
 <div class="philosophy-section">
-  <p>As a former MSP owner who built a successful business, I understand the difference between paper credentials and real expertise. I maintain exactly 5 active certifications and focus on those that directly support platform engineering with business impact. This honest approach has served me well - it's about demonstrating value, not collecting badges.</p>
+  <p>As a former MSP owner who built a successful business, I understand the difference between paper credentials and real expertise. I maintain exactly 5 active certifications and focus on those that directly support cloud architecture with business impact. My Launch School backend engineering completion demonstrates mastery-based learning (80%+ required to advance), not superficial completion.</p>
   
   <div class="philosophy-points">
     <div class="point-item">
@@ -132,9 +132,9 @@ permalink: /certifications/
       <div class="timeline-content">
         <h4>Primary Focus: Kubernetes</h4>
         <ul>
-          <li><strong>Certified Kubernetes Administrator (CKA)</strong> - Target: March 2025</li>
-          <li>Daily study routine with hands-on labs</li>
-          <li>Building practice clusters and real projects</li>
+          <li><strong>AWS Solutions Architect Associate</strong> - Primary focus</li>
+          <li>Daily study routine with hands-on labs and practice tests</li>
+          <li>Building practical cloud projects including Cloud Resume Challenge</li>
         </ul>
       </div>
     </div>
@@ -144,8 +144,8 @@ permalink: /certifications/
       <div class="timeline-content">
         <h4>Secondary Goals</h4>
         <ul>
-          <li><strong>AWS Solutions Architect Associate</strong> - After CKA completion</li>
-          <li><strong>CompTIA Security+ Renewal</strong> - For security-focused roles</li>
+          <li><strong>CompTIA Security+</strong> - Renewal for federal contractor opportunities</li>
+          <li><strong>Additional AWS certifications</strong> - Based on role requirements</li>
         </ul>
       </div>
     </div>
@@ -180,8 +180,8 @@ permalink: /certifications/
       <p>Positioning for platform engineering with path to management</p>
     </div>
     <div class="strategy-item">
-      <h3>🚀 3+ Hours Daily</h3>
-      <p>Kubernetes mastery through disciplined practice, not just videos</p>
+      <h3>🚀 25 Hours Weekly</h3>
+      <p>AWS mastery through systematic study plan with practical application</p>
     </div>
   </div>
 </div>
@@ -191,10 +191,10 @@ permalink: /certifications/
 <div class="verification-section">
   <p><strong>Current Status (Fully Verifiable):</strong></p>
   <ul>
-    <li>5 active certifications visible on <a href="https://www.credly.com/users/joshuamichaelhall">Credly profile</a></li>
-    <li>CompTIA certifications verifiable through CompTIA's verification system</li>
+    <li>5 active certifications visible on Credly profile</li>
+    <li>CompTIA certifications verifiable through CompTIA verification system</li>
     <li>Google certifications backed by completion certificates</li>
-    <li>Expired certifications honestly disclosed</li>
+    <li>Expired certifications honestly disclosed without false claims</li>
   </ul>
   
   <p class="credibility-note">From building a successful MSP to platform engineering - I've learned that honest credentials combined with real business acumen creates exceptional value. This approach helps me coach others to reach senior positions by focusing on what actually matters.</p>

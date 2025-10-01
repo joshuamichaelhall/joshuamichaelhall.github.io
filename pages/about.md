@@ -7,15 +7,15 @@ permalink: /about/
 # About Me
 
 <div class="content-section with-divider">
-  <p>Business leader expanding into cloud architecture by applying proven track record of customer obsession, operational excellence, and cost optimization. Not a career changer or beginner, but experienced business leader with technical competence expanding expertise into cloud solutions.</p>
-  
-  <p><strong>Business Leadership Foundation:</strong> Founded and scaled managed services practice with 100% client retention across 30+ demanding business customers. Achieved customer success through business-focused approach to technical implementations and exceptional service delivery.</p>
-  
-  <p><strong>Technical Competence:</strong> AWS Solutions Architect certified with systematic problem-solving methodology from Launch School engineering foundation. Combining business judgment with technical expertise to deliver cloud solutions that achieve both technical functionality and measurable business outcomes.</p>
-  
-  <p><strong>Customer Success Excellence:</strong> 100% client retention demonstrates proven customer obsession capability. Expert at translating technical implementations to business value, managing complex stakeholder relationships, and delivering operational excellence with measurable performance standards.</p>
-  
-  <p><strong>Seeking:</strong> Associate-level cloud roles where business leadership background provides competitive advantage and positions for rapid advancement. Targeting customer success, technical account management, and operations excellence roles at Fortune 500 companies and high-growth technology firms.</p>
+  <p>Accomplished business leader expanding into cloud architecture by applying proven track record of customer obsession, operational excellence, and technical competence. Former MSP founder with deep understanding of enterprise IT challenges now pursuing cloud infrastructure expertise.</p>
+
+  <p><strong>Business Leadership Foundation:</strong> Founded and scaled TimothyTek managed services practice from startup to $250K annual revenue with 100% client satisfaction across 30+ demanding business customers. Successfully navigated strategic exit while protecting all client relationships and maintaining professional integrity.</p>
+
+  <p><strong>Technical Competence:</strong> Currently pursuing AWS Solutions Architect certification with systematic problem-solving methodology from Launch School backend engineering foundation. Building hands-on cloud expertise through practical projects including Cloud Resume Challenge and serverless application development.</p>
+
+  <p><strong>Customer Success Excellence:</strong> Managed heterogeneous environments (Linux, Windows, macOS) across 20+ client sites with zero security breaches. Expert at translating technical implementations to business value, managing complex stakeholder relationships, and delivering operational excellence.</p>
+
+  <p><strong>Seeking:</strong> Associate-level cloud infrastructure or solutions architect opportunities where business leadership background provides competitive advantage. Open to remote positions and relocating to Dallas-Fort Worth area for the right opportunity.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -38,7 +38,7 @@ permalink: /about/
       <div class="cert-category">
         <h4>Technical Expertise</h4>
         <ul class="cert-list">
-          <li><strong>AWS Cloud Architecture</strong> - Solutions Architect certified with business-focused approach</li>
+          <li><strong>AWS Cloud Architecture</strong> - Pursuing Solutions Architect certification with business-focused approach</li>
           <li><strong>Systematic Problem-Solving</strong> - Launch School engineering methodology</li>
           <li><strong>Cost-Conscious Implementation</strong> - Business judgment in technical decisions</li>
           <li><strong>Service Delivery Excellence</strong> - Operational reliability and performance standards</li>
@@ -61,10 +61,11 @@ permalink: /about/
     
     <h3>Certifications & Education</h3>
     <ul class="cert-list in-progress">
-      <li><strong>AWS Solutions Architect Associate</strong> - In progress (February 2025)</li>
-      <li><strong>CompTIA Security+</strong> - Renewing (March 2025)</li>
-      <li><strong>Backend Programming Courses</strong> - 9 courses (Ruby, Python, SQL, databases, OOP) software engineering foundation (2024)</li>
-      <li><strong>Google Project Management</strong> - Modern PM practices (2023)</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - In progress</li>
+      <li><strong>CompTIA Security+</strong> - Planning renewal</li>
+      <li><strong>Launch School Backend Software Engineering</strong> - Completed 8 rigorous courses (Nov 2023 - Apr 2025)</li>
+      <li><strong>Google Project Management Certificate</strong> - Completed (2023)</li>
+      <li><strong>Google AI Essentials</strong> - Completed (2024)</li>
       <li><strong>Master of Divinity</strong> - Advanced communication and leadership (2013)</li>
     </ul>
   </div>
@@ -83,11 +84,11 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Customer Success</h3>
-      <p>Track record of 95% retention through exceptional service delivery. Expert at building trust and managing complex relationships.</p>
+      <p>Track record of 100% client satisfaction through exceptional service delivery. Expert at building trust and managing complex relationships.</p>
     </div>
     <div class="expertise-item">
       <h3>Industry Knowledge</h3>
-      <p>Deep understanding of MSP operations, enterprise IT challenges, and cloud transformation journeys from both vendor and customer perspectives.</p>
+      <p>Deep understanding of MSP operations, SMB IT challenges, and cloud transformation needs from business owner and technical implementer perspectives.</p>
     </div>
   </div>
 </div>
@@ -97,11 +98,11 @@ permalink: /about/
   <div class="expertise-grid">
     <div class="expertise-item">
       <h3>MSP Founder & CEO</h3>
-      <p>Built successful technology services company serving 40+ clients. Led digital transformations, implemented security frameworks, and achieved 95% retention.</p>
+      <p>Built successful technology services company serving 30+ SMB clients. Implemented security frameworks, managed complex technical environments, and achieved 100% client satisfaction.</p>
     </div>
     <div class="expertise-item">
       <h3>Cloud Transformations</h3>
-      <p>Led 50+ cloud migrations saving clients average of 30% on IT costs. Designed disaster recovery solutions with 99.9% uptime.</p>
+      <p>Managed comprehensive IT infrastructure including network design, security implementation, and system integrations. Maintained zero security breaches across all client environments.</p>
     </div>
     <div class="expertise-item">
       <h3>Enterprise Leadership</h3>
@@ -109,7 +110,7 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Strategic Consulting</h3>
-      <p>Provide cloud strategy consulting to regional businesses. Focus on cost optimization, security improvements, and digital transformation.</p>
+      <p>Current consulting work includes IT infrastructure assessment and technology strategy development while building cloud architecture expertise through hands-on projects.</p>
     </div>
   </div>
 </div>
