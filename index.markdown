@@ -11,29 +11,29 @@ layout: default
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
         <h2>Cloud Security Engineer | AWS Certified | Defense Contractor Ready</h2>
-        <h3 class="hero-tagline">Zero-Breach Track Record • Clearance Eligible • Federal Cloud Security Focus</h3>
-        <p>Cloud Security Engineer with proven zero-breach track record from MSP operations serving 30+ clients. AWS Solutions Architect Associate certified with Security+ completing Nov 22, 2025. Specializing in federal cloud security, RMF controls, and defense contractor requirements. Seeking immediate Cloud Security Engineer roles in Huntsville, Dallas, Colorado Springs, or San Antonio with clearance sponsorship.</p>
+        <h3 class="hero-tagline">The One They Call When Others Failed • Zero Breaches After Implementation • RMF Controls in Practice</h3>
+        <p>Cloud Security Engineer who gets called after other providers fail. Fixed ransomware, copyright violations, and active compromises across 30+ clients - then maintained zero breaches through proper controls. Real-world experience implementing what becomes NIST 800-53 controls. AWS Solutions Architect Associate certified with Security+ completing Nov 22, 2025. Seeking Cloud Security Engineer roles with defense contractors requiring proven incident response expertise.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Defense Contractor Qualifications</h4>
           <div class="cert-stats">
             <div class="cert-stat">
+              <span class="cert-number">100%</span>
+              <span class="cert-label">Called After Others Failed</span>
+            </div>
+            <div class="cert-stat">
               <span class="cert-number">Zero</span>
-              <span class="cert-label">Security Breaches</span>
+              <span class="cert-label">Breaches Post-Implementation</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">30+</span>
-              <span class="cert-label">Clients Secured</span>
-            </div>
-            <div class="cert-stat">
-              <span class="cert-number">HIPAA</span>
-              <span class="cert-label">→ Federal Compliance</span>
+              <span class="cert-number">PCI/HIPAA</span>
+              <span class="cert-label">→ NIST 800-53 Controls</span>
             </div>
           </div>
           <div class="featured-certs">
+            <span class="cert-badge">Incident Response Expert</span>
             <span class="cert-badge">AWS Solutions Architect</span>
             <span class="cert-badge">Security+ (Nov 22)</span>
-            <span class="cert-badge">Clearance Eligible</span>
-            <span class="cert-badge">Zero Breaches</span>
+            <span class="cert-badge">Cleared After Others Failed</span>
           </div>
           <div class="availability-notice">
             <strong>🚀 Seeking Cloud Security Engineer Roles | Defense Contractors | $95-120K + Clearance Sponsorship</strong>
@@ -50,27 +50,27 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-achievements">
-  <h2>Cloud Security Engineering Credentials for Defense Contractors</h2>
+  <h2>Real Security Incident Response - When Others Failed</h2>
   <div class="impact-metrics">
     <div class="metric-card">
-      <div class="metric-value">Security</div>
-      <div class="metric-label">Zero Breach Record</div>
-      <div class="metric-detail">Founded and operated MSP with zero security breaches across 30+ clients over multiple years</div>
+      <div class="metric-value">Ransomware</div>
+      <div class="metric-label">Multiple Recoveries</div>
+      <div class="metric-detail">Fixed multiple ransomware infections for clients who refused proper security - then zero incidents after implementing full controls</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">Incident</div>
-      <div class="metric-label">Response Expert</div>
-      <div class="metric-detail">Resolved complex security incidents that other providers couldn't handle for critical clients</div>
+      <div class="metric-value">Copyright</div>
+      <div class="metric-label">Violation Crisis</div>
+      <div class="metric-detail">Saved client from ISP service termination by stopping neighbor's piracy through their unsecured WiFi - implemented proper network segmentation</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">Compliance</div>
-      <div class="metric-label">HIPAA → Federal</div>
-      <div class="metric-detail">Deep HIPAA compliance experience translating directly to NIST and FedRAMP frameworks</div>
+      <div class="metric-value">Active</div>
+      <div class="metric-label">Compromise Response</div>
+      <div class="metric-detail">Stopped live attack where mouse was moving by itself - found 30 employees sharing 2 RDP passwords written on sticky notes</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">Clearance</div>
-      <div class="metric-label">Sponsorship Ready</div>
-      <div class="metric-detail">Clearance eligible with clean background, targeting defense contractor positions</div>
+      <div class="metric-value">NIST</div>
+      <div class="metric-label">Controls in Practice</div>
+      <div class="metric-detail">Implemented what became AC-2, IA-5, SC-7, SI-2 controls before knowing their NIST numbers - now mapping to RMF</div>
     </div>
   </div>
 </div>

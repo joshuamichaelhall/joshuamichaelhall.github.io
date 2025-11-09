@@ -18,41 +18,41 @@ categories:
         level: 85
         description: "Real-world security incident resolution from MSP operations"
 
-  - name: "Security Operations & Incident Response"
+  - name: "Crisis Response & Incident Resolution"
     skills:
-      - name: "Zero-Breach Operations"
+      - name: "Active Compromise Response"
+        level: 95
+        description: "Stopped live attacks including mouse control, copyright violations, ransomware"
+      - name: "Post-Breach Recovery"
         level: 90
-        description: "30+ MSP clients with zero security breaches over multiple years"
-      - name: "Threat Detection"
-        level: 80
-        description: "Proactive monitoring, SIEM tools, log analysis and investigation"
-      - name: "Incident Containment"
+        description: "Called after other providers failed - 100% success rate in cleaning compromised environments"
+      - name: "Ransomware Recovery"
         level: 85
-        description: "Resolved complex incidents other providers couldn't handle"
-      - name: "Vulnerability Management"
-        level: 80
-        description: "Scanning, assessment, patch management across mixed environments"
-      - name: "Forensics & Investigation"
-        level: 75
-        description: "Security incident analysis, evidence collection, root cause analysis"
+        description: "Multiple successful recoveries, then zero reoccurrence with proper controls"
+      - name: "Network Compromise Cleanup"
+        level: 90
+        description: "Total infrastructure rebuilds after complete compromise - accounting firms, manufacturers"
+      - name: "Crisis Pattern Recognition"
+        level: 95
+        description: "Identified that 100% of clients came already compromised - became 'last resort' MSP"
 
-  - name: "Federal Cloud Security & Compliance"
+  - name: "NIST 800-53 Controls - Implemented in Practice"
     skills:
-      - name: "HIPAA to Federal Translation"
+      - name: "AC-2 Account Management"
+        level: 95
+        description: "Fixed 30 employees sharing 2 accounts - implemented individual access controls"
+      - name: "IA-5 Authenticator Management"
+        level: 90
+        description: "Eliminated passwords on sticky notes - implemented strong auth with MFA"
+      - name: "SC-7 Boundary Protection"
+        level: 90
+        description: "Stopped copyright violations - implemented network segmentation and guest isolation"
+      - name: "SI-2 Flaw Remediation"
         level: 85
-        description: "Deep HIPAA compliance experience translating to NIST/FedRAMP"
-      - name: "RMF Controls Implementation"
-        level: 70
-        description: "Building Federal Cloud Resume with Risk Management Framework controls"
-      - name: "Security Baseline Enforcement"
+        description: "Cleaned infected networks - implemented automated patching and vulnerability management"
+      - name: "PCI/HIPAA to RMF Translation"
         level: 80
-        description: "Infrastructure hardening, configuration management, compliance automation"
-      - name: "Defense Contractor Requirements"
-        level: 75
-        description: "Understanding DoD security requirements, clearance processes"
-      - name: "Federal Cloud Automation"
-        level: 70
-        description: "Compliance monitoring, security automation for federal environments"
+        description: "Retail, restaurant, healthcare compliance directly applicable to federal frameworks"
 
   - name: "Infrastructure & Systems Security"
     skills:

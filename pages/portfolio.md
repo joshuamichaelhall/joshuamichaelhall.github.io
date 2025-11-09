@@ -12,36 +12,57 @@ permalink: /portfolio/
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
-      <h3>Zero-Breach Security Operations</h3>
+      <h3>Real Security Incident Response - Called When Others Failed</h3>
 
       <div class="project-card featured">
         <div class="project-header">
-          <h2>MSP Security Operations - Zero Breach Track Record</h2>
+          <h2>Critical Security Incident Resolution</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">2020-2023 - 30+ Clients, Zero Security Breaches</div>
+          <div class="project-status">2020-2023 - The MSP Called After Others Failed</div>
         </div>
         <div class="project-content-section">
           <div class="project-description">
-            <p>Founded and operated MSP with perfect security record across 30+ clients over multiple years. Resolved complex security incidents that other providers couldn't handle. Implemented comprehensive security monitoring and incident response procedures.</p>
-            <p><strong>Security Achievements:</strong></p>
+            <p><strong>The Pattern:</strong> Nearly every client came to us already compromised, already breached, or one click away from disaster. Other providers had failed. We got the calls when businesses faced imminent shutdown from security failures.</p>
+            
+            <p><strong>Critical Incident #1: Copyright Violation Crisis</strong></p>
             <ul>
-              <li>Zero security breaches across all 30+ managed client environments</li>
-              <li>Resolved complex security incidents other MSPs abandoned</li>
-              <li>Implemented proactive monitoring reducing incidents by 90%</li>
-              <li>Built comprehensive incident response and documentation procedures</li>
-              <li>Maintained HIPAA compliance for healthcare clients</li>
+              <li><strong>The Crisis:</strong> ISP threatening service termination for repeated copyright violations</li>
+              <li><strong>Discovery:</strong> Neighbor using client's unsecured WiFi for BitTorrent piracy downloads</li>
+              <li><strong>NIST Mapping:</strong> SC-7 (Boundary Protection) - No network segmentation or guest isolation</li>
+              <li><strong>Solution:</strong> WatchGuard firewall, separate Guest VLAN, bandwidth controls, network isolation</li>
+              <li><strong>Result:</strong> Business saved from internet service termination, no further violations</li>
             </ul>
-            <p><strong>Technical Security Implementation:</strong></p>
+
+            <p><strong>Critical Incident #2: Active Compromise - Mouse Moving by Itself</strong></p>
             <ul>
-              <li>Managed heterogeneous security across Linux, Windows, macOS environments</li>
-              <li>Implemented enterprise-grade firewalls and network security</li>
-              <li>Deployed SIEM tools, monitoring, and automated alerting</li>
-              <li>Vulnerability management, patch management, and compliance automation</li>
-              <li>Created security baselines and hardening procedures</li>
+              <li><strong>The Crisis:</strong> Business owner's computer actively controlled by unknown attacker</li>
+              <li><strong>Discovery:</strong> 30 employees sharing 2 RDP accounts, password on sticky note on wall</li>
+              <li><strong>NIST Mapping:</strong> AC-2 (Account Management), IA-5 (Authenticator Management)</li>
+              <li><strong>Solution:</strong> Complete infrastructure rebuild, individual accounts, MFA, network segmentation</li>
+              <li><strong>Result:</strong> Zero security incidents post-implementation</li>
             </ul>
+
+            <p><strong>Critical Incident #3: Accounting Firm Total Compromise</strong></p>
+            <ul>
+              <li><strong>The Crisis:</strong> Previous provider removed firewall, extensive malware across network</li>
+              <li><strong>Discovery:</strong> No antivirus, no patching, financial data completely exposed</li>
+              <li><strong>NIST Mapping:</strong> SI-2 (Flaw Remediation), CM-6 (Configuration Settings)</li>
+              <li><strong>Solution:</strong> Network firewall, RMM deployment, SOC integration, automated patching</li>
+              <li><strong>Result:</strong> Clean network, maintained compliance, zero incidents since</li>
+            </ul>
+
+            <p><strong>The Zero-Breach Achievement:</strong></p>
+            <ul>
+              <li>100% of new clients came to us already compromised or vulnerable</li>
+              <li>Fixed ransomware, copyright violations, active compromises, and malware infestations</li>
+              <li>Implemented comprehensive security controls that prevented all future incidents</li>
+              <li>Zero successful breaches across 30+ production environments after implementation</li>
+              <li>Maintained PCI compliance for retail/restaurant clients, HIPAA readiness for healthcare</li>
+            </ul>
+
             <p class="technologies">
-              <strong>Security Technologies:</strong> SonicWall/WatchGuard firewalls, VMware security, Office 365 security, 3CX VoIP security, Datto RMM monitoring, SIEM tools
+              <strong>Crisis Technologies:</strong> WatchGuard/SonicWall firewalls, Datto RMM, SOC monitoring, VMware security, Office 365 security, MFA implementation, network segmentation
             </p>
           </div>
         </div>
