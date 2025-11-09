@@ -4,113 +4,113 @@ title: About
 permalink: /about/
 ---
 
-# Cloud Engineer | AWS Certified | Cost & Security Optimization Specialist
+# Cloud Security Engineer | Defense Contractor Ready | Zero-Breach Track Record
 
 ## Professional Summary
 
-I'm a Cloud Engineer building expertise through an Elite 4-Certification strategy, combining systematic technical development with business understanding from my background as an MSP founder. My focus on cost optimization and security within cloud infrastructure leverages practical experience managing enterprise systems and a strong programming foundation.
+Cloud Security Engineer with proven zero-breach track record from MSP operations serving 30+ clients. AWS Solutions Architect Associate certified with Security+ completing Nov 22, 2025. Specializing in federal cloud security, incident response, and defense contractor requirements. Seeking Cloud Security Engineer roles in Huntsville, Dallas, Colorado Springs, or San Antonio with clearance sponsorship opportunities.
 
-## Cloud Engineering Experience
+## Cloud Security Engineering Experience
 
-### Technical Achievements
-- Built cloud infrastructure solutions with automated cost monitoring and optimization
-- Implemented security automation and compliance workflows
-- Developed serverless CI/CD pipelines with automated testing and deployment
-- Created Infrastructure as Code frameworks for consistent, repeatable deployments
+### Security Achievements
+- Zero security breaches across 30+ MSP clients over multiple years of operations
+- Resolved complex security incidents that other providers couldn't handle
+- Implemented comprehensive security monitoring and automated threat detection
+- Built HIPAA-compliant infrastructure translating to federal compliance frameworks
 
 ### Core Competencies
-- **Cloud Architecture**: Expert in AWS services (EC2, Lambda, S3, RDS, VPC, ECS/EKS)
-- **Cost Optimization**: FinOps certified, implemented tagging strategies and reserved instance optimization
-- **AI Governance**: Automated compliance monitoring for SEC AI regulations, EU AI Act, Enterprise governance
-- **DevOps Excellence**: GitOps workflows, blue-green deployments, infrastructure automation
+- **AWS Security**: Expert in GuardDuty, Security Hub, CloudTrail, IAM, and security automation
+- **Incident Response**: Threat detection, containment, remediation, and forensic investigation
+- **Federal Compliance**: HIPAA to NIST/FedRAMP translation, RMF controls implementation
+- **Security Automation**: Infrastructure as Code with Terraform, Python security scripting
 
 ## Technical Expertise
 
-### Technical Stack
-- **Cloud Platforms**: AWS (Expert), Azure (Proficient), GCP (Familiar)
-- **Infrastructure as Code**: Terraform (Advanced), CloudFormation, Ansible, Pulumi
-- **Container Orchestration**: Kubernetes, ECS, Docker, Helm
-- **CI/CD & GitOps**: GitHub Actions, Jenkins, ArgoCD, CodePipeline
-- **Monitoring & Observability**: CloudWatch, Datadog, Prometheus/Grafana, ELK Stack
-- **Security Tools**: AWS Security Hub, GuardDuty, Vault, SIEM integration
+### Security Technology Stack
+- **Cloud Security**: AWS Security Hub, GuardDuty, CloudTrail, Config, IAM
+- **Infrastructure as Code**: Terraform (Advanced), Python security scripting
+- **Operating Systems**: Linux, Windows, macOS administration and hardening
+- **Network Security**: Firewalls, VPNs, intrusion detection, network monitoring
+- **Compliance & Monitoring**: SIEM tools, log analysis, vulnerability scanning
+- **Incident Response**: Forensic tools, threat hunting, containment procedures
 
 ### Current Certifications
-- AWS Solutions Architect Associate
-- FinOps Certified Practitioner
-- CompTIA Security+
-- Terraform Associate
-- Kubernetes Application Developer (CKAD) - In Progress
+- AWS Solutions Architect Associate (Completed Nov 2025)
+- CompTIA Security+ (Taking Nov 22, 2025)
+- AWS Security Specialty (Target: Jan 2026)
+- CompTIA Project+ (Previous)
+- CompTIA Cloud Essentials+ (Previous)
 
 ### Technical Education
-- Completed 9 backend courses (Ruby, Python, SQL, databases, OOP) - Top 10% performance
-- AWS Advanced Training - Security & Cost Optimization
-- Cloud Security Alliance - CCSK Training
+- Launch School Backend Engineering - 9 rigorous courses (mastery-based learning)
+- AWS Solutions Architect certification preparation and completion
+- Federal cloud security and RMF controls study
+- Security incident response and forensics training
 
 ## What Makes Me Different
 
-### FinOps & Cost Excellence
-As a certified FinOps practitioner, I drive cloud financial accountability through:
-- Real-time cost visibility dashboards with automated alerting
-- Automated rightsizing recommendations and optimization scripts
-- Reserved instance analysis and purchasing recommendations
-- Multi-cloud cost allocation and resource tagging strategies
-- Automated resource lifecycle management and cleanup
-- Budget monitoring and anomaly detection systems
+### Zero-Breach Security Operations
+Proven track record in real-world security management:
+- Zero security breaches across 30+ MSP clients over multiple years
+- Resolved complex security incidents that other providers couldn't handle
+- Implemented proactive monitoring reducing security incidents by 90%
+- Built comprehensive incident response procedures and documentation
+- Maintained HIPAA compliance translating directly to federal requirements
 
-### Security Automation Leadership
-Implemented enterprise-grade security solutions including:
-- Automated compliance scanning for multiple frameworks
-- Zero-trust architecture implementations
-- Security incident response automation
-- Infrastructure security hardening baselines
-- Continuous security monitoring and remediation
+### Defense Contractor Readiness
+Positioning for immediate contribution to federal projects:
+- Clearance eligible with clean background for sponsorship opportunities
+- HIPAA compliance experience translating to NIST and FedRAMP frameworks
+- Building Federal Cloud Resume with RMF controls implementation
+- Understanding of DoD security requirements and clearance processes
+- Targeting Cloud Security Engineer roles with defense contractors
 
-### Infrastructure as Code Excellence
-Delivered production-ready IaC solutions:
-- Terraform modules for consistent infrastructure provisioning
-- GitOps workflows with automated testing and validation
-- Reusable component libraries for faster deployments
-- Multi-region infrastructure patterns
-- Immutable infrastructure implementations
+### Practical Security Implementation
+Real-world experience beyond just certifications:
+- Founded and operated successful MSP with proven security track record
+- Hands-on experience with heterogeneous environments (Linux/Windows/macOS)
+- AWS security services implementation and automation
+- Infrastructure security hardening and compliance automation
+- Incident response, forensics, and threat detection capabilities
 
 ## Current Projects & Focus
 
-### Production Systems
-Actively managing and improving:
-- Multi-cloud cost optimization and monitoring platform
-- Security automation framework for continuous compliance
-- Serverless event-driven architectures
-- Container orchestration with Kubernetes and Docker
+### Federal Cloud Security Projects
+Actively building and improving:
+- Federal Cloud Resume with RMF controls implementation on AWS
+- Security automation scripts for compliance monitoring
+- AWS Security Hub integration and custom security findings
+- Terraform modules for secure infrastructure deployment
 
-### Technical Leadership
-- Contributing to open-source FinOps and security tools
-- Speaking at cloud engineering meetups
-- Mentoring junior engineers in cloud best practices
-- Publishing technical articles on cost optimization strategies
+### Professional Development
+- Preparing for AWS re:Invent Dec 1-6, 2024 (federal cloud security focus)
+- Completing CompTIA Security+ certification (Nov 22, 2025)
+- Building hands-on experience with AWS security services
+- Studying RMF controls and federal compliance requirements
 
 ## Career Goals
 
-### Immediate Goals
-- Excel in mid-level cloud engineering role focused on cost & security
-- Lead FinOps initiatives saving organizations millions annually
-- Implement security automation frameworks at enterprise scale
-- Contribute to cloud engineering community through open source
+### Immediate Target
+- Cloud Security Engineer role with defense contractor ($95-120K range)
+- Obtain security clearance through employer sponsorship
+- Apply zero-breach MSP experience to federal cloud environments
+- Contribute to critical national security and defense projects
 
-### Career Trajectory
-- Senior Cloud Engineer with FinOps/Security specialization (1-2 years)
-- Cloud Architecture Lead or Staff Engineer (3-4 years)
-- Principal Engineer or Engineering Manager (5+ years)
-- Recognized expert in cloud cost optimization and security automation
+### Professional Growth Path
+- AWS Security Specialty certification (Target: Jan 2026)
+- Senior Cloud Security Engineer with federal specialization
+- Expert in RMF controls implementation and federal compliance
+- Recognized contributor to defense contractor cloud security initiatives
 
 ## Personal Philosophy
 
-"Great cloud engineering isn't just about technical implementation - it's about delivering measurable business value through cost optimization, security enhancement, and operational excellence. Every line of code should contribute to organizational success."
+"Security isn't just about implementing tools—it's about protecting what matters most. My zero-breach track record comes from understanding that every configuration, every script, and every security control exists to safeguard critical operations and sensitive data. In federal environments, this responsibility extends to national security."
 
 ## Connect With Me
 
 - **LinkedIn**: [joshuamichaelhall](https://www.linkedin.com/in/joshuamichaelhall/)
 - **GitHub**: [joshuamichaelhall](https://github.com/joshuamichaelhall)
 - **Email**: contact@joshuamichaelhall.com
-- **Blog**: [joshuamichaelhall.com/blog](https://joshuamichaelhall.com/blog)
+- **Location**: Open to Huntsville, Dallas, Colorado Springs, San Antonio
 
-I'm passionate about connecting with cloud engineering teams, FinOps practitioners, and organizations seeking to optimize their cloud investments while maintaining robust security postures. Let's discuss how we can save money and strengthen security together.
+I'm actively seeking Cloud Security Engineer opportunities with defense contractors and federal integrators. Let's discuss how my zero-breach MSP experience can contribute to your organization's security mission while I obtain clearance sponsorship.

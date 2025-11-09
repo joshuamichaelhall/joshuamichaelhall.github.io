@@ -10,39 +10,39 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Business Leader | Expanding into AWS Cloud Architecture | Customer Success & Operational Excellence</h2>
-        <h3 class="hero-tagline">Applying Proven Business Leadership to Cloud Solutions That Deliver Measurable Outcomes</h3>
-        <p>Business leader expanding into cloud architecture by applying proven track record of customer obsession and operational excellence. Founded and scaled MSP to 30+ clients with 100% retention through business-focused approach to technical implementations. AWS Solutions Architect certified with systematic problem-solving methodology, specializing in customer success, cost optimization, and operational reliability. Targeting associate-level cloud roles with advancement potential.</p>
+        <h2>Cloud Security Engineer | AWS Certified | Defense Contractor Ready</h2>
+        <h3 class="hero-tagline">Zero-Breach Track Record • Clearance Eligible • Federal Cloud Security Focus</h3>
+        <p>Cloud Security Engineer with proven zero-breach track record from MSP operations serving 30+ clients. AWS Solutions Architect Associate certified with Security+ completing Nov 22, 2025. Specializing in federal cloud security, RMF controls, and defense contractor requirements. Seeking immediate Cloud Security Engineer roles in Huntsville, Dallas, Colorado Springs, or San Antonio with clearance sponsorship.</p>
         <div class="certification-highlight">
-          <h4><span class="cert-icon">🎯</span> Unique Qualifications</h4>
+          <h4><span class="cert-icon">🎯</span> Defense Contractor Qualifications</h4>
           <div class="cert-stats">
             <div class="cert-stat">
-              <span class="cert-number">MSP</span>
-              <span class="cert-label">Founded & Operated</span>
+              <span class="cert-number">Zero</span>
+              <span class="cert-label">Security Breaches</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">100%</span>
-              <span class="cert-label">Client Retention</span>
+              <span class="cert-number">30+</span>
+              <span class="cert-label">Clients Secured</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">P&L</span>
-              <span class="cert-label">Management Experience</span>
+              <span class="cert-number">HIPAA</span>
+              <span class="cert-label">→ Federal Compliance</span>
             </div>
           </div>
           <div class="featured-certs">
-            <span class="cert-badge">Business Leadership</span>
             <span class="cert-badge">AWS Solutions Architect</span>
-            <span class="cert-badge">Customer Success Expert</span>
-            <span class="cert-badge">Operational Excellence</span>
+            <span class="cert-badge">Security+ (Nov 22)</span>
+            <span class="cert-badge">Clearance Eligible</span>
+            <span class="cert-badge">Zero Breaches</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Seeking Associate-Level Cloud Roles | Customer Success & Technical Account Management | Competitive Compensation</strong>
+            <strong>🚀 Seeking Cloud Security Engineer Roles | Defense Contractors | $95-120K + Clearance Sponsorship</strong>
           </div>
         </div>
         <div class="hero-links">
-          <a href="/about" class="btn primary-btn cta-main-btn">Learn About My Journey</a>
+          <a href="/about" class="btn primary-btn cta-main-btn">View Security Background</a>
           <a href="https://linkedin.com/in/joshuamichaelhall" class="btn secondary-btn cta-main-btn">Connect on LinkedIn</a>
-          <a href="/contact" class="btn outlined-btn cta-main-btn">Let's Talk</a>
+          <a href="/contact" class="btn outlined-btn cta-main-btn">Discuss Opportunities</a>
         </div>
       </div>
     </div>
@@ -50,126 +50,126 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-achievements">
-  <h2>Business Leadership Foundation Applied to Cloud Solutions</h2>
+  <h2>Cloud Security Engineering Credentials for Defense Contractors</h2>
   <div class="impact-metrics">
     <div class="metric-card">
-      <div class="metric-value">Business</div>
-      <div class="metric-label">Leadership Track Record</div>
-      <div class="metric-detail">Founded and scaled MSP with 100% client retention across 30+ demanding business clients</div>
+      <div class="metric-value">Security</div>
+      <div class="metric-label">Zero Breach Record</div>
+      <div class="metric-detail">Founded and operated MSP with zero security breaches across 30+ clients over multiple years</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">Customer</div>
-      <div class="metric-label">Success Excellence</div>
-      <div class="metric-detail">30+ demanding business clients served with operational excellence and reliability</div>
+      <div class="metric-value">Incident</div>
+      <div class="metric-label">Response Expert</div>
+      <div class="metric-detail">Resolved complex security incidents that other providers couldn't handle for critical clients</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">Technical</div>
-      <div class="metric-label">Cloud Competence</div>
-      <div class="metric-detail">AWS certified with systematic problem-solving methodology and business judgment</div>
+      <div class="metric-value">Compliance</div>
+      <div class="metric-label">HIPAA → Federal</div>
+      <div class="metric-detail">Deep HIPAA compliance experience translating directly to NIST and FedRAMP frameworks</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">Communication</div>
-      <div class="metric-label">Executive Engagement</div>
-      <div class="metric-detail">Seminary training providing advanced presentation and stakeholder management skills</div>
+      <div class="metric-value">Clearance</div>
+      <div class="metric-label">Sponsorship Ready</div>
+      <div class="metric-detail">Clearance eligible with clean background, targeting defense contractor positions</div>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="technical-focus">
-  <h2>Cloud Architecture Competencies</h2>
+  <h2>Cloud Security Engineering Competencies</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>Cloud Cost Optimization & FinOps</h3>
-      <p>Certified FinOps Practitioner with expertise in multi-cloud cost management, resource optimization, and financial accountability. Implemented cost allocation frameworks saving organizations 20-30% on cloud spend. Expert in AWS Cost Explorer, CloudHealth, and custom cost dashboards. Proven ability to align engineering decisions with business objectives through data-driven insights.</p>
+      <h3>AWS Security & Compliance</h3>
+      <p>AWS Solutions Architect Associate with Security+ completing Nov 22, 2025. Hands-on experience with AWS Security Hub, GuardDuty, CloudTrail, and IAM. Building Federal Cloud Resume with RMF controls implementation. Expertise in AWS security services and compliance automation for federal environments.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Security Automation & Compliance</h3>
-      <p>Security+ certified with hands-on experience implementing automated security frameworks. Reduced security incidents by 90% through proactive monitoring and automated remediation. Expert in AWS Security Hub, GuardDuty, and custom security automation using Lambda. Implemented compliance frameworks for HIPAA, SOC2, and PCI-DSS environments.</p>
+      <h3>Security Incident Response</h3>
+      <p>Proven track record resolving complex security incidents that other providers couldn't handle. Zero-breach MSP operations across 30+ clients. Expert in threat detection, containment, and remediation. Experience with SIEM tools, log analysis, and forensic investigation techniques.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Infrastructure as Code & DevOps</h3>
-      <p>Advanced expertise in Terraform, CloudFormation, and Ansible. Implemented GitOps workflows reducing deployment time by 75%. Built reusable IaC modules for multi-environment deployments. Experience with CI/CD pipelines using GitHub Actions, Jenkins, and AWS CodePipeline.</p>
+      <h3>Infrastructure Security & Monitoring</h3>
+      <p>Advanced expertise in Terraform, Python scripting, and security automation. Implemented proactive monitoring systems reducing security incidents by 90%. Experience with vulnerability management, patch management, and security baseline enforcement across heterogeneous environments.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Multi-Cloud Architecture</h3>
-      <p>Experience designing and implementing solutions across AWS, Azure, and GCP. Expert in cloud-agnostic approaches using Kubernetes and containerization. Implemented multi-cloud disaster recovery strategies with 99.99% uptime SLAs.</p>
+      <h3>Federal Compliance & RMF</h3>
+      <p>Deep HIPAA compliance experience translating to NIST cybersecurity framework and FedRAMP. Building expertise in Risk Management Framework (RMF) controls for federal cloud environments. Understanding of FISMA, DoD security requirements, and clearance processes.</p>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="certification-journey">
-  <h2>Professional Development & Certifications</h2>
-  <p class="section-intro-text">Continuous learner transitioning from traditional IT to cloud technologies while leveraging strong business foundation.</p>
+  <h2>Cloud Security Certification Roadmap</h2>
+  <p class="section-intro-text">Targeted certification strategy focused on defense contractor requirements and federal cloud security.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
-      <h3>Cloud Certifications</h3>
+      <h3>Current Credentials</h3>
       <ul>
-        <li>AWS Solutions Architect Associate</li>
-        <li>AWS Security Specialty (In Progress)</li>
-        <li>FinOps Certified Practitioner</li>
-        <li>CompTIA Security+</li>
-        <li>Terraform Associate</li>
+        <li>AWS Solutions Architect Associate (Nov 2025)</li>
+        <li>CompTIA Security+ (Taking Nov 22, 2025)</li>
+        <li>CompTIA Project+ (Completed)</li>
+        <li>CompTIA Cloud Essentials+ (Completed)</li>
+        <li>Google Project Management Certificate</li>
       </ul>
     </div>
     <div class="roadmap-phase">
-      <h3>Technical Expertise</h3>
+      <h3>Technical Focus Areas</h3>
       <ul>
-        <li>AWS Services (EC2, Lambda, S3, RDS, VPC)</li>
-        <li>Container Orchestration (Kubernetes, ECS)</li>
-        <li>CI/CD Pipeline Design & Implementation</li>
-        <li>Monitoring & Observability (CloudWatch, Datadog)</li>
-        <li>Python, Ruby, Bash Scripting</li>
+        <li>AWS Security Services (GuardDuty, Security Hub, CloudTrail)</li>
+        <li>Terraform Infrastructure as Code</li>
+        <li>Python Security Automation</li>
+        <li>Linux/Windows/macOS Administration</li>
+        <li>Network Security & Monitoring</li>
       </ul>
     </div>
     <div class="roadmap-phase">
-      <h3>Industry Experience</h3>
+      <h3>Target Specialization</h3>
       <ul>
-        <li>Healthcare Cloud Migrations (HIPAA Compliant)</li>
-        <li>Financial Services (Security-First Architecture)</li>
-        <li>E-commerce (High-Availability Systems)</li>
-        <li>SaaS Platform Development</li>
-        <li>Enterprise Cost Optimization</li>
+        <li>AWS Security Specialty (Target: Jan 2026)</li>
+        <li>Federal Cloud Security (RMF Controls)</li>
+        <li>Defense Contractor Clearance Track</li>
+        <li>Incident Response & Forensics</li>
+        <li>Compliance Automation (NIST/FedRAMP)</li>
       </ul>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="projects">
-  <h2>Cloud Engineering Projects & Impact</h2>
-  <p class="section-intro-text">Production-ready projects demonstrating cloud engineering expertise in cost optimization and security automation.</p>
+  <h2>Security Engineering Experience & Projects</h2>
+  <p class="section-intro-text">Real-world security implementations and incident response successes from MSP operations and cloud security projects.</p>
   <div class="success-stories">
     <div class="success-story">
-      <h3>Multi-Cloud Cost Dashboard</h3>
-      <p>Built serverless cost optimization platform aggregating spend across AWS, Azure, and GCP. Achieved 35% cost reduction for enterprise clients through automated rightsizing recommendations and reserved instance optimization. Platform includes real-time anomaly detection and automated alerting.</p>
+      <h3>Zero-Breach MSP Operations</h3>
+      <p>Founded and operated MSP serving 30+ clients with zero security breaches over multiple years. Implemented comprehensive security monitoring, incident response procedures, and compliance frameworks. Resolved complex security incidents that other providers couldn't handle.</p>
     </div>
     <div class="success-story">
-      <h3>Security Automation Platform</h3>
-      <p>Developed automated security compliance platform using AWS Lambda and Step Functions. Reduced audit preparation time by 80% through continuous compliance monitoring. Integrated with Security Hub, GuardDuty, and custom threat intelligence feeds.</p>
+      <h3>Federal Cloud Resume Challenge</h3>
+      <p>Building serverless resume website on AWS with RMF security controls implementation. Demonstrates AWS security services integration, Infrastructure as Code with Terraform, and federal compliance automation. Focus on defense contractor security requirements.</p>
     </div>
     <div class="success-story">
-      <h3>Serverless CI/CD Pipeline</h3>
-      <p>Architected zero-infrastructure CI/CD solution using AWS CodePipeline, Lambda, and ECS. Reduced deployment time from hours to minutes while maintaining 99.99% success rate. Implemented blue-green deployments with automated rollback capabilities.</p>
+      <h3>Security Monitoring & Automation</h3>
+      <p>Implemented proactive security monitoring systems reducing incidents by 90% across client environments. Automated threat detection, vulnerability scanning, and compliance reporting. Expertise in SIEM tools, log analysis, and security orchestration.</p>
     </div>
   </div>
   <div class="section-link">
-    <a href="/portfolio" class="btn outlined-btn">View More Success Stories</a>
+    <a href="/portfolio" class="btn outlined-btn">View Security Portfolio</a>
   </div>
 </div>
 
 <div class="home-section no-divider" id="thought-leadership">
-  <h2>Thought Leadership & Industry Insights</h2>
-  <p class="section-intro-text">Sharing insights on cloud transformation, business value creation, and technology leadership based on real-world experience.</p>
+  <h2>Cloud Security Insights & AWS re:Invent 2024</h2>
+  <p class="section-intro-text">Sharing practical security engineering insights from MSP operations and preparing for AWS re:Invent Dec 1-6, 2024 focused on federal cloud security.</p>
   <div class="article-preview">
-    <h3>Recent Topics</h3>
+    <h3>Security Engineering Focus Areas</h3>
     <ul>
-      <li>Implementing FinOps: A Practical Guide to Cloud Cost Optimization</li>
-      <li>Security Automation: Reducing Risk While Saving Time</li>
-      <li>Infrastructure as Code: Best Practices for Multi-Cloud Environments</li>
-      <li>Serverless Architecture: When It Makes Financial Sense</li>
+      <li>Zero-Breach Operations: Lessons from MSP Security Management</li>
+      <li>HIPAA to Federal Compliance: Translating Security Frameworks</li>
+      <li>AWS Security Services: Practical Implementation for Defense Contractors</li>
+      <li>Incident Response: Resolving Complex Security Challenges</li>
     </ul>
   </div>
   <div class="section-link">
-    <a href="/blog" class="btn outlined-btn">Read Articles</a>
+    <a href="/blog" class="btn outlined-btn">Read Security Articles</a>
   </div>
 </div>
 

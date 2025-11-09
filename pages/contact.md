@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-# Let's Connect
+# Cloud Security Engineer - Ready for Defense Contractors
 
 <div class="contact-hero">
   <div class="contact-image">
@@ -15,106 +15,106 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> Platform Engineer | Kubernetes & AWS Focus | Open to Opportunities</p>
+    <p><strong>Status:</strong> Seeking Cloud Security Engineer Roles | Defense Contractors | Clearance Sponsorship</p>
   </div>
 
-  <p>Platform engineer with focus on Kubernetes, AWS, and infrastructure automation. Building production-grade systems with 3+ hours daily hands-on practice. Open to platform engineering opportunities.</p>
+  <p>Cloud Security Engineer with zero-breach MSP track record serving 30+ clients. AWS Solutions Architect Associate certified with Security+ completing Nov 22, 2025. Ready for immediate contribution to defense contractor cloud security initiatives in target locations.</p>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Current Focus Areas</h2>
+  <h2>Target Locations & Requirements</h2>
 
-  <p>Current technical focus areas and projects:</p>
+  <p>Actively seeking Cloud Security Engineer opportunities with defense contractors in these locations:</p>
 
   <ul class="interests-list">
-    <li>Kubernetes cluster management and CKA certification preparation</li>
-    <li>AWS multi-region infrastructure with Terraform</li>
-    <li>Network security implementation with pfSense</li>
-    <li>GitOps workflows with ArgoCD</li>
-    <li>Infrastructure as Code and automation</li>
-    <li>CI/CD pipeline development</li>
-    <li>Monitoring and observability stack implementation</li>
-    <li>Container orchestration and microservices</li>
+    <li><strong>Huntsville, Alabama</strong> - Ready to relocate for defense contractor opportunities</li>
+    <li><strong>Dallas, Texas</strong> - Open to DFW area positions with federal clients</li>
+    <li><strong>Colorado Springs, Colorado</strong> - Targeting aerospace and defense contractors</li>
+    <li><strong>San Antonio, Texas</strong> - Open to cybersecurity and federal IT roles</li>
+    <li><strong>Clearance Sponsorship</strong> - Clean background eligible for security clearance</li>
+    <li><strong>Salary Range</strong> - $95,000 - $120,000 with growth potential</li>
+    <li><strong>Federal Cloud Security</strong> - RMF controls and NIST framework expertise</li>
+    <li><strong>AWS re:Invent</strong> - Attending Dec 1-6, 2024 for federal security sessions</li>
   </ul>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Professional Services</h2>
+  <h2>Cloud Security Expertise</h2>
   
   <div class="services-tabs">
     <div class="tab-headers">
-      <button class="tab-button active" data-tab="infra">Infrastructure</button>
-      <button class="tab-button" data-tab="automation">Automation & DevOps</button>
-      <button class="tab-button" data-tab="cloud">Cloud Architecture</button>
-      <button class="tab-button" data-tab="consulting">Technical Consulting</button>
+      <button class="tab-button active" data-tab="security">AWS Security</button>
+      <button class="tab-button" data-tab="incident">Incident Response</button>
+      <button class="tab-button" data-tab="compliance">Federal Compliance</button>
+      <button class="tab-button" data-tab="automation">Security Automation</button>
     </div>
     
-    <div class="tab-content active" id="infra-tab">
+    <div class="tab-content active" id="security-tab">
       <div class="services-box">
-        <h3>Infrastructure Engineering Services</h3>
-        <p>Building production-grade infrastructure with focus on reliability, security, and automation. Experience with enterprise patterns and best practices.</p>
+        <h3>AWS Security Services</h3>
+        <p>AWS Solutions Architect Associate certified with hands-on experience implementing AWS security services. Focus on GuardDuty, Security Hub, CloudTrail, and IAM for comprehensive cloud security.</p>
         
-        <h4>Infrastructure Services:</h4>
+        <h4>AWS Security Capabilities:</h4>
         <ul class="service-areas">
-          <li><strong>Kubernetes Deployment</strong> - Production cluster setup and management</li>
-          <li><strong>Network Security</strong> - pfSense, VLANs, and security policies</li>
-          <li><strong>Infrastructure as Code</strong> - Terraform modules and automation</li>
-          <li><strong>Monitoring Setup</strong> - Prometheus, Grafana, and alerting</li>
-          <li><strong>CI/CD Implementation</strong> - GitHub Actions and GitOps</li>
-          <li><strong>Container Orchestration</strong> - Docker and Kubernetes workflows</li>
+          <li><strong>GuardDuty Implementation</strong> - Threat detection and automated response</li>
+          <li><strong>Security Hub Integration</strong> - Centralized security finding management</li>
+          <li><strong>CloudTrail Configuration</strong> - Comprehensive audit logging and monitoring</li>
+          <li><strong>IAM Security</strong> - Least privilege access and policy management</li>
+          <li><strong>VPC Security</strong> - Network segmentation and security group optimization</li>
+          <li><strong>Config Rules</strong> - Automated compliance checking and remediation</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="tab-content" id="incident-tab">
+      <div class="services-box">
+        <h3>Incident Response & Threat Detection</h3>
+        <p>Proven zero-breach track record from MSP operations. Real-world experience resolving complex security incidents that other providers couldn't handle. Expert in containment, investigation, and remediation.</p>
+        
+        <h4>Incident Response Capabilities:</h4>
+        <ul class="service-areas">
+          <li><strong>Threat Detection</strong> - SIEM tools, log analysis, behavioral monitoring</li>
+          <li><strong>Incident Containment</strong> - Rapid response and damage limitation</li>
+          <li><strong>Forensic Investigation</strong> - Evidence collection and root cause analysis</li>
+          <li><strong>Vulnerability Management</strong> - Scanning, assessment, remediation</li>
+          <li><strong>Security Monitoring</strong> - 24/7 monitoring and automated alerting</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="tab-content" id="compliance-tab">
+      <div class="services-box">
+        <h3>Federal Compliance & RMF Controls</h3>
+        <p>Deep HIPAA compliance experience translating to NIST and FedRAMP frameworks. Building Federal Cloud Resume with RMF controls implementation. Understanding of DoD security requirements and clearance processes.</p>
+        
+        <h4>Compliance Expertise:</h4>
+        <ul class="service-areas">
+          <li><strong>HIPAA to Federal Translation</strong> - Applying healthcare compliance to federal requirements</li>
+          <li><strong>RMF Controls Implementation</strong> - Risk Management Framework for federal clouds</li>
+          <li><strong>NIST Framework</strong> - Cybersecurity framework implementation</li>
+          <li><strong>FedRAMP Readiness</strong> - Federal cloud authorization requirements</li>
+          <li><strong>DoD Security Standards</strong> - Defense contractor security protocols</li>
         </ul>
       </div>
     </div>
     
     <div class="tab-content" id="automation-tab">
       <div class="services-box">
-        <h3>Automation & DevOps</h3>
-        <p>Implementing automation to reduce manual work and improve reliability. Focus on GitOps, CI/CD, and infrastructure automation for efficient operations.</p>
+        <h3>Security Automation & Infrastructure</h3>
+        <p>Terraform Infrastructure as Code for secure deployments. Python security scripting and automation. Focus on compliance automation and security baseline enforcement for federal environments.</p>
         
-        <h4>Automation Services:</h4>
+        <h4>Security Automation:</h4>
         <ul class="service-areas">
-          <li><strong>GitOps Workflows</strong> - ArgoCD implementation and management</li>
-          <li><strong>CI/CD Pipelines</strong> - GitHub Actions, Jenkins automation</li>
-          <li><strong>Configuration Management</strong> - Ansible playbooks and automation</li>
-          <li><strong>Infrastructure Automation</strong> - Terraform modules and provisioning</li>
-          <li><strong>Deployment Automation</strong> - Zero-downtime deployment strategies</li>
+          <li><strong>Terraform Security</strong> - Infrastructure as Code with security controls</li>
+          <li><strong>Python Security Scripts</strong> - Automated security checks and monitoring</li>
+          <li><strong>Compliance Automation</strong> - Continuous compliance monitoring</li>
+          <li><strong>Security Baselines</strong> - Automated hardening and configuration</li>
+          <li><strong>Federal Cloud Automation</strong> - RMF controls and NIST automation</li>
         </ul>
       </div>
     </div>
     
-    <div class="tab-content" id="cloud-tab">
-      <div class="services-box">
-        <h3>Cloud Architecture</h3>
-        <p>Designing and implementing cloud infrastructure on AWS with focus on scalability, security, and cost optimization. Multi-region deployments and high availability.</p>
-        
-        <h4>Cloud Services:</h4>
-        <ul class="service-areas">
-          <li><strong>AWS Architecture</strong> - VPC design, multi-region setup</li>
-          <li><strong>Cost Optimization</strong> - Right-sizing and efficient resource usage</li>
-          <li><strong>Security Implementation</strong> - IAM policies, security groups</li>
-          <li><strong>High Availability</strong> - Multi-AZ deployments, failover</li>
-          <li><strong>Serverless Solutions</strong> - Lambda functions, API Gateway</li>
-        </ul>
-      </div>
-    </div>
-    
-    <div class="tab-content" id="consulting-tab">
-      <div class="services-box">
-        <h3>Technical Consulting</h3>
-        <p>Providing technical guidance based on real-world experience. Focus on practical solutions that balance technical excellence with business needs.</p>
-        
-        <h4>Consulting Areas:</h4>
-        <ul class="service-areas">
-          <li><strong>Infrastructure Assessment</strong> - Review and optimization recommendations</li>
-          <li><strong>Technology Selection</strong> - Choosing the right tools for your needs</li>
-          <li><strong>Migration Planning</strong> - Cloud migration and modernization</li>
-          <li><strong>Security Review</strong> - Infrastructure security assessment</li>
-          <li><strong>Performance Optimization</strong> - Identifying and resolving bottlenecks</li>
-        </ul>
-      </div>
-    </div>
-    
-    <p class="services-cta">Interested in my professional services? <a href="#contact-form">Contact me</a> to discuss your specific needs.</p>
+    <p class="services-cta">Ready to discuss Cloud Security Engineer opportunities? <a href="#contact-form">Contact me</a> about defense contractor positions and clearance sponsorship.</p>
   </div>
 </div>
 
@@ -159,17 +159,17 @@ permalink: /contact/
         <label for="subject">Subject</label>
         <select name="subject" id="subject" required>
           <option value="" disabled selected>Select a topic...</option>
-          <optgroup label="Technical Services">
-            <option value="Infrastructure Services">Infrastructure Services</option>
-            <option value="Automation & DevOps">Automation & DevOps</option>
-            <option value="Cloud Architecture">Cloud Architecture</option>
-            <option value="Technical Consulting">Technical Consulting</option>
+          <optgroup label="Security Engineering Opportunities">
+            <option value="Cloud Security Engineer Role">Cloud Security Engineer Role</option>
+            <option value="Defense Contractor Position">Defense Contractor Position</option>
+            <option value="Federal Cloud Security">Federal Cloud Security</option>
+            <option value="Clearance Sponsorship">Clearance Sponsorship Discussion</option>
           </optgroup>
-          <optgroup label="Career Opportunities">
-            <option value="Platform Engineering Role">Platform Engineering Role</option>
-            <option value="Contract Opportunity">Contract Opportunity</option>
-            <option value="Technical Collaboration">Technical Collaboration</option>
-            <option value="Project Discussion">Project Discussion</option>
+          <optgroup label="Security Expertise">
+            <option value="AWS Security Services">AWS Security Services</option>
+            <option value="Incident Response">Incident Response</option>
+            <option value="Federal Compliance">Federal Compliance & RMF</option>
+            <option value="Security Automation">Security Automation</option>
           </optgroup>
           <option value="Other">Other</option>
         </select>

@@ -1,145 +1,109 @@
-# Technical Skills
+# Cloud Security Engineering Skills
 categories:
-  - name: "Leadership & Business Foundation"
+  - name: "AWS Cloud Security"
     skills:
-      - name: "Team Leadership"
-        level: 90
-        description: "5+ years leading technical teams, P&L management, cross-functional collaboration"
-      - name: "Business Operations"
-        level: 90
-        description: "Founded and scaled technology services company, process optimization"
-      - name: "Project Management"
-        level: 85
-        description: "Enterprise deployments, stakeholder coordination, resource management"
-      - name: "Financial Management"
-        level: 85
-        description: "P&L responsibility, budget management, ROI calculation"
-      - name: "Strategic Planning"
-        level: 80
-        description: "Business development, technical roadmaps, investment prioritization"
-
-  - name: "AI Platform Engineering (In Development)"
-    skills:
-      - name: "AWS AI/ML Services"
-        level: 45
-        description: "SageMaker, Bedrock, Comprehend - intensive development focus"
-      - name: "MLOps Automation"
-        level: 40
-        description: "ML pipeline development, model deployment automation - building expertise"
-      - name: "Infrastructure as Code"
-        level: 50
-        description: "Terraform modules for AI workloads - active certification path"
-      - name: "Container Orchestration"
-        level: 35
-        description: "Kubernetes for ML workloads - planned CKA certification"
-      - name: "AI Governance"
-        level: 40
-        description: "ML model compliance, financial services focus - developing"
-
-  - name: "AWS Cloud Platform (Current Focus)"
-    skills:
-      - name: "AWS Core Services"
-        level: 55
-        description: "EC2, VPC, IAM, S3 - Solutions Architect certification prep"
-      - name: "AWS Architecture"
-        level: 50
-        description: "Multi-account strategy, Well-Architected Framework - active study"
-      - name: "AWS Security"
-        level: 50
-        description: "Security services, compliance frameworks - Security+ renewal"
-      - name: "AWS Networking"
-        level: 45
-        description: "VPC design, hybrid connectivity - certification focus area"
-      - name: "AWS DevOps"
-        level: 40
-        description: "CI/CD, automation tools - future certification target"
-
-  - name: "Software Engineering Foundation"
-    skills:
-      - name: "Ruby Programming"
-        level: 85
-        description: "Mastery from 9 backend courses, OOP principles, test-driven development"
-      - name: "PostgreSQL"
-        level: 80
-        description: "Database design, complex queries, performance optimization"
-      - name: "Web Development"
+      - name: "AWS Security Services"
         level: 75
-        description: "Sinatra, Rails basics, RESTful API design"
-      - name: "Git/GitHub"
-        level: 85
-        description: "Version control, collaboration workflows, code review"
-      - name: "Testing & Debugging"
+        description: "GuardDuty, Security Hub, CloudTrail, Config, IAM - Solutions Architect certified"
+      - name: "AWS Infrastructure"
         level: 80
-        description: "TDD methodology, systematic debugging approach"
-
-  - name: "DevOps & Automation (Building)"
-    skills:
-      - name: "CI/CD Pipelines"
-        level: 50
-        description: "GitHub Actions, deployment automation - portfolio projects"
-      - name: "Infrastructure Testing"
-        level: 45
-        description: "Validation strategies, compliance checks - developing"
-      - name: "Container Technologies"
-        level: 45
-        description: "Docker fundamentals, container security - active learning"
-      - name: "Scripting & Automation"
+        description: "VPC, EC2, S3, Lambda security configurations and best practices"
+      - name: "Cloud Compliance"
         level: 70
-        description: "Bash scripting, Python basics, automation workflows"
-      - name: "Monitoring & Observability"
-        level: 40
-        description: "CloudWatch, logging strategies - certification prep"
-
-  - name: "Security & Compliance"
-    skills:
-      - name: "Security Fundamentals"
+        description: "Building Federal Cloud Resume with RMF controls implementation"
+      - name: "Security Automation"
         level: 75
-        description: "Network security, access controls, current experience"
-      - name: "Cloud Security"
-        level: 50
-        description: "AWS security best practices - Security+ renewal focus"
-      - name: "Compliance Implementation"
+        description: "Terraform for secure infrastructure, Python security scripting"
+      - name: "Incident Response"
+        level: 85
+        description: "Real-world security incident resolution from MSP operations"
+
+  - name: "Security Operations & Incident Response"
+    skills:
+      - name: "Zero-Breach Operations"
+        level: 90
+        description: "30+ MSP clients with zero security breaches over multiple years"
+      - name: "Threat Detection"
+        level: 80
+        description: "Proactive monitoring, SIEM tools, log analysis and investigation"
+      - name: "Incident Containment"
+        level: 85
+        description: "Resolved complex incidents other providers couldn't handle"
+      - name: "Vulnerability Management"
+        level: 80
+        description: "Scanning, assessment, patch management across mixed environments"
+      - name: "Forensics & Investigation"
+        level: 75
+        description: "Security incident analysis, evidence collection, root cause analysis"
+
+  - name: "Federal Cloud Security & Compliance"
+    skills:
+      - name: "HIPAA to Federal Translation"
+        level: 85
+        description: "Deep HIPAA compliance experience translating to NIST/FedRAMP"
+      - name: "RMF Controls Implementation"
         level: 70
-        description: "AI governance experience, regulatory frameworks, enterprise documentation"
-      - name: "DevSecOps"
-        level: 40
-        description: "Security in CI/CD, automated scanning - developing"
-      - name: "Risk Management"
-        level: 65
-        description: "Security assessment, mitigation strategies"
-
-  - name: "Development Environment"
-    skills:
-      - name: "Neovim"
-        level: 90
-        description: "Primary development environment, extensive customization"
-      - name: "tmux"
-        level: 85
-        description: "Terminal multiplexer, session management, productivity"
-      - name: "Terminal Workflow"
-        level: 90
-        description: "CLI mastery, efficient command-line operations"
-      - name: "Linux Administration"
+        description: "Building Federal Cloud Resume with Risk Management Framework controls"
+      - name: "Security Baseline Enforcement"
         level: 80
-        description: "System management, shell scripting, troubleshooting"
-      - name: "Documentation"
-        level: 85
-        description: "Technical writing, architecture decisions, knowledge sharing"
-
-  - name: "Business Impact & Communication"
-    skills:
-      - name: "ROI Calculation"
-        level: 80
-        description: "Quantifying technical value, business case development"
-      - name: "Executive Communication"
+        description: "Infrastructure hardening, configuration management, compliance automation"
+      - name: "Defense Contractor Requirements"
         level: 75
-        description: "Translating technical concepts for leadership buy-in"
-      - name: "Vendor Management"
+        description: "Understanding DoD security requirements, clearance processes"
+      - name: "Federal Cloud Automation"
+        level: 70
+        description: "Compliance monitoring, security automation for federal environments"
+
+  - name: "Infrastructure & Systems Security"
+    skills:
+      - name: "Linux Security Hardening"
+        level: 85
+        description: "Security configuration, access controls, system monitoring"
+      - name: "Windows Security Management"
         level: 80
-        description: "Relationship optimization, contract negotiation"
-      - name: "Process Improvement"
+        description: "Active Directory security, Group Policy, system hardening"
+      - name: "Network Security"
         level: 85
-        description: "Operational efficiency, workflow optimization"
-      - name: "Team Development"
-        level: 85
-        description: "Mentoring, skill building, performance management"
+        description: "Firewall configuration, VPN management, network monitoring"
+      - name: "Terraform Infrastructure as Code"
+        level: 80
+        description: "Secure infrastructure deployment, compliance automation"
+      - name: "Python Security Scripting"
+        level: 75
+        description: "Security automation, log analysis, compliance checking"
+
+  - name: "Professional Certifications & Education"
+    skills:
+      - name: "AWS Solutions Architect Associate"
+        level: 100
+        description: "Completed November 2025 - Cloud architecture and security foundations"
+      - name: "CompTIA Security+"
+        level: 95
+        description: "Taking exam November 22, 2025 - Cybersecurity fundamentals"
+      - name: "AWS Security Specialty"
+        level: 60
+        description: "Target: January 2026 - Federal cloud security specialization"
+      - name: "Launch School Backend Engineering"
+        level: 90
+        description: "Mastery-based learning - 9 rigorous courses completed"
+      - name: "Federal Cloud Security Study"
+        level: 70
+        description: "RMF controls, NIST framework, defense contractor requirements"
+
+  - name: "Defense Contractor Readiness"
+    skills:
+      - name: "Security Clearance Eligibility"
+        level: 100
+        description: "Clean background, ready for clearance sponsorship process"
+      - name: "Federal Location Flexibility"
+        level: 100
+        description: "Open to Huntsville, Dallas, Colorado Springs, San Antonio positions"
+      - name: "Zero-Breach Track Record"
+        level: 100
+        description: "Documented security success with 30+ MSP clients over multiple years"
+      - name: "AWS re:Invent Preparation"
+        level: 90
+        description: "Dec 1-6, 2024 attendance focused on federal cloud security sessions"
+      - name: "Defense Industry Understanding"
+        level: 75
+        description: "Learning DoD requirements, security protocols, and contractor expectations"

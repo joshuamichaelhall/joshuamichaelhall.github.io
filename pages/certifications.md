@@ -4,73 +4,67 @@ title: Professional Certifications
 permalink: /certifications/
 ---
 
-# Professional Certification Portfolio
+# Cloud Security Certification Strategy
 
 <div class="cert-hero">
   <div class="cert-summary">
-    <h2>Strategic Certification Approach</h2>
-    <p>No inflated claims - exactly 5 active certifications. Former MSP owner who values real skills over credential collecting. Focus on certifications that demonstrate business value.</p>
+    <h2>Defense Contractor Focused Credentials</h2>
+    <p>Targeted certification strategy aligned with defense contractor requirements and federal cloud security. Current AWS Solutions Architect with Security+ completing Nov 22, 2025. Clear path to AWS Security Specialty for federal cloud readiness.</p>
     <div class="cert-stats-row">
       <div class="stat-item">
-        <span class="stat-number">5</span>
-        <span class="stat-label">Currently Active</span>
+        <span class="stat-number">AWS SAA</span>
+        <span class="stat-label">Completed Nov 2025</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number">7</span>
-        <span class="stat-label">Expired</span>
+        <span class="stat-number">Sec+</span>
+        <span class="stat-label">Taking Nov 22</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number">3</span>
-        <span class="stat-label">In Progress 2025</span>
+        <span class="stat-number">AWS Security</span>
+        <span class="stat-label">Target Jan 2026</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number">March 2025</span>
-        <span class="stat-label">CKA Target</span>
+        <span class="stat-number">re:Invent</span>
+        <span class="stat-label">Dec 1-6, 2024</span>
       </div>
     </div>
   </div>
 </div>
 
-## Honest Certification Approach
+## Defense Contractor Certification Strategy
 
 <div class="philosophy-section">
-  <p>As a former MSP owner who built a successful business, I understand the difference between paper credentials and real expertise. I maintain exactly 5 active certifications and focus on those that directly support cloud architecture with business impact. My Launch School backend engineering completion demonstrates mastery-based learning (80%+ required to advance), not superficial completion.</p>
+  <p>Strategic certification approach focused on immediate Cloud Security Engineer readiness for defense contractors. AWS Solutions Architect Associate provides cloud foundation, Security+ demonstrates security fundamentals, and AWS Security Specialty targets federal cloud specialization. Zero-breach MSP track record validates real-world security implementation beyond certifications.</p>
   
   <div class="philosophy-points">
     <div class="point-item">
-      <h4>🎯 Business Value Focus</h4>
-      <p>Every certification chosen for ROI - learned this managing 40+ MSP clients</p>
+      <h4>🎯 Federal Requirements</h4>
+      <p>Security+ and AWS certifications align with defense contractor needs</p>
     </div>
     <div class="point-item">
-      <h4>💡 Real Implementation</h4>
-      <p>Currently deploying enterprise pfSense while studying for CKA</p>
+      <h4>💡 Practical Experience</h4>
+      <p>Zero-breach MSP operations validate security implementation skills</p>
     </div>
     <div class="point-item">
-      <h4>📈 Strategic Investment</h4>
-      <p>Smart about renewals - business owner mindset on certification ROI</p>
+      <h4>📈 Clearance Ready</h4>
+      <p>Clean background eligible for security clearance sponsorship</p>
     </div>
   </div>
 </div>
 
-## Currently Active Certifications (5)
+## Current Cloud Security Credentials
 
 <div class="active-certs">
   <div class="cert-item current">
-    <h3>Google AI Essentials</h3>
-    <p>AI fundamentals, machine learning concepts, responsible AI, practical applications</p>
-    <span class="cert-meta">Issued: August 2024</span>
+    <h3>AWS Solutions Architect Associate</h3>
+    <p>Cloud architecture, AWS services, security best practices, and infrastructure design</p>
+    <span class="cert-meta">Completed: November 2025</span>
   </div>
   
   <div class="cert-item current">
-    <h3>Google Project Management Certificate</h3>
-    <p>Comprehensive 6-month program covering Agile, Scrum, Waterfall methodologies</p>
-    <span class="cert-meta">Issued: August 2023</span>
-  </div>
-  
-  <div class="cert-item current">
-    <h3>CompTIA A+ ce</h3>
-    <p>Hardware, operating systems, software troubleshooting, and security fundamentals</p>
-    <span class="cert-meta">Active until September 2026</span>
+    <h3>CompTIA Security+</h3>
+    <p>Cybersecurity fundamentals, threat detection, incident response, and risk management</p>
+    <span class="cert-meta">Taking: November 22, 2025</span>
   </div>
   
   <div class="cert-item current">
@@ -83,6 +77,12 @@ permalink: /certifications/
     <h3>CompTIA Cloud Essentials+</h3>
     <p>Cloud concepts, business principles, and cloud service management</p>
     <span class="cert-meta">Lifetime certification (September 2020)</span>
+  </div>
+  
+  <div class="cert-item current">
+    <h3>Google Project Management Certificate</h3>
+    <p>Project management methodologies supporting technical leadership</p>
+    <span class="cert-meta">Issued: August 2023</span>
   </div>
 </div>
 
@@ -123,18 +123,18 @@ permalink: /certifications/
   </div>
 </div>
 
-## 2025 Certification Focus
+## 2025-2026 Security Certification Roadmap
 
 <div class="progress-section">
   <div class="timeline">
     <div class="timeline-item current">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h4>Primary Focus: Kubernetes</h4>
+        <h4>Immediate Focus: Security+ Completion</h4>
         <ul>
-          <li><strong>AWS Solutions Architect Associate</strong> - Primary focus</li>
-          <li>Daily study routine with hands-on labs and practice tests</li>
-          <li>Building practical cloud projects including Cloud Resume Challenge</li>
+          <li><strong>CompTIA Security+ Exam</strong> - November 22, 2025</li>
+          <li>Cybersecurity fundamentals and incident response</li>
+          <li>Critical requirement for defense contractor positions</li>
         </ul>
       </div>
     </div>
@@ -142,10 +142,11 @@ permalink: /certifications/
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h4>Secondary Goals</h4>
+        <h4>Federal Cloud Security Specialization</h4>
         <ul>
-          <li><strong>CompTIA Security+</strong> - Renewal for federal contractor opportunities</li>
-          <li><strong>Additional AWS certifications</strong> - Based on role requirements</li>
+          <li><strong>AWS Security Specialty</strong> - Target January 2026</li>
+          <li>Federal Cloud Resume with RMF controls implementation</li>
+          <li>AWS re:Invent Dec 1-6, 2024 (federal security focus)</li>
         </ul>
       </div>
     </div>
@@ -153,35 +154,36 @@ permalink: /certifications/
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h4>Future Considerations</h4>
+        <h4>Defense Contractor Readiness</h4>
         <ul>
-          <li>Additional certifications based on role requirements</li>
-          <li>Focus on practical application over credential collection</li>
+          <li>Security clearance process initiation with sponsorship</li>
+          <li>Continued RMF and NIST framework study</li>
+          <li>Federal compliance automation projects</li>
         </ul>
       </div>
     </div>
   </div>
 </div>
 
-## Why This Honest Approach
+## Defense Contractor Alignment Strategy
 
 <div class="strategy-section">
   <div class="strategy-grid">
     <div class="strategy-item">
-      <h3>🎯 MSP Owner Perspective</h3>
-      <p>Built successful business - I know which certifications actually matter to employers</p>
+      <h3>🎯 Zero-Breach Foundation</h3>
+      <p>MSP operations with 30+ clients and zero security breaches validates practical security skills</p>
     </div>
     <div class="strategy-item">
-      <h3>💰 Business ROI Mindset</h3>
-      <p>Every certification evaluated for impact on senior career trajectory</p>
+      <h3>💰 Federal Requirements Focus</h3>
+      <p>Security+ and AWS certifications align with defense contractor minimum requirements</p>
     </div>
     <div class="strategy-item">
-      <h3>⏱️ Leadership Track</h3>
-      <p>Positioning for platform engineering with path to management</p>
+      <h3>⏱️ Clearance Eligible</h3>
+      <p>Clean background ready for security clearance sponsorship opportunities</p>
     </div>
     <div class="strategy-item">
-      <h3>🚀 25 Hours Weekly</h3>
-      <p>AWS mastery through systematic study plan with practical application</p>
+      <h3>🚀 re:Invent Preparation</h3>
+      <p>AWS re:Invent Dec 1-6, 2024 focused on federal cloud security sessions</p>
     </div>
   </div>
 </div>
@@ -191,19 +193,19 @@ permalink: /certifications/
 <div class="verification-section">
   <p><strong>Current Status (Fully Verifiable):</strong></p>
   <ul>
-    <li>5 active certifications visible on Credly profile</li>
+    <li>AWS Solutions Architect Associate certification verifiable through AWS</li>
     <li>CompTIA certifications verifiable through CompTIA verification system</li>
-    <li>Google certifications backed by completion certificates</li>
-    <li>Expired certifications honestly disclosed without false claims</li>
+    <li>Security+ exam scheduled for November 22, 2025</li>
+    <li>Zero-breach MSP track record documented and verifiable</li>
   </ul>
   
-  <p class="credibility-note">From building a successful MSP to platform engineering - I've learned that honest credentials combined with real business acumen creates exceptional value. This approach helps me coach others to reach senior positions by focusing on what actually matters.</p>
+  <p class="credibility-note">Real security experience combined with targeted certifications creates immediate value for defense contractors. My zero-breach MSP operations demonstrate practical security implementation beyond just passing exams.</p>
 </div>
 
 <div class="cta-section">
-  <h3>Ready for Senior Roles?</h3>
-  <p>Stop competing with certification collectors. Learn how to position your skills strategically from someone who built a successful business. Free consultation for serious professionals.</p>
-  <a href="/coaching" class="btn primary-btn">Explore Career Acceleration</a>
+  <h3>Ready for Defense Contractor Opportunities?</h3>
+  <p>Seeking Cloud Security Engineer roles with defense contractors and federal integrators. Let's discuss how my zero-breach experience and growing federal cloud expertise can contribute to your security mission.</p>
+  <a href="/contact" class="btn primary-btn">Discuss Opportunities</a>
 </div>
 
 <style>

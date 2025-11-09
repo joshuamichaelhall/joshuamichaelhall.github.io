@@ -4,44 +4,44 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Project Portfolio
+# Cloud Security Engineering Portfolio
 
 <div class="content-section with-divider">
-  <h2>Business & Technical Portfolio</h2>
-  <p class="section-intro-text">Proven business leadership combined with technical competence demonstrated through successful MSP operations and current cloud architecture learning projects. Showcasing transition from business ownership to cloud infrastructure expertise.</p>
+  <h2>Security Engineering & Zero-Breach Operations</h2>
+  <p class="section-intro-text">Proven cloud security expertise demonstrated through zero-breach MSP operations serving 30+ clients and current federal cloud security projects. Showcasing real-world security implementation and defense contractor readiness.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
-      <h3>Business Leadership Experience</h3>
+      <h3>Zero-Breach Security Operations</h3>
 
       <div class="project-card featured">
         <div class="project-header">
-          <h2>TimothyTek - MSP Founder & CEO</h2>
+          <h2>MSP Security Operations - Zero Breach Track Record</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">2020-2023 - $250K Revenue Achievement</div>
+          <div class="project-status">2020-2023 - 30+ Clients, Zero Security Breaches</div>
         </div>
         <div class="project-content-section">
           <div class="project-description">
-            <p>Built managed IT services company from startup to $250K annual revenue serving 30+ SMB clients. Demonstrated exceptional technical capability and business resilience through complex technical challenges and strategic business decisions.</p>
-            <p><strong>Business Achievements:</strong></p>
+            <p>Founded and operated MSP with perfect security record across 30+ clients over multiple years. Resolved complex security incidents that other providers couldn't handle. Implemented comprehensive security monitoring and incident response procedures.</p>
+            <p><strong>Security Achievements:</strong></p>
             <ul>
-              <li>Scaled from zero to 30+ SMB clients with complex technical requirements</li>
-              <li>Built relationships with 4,000+ business owners through intensive networking</li>
-              <li>Achieved profitability and strong monthly recurring revenue</li>
-              <li>Maintained 100% client satisfaction throughout business lifecycle</li>
-              <li>Strategic exit protecting all client relationships</li>
+              <li>Zero security breaches across all 30+ managed client environments</li>
+              <li>Resolved complex security incidents other MSPs abandoned</li>
+              <li>Implemented proactive monitoring reducing incidents by 90%</li>
+              <li>Built comprehensive incident response and documentation procedures</li>
+              <li>Maintained HIPAA compliance for healthcare clients</li>
             </ul>
-            <p><strong>Technical Excellence:</strong></p>
+            <p><strong>Technical Security Implementation:</strong></p>
             <ul>
-              <li>Managed heterogeneous environments (Linux, Windows, macOS)</li>
-              <li>Resolved complex technical challenges other MSPs could not handle</li>
-              <li>Implemented security frameworks and custom integrations</li>
-              <li>Zero security breaches across all managed environments</li>
-              <li>Created comprehensive documentation and service delivery systems</li>
+              <li>Managed heterogeneous security across Linux, Windows, macOS environments</li>
+              <li>Implemented enterprise-grade firewalls and network security</li>
+              <li>Deployed SIEM tools, monitoring, and automated alerting</li>
+              <li>Vulnerability management, patch management, and compliance automation</li>
+              <li>Created security baselines and hardening procedures</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> Windows Server, Linux, VMware, Watchguard/SonicWall firewalls, Office 365, 3CX VoIP, Datto RMM
+              <strong>Security Technologies:</strong> SonicWall/WatchGuard firewalls, VMware security, Office 365 security, 3CX VoIP security, Datto RMM monitoring, SIEM tools
             </p>
           </div>
         </div>
@@ -49,31 +49,31 @@ permalink: /portfolio/
       
       <div class="project-card">
         <div class="project-header">
-          <h2>Cloud Resume Challenge</h2>
+          <h2>Federal Cloud Resume Challenge</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Learning Project - AWS Serverless Architecture</div>
+          <div class="project-status">Current Project - AWS Security with RMF Controls</div>
         </div>
         <div class="project-content-section">
           <div class="project-description">
-            <p>Hands-on cloud project demonstrating serverless architecture principles using AWS services. Building from simple HTML/CSS to full infrastructure-as-code implementation with CI/CD pipeline as part of cloud architecture transition.</p>
-            <p><strong>Technical Components:</strong></p>
+            <p>Building serverless resume website on AWS with comprehensive RMF (Risk Management Framework) controls implementation. Demonstrates AWS security services integration and federal compliance automation for defense contractor readiness.</p>
+            <p><strong>Security Implementation:</strong></p>
             <ul>
-              <li>Static website hosting with S3 and CloudFront distribution</li>
-              <li>Serverless visitor counter using Lambda and DynamoDB</li>
-              <li>API Gateway for RESTful backend communication</li>
-              <li>Infrastructure as Code using Terraform</li>
-              <li>CI/CD pipeline with automated testing and deployment</li>
+              <li>AWS Security Hub centralized security finding management</li>
+              <li>GuardDuty threat detection and automated incident response</li>
+              <li>CloudTrail comprehensive audit logging and monitoring</li>
+              <li>IAM security with least privilege access controls</li>
+              <li>Infrastructure as Code with Terraform security controls</li>
             </ul>
-            <p><strong>Learning Objectives:</strong></p>
+            <p><strong>Federal Compliance Focus:</strong></p>
             <ul>
-              <li>Practical application of AWS services in real scenario</li>
-              <li>Understanding serverless architecture patterns</li>
-              <li>Infrastructure automation and version control</li>
-              <li>Security best practices for cloud deployments</li>
+              <li>RMF controls implementation and documentation</li>
+              <li>NIST cybersecurity framework alignment</li>
+              <li>Automated compliance monitoring and reporting</li>
+              <li>Security baseline enforcement and validation</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> AWS S3, CloudFront, Lambda, DynamoDB, API Gateway, Terraform, GitHub Actions
+              <strong>Technologies:</strong> AWS Security Hub, GuardDuty, CloudTrail, IAM, S3, Lambda, Terraform, Python security automation
             </p>
           </div>
         </div>
@@ -84,31 +84,31 @@ permalink: /portfolio/
           <h2>Launch School Backend Engineering</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Completed 8 Rigorous Courses - Nov 2023 to Apr 2025</div>
+          <div class="project-status">Completed 9 Rigorous Courses - Mastery-Based Learning</div>
         </div>
         <div class="project-content-section">
           <div class="project-description">
-            <p>Completed 8 rigorous backend engineering courses with Launch School's mastery-based methodology, requiring 80%+ scores to advance between courses. Demonstrates deep technical understanding rather than superficial completion.</p>
-            <p><strong>Ruby Programming Foundation:</strong></p>
+            <p>Completed 9 rigorous backend engineering courses with Launch School's mastery-based methodology, requiring 80%+ scores to advance between courses. Provides strong programming foundation supporting security automation and cloud development.</p>
+            <p><strong>Programming & Security Foundations:</strong></p>
             <ul>
-              <li>Programming fundamentals, problem-solving methodologies, and algorithmic thinking</li>
-              <li>Object-oriented programming principles and advanced Ruby concepts</li>
-              <li>Networking foundations and HTTP protocol implementation</li>
+              <li>Systematic problem-solving methodologies applicable to security challenges</li>
+              <li>Object-oriented programming principles for security tool development</li>
+              <li>Network programming foundations supporting security automation</li>
             </ul>
-            <p><strong>Database & Web Development:</strong></p>
+            <p><strong>Database & Backend Security:</strong></p>
             <ul>
-              <li>SQL and relational database management</li>
-              <li>Database application development and integration</li>
-              <li>Server-side application architecture principles</li>
+              <li>SQL and database security principles</li>
+              <li>Secure application development practices</li>
+              <li>Server-side architecture with security considerations</li>
             </ul>
-            <p><strong>Leadership Development:</strong></p>
+            <p><strong>Technical Foundation for Security Engineering:</strong></p>
             <ul>
-              <li>Mentored 15+ students in foundational courses while progressing through curriculum</li>
-              <li>Demonstrated technical communication and teaching capabilities</li>
-              <li>Contributed to curriculum improvements and student success</li>
+              <li>Strong programming foundation enabling security automation scripting</li>
+              <li>Systematic debugging approach applicable to security incident investigation</li>
+              <li>Version control and collaboration skills for security team environments</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> Ruby, PostgreSQL, Git, Shell Scripting, HTTP Protocol, Object-Oriented Programming
+              <strong>Technologies:</strong> Ruby, Python, PostgreSQL, Git, Shell Scripting, HTTP Protocol, Object-Oriented Programming
             </p>
           </div>
         </div>

@@ -4,69 +4,69 @@ title: About
 permalink: /about/
 ---
 
-# About Me
+# Cloud Security Engineer
 
 <div class="content-section with-divider">
-  <p>Accomplished business leader expanding into cloud architecture by applying proven track record of customer obsession, operational excellence, and technical competence. Former MSP founder with deep understanding of enterprise IT challenges now pursuing cloud infrastructure expertise.</p>
+  <p>Cloud Security Engineer with proven zero-breach track record from MSP operations serving 30+ clients. AWS Solutions Architect Associate certified with Security+ completing Nov 22, 2025. Specializing in federal cloud security, incident response, and defense contractor requirements.</p>
 
-  <p><strong>Business Leadership Foundation:</strong> Founded and scaled TimothyTek managed services practice from startup to $250K annual revenue with 100% client satisfaction across 30+ demanding business customers. Successfully navigated strategic exit while protecting all client relationships and maintaining professional integrity.</p>
+  <p><strong>Zero-Breach Security Operations:</strong> Founded and operated MSP with zero security breaches across 30+ clients over multiple years. Resolved complex security incidents that other providers couldn't handle. Implemented comprehensive security monitoring, incident response procedures, and compliance frameworks.</p>
 
-  <p><strong>Technical Competence:</strong> Currently pursuing AWS Solutions Architect certification with systematic problem-solving methodology from Launch School backend engineering foundation. Building hands-on cloud expertise through practical projects including Cloud Resume Challenge and serverless application development.</p>
+  <p><strong>Federal Cloud Security Focus:</strong> Building Federal Cloud Resume with RMF controls implementation on AWS. Deep HIPAA compliance experience translating directly to NIST and FedRAMP frameworks. Studying DoD security requirements and clearance processes for defense contractor readiness.</p>
 
-  <p><strong>Customer Success Excellence:</strong> Managed heterogeneous environments (Linux, Windows, macOS) across 20+ client sites with zero security breaches. Expert at translating technical implementations to business value, managing complex stakeholder relationships, and delivering operational excellence.</p>
+  <p><strong>AWS Security Expertise:</strong> Solutions Architect Associate certified with hands-on experience in GuardDuty, Security Hub, CloudTrail, and IAM. Building security automation with Terraform and Python. Preparing for AWS Security Specialty certification (Target: Jan 2026).</p>
 
-  <p><strong>Seeking:</strong> Associate-level cloud infrastructure or solutions architect opportunities where business leadership background provides competitive advantage. Open to remote positions and relocating to Dallas-Fort Worth area for the right opportunity.</p>
+  <p><strong>Seeking:</strong> Cloud Security Engineer roles with defense contractors in Huntsville, Dallas, Colorado Springs, or San Antonio. $95-120K range with security clearance sponsorship opportunities. Ready to contribute immediately to federal cloud security initiatives.</p>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Core Competencies</h2>
+  <h2>Cloud Security Competencies</h2>
   
   <div class="certifications-section">
-    <h3>Customer Success Skills</h3>
+    <h3>Security Engineering Skills</h3>
     <div class="cert-categories">
       <div class="cert-category">
-        <h4>Business Leadership</h4>
+        <h4>AWS Security Implementation</h4>
         <ul class="cert-list">
-          <li><strong>P&L Management</strong> - Built profitable MSP with full business responsibility</li>
-          <li><strong>Customer Success</strong> - Achieved 100% client retention through customer obsession</li>
-          <li><strong>Operational Excellence</strong> - Service delivery standards and performance management</li>
-          <li><strong>Team Leadership</strong> - Hired, trained, and led technical professionals</li>
-          <li><strong>Executive Communication</strong> - Seminary training and stakeholder management expertise</li>
+          <li><strong>AWS Security Services</strong> - GuardDuty, Security Hub, CloudTrail, Config, IAM</li>
+          <li><strong>Security Automation</strong> - Terraform infrastructure as code, Python scripting</li>
+          <li><strong>Infrastructure Security</strong> - VPC security, EC2 hardening, S3 compliance</li>
+          <li><strong>Monitoring & Alerting</strong> - CloudWatch security metrics, automated response</li>
+          <li><strong>Compliance Frameworks</strong> - RMF controls, NIST standards, federal requirements</li>
         </ul>
       </div>
       
       <div class="cert-category">
-        <h4>Technical Expertise</h4>
+        <h4>Security Operations</h4>
         <ul class="cert-list">
-          <li><strong>AWS Cloud Architecture</strong> - Pursuing Solutions Architect certification with business-focused approach</li>
-          <li><strong>Systematic Problem-Solving</strong> - Launch School engineering methodology</li>
-          <li><strong>Cost-Conscious Implementation</strong> - Business judgment in technical decisions</li>
-          <li><strong>Service Delivery Excellence</strong> - Operational reliability and performance standards</li>
-          <li><strong>Business Value Focus</strong> - Technical solutions that achieve measurable outcomes</li>
+          <li><strong>Incident Response</strong> - Real-world security incident resolution and containment</li>
+          <li><strong>Threat Detection</strong> - SIEM tools, log analysis, behavioral monitoring</li>
+          <li><strong>Vulnerability Management</strong> - Scanning, assessment, remediation across mixed environments</li>
+          <li><strong>Zero-Breach Operations</strong> - 30+ MSP clients with perfect security record</li>
+          <li><strong>Forensics & Investigation</strong> - Evidence collection, root cause analysis</li>
         </ul>
       </div>
       
       <div class="cert-category">
-        <h4>Relationship Management</h4>
+        <h4>Federal Security Readiness</h4>
         <ul class="cert-list">
-          <li><strong>Executive Communication</strong> - C-suite engagement</li>
-          <li><strong>Stakeholder Management</strong> - Multi-level coordination</li>
-          <li><strong>Conflict Resolution</strong> - De-escalation expertise</li>
-          <li><strong>Trust Building</strong> - Long-term relationship focus</li>
-          <li><strong>Customer Advocacy</strong> - Voice of customer champion</li>
+          <li><strong>Clearance Eligible</strong> - Clean background ready for security clearance sponsorship</li>
+          <li><strong>HIPAA to Federal Translation</strong> - Compliance experience applicable to NIST/FedRAMP</li>
+          <li><strong>Defense Contractor Understanding</strong> - Learning DoD requirements and protocols</li>
+          <li><strong>Geographic Flexibility</strong> - Open to Huntsville, Dallas, Colorado Springs, San Antonio</li>
+          <li><strong>Federal Cloud Focus</strong> - Building RMF controls expertise for defense contractors</li>
         </ul>
       </div>
       
     </div>
     
-    <h3>Certifications & Education</h3>
+    <h3>Current Certifications & Education</h3>
     <ul class="cert-list in-progress">
-      <li><strong>AWS Solutions Architect Associate</strong> - In progress</li>
-      <li><strong>CompTIA Security+</strong> - Planning renewal</li>
-      <li><strong>Launch School Backend Software Engineering</strong> - Completed 8 rigorous courses (Nov 2023 - Apr 2025)</li>
-      <li><strong>Google Project Management Certificate</strong> - Completed (2023)</li>
-      <li><strong>Google AI Essentials</strong> - Completed (2024)</li>
-      <li><strong>Master of Divinity</strong> - Advanced communication and leadership (2013)</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - Completed November 2025</li>
+      <li><strong>CompTIA Security+</strong> - Taking exam November 22, 2025</li>
+      <li><strong>AWS Security Specialty</strong> - Target: January 2026</li>
+      <li><strong>Launch School Backend Software Engineering</strong> - Completed 9 rigorous courses (mastery-based learning)</li>
+      <li><strong>CompTIA Project+</strong> - Active (Previous certification)</li>
+      <li><strong>CompTIA Cloud Essentials+</strong> - Active (Previous certification)</li>
     </ul>
   </div>
 </div>
