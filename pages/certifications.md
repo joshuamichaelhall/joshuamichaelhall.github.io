@@ -9,7 +9,7 @@ permalink: /certifications/
 <div class="cert-hero">
   <div class="cert-summary">
     <h2>Defense Contractor Focused Credentials</h2>
-    <p>Targeted certification strategy aligned with defense contractor requirements and federal cloud security. Current AWS Solutions Architect with Security+ completing Nov 22, 2025. Clear path to AWS Security Specialty for federal cloud readiness.</p>
+    <p>Targeted certification strategy aligned with defense contractor requirements and federal cloud security. Current AWS Solutions Architect with Security+ certification. Pursuing AWS Security Specialty for federal cloud readiness.</p>
     <div class="cert-stats-row">
       <div class="stat-item">
         <span class="stat-number">AWS SAA</span>
@@ -17,15 +17,15 @@ permalink: /certifications/
       </div>
       <div class="stat-item">
         <span class="stat-number">Sec+</span>
-        <span class="stat-label">Taking Nov 22</span>
+        <span class="stat-label">Current</span>
       </div>
       <div class="stat-item">
         <span class="stat-number">AWS Security</span>
-        <span class="stat-label">Target Jan 2026</span>
+        <span class="stat-label">In Progress</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number">re:Invent</span>
-        <span class="stat-label">Dec 1-6, 2024</span>
+        <span class="stat-number">Federal</span>
+        <span class="stat-label">Cloud Ready</span>
       </div>
     </div>
   </div>
@@ -58,13 +58,13 @@ permalink: /certifications/
   <div class="cert-item current">
     <h3>AWS Solutions Architect Associate</h3>
     <p>Cloud architecture, AWS services, security best practices, and infrastructure design</p>
-    <span class="cert-meta">Completed: November 2025</span>
+    <span class="cert-meta">Current Certification</span>
   </div>
   
   <div class="cert-item current">
     <h3>CompTIA Security+</h3>
     <p>Cybersecurity fundamentals, threat detection, incident response, and risk management</p>
-    <span class="cert-meta">Taking: November 22, 2025</span>
+    <span class="cert-meta">Current Certification</span>
   </div>
   
   <div class="cert-item current">
@@ -81,7 +81,7 @@ permalink: /certifications/
   
   <div class="cert-item current">
     <h3>Google Project Management Certificate</h3>
-    <p>Project management methodologies supporting technical leadership</p>
+    <p>Project management methodologies supporting technical implementation</p>
     <span class="cert-meta">Issued: August 2023</span>
   </div>
 </div>
@@ -130,11 +130,11 @@ permalink: /certifications/
     <div class="timeline-item current">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h4>Immediate Focus: Security+ Completion</h4>
+        <h4>Current Focus: AWS Security Specialty</h4>
         <ul>
-          <li><strong>CompTIA Security+ Exam</strong> - November 22, 2025</li>
-          <li>Cybersecurity fundamentals and incident response</li>
-          <li>Critical requirement for defense contractor positions</li>
+          <li><strong>AWS Security Specialty</strong> - In Progress</li>
+          <li>Federal cloud security and compliance frameworks</li>
+          <li>Advanced security services and automation</li>
         </ul>
       </div>
     </div>
@@ -142,11 +142,11 @@ permalink: /certifications/
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h4>Federal Cloud Security Specialization</h4>
+        <h4>Federal Security Implementation</h4>
         <ul>
-          <li><strong>AWS Security Specialty</strong> - Target January 2026</li>
-          <li>Federal Cloud Resume with RMF controls implementation</li>
-          <li>AWS re:Invent Dec 1-6, 2024 (federal security focus)</li>
+          <li><strong>RMF Controls Implementation</strong> - Ongoing</li>
+          <li>Federal Cloud Resume with NIST compliance</li>
+          <li>Security automation for federal environments</li>
         </ul>
       </div>
     </div>
@@ -171,7 +171,7 @@ permalink: /certifications/
   <div class="strategy-grid">
     <div class="strategy-item">
       <h3>🎯 Zero-Breach Foundation</h3>
-      <p>MSP operations with 30+ clients and zero security breaches validates practical security skills</p>
+      <p>Zero-breach operations managing 43+ organizations and 500+ endpoints validates practical security skills</p>
     </div>
     <div class="strategy-item">
       <h3>💰 Federal Requirements Focus</h3>
@@ -182,8 +182,8 @@ permalink: /certifications/
       <p>Clean background ready for security clearance sponsorship opportunities</p>
     </div>
     <div class="strategy-item">
-      <h3>🚀 re:Invent Preparation</h3>
-      <p>AWS re:Invent Dec 1-6, 2024 focused on federal cloud security sessions</p>
+      <h3>🚀 Federal Cloud Focus</h3>
+      <p>Specialized expertise in federal cloud security requirements and compliance</p>
     </div>
   </div>
 </div>
@@ -204,7 +204,7 @@ permalink: /certifications/
 
 <div class="cta-section">
   <h3>Ready for Defense Contractor Opportunities?</h3>
-  <p>Seeking Cloud Security Engineer roles with defense contractors and federal integrators. Let's discuss how my zero-breach experience and growing federal cloud expertise can contribute to your security mission.</p>
+  <p>Ready to contribute to defense contractor cloud security initiatives. Let's discuss how my zero-breach experience and federal cloud expertise can strengthen your security mission.</p>
   <a href="/contact" class="btn primary-btn">Discuss Opportunities</a>
 </div>
 

@@ -7,15 +7,15 @@ permalink: /about/
 # Cloud Security Engineer
 
 <div class="content-section with-divider">
-  <p>Cloud Security Engineer with proven zero-breach track record from MSP operations serving 30+ clients. AWS Solutions Architect Associate certified with Security+ completing Nov 22, 2025. Specializing in federal cloud security, incident response, and defense contractor requirements.</p>
+  <p>Cloud Security Professional with proven zero-breach track record managing 43+ organizations and 500+ endpoints. AWS Solutions Architect Associate certified with Security+. Specializing in federal cloud security, incident response, and defense contractor requirements.</p>
 
-  <p><strong>Zero-Breach Security Operations:</strong> Founded and operated MSP with zero security breaches across 30+ clients over multiple years. Resolved complex security incidents that other providers couldn't handle. Implemented comprehensive security monitoring, incident response procedures, and compliance frameworks.</p>
+  <p><strong>Zero-Breach Security Operations:</strong> Managed security for 43+ organizations across healthcare, finance, legal sectors with zero security breaches. Prevented $500K+ in ransomware damages while securing 500+ endpoints. Called when others failed - inherited and stabilized multiple compromised environments.</p>
 
   <p><strong>Federal Cloud Security Focus:</strong> Building Federal Cloud Resume with RMF controls implementation on AWS. Deep HIPAA compliance experience translating directly to NIST and FedRAMP frameworks. Studying DoD security requirements and clearance processes for defense contractor readiness.</p>
 
-  <p><strong>AWS Security Expertise:</strong> Solutions Architect Associate certified with hands-on experience in GuardDuty, Security Hub, CloudTrail, and IAM. Building security automation with Terraform and Python. Preparing for AWS Security Specialty certification (Target: Jan 2026).</p>
+  <p><strong>AWS Security Expertise:</strong> Solutions Architect Associate certified with hands-on experience in GuardDuty, Security Hub, CloudTrail, and IAM. Building security automation with Terraform and Python. Pursuing AWS Security Specialty certification.</p>
 
-  <p><strong>Seeking:</strong> Cloud Security Engineer roles with defense contractors in Huntsville, Dallas, Colorado Springs, or San Antonio. $95-120K range with security clearance sponsorship opportunities. Ready to contribute immediately to federal cloud security initiatives.</p>
+  <p><strong>Focus:</strong> Cloud Security Engineer roles with defense contractors in Huntsville, AL. Open to security clearance sponsorship opportunities. Ready to contribute immediately to federal cloud security initiatives.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -41,7 +41,7 @@ permalink: /about/
           <li><strong>Incident Response</strong> - Real-world security incident resolution and containment</li>
           <li><strong>Threat Detection</strong> - SIEM tools, log analysis, behavioral monitoring</li>
           <li><strong>Vulnerability Management</strong> - Scanning, assessment, remediation across mixed environments</li>
-          <li><strong>Zero-Breach Operations</strong> - 30+ MSP clients with perfect security record</li>
+          <li><strong>Zero-Breach Operations</strong> - 43+ organizations, 500+ endpoints with perfect security record</li>
           <li><strong>Forensics & Investigation</strong> - Evidence collection, root cause analysis</li>
         </ul>
       </div>
@@ -52,7 +52,7 @@ permalink: /about/
           <li><strong>Clearance Eligible</strong> - Clean background ready for security clearance sponsorship</li>
           <li><strong>HIPAA to Federal Translation</strong> - Compliance experience applicable to NIST/FedRAMP</li>
           <li><strong>Defense Contractor Understanding</strong> - Learning DoD requirements and protocols</li>
-          <li><strong>Geographic Flexibility</strong> - Open to Huntsville, Dallas, Colorado Springs, San Antonio</li>
+          <li><strong>Location</strong> - Huntsville, AL area</li>
           <li><strong>Federal Cloud Focus</strong> - Building RMF controls expertise for defense contractors</li>
         </ul>
       </div>
@@ -61,9 +61,9 @@ permalink: /about/
     
     <h3>Current Certifications & Education</h3>
     <ul class="cert-list in-progress">
-      <li><strong>AWS Solutions Architect Associate</strong> - Completed November 2025</li>
-      <li><strong>CompTIA Security+</strong> - Taking exam November 22, 2025</li>
-      <li><strong>AWS Security Specialty</strong> - Target: January 2026</li>
+      <li><strong>AWS Solutions Architect Associate</strong> - Current</li>
+      <li><strong>CompTIA Security+</strong> - Current</li>
+      <li><strong>AWS Security Specialty</strong> - In Progress</li>
       <li><strong>Launch School Backend Software Engineering</strong> - Completed 9 rigorous courses (mastery-based learning)</li>
       <li><strong>CompTIA Project+</strong> - Active (Previous certification)</li>
       <li><strong>CompTIA Cloud Essentials+</strong> - Active (Previous certification)</li>
@@ -97,16 +97,16 @@ permalink: /about/
   <h2>Professional Experience Highlights</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>MSP Founder & CEO</h3>
-      <p>Built successful technology services company serving 30+ SMB clients. Implemented security frameworks, managed complex technical environments, and achieved 100% client satisfaction.</p>
+      <h3>Security Operations Specialist</h3>
+      <p>Managed security for 43+ organizations across critical sectors with zero breaches. Implemented security frameworks, secured 500+ endpoints, and achieved 100% incident response success rate.</p>
     </div>
     <div class="expertise-item">
       <h3>Cloud Transformations</h3>
       <p>Managed comprehensive IT infrastructure including network design, security implementation, and system integrations. Maintained zero security breaches across all client environments.</p>
     </div>
     <div class="expertise-item">
-      <h3>Enterprise Leadership</h3>
-      <p>Managed 13-person team for 5,000+ system deployment at Vanderbilt Hospital. Delivered on time and budget with zero security incidents.</p>
+      <h3>Enterprise Security Implementation</h3>
+      <p>Led technical security implementation for 5,000+ system deployment at Vanderbilt Hospital. Delivered on time and budget with zero security incidents.</p>
     </div>
     <div class="expertise-item">
       <h3>Strategic Consulting</h3>
@@ -133,7 +133,7 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Professional Services</h3>
-      <p>Practice management, document systems, remote work enablement. Transformed traditional offices.</p>
+      <p>Document security, compliance systems, remote work security. Transformed traditional infrastructure.</p>
     </div>
   </div>
 </div>
@@ -147,7 +147,7 @@ permalink: /about/
       <p><a href="https://github.com/JoshuaMichaelHall">GitHub Portfolio</a></p>
     </div>
     <div class="expertise-item">
-      <h3>Thought Leadership</h3>
+      <h3>Technical Content</h3>
       <p>Publishing content on cloud business value</p>
       <p>Speaking at industry events</p>
     </div>

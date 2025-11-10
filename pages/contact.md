@@ -15,26 +15,24 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> Seeking Cloud Security Engineer Roles | Defense Contractors | Clearance Sponsorship</p>
+    <p><strong>Status:</strong> Available for Cloud Security Engineer Roles | Defense Contractors | Clearance Sponsorship</p>
   </div>
 
-  <p>Cloud Security Engineer with zero-breach MSP track record serving 30+ clients. AWS Solutions Architect Associate certified with Security+ completing Nov 22, 2025. Ready for immediate contribution to defense contractor cloud security initiatives in target locations.</p>
+  <p>Cloud Security Professional with zero-breach track record managing 43+ organizations and 500+ endpoints. AWS Solutions Architect Associate certified with Security+. Ready for immediate contribution to defense contractor cloud security initiatives.</p>
 </div>
 
 <div class="content-section with-divider">
   <h2>Target Locations & Requirements</h2>
 
-  <p>Actively seeking Cloud Security Engineer opportunities with defense contractors in these locations:</p>
+  <p>Available for Cloud Security Engineer opportunities with defense contractors:</p>
 
   <ul class="interests-list">
-    <li><strong>Huntsville, Alabama</strong> - Ready to relocate for defense contractor opportunities</li>
-    <li><strong>Dallas, Texas</strong> - Open to DFW area positions with federal clients</li>
-    <li><strong>Colorado Springs, Colorado</strong> - Targeting aerospace and defense contractors</li>
-    <li><strong>San Antonio, Texas</strong> - Open to cybersecurity and federal IT roles</li>
+    <li><strong>Location</strong> - Huntsville, Alabama area</li>
     <li><strong>Clearance Sponsorship</strong> - Clean background eligible for security clearance</li>
-    <li><strong>Salary Range</strong> - $95,000 - $120,000 with growth potential</li>
     <li><strong>Federal Cloud Security</strong> - RMF controls and NIST framework expertise</li>
-    <li><strong>AWS re:Invent</strong> - Attending Dec 1-6, 2024 for federal security sessions</li>
+    <li><strong>Compliance Automation</strong> - Infrastructure as Code with security controls</li>
+    <li><strong>Zero-Breach Experience</strong> - Proven track record managing 43+ organizations</li>
+    <li><strong>AWS Security Services</strong> - GuardDuty, Security Hub, CloudTrail, IAM expertise</li>
   </ul>
 </div>
 

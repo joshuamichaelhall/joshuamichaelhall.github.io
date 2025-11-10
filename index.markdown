@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Security Engineer | AWS Certified | Defense Contractor Ready</h2>
-        <h3 class="hero-tagline">The One They Call When Others Failed • Zero Breaches After Implementation • RMF Controls in Practice</h3>
-        <p>Cloud Security Engineer who gets called after other providers fail. Fixed ransomware, copyright violations, and active compromises across 30+ clients - then maintained zero breaches through proper controls. Real-world experience implementing what becomes NIST 800-53 controls. AWS Solutions Architect Associate certified with Security+ completing Nov 22, 2025. Seeking Cloud Security Engineer roles with defense contractors requiring proven incident response expertise.</p>
+        <h2>Cloud Security Professional | 43+ Clients | Zero Breaches | Defense Contractor Ready</h2>
+        <h3 class="hero-tagline">The One They Call When Others Failed • 500+ Endpoints Secured • $500K+ Damages Prevented</h3>
+        <p>Cloud Security Professional who managed 43+ organizations simultaneously with zero breaches. Prevented $500K+ in ransomware damages across 500+ endpoints while implementing enterprise-grade security controls. Called when others failed - inherited and stabilized multiple compromised environments. AWS Solutions Architect Associate certified with Security+. Expert in federal cloud security for defense contractors requiring proven operational experience.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Defense Contractor Qualifications</h4>
           <div class="cert-stats">
@@ -36,7 +36,7 @@ layout: default
             <span class="cert-badge">Cleared After Others Failed</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Seeking Cloud Security Engineer Roles | Defense Contractors | $95-120K + Clearance Sponsorship</strong>
+            <strong>🚀 Seeking Cloud Security Engineer Roles | Defense Contractors | Clearance Sponsorship Available</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -55,7 +55,7 @@ layout: default
     <div class="metric-card">
       <div class="metric-value">Ransomware</div>
       <div class="metric-label">Multiple Recoveries</div>
-      <div class="metric-detail">Fixed multiple ransomware infections for clients who refused proper security - then zero incidents after implementing full controls</div>
+      <div class="metric-detail">Prevented $500K+ in ransomware damages through proactive security measures and rapid incident response</div>
     </div>
     <div class="metric-card">
       <div class="metric-value">Copyright</div>
@@ -63,14 +63,14 @@ layout: default
       <div class="metric-detail">Saved client from ISP service termination by stopping neighbor's piracy through their unsecured WiFi - implemented proper network segmentation</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">Active</div>
-      <div class="metric-label">Compromise Response</div>
-      <div class="metric-detail">Stopped live attack where mouse was moving by itself - found 30 employees sharing 2 RDP passwords written on sticky notes</div>
+      <div class="metric-value">500+</div>
+      <div class="metric-label">Endpoints Secured</div>
+      <div class="metric-detail">Managed enterprise-grade security across 500+ endpoints with 24/7 monitoring and <2 hour incident response</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">NIST</div>
-      <div class="metric-label">Controls in Practice</div>
-      <div class="metric-detail">Implemented what became AC-2, IA-5, SC-7, SI-2 controls before knowing their NIST numbers - now mapping to RMF</div>
+      <div class="metric-value">43+</div>
+      <div class="metric-label">Organizations Secured</div>
+      <div class="metric-detail">Managed security for 43+ organizations across healthcare, finance, legal, and manufacturing sectors simultaneously</div>
     </div>
   </div>
 </div>
@@ -84,7 +84,7 @@ layout: default
     </div>
     <div class="tech-focus-item">
       <h3>Security Incident Response</h3>
-      <p>Proven track record resolving complex security incidents that other providers couldn't handle. Zero-breach MSP operations across 30+ clients. Expert in threat detection, containment, and remediation. Experience with SIEM tools, log analysis, and forensic investigation techniques.</p>
+      <p>Proven track record resolving complex security incidents that other providers couldn't handle. Zero-breach operations across 43+ organizations managing 500+ endpoints. Expert in threat detection, containment, and remediation. Experience with SIEM tools, log analysis, and forensic investigation techniques.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Infrastructure Security & Monitoring</h3>
@@ -139,8 +139,8 @@ layout: default
   <p class="section-intro-text">Real-world security implementations and incident response successes from MSP operations and cloud security projects.</p>
   <div class="success-stories">
     <div class="success-story">
-      <h3>Zero-Breach MSP Operations</h3>
-      <p>Founded and operated MSP serving 30+ clients with zero security breaches over multiple years. Implemented comprehensive security monitoring, incident response procedures, and compliance frameworks. Resolved complex security incidents that other providers couldn't handle.</p>
+      <h3>Zero-Breach Operations at Scale</h3>
+      <p>Managed security for 43+ organizations across healthcare, finance, legal sectors with zero security breaches. Secured 500+ endpoints with enterprise-grade security controls. Inherited and stabilized multiple compromised environments that previous providers abandoned.</p>
     </div>
     <div class="success-story">
       <h3>Federal Cloud Resume Challenge</h3>

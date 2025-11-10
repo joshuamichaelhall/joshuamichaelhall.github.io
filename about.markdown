@@ -8,12 +8,12 @@ permalink: /about/
 
 ## Professional Summary
 
-Cloud Security Engineer with proven zero-breach track record from MSP operations serving 30+ clients. AWS Solutions Architect Associate certified with Security+ completing Nov 22, 2025. Specializing in federal cloud security, incident response, and defense contractor requirements. Seeking Cloud Security Engineer roles in Huntsville, Dallas, Colorado Springs, or San Antonio with clearance sponsorship opportunities.
+Cloud Security Professional with proven zero-breach track record managing 43+ organizations and 500+ endpoints. AWS Solutions Architect Associate certified with Security+. Specializing in federal cloud security, incident response, and defense contractor requirements. Expert in incident response who gets called when others fail.
 
 ## Cloud Security Engineering Experience
 
 ### Security Achievements
-- Zero security breaches across 30+ MSP clients over multiple years of operations
+- Zero security breaches across 43+ organizations and 500+ endpoints over multiple years
 - Resolved complex security incidents that other providers couldn't handle
 - Implemented comprehensive security monitoring and automated threat detection
 - Built HIPAA-compliant infrastructure translating to federal compliance frameworks
@@ -35,11 +35,11 @@ Cloud Security Engineer with proven zero-breach track record from MSP operations
 - **Incident Response**: Forensic tools, threat hunting, containment procedures
 
 ### Current Certifications
-- AWS Solutions Architect Associate (Completed Nov 2025)
-- CompTIA Security+ (Taking Nov 22, 2025)
-- AWS Security Specialty (Target: Jan 2026)
-- CompTIA Project+ (Previous)
-- CompTIA Cloud Essentials+ (Previous)
+- AWS Solutions Architect Associate
+- CompTIA Security+
+- AWS Security Specialty (In Progress)
+- CompTIA Project+
+- CompTIA Cloud Essentials+
 
 ### Technical Education
 - Launch School Backend Engineering - 9 rigorous courses (mastery-based learning)
@@ -83,24 +83,18 @@ Actively building and improving:
 - Terraform modules for secure infrastructure deployment
 
 ### Professional Development
-- Preparing for AWS re:Invent Dec 1-6, 2024 (federal cloud security focus)
-- Completing CompTIA Security+ certification (Nov 22, 2025)
+- Advancing AWS Security Specialty certification
 - Building hands-on experience with AWS security services
 - Studying RMF controls and federal compliance requirements
+- Developing security automation expertise
 
 ## Career Goals
 
-### Immediate Target
-- Cloud Security Engineer role with defense contractor ($95-120K range)
-- Obtain security clearance through employer sponsorship
-- Apply zero-breach MSP experience to federal cloud environments
-- Contribute to critical national security and defense projects
-
-### Professional Growth Path
-- AWS Security Specialty certification (Target: Jan 2026)
-- Senior Cloud Security Engineer with federal specialization
-- Expert in RMF controls implementation and federal compliance
-- Recognized contributor to defense contractor cloud security initiatives
+### Career Focus
+- Cloud Security Engineer with defense contractors
+- Security clearance sponsorship opportunities
+- Federal cloud environments and national security projects
+- RMF controls implementation and federal compliance expertise
 
 ## Personal Philosophy
 
@@ -111,6 +105,6 @@ Actively building and improving:
 - **LinkedIn**: [joshuamichaelhall](https://www.linkedin.com/in/joshuamichaelhall/)
 - **GitHub**: [joshuamichaelhall](https://github.com/joshuamichaelhall)
 - **Email**: contact@joshuamichaelhall.com
-- **Location**: Open to Huntsville, Dallas, Colorado Springs, San Antonio
+- **Location**: Huntsville, AL
 
-I'm actively seeking Cloud Security Engineer opportunities with defense contractors and federal integrators. Let's discuss how my zero-breach MSP experience can contribute to your organization's security mission while I obtain clearance sponsorship.
+Ready to contribute immediately to defense contractor cloud security initiatives. Let's discuss how my zero-breach operational experience can strengthen your organization's security posture.
