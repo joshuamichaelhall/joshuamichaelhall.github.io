@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Security Professional | 43+ Clients | Zero Breaches | Defense Contractor Ready</h2>
-        <h3 class="hero-tagline">The One They Call When Others Failed • 500+ Endpoints Secured • $500K+ Damages Prevented</h3>
-        <p>Cloud Security Professional who managed 43+ organizations simultaneously with zero breaches. Prevented $500K+ in ransomware damages across 500+ endpoints while implementing enterprise-grade security controls. Called when others failed - inherited and stabilized multiple compromised environments. AWS Solutions Architect Associate certified with Security+. Expert in federal cloud security for defense contractors requiring proven operational experience.</p>
+        <h2>Cloud Security Professional | 30+ Business Clients | Zero Breaches | Defense Contractor Ready</h2>
+        <h3 class="hero-tagline">The One They Call When Others Failed • 100+ Endpoints Managed • $160K+ Revenue Reached</h3>
+        <p>Cloud Security Professional who managed 30+ business clients simultaneously with zero breaches. Prevented significant ransomware damages across 100+ endpoints while implementing enterprise-grade security controls. Called when others failed - inherited and stabilized multiple compromised environments. AWS Solutions Architect Associate certified with Security+. Expert in federal cloud security for defense contractors requiring proven operational experience.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Defense Contractor Qualifications</h4>
           <div class="cert-stats">
@@ -55,7 +55,7 @@ layout: default
     <div class="metric-card">
       <div class="metric-value">Ransomware</div>
       <div class="metric-label">Multiple Recoveries</div>
-      <div class="metric-detail">Prevented $500K+ in ransomware damages through proactive security measures and rapid incident response</div>
+      <div class="metric-detail">Prevented significant ransomware damages through proactive security measures and rapid incident response</div>
     </div>
     <div class="metric-card">
       <div class="metric-value">Copyright</div>
@@ -63,14 +63,14 @@ layout: default
       <div class="metric-detail">Saved client from ISP service termination by stopping neighbor's piracy through their unsecured WiFi - implemented proper network segmentation</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">500+</div>
-      <div class="metric-label">Endpoints Secured</div>
-      <div class="metric-detail">Managed enterprise-grade security across 500+ endpoints with 24/7 monitoring and <2 hour incident response</div>
+      <div class="metric-value">100+</div>
+      <div class="metric-label">Endpoints Managed</div>
+      <div class="metric-detail">Managed enterprise-grade security across 100+ endpoints with 24/7 monitoring and <2 hour incident response. 96 endpoints with SOC services</div>
     </div>
     <div class="metric-card">
-      <div class="metric-value">43+</div>
-      <div class="metric-label">Organizations Secured</div>
-      <div class="metric-detail">Managed security for 43+ organizations across healthcare, finance, legal, and manufacturing sectors simultaneously</div>
+      <div class="metric-value">30+</div>
+      <div class="metric-label">Business Clients</div>
+      <div class="metric-detail">Managed security for 30+ business clients across healthcare, finance, legal, and manufacturing sectors simultaneously</div>
     </div>
   </div>
 </div>
@@ -140,7 +140,7 @@ layout: default
   <div class="success-stories">
     <div class="success-story">
       <h3>Zero-Breach Operations at Scale</h3>
-      <p>Managed security for 43+ organizations across healthcare, finance, legal sectors with zero security breaches. Secured 500+ endpoints with enterprise-grade security controls. Inherited and stabilized multiple compromised environments that previous providers abandoned.</p>
+      <p>Managed security for 30+ business clients across healthcare, finance, legal sectors with zero security breaches. Secured 100+ endpoints with enterprise-grade security controls. Managed 33 access points, 11 firewalls, 6 Windows servers, 2 Linux servers, and 61 cloud accounts. Inherited and stabilized multiple compromised environments that previous providers abandoned.</p>
     </div>
     <div class="success-story">
       <h3>Federal Cloud Resume Challenge</h3>

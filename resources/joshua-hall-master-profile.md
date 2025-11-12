@@ -80,8 +80,14 @@ Joshua Michael Hall is an accomplished technology professional with a unique com
 - Developed scalable processes and systematic approaches
 
 **TimothyTek Founder & CEO** (2020-2023)
-- Scaled MSP from $0 to $250K annual revenue
-- 30+ SMB clients with 100% satisfaction
+- Scaled MSP from $0 to $160,000+ annual revenue
+- 30+ business clients with 100% satisfaction
+- 100+ endpoints managed across client base
+- 33 access points installed, 11 firewalls configured
+- 6 Windows servers, 2 Linux servers deployed
+- 61 managed cloud accounts (AD), 15 backup solutions
+- 96 endpoints managed with SOC services
+- 2 websites built and deployed, multiple email/domain migrations
 - Built relationships with 4,000+ business owners and representatives
 - Strategic exit protecting all client relationships
 - Deep MSP operations understanding

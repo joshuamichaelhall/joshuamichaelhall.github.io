@@ -7,9 +7,9 @@ permalink: /about/
 # Cloud Security Engineer
 
 <div class="content-section with-divider">
-  <p>Cloud Security Professional with proven zero-breach track record managing 43+ organizations and 500+ endpoints. AWS Solutions Architect Associate certified with Security+. Specializing in federal cloud security, incident response, and defense contractor requirements.</p>
+  <p>Cloud Security Professional with proven zero-breach track record managing 30+ business clients and 100+ endpoints. AWS Solutions Architect Associate certified with Security+. Specializing in federal cloud security, incident response, and defense contractor requirements.</p>
 
-  <p><strong>Zero-Breach Security Operations:</strong> Managed security for 43+ organizations across healthcare, finance, legal sectors with zero security breaches. Prevented $500K+ in ransomware damages while securing 500+ endpoints. Called when others failed - inherited and stabilized multiple compromised environments.</p>
+  <p><strong>Zero-Breach Security Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero security breaches. Prevented $300K+ in ransomware damages while securing 100+ endpoints. Called when others failed - inherited and stabilized multiple compromised environments.</p>
 
   <p><strong>Federal Cloud Security Focus:</strong> Building Federal Cloud Resume with RMF controls implementation on AWS. Deep HIPAA compliance experience translating directly to NIST and FedRAMP frameworks. Studying DoD security requirements and clearance processes for defense contractor readiness.</p>
 

@@ -3,7 +3,7 @@
 ## EXECUTIVE SUMMARY
 
 **Key Differentiators:**
-- **43+ enterprise clients** managed across critical sectors (finance, healthcare, legal, manufacturing)
+- **30+ business clients** managed across critical sectors (finance, healthcare, legal, manufacturing)
 - **Zero-breach track record** with proactive security posture management
 - **24/7 crisis response capability** with documented emergency interventions
 - **Multi-environment expertise** spanning Windows Server 2016/2019, Active Directory, Linux, cloud, and legacy systems
@@ -13,14 +13,14 @@
 ## QUANTIFIED ACHIEVEMENTS
 
 ### Client Portfolio Metrics
-- **Total Clients Managed:** 43+ organizations (24 active, 19 successfully transitioned)
+- **Total Clients Managed:** 30+ business clients (18 active, 12 successfully transitioned)
 - **Industry Coverage:** Healthcare, Legal (CPAs), Manufacturing, Construction, Retail, Professional Services
 - **Client Retention:** Multi-year engagements with consistent monthly service delivery (2021-2023)
 - **Geographic Coverage:** Multi-site implementations across Missouri region
 
 ### Security & Technical Metrics
 - **Infrastructure Scale:**
-  - 500+ endpoints managed across all clients
+  - 100+ endpoints managed across all clients
   - 20+ Windows Server deployments (2016/2019/2022)
   - 15+ Active Directory domain environments
   - 50+ network security appliances (WatchGuard, Ubiquiti, SonicWall)
@@ -34,7 +34,7 @@
 ### Business Impact Metrics
 - **Service Delivery:** 2,000+ billable hours annually
 - **Emergency Response:** <2 hour response time for critical incidents
-- **Cost Avoidance:** $500K+ in prevented ransomware damages (estimated)
+- **Cost Avoidance:** $300K+ in prevented ransomware damages (estimated)
 - **Uptime Achievement:** 99.9% availability for critical infrastructure
 
 ## TOP STAR STORIES (Ranked by Federal Relevance)
@@ -148,7 +148,7 @@
 **MSP Experience → Federal Application:**
 
 1. **Multi-Client Management → Multi-Program Support**
-   - Experience managing 43+ unique environments translates to supporting multiple defense programs
+   - Experience managing 30+ unique environments translates to supporting multiple defense programs
    - Proven ability to context-switch between different security requirements
 
 2. **SMB Constraints → Government Efficiency**
@@ -164,7 +164,7 @@
    - Natural understanding of control mapping and inheritance
 
 5. **Trusted Advisor Role → Clearance Worthiness**
-   - Maintained access to 43+ organizations' critical infrastructure
+   - Maintained access to 30+ organizations' critical infrastructure
    - Demonstrated reliability during high-pressure situations
    - Zero security incidents from insider threat perspective
 
@@ -185,15 +185,15 @@
 ## INTERVIEW AMMUNITION
 
 ### Power Statements
-- "Managed security for 43+ organizations simultaneously without a single breach"
+- "Managed security for 30+ business clients simultaneously without a single breach"
 - "Inherited and stabilized multiple compromised environments that previous providers abandoned"
-- "Prevented over $500K in ransomware damages through proactive security measures"
+- "Prevented over $300K+ in ransomware damages through proactive security measures"
 - "Maintained 99.9% uptime across critical infrastructure for financial and healthcare sectors"
 - "Responded to security incidents within 2 hours, 24/7, for 3+ years"
 
 ### Technical Depth Examples
 - "Implemented network segmentation reducing attack surface by 75% across 15+ sites"
-- "Deployed EDR achieving 100% endpoint visibility across 500+ devices"
+- "Deployed EDR achieving 100% endpoint visibility across 100+ devices"
 - "Automated patch management reducing vulnerability exposure window from weeks to 48 hours"
 - "Designed backup strategies achieving 4-hour RTO for mission-critical systems"
 
@@ -204,7 +204,7 @@
 - "Mentored junior technicians in security best practices and incident response"
 
 ### Federal Readiness Indicators
-- **Security Clearance Ready:** Demonstrated trustworthiness with access to 43+ organizations
+- **Security Clearance Ready:** Demonstrated trustworthiness with access to 30+ organizations
 - **Mission Focus:** Prioritized business continuity over technical elegance
 - **Pressure Performance:** Proven crisis management during ransomware attempts
 - **Documentation Skills:** Maintained compliance documentation for audits

@@ -1,5 +1,5 @@
 # Joshua Michael Hall
-## IT Infrastructure Professional | MSP Founder ($250K Revenue) | Expanding into Cloud Architecture | AWS Focused
+## IT Infrastructure Professional | MSP Founder ($160K+ Revenue) | Expanding into Cloud Architecture | AWS Focused
 **Location:** United States (Moving to Dallas Soon)
 
 ## Contact Information
@@ -27,7 +27,7 @@
 IT Infrastructure professional with proven business leadership expanding into cloud architecture.
 
 **PROVEN BUSINESS RESULTS:**
-- Founded MSP, scaled to $250K serving 30+ SMB clients
+- Founded MSP, scaled to $160,000+ serving 30+ business clients
 - 100% client satisfaction, zero security breaches
 - Full P&L responsibility and team management experience
 
@@ -100,7 +100,7 @@ Founded and operate real estate investment company, demonstrating entrepreneuria
 **Founder & CEO**
 *December 2020 - July 2023 (2 years 8 months) | Greater St. Louis*
 
-Built managed IT services company from startup to $250K annual revenue, demonstrating exceptional technical capability and business resilience.
+Built managed IT services company from startup to $160,000+ annual revenue, demonstrating exceptional technical capability and business resilience.
 
 **Business Achievement:**
 - Scaled from zero to 40+ SMB clients with complex technical requirements
