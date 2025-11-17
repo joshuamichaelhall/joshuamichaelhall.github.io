@@ -12,7 +12,7 @@ layout: default
         <h1>Joshua Michael Hall</h1>
         <h2>Cloud Security Professional | 30+ Business Clients | Zero Breaches | Defense Contractor Ready</h2>
         <h3 class="hero-tagline">The One They Call When Others Failed • 100+ Endpoints Managed • $160K+ Revenue Reached</h3>
-        <p>Cloud Security Professional who managed 30+ business clients simultaneously with zero breaches. Prevented significant ransomware damages across 100+ endpoints while implementing enterprise-grade security controls. Called when others failed - inherited and stabilized multiple compromised environments. AWS Solutions Architect Associate certified with Security+. Expert in federal cloud security for defense contractors requiring proven operational experience.</p>
+        <p>Cloud Security Professional who managed 30+ business clients simultaneously with zero breaches. Prevented significant ransomware damages across 100+ endpoints while implementing enterprise-grade security controls. Called when others failed - inherited and stabilized multiple compromised environments. AWS Solutions Architect Associate certified with Security+ (DoD 8570 IAT Level II). Building complete federal credential stack for March 2026 job search launch.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Defense Contractor Qualifications</h4>
           <div class="cert-stats">
@@ -32,11 +32,11 @@ layout: default
           <div class="featured-certs">
             <span class="cert-badge">Incident Response Expert</span>
             <span class="cert-badge">AWS Solutions Architect</span>
-            <span class="cert-badge">Security+ (Nov 22)</span>
-            <span class="cert-badge">Cleared After Others Failed</span>
+            <span class="cert-badge">Security+ Certified</span>
+            <span class="cert-badge">CMMC Training Dec 2025</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Seeking Cloud Security Engineer Roles | Defense Contractors | Clearance Sponsorship Available</strong>
+            <strong>🚀 Building Complete Credential Stack | re:Invent Dec 1-5 | CMMC CCP/CCA Training Dec 8-12 | Job Search Launch: March 2026</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -80,11 +80,11 @@ layout: default
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
       <h3>AWS Security & Compliance</h3>
-      <p>AWS Solutions Architect Associate with Security+ completing Nov 22, 2025. Hands-on experience with AWS Security Hub, GuardDuty, CloudTrail, and IAM. Building Federal Cloud Resume with RMF controls implementation. Expertise in AWS security services and compliance automation for federal environments.</p>
+      <p>AWS Solutions Architect Associate with Security+ certified (DoD 8570 IAT Level II). Hands-on experience with AWS Security Hub, GuardDuty, CloudTrail, and IAM. Building Federal Cloud Resume with NIST 800-53 controls implementation. Completing CMMC CCP/CCA assessor training December 2025 for defense contractor specialization.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Security Incident Response</h3>
-      <p>Proven track record resolving complex security incidents that other providers couldn't handle. Zero-breach operations across 43+ organizations managing 500+ endpoints. Expert in threat detection, containment, and remediation. Experience with SIEM tools, log analysis, and forensic investigation techniques.</p>
+      <p>Proven track record resolving complex security incidents that other providers couldn't handle. Zero-breach operations across 30+ business clients managing 100+ endpoints. Expert in threat detection, containment, and remediation. Prevented significant ransomware damages through proactive security measures and rapid incident response.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Infrastructure Security & Monitoring</h3>
@@ -102,13 +102,14 @@ layout: default
   <p class="section-intro-text">Targeted certification strategy focused on defense contractor requirements and federal cloud security.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
-      <h3>Current Credentials</h3>
+      <h3>Current Credentials (Nov 2025)</h3>
       <ul>
-        <li>AWS Solutions Architect Associate (Nov 2025)</li>
-        <li>CompTIA Security+ (Taking Nov 22, 2025)</li>
-        <li>CompTIA Project+ (Completed)</li>
-        <li>CompTIA Cloud Essentials+ (Completed)</li>
+        <li>AWS Solutions Architect Associate (Nov 8, 2025)</li>
+        <li>CompTIA Security+ CE (Nov 16, 2025) - DoD 8570</li>
+        <li>CompTIA Linux+ (2023)</li>
+        <li>ITIL 4 Foundation (2022)</li>
         <li>Google Project Management Certificate</li>
+        <li>Amateur Extra Ham Radio (KI2W)</li>
       </ul>
     </div>
     <div class="roadmap-phase">
@@ -122,13 +123,14 @@ layout: default
       </ul>
     </div>
     <div class="roadmap-phase">
-      <h3>Target Specialization</h3>
+      <h3>Credential Stack (Dec 2025 - Feb 2026)</h3>
       <ul>
-        <li>AWS Security Specialty (Target: Jan 2026)</li>
-        <li>Federal Cloud Security (RMF Controls)</li>
-        <li>Defense Contractor Clearance Track</li>
-        <li>Incident Response & Forensics</li>
-        <li>Compliance Automation (NIST/FedRAMP)</li>
+        <li>CMMC CCP (Dec 20, 2025) - Enables Tier 3 clearance</li>
+        <li>CMMC CCA (Jan 15, 2026) - Rare dual certification</li>
+        <li>AWS Security Specialty (Feb 28, 2026)</li>
+        <li>Federal Cloud Resume (Nov 2025) - NIST controls</li>
+        <li>Federal Security Dashboard (Feb 2026)</li>
+        <li>Job Search Launch: March 1, 2026</li>
       </ul>
     </div>
   </div>
@@ -143,8 +145,8 @@ layout: default
       <p>Managed security for 30+ business clients across healthcare, finance, legal sectors with zero security breaches. Secured 100+ endpoints with enterprise-grade security controls. Managed 33 access points, 11 firewalls, 6 Windows servers, 2 Linux servers, and 61 cloud accounts. Inherited and stabilized multiple compromised environments that previous providers abandoned.</p>
     </div>
     <div class="success-story">
-      <h3>Federal Cloud Resume Challenge</h3>
-      <p>Building serverless resume website on AWS with RMF security controls implementation. Demonstrates AWS security services integration, Infrastructure as Code with Terraform, and federal compliance automation. Focus on defense contractor security requirements.</p>
+      <h3>Federal Cloud Resume (Nov 17-30, 2025)</h3>
+      <p>Building serverless resume website on AWS with NIST 800-53 security controls implementation. Demonstrates AWS Security Hub, GuardDuty, CloudTrail, WAF, and Systems Manager Parameter Store integration. Complete Terraform Infrastructure as Code with compliance checking Lambda function. Ready to demo at AWS re:Invent Dec 1-5, 2025.</p>
     </div>
     <div class="success-story">
       <h3>Security Monitoring & Automation</h3>
@@ -157,8 +159,8 @@ layout: default
 </div>
 
 <div class="home-section no-divider" id="thought-leadership">
-  <h2>Cloud Security Insights & AWS re:Invent 2024</h2>
-  <p class="section-intro-text">Sharing practical security engineering insights from MSP operations and preparing for AWS re:Invent Dec 1-6, 2024 focused on federal cloud security.</p>
+  <h2>Cloud Security Insights & AWS re:Invent 2025</h2>
+  <p class="section-intro-text">Sharing practical security engineering insights from MSP operations. Attending AWS re:Invent Dec 1-5, 2025 for defense contractor networking. Building complete credential stack (CCP + CCA + AWS Security Specialty) before March 2026 job search launch.</p>
   <div class="article-preview">
     <h3>Security Engineering Focus Areas</h3>
     <ul>
