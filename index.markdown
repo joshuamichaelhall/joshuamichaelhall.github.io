@@ -10,37 +10,38 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Security Professional | 30+ Business Clients | Zero Breaches | Defense Contractor Ready</h2>
-        <h3 class="hero-tagline">The One They Call When Others Failed • 100+ Endpoints Managed • $160K+ Revenue Reached</h3>
-        <p>Cloud Security Professional who managed 30+ business clients simultaneously with zero breaches. Prevented significant ransomware damages across 100+ endpoints while implementing enterprise-grade security controls. Called when others failed - inherited and stabilized multiple compromised environments. AWS Solutions Architect Associate certified with Security+ (DoD 8570 IAT Level II). Building complete federal credential stack for March 2026 job search launch.</p>
+        <h2>Cloud Infrastructure Engineer | AWS SAA | Security+ | CMMC CCP/CCA | Amateur Extra (KI2W) | Huntsville 2026</h2>
+        <h3 class="hero-tagline">Zero-Breach Track Record • Complete Federal Credential Stack • Applications Launch Feb 10, 2026</h3>
+        <p>Cloud Infrastructure Engineer with zero-breach track record across 30+ organizations over 10 years. Building complete federal infrastructure credential stack for defense contractor opportunities. Applications launch February 10, 2026 with premium positioning: CMMC CCP/CCA + AWS Security + Zero breaches = rare combination defense contractors need.</p>
         <div class="certification-highlight">
-          <h4><span class="cert-icon">🎯</span> Defense Contractor Qualifications</h4>
+          <h4><span class="cert-icon">🎯</span> Complete Federal Infrastructure Credential Stack</h4>
           <div class="cert-stats">
             <div class="cert-stat">
-              <span class="cert-number">100%</span>
-              <span class="cert-label">Called After Others Failed</span>
-            </div>
-            <div class="cert-stat">
               <span class="cert-number">Zero</span>
-              <span class="cert-label">Breaches Post-Implementation</span>
+              <span class="cert-label">Breaches (10 Years)</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">PCI/HIPAA</span>
-              <span class="cert-label">→ NIST 800-53 Controls</span>
+              <span class="cert-number">CMMC</span>
+              <span class="cert-label">CCP + CCA Dual</span>
+            </div>
+            <div class="cert-stat">
+              <span class="cert-number">Feb 10</span>
+              <span class="cert-label">Applications Launch</span>
             </div>
           </div>
           <div class="featured-certs">
-            <span class="cert-badge">Incident Response Expert</span>
-            <span class="cert-badge">AWS Solutions Architect</span>
-            <span class="cert-badge">Security+ Certified</span>
-            <span class="cert-badge">CMMC Training Dec 2025</span>
+            <span class="cert-badge">AWS SAA (Nov 8)</span>
+            <span class="cert-badge">Security+ (Nov 16)</span>
+            <span class="cert-badge">CMMC CCP (Dec 18)</span>
+            <span class="cert-badge">CMMC CCA (Dec 27)</span>
+            <span class="cert-badge">Amateur Extra (KI2W)</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 Building Complete Credential Stack | re:Invent Dec 1-5 | CMMC CCP/CCA Training Dec 8-12 | Job Search Launch: March 2026</strong>
+            <strong>🚀 AWS re:Invent Dec 1-6 (Networking Only) | CMMC Training Dec 8-13 | Applications Launch: Feb 10, 2026</strong>
           </div>
         </div>
         <div class="hero-links">
-          <a href="/about" class="btn primary-btn cta-main-btn">View Security Background</a>
+          <a href="/about" class="btn primary-btn cta-main-btn">View Infrastructure Experience</a>
           <a href="https://linkedin.com/in/joshuamichaelhall" class="btn secondary-btn cta-main-btn">Connect on LinkedIn</a>
           <a href="/contact" class="btn outlined-btn cta-main-btn">Discuss Opportunities</a>
         </div>
@@ -50,7 +51,7 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-achievements">
-  <h2>Real Security Incident Response - When Others Failed</h2>
+  <h2>Zero-Breach Operations - Real Infrastructure Security</h2>
   <div class="impact-metrics">
     <div class="metric-card">
       <div class="metric-value">Ransomware</div>
@@ -69,109 +70,109 @@ layout: default
     </div>
     <div class="metric-card">
       <div class="metric-value">30+</div>
-      <div class="metric-label">Business Clients</div>
-      <div class="metric-detail">Managed security for 30+ business clients across healthcare, finance, legal, and manufacturing sectors simultaneously</div>
+      <div class="metric-label">Organizations Secured</div>
+      <div class="metric-detail">Zero security breaches across 30+ organizations over 10 years - finance, legal, professional services, manufacturing</div>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="technical-focus">
-  <h2>Cloud Security Engineering Competencies</h2>
+  <h2>Cloud Infrastructure Engineering Competencies</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>AWS Security & Compliance</h3>
-      <p>AWS Solutions Architect Associate with Security+ certified (DoD 8570 IAT Level II). Hands-on experience with AWS Security Hub, GuardDuty, CloudTrail, and IAM. Building Federal Cloud Resume with NIST 800-53 controls implementation. Completing CMMC CCP/CCA assessor training December 2025 for defense contractor specialization.</p>
+      <h3>AWS Infrastructure & Security</h3>
+      <p>AWS Solutions Architect Associate (Nov 8) with Security+ (Nov 16) - DoD 8570 IAT Level II. Federal Cloud Resume live at joshuahall.tech. Building Federal Security Dashboard with CloudTrail, Security Hub, GuardDuty, Config, WAF, KMS. Complete Terraform IaC with NIST 800-53 control mappings. CMMC CCP (Dec 18) + CCA (Dec 27) dual certification.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Security Incident Response</h3>
-      <p>Proven track record resolving complex security incidents that other providers couldn't handle. Zero-breach operations across 30+ business clients managing 100+ endpoints. Expert in threat detection, containment, and remediation. Prevented significant ransomware damages through proactive security measures and rapid incident response.</p>
+      <h3>Operational Security Excellence</h3>
+      <p>Zero-breach track record across 30+ organizations (10 years). Stabilized compromised environments others couldn't fix. <2 hour incident response time, 24/7 availability. Prevented significant ransomware damages through proactive security measures and rapid containment. Expert in threat detection, isolation, and remediation.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Infrastructure Security & Monitoring</h3>
-      <p>Advanced expertise in Terraform, Python scripting, and security automation. Implemented proactive monitoring systems reducing security incidents by 90%. Experience with vulnerability management, patch management, and security baseline enforcement across heterogeneous environments.</p>
+      <h3>Infrastructure as Code & Automation</h3>
+      <p>Complete Terraform expertise for compliant, repeatable deployments. Python (Boto3) automation for AWS security services. Implemented proactive monitoring systems reducing security incidents by 90%. Heterogeneous environment management (Linux, Windows, macOS) with security baseline enforcement.</p>
     </div>
     <div class="tech-focus-item">
-      <h3>Federal Compliance & RMF</h3>
-      <p>Deep HIPAA compliance experience translating to NIST cybersecurity framework and FedRAMP. Building expertise in Risk Management Framework (RMF) controls for federal cloud environments. Understanding of FISMA, DoD security requirements, and clearance processes.</p>
+      <h3>Federal Compliance & CMMC</h3>
+      <p>HIPAA compliance experience translating to NIST 800-53 and FedRAMP frameworks. CMMC Certified Professional + Certified Assessor (rare dual certification). Understanding FISMA, DoD security requirements, clearance processing. Building assessment-ready cloud infrastructure that passes CMMC audits.</p>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="certification-journey">
-  <h2>Cloud Security Certification Roadmap</h2>
-  <p class="section-intro-text">Targeted certification strategy focused on defense contractor requirements and federal cloud security.</p>
+  <h2>Complete Federal Infrastructure Credential Stack</h2>
+  <p class="section-intro-text">Strategic credential combination for Cloud Infrastructure Engineer roles in defense contracting.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
       <h3>Current Credentials (Nov 2025)</h3>
       <ul>
-        <li>AWS Solutions Architect Associate (Nov 8, 2025)</li>
-        <li>CompTIA Security+ CE (Nov 16, 2025) - DoD 8570</li>
-        <li>CompTIA Linux+ (2023)</li>
+        <li>✅ AWS Solutions Architect Associate (Nov 8, 2025)</li>
+        <li>✅ CompTIA Security+ CE (Nov 16, 2025) - DoD 8570 IAT Level II</li>
+        <li>✅ Federal Cloud Resume live (joshuahall.tech)</li>
+        <li>✅ Amateur Extra Ham Radio (KI2W)</li>
         <li>ITIL 4 Foundation (2022)</li>
         <li>Google Project Management Certificate</li>
-        <li>Amateur Extra Ham Radio (KI2W)</li>
       </ul>
     </div>
     <div class="roadmap-phase">
-      <h3>Technical Focus Areas</h3>
+      <h3>Core Technical Competencies</h3>
       <ul>
-        <li>AWS Security Services (GuardDuty, Security Hub, CloudTrail)</li>
-        <li>Terraform Infrastructure as Code</li>
-        <li>Python Security Automation</li>
-        <li>Linux/Windows/macOS Administration</li>
-        <li>Network Security & Monitoring</li>
+        <li>AWS Infrastructure (S3, CloudFront, Lambda, API Gateway, DynamoDB)</li>
+        <li>AWS Security (CloudTrail, Security Hub, GuardDuty, Config, WAF, KMS)</li>
+        <li>Infrastructure as Code (Terraform)</li>
+        <li>Development (Python Boto3, JavaScript, YAML)</li>
+        <li>Operational Security (Zero breaches, incident response)</li>
       </ul>
     </div>
     <div class="roadmap-phase">
-      <h3>Credential Stack (Dec 2025 - Feb 2026)</h3>
+      <h3>Completing Stack (Dec 2025 - Feb 2026)</h3>
       <ul>
-        <li>CMMC CCP (Dec 20, 2025) - Enables Tier 3 clearance</li>
-        <li>CMMC CCA (Jan 15, 2026) - Rare dual certification</li>
-        <li>AWS Security Specialty (Feb 28, 2026)</li>
-        <li>Federal Cloud Resume (Nov 2025) - NIST controls</li>
-        <li>Federal Security Dashboard (Feb 2026)</li>
-        <li>Job Search Launch: March 1, 2026</li>
+        <li>🎯 CMMC Certified Professional (Dec 18, 2025)</li>
+        <li>🎯 CMMC Certified Assessor (Dec 27, 2025) - Rare dual CCP + CCA</li>
+        <li>🎯 FEMA ICS/NIMS + FAC-COR Level I + DAU ACQ 101 (Jan 2026)</li>
+        <li>🎯 Federal Security Dashboard with NIST mappings (Feb 2026)</li>
+        <li>🎯 AWS Security Specialty (March 2026 - after employment)</li>
+        <li>🚀 Applications Launch: February 10, 2026</li>
       </ul>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="projects">
-  <h2>Security Engineering Experience & Projects</h2>
-  <p class="section-intro-text">Real-world security implementations and incident response successes from MSP operations and cloud security projects.</p>
+  <h2>Cloud Infrastructure Experience & Federal Projects</h2>
+  <p class="section-intro-text">Real-world infrastructure security and federal compliance implementations demonstrating Cloud Infrastructure Engineer capabilities.</p>
   <div class="success-stories">
     <div class="success-story">
-      <h3>Zero-Breach Operations at Scale</h3>
-      <p>Managed security for 30+ business clients across healthcare, finance, legal sectors with zero security breaches. Secured 100+ endpoints with enterprise-grade security controls. Managed 33 access points, 11 firewalls, 6 Windows servers, 2 Linux servers, and 61 cloud accounts. Inherited and stabilized multiple compromised environments that previous providers abandoned.</p>
+      <h3>Zero-Breach Infrastructure Operations (2015-2025)</h3>
+      <p>Zero security breaches across 30+ organizations over 10 years. Called when others failed - stabilized multiple compromised environments. Managed heterogeneous infrastructures (Linux, Windows, macOS) with enterprise-grade security. <2 hour incident response time, 24/7 availability. Prevented significant ransomware damages through proactive security measures.</p>
     </div>
     <div class="success-story">
-      <h3>Federal Cloud Resume (Nov 17-30, 2025)</h3>
-      <p>Building serverless resume website on AWS with NIST 800-53 security controls implementation. Demonstrates AWS Security Hub, GuardDuty, CloudTrail, WAF, and Systems Manager Parameter Store integration. Complete Terraform Infrastructure as Code with compliance checking Lambda function. Ready to demo at AWS re:Invent Dec 1-5, 2025.</p>
+      <h3>Federal Cloud Resume (joshuahall.tech) - Live Demo</h3>
+      <p>Serverless AWS architecture: S3 + CloudFront + Lambda + API Gateway + DynamoDB. Phase 2 (Feb 2026): Federal Security Dashboard with CloudTrail, Security Hub, GuardDuty, Config, WAF, KMS. Complete Terraform IaC with NIST 800-53 control mappings. Assessment-ready documentation for CMMC compliance demonstration.</p>
     </div>
     <div class="success-story">
-      <h3>Security Monitoring & Automation</h3>
-      <p>Implemented proactive security monitoring systems reducing incidents by 90% across client environments. Automated threat detection, vulnerability scanning, and compliance reporting. Expertise in SIEM tools, log analysis, and security orchestration.</p>
+      <h3>Federal Security Dashboard (February 2026)</h3>
+      <p>Complete AWS security services integration: CloudTrail multi-region logging, Security Hub findings aggregation, GuardDuty threat detection, Config compliance monitoring, WAF protection rules, KMS encryption management. Automated compliance checking with NIST 800-53 practice mappings for defense contractor requirements.</p>
     </div>
   </div>
   <div class="section-link">
-    <a href="/portfolio" class="btn outlined-btn">View Security Portfolio</a>
+    <a href="/portfolio" class="btn outlined-btn">View Infrastructure Portfolio</a>
   </div>
 </div>
 
 <div class="home-section no-divider" id="thought-leadership">
-  <h2>Cloud Security Insights & AWS re:Invent 2025</h2>
-  <p class="section-intro-text">Sharing practical security engineering insights from MSP operations. Attending AWS re:Invent Dec 1-5, 2025 for defense contractor networking. Building complete credential stack (CCP + CCA + AWS Security Specialty) before March 2026 job search launch.</p>
+  <h2>Federal Cloud Infrastructure & AWS re:Invent 2025</h2>
+  <p class="section-intro-text">Sharing practical infrastructure engineering insights and federal compliance expertise. Attending AWS re:Invent Dec 1-6 for defense contractor networking (NO job applications). Complete credential stack launch: February 10, 2026.</p>
   <div class="article-preview">
-    <h3>Security Engineering Focus Areas</h3>
+    <h3>Cloud Infrastructure Engineering Focus</h3>
     <ul>
-      <li>Zero-Breach Operations: Lessons from MSP Security Management</li>
-      <li>HIPAA to Federal Compliance: Translating Security Frameworks</li>
-      <li>AWS Security Services: Practical Implementation for Defense Contractors</li>
-      <li>Incident Response: Resolving Complex Security Challenges</li>
+      <li>Zero-Breach Operations: 10 Years of Infrastructure Security Excellence</li>
+      <li>CMMC + AWS Integration: Building Assessment-Ready Cloud Infrastructure</li>
+      <li>Federal Compliance: NIST 800-53 Control Implementation in AWS</li>
+      <li>Complete Credential Stack: The Strategic Advantage for Defense Contractors</li>
     </ul>
   </div>
   <div class="section-link">
-    <a href="/blog" class="btn outlined-btn">Read Security Articles</a>
+    <a href="/blog" class="btn outlined-btn">Read Infrastructure Articles</a>
   </div>
 </div>
 
