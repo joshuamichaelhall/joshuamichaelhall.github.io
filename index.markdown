@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Infrastructure Engineer | AWS SAA | Security+ | CMMC CCP/CCA | Amateur Extra (KI2W) | Huntsville 2026</h2>
-        <h3 class="hero-tagline">Zero-Breach Track Record • Complete Federal Credential Stack • Applications Launch Feb 10, 2026</h3>
-        <p>Cloud Infrastructure Engineer with zero-breach track record across 30+ organizations over 10 years. Building complete federal infrastructure credential stack for defense contractor opportunities. Applications launch February 10, 2026 with premium positioning: CMMC CCP/CCA + AWS Security + Zero breaches = rare combination defense contractors need.</p>
+        <h2>Cloud Security Architect | AWS SAA | Security+ | CMMC CCP/CCA | Amateur Extra (KI2W) | Huntsville 2026</h2>
+        <h3 class="hero-tagline">Zero-Breach Track Record • Complete Federal Credential Stack • Seeking Cloud Security Architect Opportunities</h3>
+        <p>Cloud Security Architect with zero-breach track record across 30+ organizations over 10 years. Building complete federal credential stack for defense contractor opportunities. Architect-level positioning with rare combination: CMMC CCP/CCA + AWS Security + Zero breaches + MSP Architecture Leadership.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Complete Federal Infrastructure Credential Stack</h4>
           <div class="cert-stats">
@@ -25,19 +25,19 @@ layout: default
               <span class="cert-label">CCP + CCA Dual</span>
             </div>
             <div class="cert-stat">
-              <span class="cert-number">Feb 10</span>
-              <span class="cert-label">Applications Launch</span>
+              <span class="cert-number">Architect</span>
+              <span class="cert-label">Level Positioning</span>
             </div>
           </div>
           <div class="featured-certs">
             <span class="cert-badge">AWS SAA (Nov 8)</span>
             <span class="cert-badge">Security+ (Nov 16)</span>
             <span class="cert-badge">CMMC CCP (Dec 18)</span>
-            <span class="cert-badge">CMMC CCA (Dec 27)</span>
+            <span class="cert-badge">CMMC CCA (Jan 3)</span>
             <span class="cert-badge">Amateur Extra (KI2W)</span>
           </div>
           <div class="availability-notice">
-            <strong>🚀 AWS re:Invent Dec 1-6 (Networking Only) | CMMC Training Dec 8-13 | Applications Launch: Feb 10, 2026</strong>
+            <strong>🚀 AWS re:Invent Dec 1-6 | CMMC Training Dec 8-13 | Seeking Cloud Security Architect Opportunities Early 2026</strong>
           </div>
         </div>
         <div class="hero-links">
@@ -77,11 +77,11 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="technical-focus">
-  <h2>Cloud Infrastructure Engineering Competencies</h2>
+  <h2>Cloud Security Architecture Competencies</h2>
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
-      <h3>AWS Infrastructure & Security</h3>
-      <p>AWS Solutions Architect Associate (Nov 8) with Security+ (Nov 16) - DoD 8570 IAT Level II. Federal Cloud Resume live at joshuahall.tech. Building Federal Security Dashboard with CloudTrail, Security Hub, GuardDuty, Config, WAF, KMS. Complete Terraform IaC with NIST 800-53 control mappings. CMMC CCP (Dec 18) + CCA (Dec 27) dual certification.</p>
+      <h3>AWS Security Architecture</h3>
+      <p>AWS Solutions Architect Associate (Nov 8) with Security+ (Nov 16) - DoD 8570 IAT Level II. Federal Cloud Resume live at joshuahall.tech demonstrating serverless architecture. CMMC CCP (Dec 18) + CCA (Jan 3) dual certification. Building Federal Security Dashboard with CloudTrail, Security Hub, GuardDuty. Complete Terraform IaC with NIST 800-53 control mappings.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Operational Security Excellence</h3>
@@ -99,8 +99,8 @@ layout: default
 </div>
 
 <div class="home-section with-divider" id="certification-journey">
-  <h2>Complete Federal Infrastructure Credential Stack</h2>
-  <p class="section-intro-text">Strategic credential combination for Cloud Infrastructure Engineer roles in defense contracting.</p>
+  <h2>Complete Federal Security Credential Stack</h2>
+  <p class="section-intro-text">Strategic credential combination for Cloud Security Architect roles in defense contracting.</p>
   <div class="roadmap-phases">
     <div class="roadmap-phase">
       <h3>Current Credentials (Nov 2025)</h3>
@@ -124,22 +124,22 @@ layout: default
       </ul>
     </div>
     <div class="roadmap-phase">
-      <h3>Completing Stack (Dec 2025 - Feb 2026)</h3>
+      <h3>Completing Stack (Dec 2025 - Early 2026)</h3>
       <ul>
         <li>🎯 CMMC Certified Professional (Dec 18, 2025)</li>
-        <li>🎯 CMMC Certified Assessor (Dec 27, 2025) - Rare dual CCP + CCA</li>
+        <li>🎯 CMMC Certified Assessor (Jan 3, 2026) - Rare dual CCP + CCA</li>
         <li>🎯 FEMA ICS/NIMS + FAC-COR Level I + DAU ACQ 101 (Jan 2026)</li>
-        <li>🎯 Federal Security Dashboard with NIST mappings (Feb 2026)</li>
-        <li>🎯 AWS Security Specialty (March 2026 - after employment)</li>
-        <li>🚀 Applications Launch: February 10, 2026</li>
+        <li>🎯 AWS Security Specialty (Q1 2026)</li>
+        <li>🎯 Federal Security Dashboard with NIST mappings (Q1 2026)</li>
+        <li>🚀 Seeking Cloud Security Architect Opportunities Early 2026</li>
       </ul>
     </div>
   </div>
 </div>
 
 <div class="home-section with-divider" id="projects">
-  <h2>Cloud Infrastructure Experience & Federal Projects</h2>
-  <p class="section-intro-text">Real-world infrastructure security and federal compliance implementations demonstrating Cloud Infrastructure Engineer capabilities.</p>
+  <h2>Cloud Security Architecture Experience & Federal Projects</h2>
+  <p class="section-intro-text">Real-world security architecture and federal compliance implementations demonstrating Cloud Security Architect capabilities.</p>
   <div class="success-stories">
     <div class="success-story">
       <h3>Zero-Breach Infrastructure Operations (2015-2025)</h3>
@@ -147,11 +147,11 @@ layout: default
     </div>
     <div class="success-story">
       <h3>Federal Cloud Resume (joshuahall.tech) - Live Demo</h3>
-      <p>Serverless AWS architecture: S3 + CloudFront + Lambda + API Gateway + DynamoDB. Phase 2 (Feb 2026): Federal Security Dashboard with CloudTrail, Security Hub, GuardDuty, Config, WAF, KMS. Complete Terraform IaC with NIST 800-53 control mappings. Assessment-ready documentation for CMMC compliance demonstration.</p>
+      <p>Serverless AWS architecture: S3 + CloudFront + Lambda + API Gateway + DynamoDB. Demonstrates NIST-compliant cloud architecture with least-privilege IAM, encryption in transit and at rest, and serverless implementation. Complete Terraform IaC demonstrating infrastructure-as-code best practices.</p>
     </div>
     <div class="success-story">
-      <h3>Federal Security Dashboard (February 2026)</h3>
-      <p>Complete AWS security services integration: CloudTrail multi-region logging, Security Hub findings aggregation, GuardDuty threat detection, Config compliance monitoring, WAF protection rules, KMS encryption management. Automated compliance checking with NIST 800-53 practice mappings for defense contractor requirements.</p>
+      <h3>Federal Security Dashboard (In Development)</h3>
+      <p>AWS security services integration demonstrating architect-level thinking: CloudTrail multi-region logging, Security Hub findings aggregation, GuardDuty threat detection. Automated compliance checking with NIST 800-53 control mappings. Architecture Decision Records documenting design choices and business value for defense contractor requirements.</p>
     </div>
   </div>
   <div class="section-link">
@@ -160,15 +160,15 @@ layout: default
 </div>
 
 <div class="home-section no-divider" id="thought-leadership">
-  <h2>Federal Cloud Infrastructure & AWS re:Invent 2025</h2>
-  <p class="section-intro-text">Sharing practical infrastructure engineering insights and federal compliance expertise. Attending AWS re:Invent Dec 1-6 for defense contractor networking (NO job applications). Complete credential stack launch: February 10, 2026.</p>
+  <h2>Federal Cloud Security Architecture & AWS re:Invent 2025</h2>
+  <p class="section-intro-text">Sharing practical security architecture insights and federal compliance expertise. Attending AWS re:Invent Dec 1-6 for defense contractor networking and learning.</p>
   <div class="article-preview">
-    <h3>Cloud Infrastructure Engineering Focus</h3>
+    <h3>Cloud Security Architecture Focus</h3>
     <ul>
-      <li>Zero-Breach Operations: 10 Years of Infrastructure Security Excellence</li>
-      <li>CMMC + AWS Integration: Building Assessment-Ready Cloud Infrastructure</li>
-      <li>Federal Compliance: NIST 800-53 Control Implementation in AWS</li>
-      <li>Complete Credential Stack: The Strategic Advantage for Defense Contractors</li>
+      <li>Zero-Breach Operations: 10 Years of Security Architecture Excellence</li>
+      <li>CMMC + AWS Integration: Building Assessment-Ready Cloud Security Architecture</li>
+      <li>Federal Compliance: NIST 800-53 Control Implementation and Architecture Design</li>
+      <li>Architecture Leadership: From MSP Ownership to Defense Contractor Excellence</li>
     </ul>
   </div>
   <div class="section-link">
