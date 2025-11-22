@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Security Architect | AWS SAA | Security+ | CMMC CCP/CCA | Amateur Extra (KI2W) | Huntsville 2026</h2>
+        <h2>Cloud Security Architect | AWS Solutions Architect | Security+ | CMMC Track</h2>
         <h3 class="hero-tagline">Zero-Breach Track Record • Complete Federal Credential Stack • Seeking Cloud Security Architect Opportunities</h3>
-        <p>Cloud Security Architect with zero-breach track record across 30+ organizations over 10 years. Building complete federal credential stack for defense contractor opportunities. Architect-level positioning with rare combination: CMMC CCP/CCA + AWS Security + Zero breaches + MSP Architecture Leadership.</p>
+        <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ organizations. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP/CCA credentials December-January. Seeking architect-level roles with defense contractors in Huntsville.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Complete Federal Infrastructure Credential Stack</h4>
           <div class="cert-stats">
@@ -30,8 +30,8 @@ layout: default
             </div>
           </div>
           <div class="featured-certs">
-            <span class="cert-badge">AWS SAA (Nov 8)</span>
-            <span class="cert-badge">Security+ (Nov 16)</span>
+            <span class="cert-badge">AWS SAA (November 2025)</span>
+            <span class="cert-badge">Security+ (November 2025)</span>
             <span class="cert-badge">CMMC CCP (Dec 18)</span>
             <span class="cert-badge">CMMC CCA (Jan 3)</span>
             <span class="cert-badge">Amateur Extra (KI2W)</span>
@@ -81,7 +81,7 @@ layout: default
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
       <h3>AWS Security Architecture</h3>
-      <p>AWS Solutions Architect Associate (Nov 8) with Security+ (Nov 16) - DoD 8570 IAT Level II. Federal Cloud Resume live at joshuahall.tech demonstrating serverless architecture. CMMC CCP (Dec 18) + CCA (Jan 3) dual certification. Building Federal Security Dashboard with CloudTrail, Security Hub, GuardDuty. Complete Terraform IaC with NIST 800-53 control mappings.</p>
+      <p>AWS Solutions Architect Associate (November 2025) with Security+ (November 2025) - DoD 8570 IAT Level II. Federal Cloud Resume live at joshuahall.tech demonstrating serverless architecture. CMMC CCP (Dec 18) + CCA (Jan 3) dual certification. Building Federal Security Dashboard with CloudTrail, Security Hub, GuardDuty. Complete Terraform IaC with NIST 800-53 control mappings.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Operational Security Excellence</h3>
@@ -89,7 +89,7 @@ layout: default
     </div>
     <div class="tech-focus-item">
       <h3>Infrastructure as Code & Automation</h3>
-      <p>Complete Terraform expertise for compliant, repeatable deployments. Python (Boto3) automation for AWS security services. Implemented proactive monitoring systems reducing security incidents by 90%. Heterogeneous environment management (Linux, Windows, macOS) with security baseline enforcement.</p>
+      <p>Complete Terraform expertise for compliant, repeatable deployments. Python, Ruby, Bash automation for AWS security services. Implemented proactive monitoring systems reducing security incidents by 90%. Heterogeneous environment management (Linux, Windows, macOS) with security baseline enforcement.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Federal Compliance & CMMC</h3>
@@ -105,8 +105,8 @@ layout: default
     <div class="roadmap-phase">
       <h3>Current Credentials (Nov 2025)</h3>
       <ul>
-        <li>✅ AWS Solutions Architect Associate (Nov 8, 2025)</li>
-        <li>✅ CompTIA Security+ CE (Nov 16, 2025) - DoD 8570 IAT Level II</li>
+        <li>✅ AWS Solutions Architect Associate (November 2025)</li>
+        <li>✅ CompTIA Security+ CE (November 2025) - DoD 8570 IAT Level II</li>
         <li>✅ Federal Cloud Resume live (joshuahall.tech)</li>
         <li>✅ Amateur Extra Ham Radio (KI2W)</li>
         <li>ITIL 4 Foundation (2022)</li>
@@ -119,7 +119,7 @@ layout: default
         <li>AWS Infrastructure (S3, CloudFront, Lambda, API Gateway, DynamoDB)</li>
         <li>AWS Security (CloudTrail, Security Hub, GuardDuty, Config, WAF, KMS)</li>
         <li>Infrastructure as Code (Terraform)</li>
-        <li>Development (Python Boto3, JavaScript, YAML)</li>
+        <li>Development (Python, Ruby, Bash, Git/GitHub, JavaScript, YAML)</li>
         <li>Operational Security (Zero breaches, incident response)</li>
       </ul>
     </div>
