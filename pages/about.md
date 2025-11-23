@@ -7,7 +7,7 @@ permalink: /about/
 # Cloud Security Engineer
 
 <div class="content-section with-divider">
-  <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ organizations. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP/CCA credentials December-January. Seeking architect-level roles with defense contractors in Huntsville.</p>
+  <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP/CCA credentials December-January. Seeking architect-level roles with defense contractors in Huntsville.</p>
 
   <p><strong>Zero-Breach Security Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero security breaches. Prevented $300K+ in ransomware damages while securing 100+ endpoints. Called when others failed - inherited and stabilized multiple compromised environments.</p>
 
@@ -41,7 +41,7 @@ permalink: /about/
           <li><strong>Incident Response</strong> - Real-world security incident resolution and containment</li>
           <li><strong>Threat Detection</strong> - SIEM tools, log analysis, behavioral monitoring</li>
           <li><strong>Vulnerability Management</strong> - Scanning, assessment, remediation across mixed environments</li>
-          <li><strong>Zero-Breach Operations</strong> - 30+ organizations, 100+ endpoints with perfect security record</li>
+          <li><strong>Zero-Breach Operations</strong> - 30+ clients, 100+ endpoints with perfect security record</li>
           <li><strong>Forensics & Investigation</strong> - Evidence collection, root cause analysis</li>
         </ul>
       </div>
@@ -99,7 +99,7 @@ permalink: /about/
   <div class="expertise-grid">
     <div class="expertise-item">
       <h3>Security Operations Specialist</h3>
-      <p>Managed security for 30+ organizations across critical sectors with zero breaches. Implemented security frameworks, secured 100+ endpoints, and achieved 100% incident response success rate.</p>
+      <p>Managed security for 30+ clients across critical sectors with zero breaches. Implemented security frameworks, secured 100+ endpoints, and achieved 100% incident response success rate.</p>
     </div>
     <div class="expertise-item">
       <h3>Cloud Transformations</h3>

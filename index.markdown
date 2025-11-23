@@ -12,7 +12,7 @@ layout: default
         <h1>Joshua Michael Hall</h1>
         <h2>Cloud Security Architect | AWS Solutions Architect | Security+ | CMMC Track</h2>
         <h3 class="hero-tagline">Zero-Breach Track Record • Complete Federal Credential Stack • Seeking Cloud Security Architect Opportunities</h3>
-        <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ organizations. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP/CCA credentials December-January. Seeking architect-level roles with defense contractors in Huntsville.</p>
+        <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP/CCA credentials December-January. Seeking architect-level roles with defense contractors in Huntsville.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Complete Federal Infrastructure Credential Stack</h4>
           <div class="cert-stats">
@@ -71,7 +71,7 @@ layout: default
     <div class="metric-card">
       <div class="metric-value">30+</div>
       <div class="metric-label">Organizations Secured</div>
-      <div class="metric-detail">Zero security breaches across 30+ organizations over 10 years - finance, legal, professional services, manufacturing</div>
+      <div class="metric-detail">Zero security breaches across 30+ clients - finance, legal, professional services, manufacturing</div>
     </div>
   </div>
 </div>
@@ -85,7 +85,7 @@ layout: default
     </div>
     <div class="tech-focus-item">
       <h3>Operational Security Excellence</h3>
-      <p>Zero-breach track record across 30+ organizations (10 years). Stabilized compromised environments others couldn't fix. <2 hour incident response time, 24/7 availability. Prevented significant ransomware damages through proactive security measures and rapid containment. Expert in threat detection, isolation, and remediation.</p>
+      <p>Zero-breach track record across 30+ clients. Stabilized compromised environments others couldn't fix. <2 hour incident response time, 24/7 availability. Prevented significant ransomware damages through proactive security measures and rapid containment. Expert in threat detection, isolation, and remediation.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Infrastructure as Code & Automation</h3>
@@ -143,7 +143,7 @@ layout: default
   <div class="success-stories">
     <div class="success-story">
       <h3>Zero-Breach Infrastructure Operations (2015-2025)</h3>
-      <p>Zero security breaches across 30+ organizations over 10 years. Called when others failed - stabilized multiple compromised environments. Managed heterogeneous infrastructures (Linux, Windows, macOS) with enterprise-grade security. <2 hour incident response time, 24/7 availability. Prevented significant ransomware damages through proactive security measures.</p>
+      <p>Zero security breaches across 30+ clients. Called when others failed - stabilized multiple compromised environments. Managed heterogeneous infrastructures (Linux, Windows, macOS) with enterprise-grade security. <2 hour incident response time, 24/7 availability. Prevented significant ransomware damages through proactive security measures.</p>
     </div>
     <div class="success-story">
       <h3>Federal Cloud Resume (joshuahall.tech) - Live Demo</h3>
