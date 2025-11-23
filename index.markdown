@@ -11,8 +11,8 @@ layout: default
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
         <h2>Cloud Security Architect | AWS Solutions Architect | Security+ | CMMC Track</h2>
-        <h3 class="hero-tagline">Zero-Breach Track Record • Complete Federal Credential Stack • Seeking Cloud Security Architect Opportunities</h3>
-        <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP/CCA credentials December-January. Seeking architect-level roles with defense contractors in Huntsville.</p>
+        <h3 class="hero-tagline">Zero-Breach Track Record • Building Federal Credential Stack • Seeking Cloud Security Architect Opportunities</h3>
+        <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP credential December. Seeking architect-level roles with defense contractors in Huntsville.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Complete Federal Infrastructure Credential Stack</h4>
           <div class="cert-stats">
@@ -22,7 +22,7 @@ layout: default
             </div>
             <div class="cert-stat">
               <span class="cert-number">CMMC</span>
-              <span class="cert-label">CCP + CCA Dual</span>
+              <span class="cert-label">CCP Certified</span>
             </div>
             <div class="cert-stat">
               <span class="cert-number">Architect</span>
@@ -33,7 +33,6 @@ layout: default
             <span class="cert-badge">AWS SAA (November 2025)</span>
             <span class="cert-badge">Security+ (November 2025)</span>
             <span class="cert-badge">CMMC CCP (Dec 18)</span>
-            <span class="cert-badge">CMMC CCA (Jan 3)</span>
             <span class="cert-badge">Amateur Extra (KI2W)</span>
           </div>
           <div class="availability-notice">
@@ -81,7 +80,7 @@ layout: default
   <div class="tech-focus-grid">
     <div class="tech-focus-item">
       <h3>AWS Security Architecture</h3>
-      <p>AWS Solutions Architect Associate (November 2025) with Security+ (November 2025) - DoD 8570 IAT Level II. Federal Cloud Resume live at joshuahall.tech demonstrating serverless architecture. CMMC CCP (Dec 18) + CCA (Jan 3) dual certification. Building Federal Security Dashboard with CloudTrail, Security Hub, GuardDuty. Complete Terraform IaC with NIST 800-53 control mappings.</p>
+      <p>AWS Solutions Architect Associate (November 2025) with Security+ (November 2025) - DoD 8570 IAT Level II. Federal Cloud Resume live at joshuahall.tech demonstrating serverless architecture. CMMC CCP certification (Dec 18). Building Federal Security Dashboard with CloudTrail, Security Hub, GuardDuty. Complete Terraform IaC with NIST 800-53 control mappings.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Operational Security Excellence</h3>
@@ -93,7 +92,7 @@ layout: default
     </div>
     <div class="tech-focus-item">
       <h3>Federal Compliance & CMMC</h3>
-      <p>HIPAA compliance experience translating to NIST 800-53 and FedRAMP frameworks. CMMC Certified Professional + Certified Assessor (rare dual certification). Understanding FISMA, DoD security requirements, clearance processing. Building assessment-ready cloud infrastructure that passes CMMC audits.</p>
+      <p>HIPAA compliance experience translating to NIST 800-53 and FedRAMP frameworks. CMMC Certified Professional. Understanding FISMA, DoD security requirements, clearance processing. Building assessment-ready cloud infrastructure that meets CMMC requirements.</p>
     </div>
   </div>
 </div>
@@ -124,14 +123,14 @@ layout: default
       </ul>
     </div>
     <div class="roadmap-phase">
-      <h3>Completing Stack (Dec 2025 - Early 2026)</h3>
+      <h3>Completing Stack (Dec 2025 - Mid 2026)</h3>
       <ul>
         <li>🎯 CMMC Certified Professional (Dec 18, 2025)</li>
-        <li>🎯 CMMC Certified Assessor (Jan 3, 2026) - Rare dual CCP + CCA</li>
-        <li>🎯 FEMA ICS/NIMS + FAC-COR Level I + DAU ACQ 101 (Jan 2026)</li>
         <li>🎯 AWS Security Specialty (Q1 2026)</li>
         <li>🎯 Federal Security Dashboard with NIST mappings (Q1 2026)</li>
+        <li>🎯 FEMA ICS/NIMS + FAC-COR Level I + DAU ACQ 101 (Q2 2026)</li>
         <li>🚀 Seeking Cloud Security Architect Opportunities Early 2026</li>
+        <li>📋 Future: CMMC CCA (requires 12 months assessment experience + Tier 3 clearance)</li>
       </ul>
     </div>
   </div>

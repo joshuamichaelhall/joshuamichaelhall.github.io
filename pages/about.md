@@ -7,7 +7,7 @@ permalink: /about/
 # Cloud Security Engineer
 
 <div class="content-section with-divider">
-  <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP/CCA credentials December-January. Seeking architect-level roles with defense contractors in Huntsville.</p>
+  <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP credential December. Seeking architect-level roles with defense contractors in Huntsville.</p>
 
   <p><strong>Zero-Breach Security Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero security breaches. Prevented $300K+ in ransomware damages while securing 100+ endpoints. Called when others failed - inherited and stabilized multiple compromised environments.</p>
 
@@ -64,7 +64,6 @@ permalink: /about/
       <li><strong>AWS Solutions Architect Associate</strong> - November 2025</li>
       <li><strong>CompTIA Security+</strong> - November 2025</li>
       <li><strong>CMMC Certified Professional (CCP)</strong> - December 18, 2025</li>
-      <li><strong>CMMC Certified Assessor (CCA)</strong> - January 3, 2026</li>
       <li><strong>Launch School Backend Software Engineering</strong> - Completed 9 rigorous courses (mastery-based learning)</li>
       <li><strong>CompTIA Project+</strong> - Active (Previous certification)</li>
       <li><strong>CompTIA Cloud Essentials+</strong> - Active (Previous certification)</li>
