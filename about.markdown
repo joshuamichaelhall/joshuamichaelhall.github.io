@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-# Cloud Security Engineer | Defense Contractor Ready | Zero-Breach Track Record
+# Cloud Security Architect | Federal Contractor Ready | Zero-Breach Track Record
 
 ## Professional Summary
 
-Cloud Security Professional with proven zero-breach track record managing 43+ organizations and 500+ endpoints. AWS Solutions Architect Associate certified with Security+. Specializing in federal cloud security, incident response, and defense contractor requirements. Expert in incident response who gets called when others fail.
+Cloud Security Architect with proven zero-breach track record and P&L ownership across 30+ clients. Built profitable MSP to $160K+ revenue. Complete federal stack: AWS Solutions Architect Associate, Security+, CMMC CCP (Dec 18). Adding RP certification post-employment for CMMC consulting. Specializing in federal cloud security architecture and defense contractor requirements.
 
 ## Cloud Security Engineering Experience
 
@@ -35,11 +35,13 @@ Cloud Security Professional with proven zero-breach track record managing 43+ or
 - **Incident Response**: Forensic tools, threat hunting, containment procedures
 
 ### Current Certifications
-- AWS Solutions Architect Associate
-- CompTIA Security+
-- AWS Security Specialty (In Progress)
-- CompTIA Project+
-- CompTIA Cloud Essentials+
+- AWS Solutions Architect Associate (November 2025)
+- CompTIA Security+ CE (November 2025) - DoD 8570 IAT Level II
+- CMMC Certified Professional (December 18, 2025)
+- AWS Security Specialty (March 2026 - post-employment)
+- CMMC Registered Practitioner (April-May 2026 - post-employment)
+- CompTIA Project+ (Lifetime)
+- CompTIA Cloud Essentials+ (2020)
 
 ### Technical Education
 - Launch School Backend Engineering - 9 rigorous courses (mastery-based learning)
@@ -91,10 +93,11 @@ Actively building and improving:
 ## Career Goals
 
 ### Career Focus
-- Cloud Security Engineer with defense contractors
-- Security clearance sponsorship opportunities
-- Federal cloud environments and national security projects
-- RMF controls implementation and federal compliance expertise
+- Cloud Security Architect with federal defense contractors
+- Architect-level positioning in Huntsville, AL federal contractor market
+- Security clearance sponsorship for Secret/TS opportunities
+- CMMC implementation consulting (post-employment RP certification)
+- Long-term optionality: Corporate VP, Full Consulting, Product Company, Board/Advisory roles
 
 ## Personal Philosophy
 

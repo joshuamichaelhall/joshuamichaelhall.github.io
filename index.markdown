@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Security Architect | AWS Solutions Architect | Security+ | CMMC Track</h2>
-        <h3 class="hero-tagline">Zero-Breach Track Record • Building Federal Credential Stack • Seeking Cloud Security Architect Opportunities</h3>
-        <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP credential December. Seeking architect-level roles with defense contractors in Huntsville.</p>
+        <h2>Cloud Security Architect | AWS SAA | Security+ | CMMC CCP | RP Track</h2>
+        <h3 class="hero-tagline">Zero-Breach Track Record • Complete Federal Credential Stack • Architect-Level Federal Contractor Positioning</h3>
+        <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. Complete federal stack: AWS SAA, Security+, CMMC CCP (Dec 18). Adding RP certification post-employment for CMMC consulting. Seeking architect-level roles with defense contractors in Huntsville.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Complete Federal Infrastructure Credential Stack</h4>
           <div class="cert-stats">
@@ -30,10 +30,10 @@ layout: default
             </div>
           </div>
           <div class="featured-certs">
-            <span class="cert-badge">AWS SAA (November 2025)</span>
-            <span class="cert-badge">Security+ (November 2025)</span>
+            <span class="cert-badge">AWS SAA (Nov 2025)</span>
+            <span class="cert-badge">Security+ (Nov 2025)</span>
             <span class="cert-badge">CMMC CCP (Dec 18)</span>
-            <span class="cert-badge">Amateur Extra (KI2W)</span>
+            <span class="cert-badge">RP Track (Apr 2026)</span>
           </div>
           <div class="availability-notice">
             <strong>🚀 AWS re:Invent Dec 1-6 | CMMC Training Dec 8-13 | Seeking Cloud Security Architect Opportunities Early 2026</strong>
@@ -126,11 +126,11 @@ layout: default
       <h3>Completing Stack (Dec 2025 - Mid 2026)</h3>
       <ul>
         <li>🎯 CMMC Certified Professional (Dec 18, 2025)</li>
-        <li>🎯 AWS Security Specialty (Q1 2026)</li>
-        <li>🎯 Federal Security Dashboard with NIST mappings (Q1 2026)</li>
-        <li>🎯 FEMA ICS/NIMS + FAC-COR Level I + DAU ACQ 101 (Q2 2026)</li>
-        <li>🚀 Seeking Cloud Security Architect Opportunities Early 2026</li>
-        <li>📋 Future: CMMC CCA (requires 12 months assessment experience + Tier 3 clearance)</li>
+        <li>🎯 AWS Security Specialty (Mar 2026 - post-employment)</li>
+        <li>🎯 CMMC Registered Practitioner (Apr-May 2026 - post-employment)</li>
+        <li>🎯 Federal credentials: FEMA, FAC-COR, DAU (May 2026)</li>
+        <li>🚀 Pure Application Focus January 2026 (70+ architect positions)</li>
+        <li>📋 Future: CMMC RPA (2029 - after Level 2 implementations)</li>
       </ul>
     </div>
   </div>
