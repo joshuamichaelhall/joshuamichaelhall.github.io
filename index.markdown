@@ -10,9 +10,9 @@ layout: default
       </div>
       <div class="hero-text">
         <h1>Joshua Michael Hall</h1>
-        <h2>Cloud Security Architect | AWS SAA | Security+ | CMMC CCP | RP Track</h2>
+        <h2>Cloud Security Architect | AWS SAA | Security+ | CMMC CCP | Federal Ready</h2>
         <h3 class="hero-tagline">Zero-Breach Track Record • Complete Federal Credential Stack • Architect-Level Federal Contractor Positioning</h3>
-        <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. Complete federal stack: AWS SAA, Security+, CMMC CCP (Dec 18). Adding RP certification post-employment for CMMC consulting. Seeking architect-level roles with defense contractors in Huntsville.</p>
+        <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. Complete federal stack: AWS SAA, Security+, CMMC CCP (Dec 18). Continuing with AWS Security Specialty post-employment. Seeking architect-level roles with defense contractors in Huntsville.</p>
         <div class="certification-highlight">
           <h4><span class="cert-icon">🎯</span> Complete Federal Infrastructure Credential Stack</h4>
           <div class="cert-stats">
@@ -33,7 +33,7 @@ layout: default
             <span class="cert-badge">AWS SAA (Nov 2025)</span>
             <span class="cert-badge">Security+ (Nov 2025)</span>
             <span class="cert-badge">CMMC CCP (Dec 18)</span>
-            <span class="cert-badge">RP Track (Apr 2026)</span>
+            <span class="cert-badge">Security Specialty (Mar 2026)</span>
           </div>
           <div class="availability-notice">
             <strong>🚀 AWS re:Invent Dec 1-6 | CMMC Training Dec 8-13 | Seeking Cloud Security Architect Opportunities Early 2026</strong>
@@ -127,10 +127,9 @@ layout: default
       <ul>
         <li>🎯 CMMC Certified Professional (Dec 18, 2025)</li>
         <li>🎯 AWS Security Specialty (Mar 2026 - post-employment)</li>
-        <li>🎯 CMMC Registered Practitioner (Apr-May 2026 - post-employment)</li>
         <li>🎯 Federal credentials: FEMA, FAC-COR, DAU (May 2026)</li>
         <li>🚀 Pure Application Focus January 2026 (70+ architect positions)</li>
-        <li>📋 Future: CMMC RPA (2029 - after Level 2 implementations)</li>
+        <li>📋 Future: Advanced security certifications and architect career growth</li>
       </ul>
     </div>
   </div>
