@@ -12,5 +12,16 @@
 <link rel="stylesheet" href="{{ "/assets/css/portfolio.css" | relative_url }}">
 <link rel="stylesheet" href="{{ "/assets/css/site-overrides.css" | relative_url }}">
 
+<!-- Google Analytics -->
+{% if site.google_analytics %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google_analytics }}');
+</script>
+{% endif %}
+
 <!-- Theme Toggle Script -->
 <script src="{{ "/assets/js/theme-toggle.js" | relative_url }}"></script>
