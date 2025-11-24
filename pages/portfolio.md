@@ -55,7 +55,7 @@ permalink: /portfolio/
             <p><strong>The Zero-Breach Achievement:</strong></p>
             <ul>
               <li>100% of new clients came to us already compromised or vulnerable</li>
-              <li>Fixed ransomware, copyright violations, active compromises, and malware infestations</li>
+              <li>Fixed copyright violations, active compromises, and malware infestations</li>
               <li>Implemented comprehensive security controls that prevented all future incidents</li>
               <li>Zero successful breaches across 30+ production environments after implementation</li>
               <li>Maintained PCI compliance for retail/restaurant clients, HIPAA readiness for healthcare</li>

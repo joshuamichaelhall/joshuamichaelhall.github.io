@@ -53,9 +53,9 @@ layout: default
   <h2>Zero-Breach Operations - Real Infrastructure Security</h2>
   <div class="impact-metrics">
     <div class="metric-card">
-      <div class="metric-value">Ransomware</div>
-      <div class="metric-label">Multiple Recoveries</div>
-      <div class="metric-detail">Prevented significant ransomware damages through proactive security measures and rapid incident response</div>
+      <div class="metric-value">Security</div>
+      <div class="metric-label">Incident Recovery</div>
+      <div class="metric-detail">Prevented significant security incidents through proactive security measures and rapid incident response</div>
     </div>
     <div class="metric-card">
       <div class="metric-value">Copyright</div>
@@ -84,7 +84,7 @@ layout: default
     </div>
     <div class="tech-focus-item">
       <h3>Operational Security Excellence</h3>
-      <p>Zero-breach track record across 30+ clients. Stabilized compromised environments others couldn't fix. <2 hour incident response time, 24/7 availability. Prevented significant ransomware damages through proactive security measures and rapid containment. Expert in threat detection, isolation, and remediation.</p>
+      <p>Zero-breach track record across 30+ clients. Stabilized compromised environments others couldn't fix. <2 hour incident response time, 24/7 availability. Prevented significant security incidents through proactive security measures and rapid containment. Expert in threat detection, isolation, and remediation.</p>
     </div>
     <div class="tech-focus-item">
       <h3>Infrastructure as Code & Automation</h3>
@@ -141,7 +141,7 @@ layout: default
   <div class="success-stories">
     <div class="success-story">
       <h3>Zero-Breach Infrastructure Operations (2015-2025)</h3>
-      <p>Zero security breaches across 30+ clients. Called when others failed - stabilized multiple compromised environments. Managed heterogeneous infrastructures (Linux, Windows, macOS) with enterprise-grade security. <2 hour incident response time, 24/7 availability. Prevented significant ransomware damages through proactive security measures.</p>
+      <p>Zero security breaches across 30+ clients. Called when others failed - stabilized multiple compromised environments. Managed heterogeneous infrastructures (Linux, Windows, macOS) with enterprise-grade security. <2 hour incident response time, 24/7 availability. Prevented significant security incidents through proactive security measures.</p>
     </div>
     <div class="success-story">
       <h3>Federal Cloud Resume (joshuahall.tech) - Live Demo</h3>

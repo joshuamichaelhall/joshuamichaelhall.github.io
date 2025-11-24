@@ -55,7 +55,7 @@ Cloud Security Architect with proven zero-breach track record and P&L ownership 
 Called when other providers failed - real-world security crisis management:
 - **Copyright Violation Crisis:** Saved client from ISP service termination by stopping neighbor's piracy through unsecured WiFi (now SC-7 Boundary Protection)
 - **Active Compromise Response:** Stopped live attack where attacker was controlling computer remotely - found 30 employees sharing 2 passwords on sticky notes (now AC-2/IA-5 controls)
-- **Ransomware Recovery:** Fixed multiple ransomware infections for clients who initially refused proper security - zero incidents after implementing full controls
+- **Security Recovery:** Fixed multiple security incidents for clients who initially refused proper security - zero incidents after implementing full controls
 - **Total Network Compromise:** Cleaned accounting firm's completely infected network after previous provider removed their firewall (now SI-2/CM-6 controls)
 - **Pattern Recognition:** 100% of new clients came to us already compromised - we became the "last resort" MSP that actually fixed things
 

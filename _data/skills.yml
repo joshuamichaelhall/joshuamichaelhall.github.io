@@ -22,11 +22,11 @@ categories:
     skills:
       - name: "Active Compromise Response"
         level: 95
-        description: "Stopped live attacks including mouse control, copyright violations, ransomware"
+        description: "Stopped live attacks including mouse control, copyright violations, malware"
       - name: "Post-Breach Recovery"
         level: 90
         description: "Called after other providers failed - 100% success rate in cleaning compromised environments"
-      - name: "Ransomware Recovery"
+      - name: "Security Recovery"
         level: 85
         description: "Multiple successful recoveries, then zero reoccurrence with proper controls"
       - name: "Network Compromise Cleanup"
