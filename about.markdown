@@ -8,12 +8,12 @@ permalink: /about/
 
 ## Professional Summary
 
-Security Engineer with 2+ years of hands-on security operations experience and zero-breach track record across 30+ clients. AWS Solutions Architect Associate and Security+ certified. CMMC Certified Professional (Dec 2025). Specializing in federal cloud security, incident response, and defense contractor requirements. Called when others fail.
+Security Engineer with 3+ years of security experience including firewall deployment, HIPAA compliance, and MSP operations with zero breaches across 30+ clients. AWS Solutions Architect Associate and Security+ certified. CMMC Certified Professional (Dec 2025). Specializing in federal cloud security, incident response, and defense contractor requirements. Called when others fail.
 
 ## Security Operations Experience
 
 ### Security Achievements
-- Zero security breaches across 30+ clients over 2+ years of security operations
+- Zero security breaches across 30+ clients over 3+ years of security experience
 - Deployed and managed: 11 firewalls, 33 WAPs, 8 servers
 - 95%+ client satisfaction rate from MSP ownership
 - Built HIPAA-compliant infrastructure translating to federal compliance frameworks
@@ -67,7 +67,7 @@ Practical implementation translating to federal requirements:
 
 ### Practical Security Implementation
 Real-world experience beyond just certifications:
-- 2+ years hands-on security operations as MSP owner
+- 3+ years security experience including firewall deployment, HIPAA compliance, and MSP operations
 - Hands-on experience with heterogeneous environments (Linux/Windows/macOS)
 - AWS serverless implementation demonstrated at joshuahall.tech
 - Infrastructure security hardening and compliance
