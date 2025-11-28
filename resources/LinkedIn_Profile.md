@@ -28,7 +28,7 @@ IT Infrastructure professional with proven business leadership expanding into cl
 
 **PROVEN BUSINESS RESULTS:**
 - Founded MSP, scaled to $160,000+ serving 30+ business clients
-- 100% client satisfaction, zero security breaches
+- 100% client satisfaction, zero ransomware incidents
 - Full P&L responsibility and team management experience
 
 **TECHNICAL FOUNDATION:**
@@ -61,7 +61,7 @@ Providing infrastructure consulting and technology advisory services while expan
 
 **Technical Capabilities:**
 - Managed heterogeneous environments (Linux, Windows, macOS) across 20+ client sites
-- Zero security breaches through comprehensive security framework implementation
+- Zero ransomware incidents through comprehensive security framework implementation
 - Infrastructure automation, monitoring, and optimization expertise
 - Strong foundation in networking, security, and compliance requirements
 

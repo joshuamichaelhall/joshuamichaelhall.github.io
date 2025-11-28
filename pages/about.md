@@ -9,7 +9,7 @@ permalink: /about/
 <div class="content-section with-divider">
   <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP credential December. Seeking architect-level roles with defense contractors in Huntsville.</p>
 
-  <p><strong>Zero-Breach Security Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero security breaches while securing 100+ endpoints. Called when others failed - inherited and stabilized multiple compromised environments.</p>
+  <p><strong>Zero-Breach Security Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero ransomware incidents while securing 100+ endpoints. Called when others failed - inherited and stabilized multiple compromised environments.</p>
 
   <p><strong>Federal Cloud Security Focus:</strong> Building Federal Cloud Resume with RMF controls implementation on AWS. Deep HIPAA compliance experience translating directly to NIST and FedRAMP frameworks. Studying DoD security requirements and clearance processes for defense contractor readiness.</p>
 
@@ -98,11 +98,11 @@ permalink: /about/
   <div class="expertise-grid">
     <div class="expertise-item">
       <h3>Security Operations Specialist</h3>
-      <p>Managed security for 30+ clients across critical sectors with zero breaches. Implemented security frameworks, secured 100+ endpoints, and achieved 100% incident response success rate.</p>
+      <p>Managed security for 30+ clients across critical sectors with zero ransomware incidents. Implemented security frameworks, secured 100+ endpoints, and achieved 100% incident response success rate.</p>
     </div>
     <div class="expertise-item">
       <h3>Cloud Transformations</h3>
-      <p>Managed comprehensive IT infrastructure including network design, security implementation, and system integrations. Maintained zero security breaches across all client environments.</p>
+      <p>Managed comprehensive IT infrastructure including network design, security implementation, and system integrations. Maintained zero ransomware incidents across all client environments.</p>
     </div>
     <div class="expertise-item">
       <h3>Enterprise Security Implementation</h3>

@@ -22,7 +22,7 @@
 ### Headline
 **FROM:** "Cloud Security Engineer | AWS SAA | Security+ (Nov 22) | AWS Security Specialty (Jan 2026) | Targeting Defense Contractors"
 
-**TO:** "Cloud Security Professional | AWS SAA | Security+ | 30+ Clients Secured | Zero Breaches | Defense Sector Ready"
+**TO:** "Cloud Security Professional | AWS SAA | Security+ | 30+ Clients Secured | Zero Ransomware Incidents | Defense Sector Ready"
 
 ### Summary - Add These Metrics
 - Ensure "30+ business clients" is consistently used
@@ -59,7 +59,7 @@
 **UPDATE "About Me" Section:**
 ```markdown
 Cloud Security Professional with proven operational experience managing security for 30+ business clients. 
-- 100+ endpoints secured with zero breaches
+- 100+ endpoints secured with zero ransomware incidents
 - $500K+ ransomware damages prevented
 - Inherited and stabilized environments others couldn't
 ```
@@ -77,7 +77,7 @@ Cloud Security Professional with proven operational experience managing security
 - 100+ endpoints, 8+ servers managed
 - $300K+ ransomware damages prevented
 - <2 hour incident response, 24/7
-- Zero security breaches maintained
+- Zero ransomware incidents maintained
 
 ---
 
@@ -85,7 +85,7 @@ Cloud Security Professional with proven operational experience managing security
 
 ### Elevator Pitch
 **FROM:** "Entry-level security engineer with MSP background..."
-**TO:** "Security professional who managed 30+ business clients simultaneously with zero breaches, seeking federal sector opportunities..."
+**TO:** "Security professional who managed 30+ business clients simultaneously with zero ransomware incidents, seeking federal sector opportunities..."
 
 ### STAR Stories Priority
 1. Enterprise Domain Crisis (Cardinal Surveying)
@@ -118,7 +118,7 @@ Cloud Security Professional with proven operational experience managing security
 
 ### Homepage
 **CHANGE:** Remove all "transitioning" or "aspiring" language
-**TO:** "Cloud Security Professional | 30+ Clients | Zero Breaches"
+**TO:** "Cloud Security Professional | 30+ Clients | Zero Ransomware Incidents"
 
 ### About Page
 **ADD:** Quantified metrics section with all numbers
@@ -132,7 +132,7 @@ Cloud Security Professional with proven operational experience managing security
 **TO:** "Cloud security professional with 30+ client track record exploring federal opportunities..."
 
 ### Recruiter Conversations
-**Lead with:** "Managed security for 30+ business clients with zero breaches"
+**Lead with:** "Managed security for 30+ business clients with zero ransomware incidents"
 **Not:** "Looking for my first security role"
 
 ---
