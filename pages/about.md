@@ -7,15 +7,15 @@ permalink: /about/
 # Cloud Security Engineer
 
 <div class="content-section with-divider">
-  <p>Cloud Security Architect with proven P&L ownership and zero-breach track record across 30+ clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, completing CMMC CCP credential December. Seeking architect-level roles with defense contractors in Huntsville.</p>
+  <p>Cloud Security Professional with proven P&L ownership and zero ransomware incidents for all fully managed clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, CMMC RP credentialed (CCP exam passed, pending Tier 3). Targeting Cloud Security Engineer roles in Dallas.</p>
 
-  <p><strong>Zero-Breach Security Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero ransomware incidents while securing 100+ endpoints. Called when others failed - inherited and stabilized multiple compromised environments.</p>
+  <p><strong>Zero Ransomware Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero ransomware incidents for all fully managed clients. Called when others failed - inherited and stabilized multiple compromised environments.</p>
 
-  <p><strong>Federal Cloud Security Focus:</strong> Building Federal Cloud Resume with RMF controls implementation on AWS. Deep HIPAA compliance experience translating directly to NIST and FedRAMP frameworks. Studying DoD security requirements and clearance processes for defense contractor readiness.</p>
+  <p><strong>Cloud Security Focus:</strong> Building Federal Cloud Resume with security controls implementation on AWS. Deep HIPAA compliance experience translating to PCI-DSS, SOX, and NIST frameworks for regulated industries.</p>
 
   <p><strong>AWS Security Expertise:</strong> Solutions Architect Associate certified with hands-on experience in GuardDuty, Security Hub, CloudTrail, and IAM. Building security automation with Terraform and Python. Pursuing AWS Security Specialty certification.</p>
 
-  <p><strong>Focus:</strong> Cloud Security Architect roles with defense contractors in Huntsville, AL. Open to security clearance sponsorship opportunities. Ready to contribute immediately to federal cloud security initiatives.</p>
+  <p><strong>Focus:</strong> Cloud Security Engineer roles in Dallas. Open to financial services, healthcare, defense, energy, or enterprise technology sectors. Ready to contribute immediately to security teams.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -41,19 +41,19 @@ permalink: /about/
           <li><strong>Incident Response</strong> - Real-world security incident resolution and containment</li>
           <li><strong>Threat Detection</strong> - SIEM tools, log analysis, behavioral monitoring</li>
           <li><strong>Vulnerability Management</strong> - Scanning, assessment, remediation across mixed environments</li>
-          <li><strong>Zero-Breach Operations</strong> - 30+ clients, 100+ endpoints with perfect security record</li>
+          <li><strong>Zero Ransomware for Managed Clients</strong> - 2+ years, 30+ clients, fully managed</li>
           <li><strong>Forensics & Investigation</strong> - Evidence collection, root cause analysis</li>
         </ul>
       </div>
       
       <div class="cert-category">
-        <h4>Federal Security Readiness</h4>
+        <h4>Compliance & Readiness</h4>
         <ul class="cert-list">
           <li><strong>Clearance Eligible</strong> - Clean background ready for security clearance sponsorship</li>
-          <li><strong>HIPAA to Federal Translation</strong> - Compliance experience applicable to NIST/FedRAMP</li>
-          <li><strong>Defense Contractor Understanding</strong> - Learning DoD requirements and protocols</li>
-          <li><strong>Location</strong> - Huntsville, AL area</li>
-          <li><strong>Federal Cloud Focus</strong> - Building RMF controls expertise for defense contractors</li>
+          <li><strong>Compliance Translation</strong> - HIPAA experience applicable to PCI-DSS, SOX, NIST</li>
+          <li><strong>CMMC Expertise</strong> - RP credentialed, CCP exam passed</li>
+          <li><strong>Location</strong> - Relocating to Dallas for the right opportunity</li>
+          <li><strong>Industry Focus</strong> - Financial services, healthcare, defense, energy, enterprise tech</li>
         </ul>
       </div>
       
@@ -63,7 +63,7 @@ permalink: /about/
     <ul class="cert-list in-progress">
       <li><strong>AWS Solutions Architect Associate</strong> - November 2025</li>
       <li><strong>CompTIA Security+</strong> - November 2025</li>
-      <li><strong>CMMC Certified Professional (CCP)</strong> - December 18, 2025</li>
+      <li><strong>CMMC CCP Exam Passed</strong> - January 16, 2026 (certification pending Tier 3 clearance)</li>
       <li><strong>Launch School Backend Software Engineering</strong> - Completed 9 rigorous courses (mastery-based learning)</li>
       <li><strong>CompTIA Project+</strong> - Active (Previous certification)</li>
       <li><strong>CompTIA Cloud Essentials+</strong> - Active (Previous certification)</li>
@@ -153,13 +153,13 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Contact</h3>
-      <p>Open to Cloud Security Architect opportunities in Huntsville, AL area</p>
-      <p>Relocating to Huntsville in 2026</p>
+      <p>Open to Cloud Security Engineer opportunities in Dallas</p>
+      <p>Currently in AR, relocating for the right role</p>
     </div>
   </div>
-  
+
   <div class="quote">
-    <p>Helping enterprises maximize cloud investments through technical expertise and business acumen.</p>
-    <div class="quote-author">— Cloud Security Architect | Former MSP Owner | Huntsville 2026</div>
+    <p>Helping enterprises build secure cloud infrastructure through operational experience and compliance expertise.</p>
+    <div class="quote-author">— Cloud Security Professional | Former MSP Owner | Dallas 2026</div>
   </div>
 </div>

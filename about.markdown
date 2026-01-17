@@ -8,12 +8,12 @@ permalink: /about/
 
 ## Professional Summary
 
-Security Engineer with 3+ years of security experience including firewall deployment, HIPAA compliance, and MSP operations with zero ransomware incidents across 30+ clients. AWS Solutions Architect Associate and Security+ certified. CMMC Certified Professional (Dec 2025). Specializing in federal cloud security, incident response, and defense contractor requirements. Called when others fail.
+Security Engineer with 2+ years of MSP security experience including firewall deployment, HIPAA compliance, and zero ransomware incidents for all fully managed clients. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Specializing in cloud security, incident response, and compliance. Called when others fail.
 
 ## Security Operations Experience
 
 ### Security Achievements
-- Zero ransomware incidents across 30+ clients over 3+ years of security experience
+- Zero ransomware incidents for all fully managed clients over 2+ years of MSP operations
 - Deployed and managed: 11 firewalls, 33 WAPs, 8 servers
 - 95%+ client satisfaction rate from MSP ownership
 - Built HIPAA-compliant infrastructure translating to federal compliance frameworks
@@ -37,14 +37,15 @@ Security Engineer with 3+ years of security experience including firewall deploy
 ### Current Certifications
 - AWS Solutions Architect Associate (November 2025)
 - CompTIA Security+ CE (November 2025) - DoD 8570 IAT Level II
-- CMMC Certified Professional (December 2025)
+- CMMC Registered Practitioner (December 2025)
+- CMMC CCP Exam Passed (January 2026) - certification pending Tier 3 clearance
 - CompTIA Project+
 - CompTIA Cloud Essentials+
 
 ### Technical Education
 - Launch School Backend Engineering - mastery-based learning
 - AWS Solutions Architect certification preparation and completion
-- CMMC Certified Professional training (December 2025)
+- CMMC CCP Training completed (December 2025)
 - Ongoing security operations and compliance study
 
 ## What Makes Me Different
@@ -67,7 +68,7 @@ Practical implementation translating to federal requirements:
 
 ### Practical Security Implementation
 Real-world experience beyond just certifications:
-- 3+ years security experience including firewall deployment, HIPAA compliance, and MSP operations
+- 2+ years MSP security experience including firewall deployment, HIPAA compliance
 - Hands-on experience with heterogeneous environments (Linux/Windows/macOS)
 - AWS serverless implementation demonstrated at joshuahall.tech
 - Infrastructure security hardening and compliance
@@ -82,10 +83,10 @@ Actively building and improving:
 - Building interview prep skills: AWS security services, IAM policies, Python/Bash
 
 ### Professional Development
-- CMMC CCP certification (December 18, 2025)
-- AWS Security Specialty planned post-employment (Q1 2026)
-- CMMC Registered Practitioner (Q2 2026)
-- Ongoing interview preparation for January application launch
+- CMMC CCP Exam Passed (January 16, 2026) - certification pending Tier 3 clearance
+- CISSP Associate (Target March 2026)
+- AWS Security Specialty (Target April 2026)
+- Active job search in progress
 
 ## Career Goals
 
