@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-# Security Engineer | Defense Contractor Ready | Zero-Breach Track Record
+# Cloud Security Engineer | 3+ Years MSP Security Experience
 
 ## Professional Summary
 
-Security Engineer with 2+ years of MSP security experience including firewall deployment, HIPAA compliance, and zero ransomware incidents for all fully managed clients. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Specializing in cloud security, incident response, and compliance. Called when others fail.
+Cloud Security Engineer with 3+ years of MSP security experience including firewall deployment, HIPAA compliance, and zero ransomware incidents for fully managed clients over 2+ years. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Specializing in cloud security, incident response, and compliance. Called when others fail.
 
 ## Security Operations Experience
 
@@ -68,7 +68,7 @@ Practical implementation translating to federal requirements:
 
 ### Practical Security Implementation
 Real-world experience beyond just certifications:
-- 2+ years MSP security experience including firewall deployment, HIPAA compliance
+- 3+ years MSP security experience including firewall deployment, HIPAA compliance
 - Hands-on experience with heterogeneous environments (Linux/Windows/macOS)
 - AWS serverless implementation demonstrated at joshuahall.tech
 - Infrastructure security hardening and compliance
@@ -91,20 +91,20 @@ Actively building and improving:
 ## Career Goals
 
 ### Career Focus
-- Security Engineer II and CMMC Specialist roles with defense contractors
+- Cloud Security Engineer roles in Dallas
+- Open to financial services, healthcare, defense, energy, or enterprise technology sectors
 - Security clearance sponsorship opportunities
-- Federal cloud environments and CMMC compliance implementation
 - Long-term growth to Senior Security Engineer
 
 ## Personal Philosophy
 
-"Security isn't just about implementing tools—it's about protecting what matters most. My zero-breach track record comes from understanding that every configuration, every script, and every security control exists to safeguard critical operations and sensitive data. In federal environments, this responsibility extends to national security."
+"Security isn't just about implementing tools—it's about protecting what matters most. My track record of zero ransomware incidents for fully managed clients comes from understanding that every configuration, every script, and every security control exists to safeguard critical operations and sensitive data."
 
 ## Connect With Me
 
 - **LinkedIn**: [joshuamichaelhall](https://www.linkedin.com/in/joshuamichaelhall/)
 - **GitHub**: [joshuamichaelhall](https://github.com/joshuamichaelhall)
 - **Email**: contact@joshuamichaelhall.com
-- **Location**: Huntsville, AL
+- **Location**: Dallas, TX (Relocating Q1 2026)
 
-Ready to contribute to defense contractor security teams. Let's discuss how my security operations experience and CMMC expertise can strengthen your organization's compliance posture.
+Ready to contribute to security teams. Let's discuss how my security operations experience can strengthen your organization's security posture.
