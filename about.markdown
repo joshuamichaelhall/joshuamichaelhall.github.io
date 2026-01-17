@@ -20,19 +20,19 @@ Cloud Security Engineer with 3+ years of MSP security experience including firew
 
 ### Core Competencies
 - **Security Operations**: Firewall deployment, EDR, monitoring, incident response
-- **AWS Security**: IAM, S3, CloudFront, Lambda, API Gateway, DynamoDB
-- **Federal Compliance**: HIPAA to NIST/FedRAMP translation, CMMC expertise
-- **Security Automation**: Python, Bash scripting for security tasks
+- **AWS Architecture**: IAM, S3, CloudFront, Lambda, API Gateway, DynamoDB (SAA certified)
+- **Compliance**: HIPAA implementation experience, CMMC RP credentialed
+- **Scripting**: Ruby, Bash, Python fundamentals
 
 ## Technical Expertise
 
-### Security Technology Stack
-- **Cloud Security**: AWS IAM, S3 security, CloudFront, Lambda
-- **Security Tools**: Firewalls, EDR, monitoring solutions
-- **Operating Systems**: Linux, Windows, macOS administration and hardening
-- **Network Security**: Firewalls, VPNs, network monitoring
-- **Compliance**: HIPAA, NIST 800-171, CMMC Level 2
-- **Incident Response**: Threat detection, containment, remediation
+### Technology Experience
+- **AWS**: S3, CloudFront, Lambda, API Gateway, IAM, DynamoDB (SAA certified)
+- **Network Security**: Enterprise firewalls (WatchGuard/Fortinet), VPNs, network segmentation
+- **Endpoint Security**: EDR solutions, patch management, monitoring
+- **Operating Systems**: Windows, Linux, macOS administration
+- **Compliance**: HIPAA implementation, CMMC training completed
+- **Incident Response**: Real-world containment and remediation from MSP operations
 
 ### Current Certifications
 - AWS Solutions Architect Associate (November 2025)

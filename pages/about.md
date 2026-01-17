@@ -13,7 +13,7 @@ permalink: /about/
 
   <p><strong>Cloud Security Focus:</strong> Building Federal Cloud Resume with security controls implementation on AWS. Deep HIPAA compliance experience translating to PCI-DSS, SOX, and NIST frameworks for regulated industries.</p>
 
-  <p><strong>AWS Security Expertise:</strong> Solutions Architect Associate certified with hands-on experience in GuardDuty, Security Hub, CloudTrail, and IAM. Building security automation with Terraform and Python. Pursuing AWS Security Specialty certification.</p>
+  <p><strong>AWS Expertise:</strong> Solutions Architect Associate certified. Built serverless cloud resume demonstrating S3, CloudFront, Lambda, API Gateway, and IAM. Pursuing AWS Security Specialty certification.</p>
 
   <p><strong>Focus:</strong> Cloud Security Engineer roles in Dallas. Open to financial services, healthcare, defense, energy, or enterprise technology sectors. Ready to contribute immediately to security teams.</p>
 </div>
@@ -25,24 +25,24 @@ permalink: /about/
     <h3>Security Engineering Skills</h3>
     <div class="cert-categories">
       <div class="cert-category">
-        <h4>AWS Security Implementation</h4>
+        <h4>AWS & Cloud Skills</h4>
         <ul class="cert-list">
-          <li><strong>AWS Security Services</strong> - GuardDuty, Security Hub, CloudTrail, Config, IAM</li>
-          <li><strong>Security Automation</strong> - Terraform infrastructure as code, Python/Ruby/Bash scripting</li>
-          <li><strong>Infrastructure Security</strong> - VPC security, EC2 hardening, S3 compliance</li>
-          <li><strong>Monitoring & Alerting</strong> - CloudWatch security metrics, automated response</li>
-          <li><strong>Compliance Frameworks</strong> - RMF controls, NIST standards, federal requirements</li>
+          <li><strong>AWS Certified</strong> - Solutions Architect Associate (November 2025)</li>
+          <li><strong>Serverless Architecture</strong> - S3, CloudFront, Lambda, API Gateway, DynamoDB</li>
+          <li><strong>Core AWS Services</strong> - IAM, VPC, EC2, CloudTrail (from SAA certification)</li>
+          <li><strong>Scripting</strong> - Ruby, Bash, Python fundamentals</li>
+          <li><strong>Learning</strong> - Terraform basics, AWS Security Specialty preparation</li>
         </ul>
       </div>
       
       <div class="cert-category">
-        <h4>Security Operations</h4>
+        <h4>Security Operations (MSP Experience)</h4>
         <ul class="cert-list">
           <li><strong>Incident Response</strong> - Real-world security incident resolution and containment</li>
-          <li><strong>Threat Detection</strong> - SIEM tools, log analysis, behavioral monitoring</li>
-          <li><strong>Vulnerability Management</strong> - Scanning, assessment, remediation across mixed environments</li>
+          <li><strong>Network Security</strong> - 11 enterprise firewall deployments, network segmentation</li>
+          <li><strong>Endpoint Security</strong> - EDR deployment, patching, 100+ endpoints managed</li>
           <li><strong>Zero Ransomware for Managed Clients</strong> - 2+ years, 30+ clients, fully managed</li>
-          <li><strong>Forensics & Investigation</strong> - Evidence collection, root cause analysis</li>
+          <li><strong>Compromised Environment Recovery</strong> - Inherited and stabilized multiple failed environments</li>
         </ul>
       </div>
       
@@ -80,11 +80,11 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Technical Credibility</h3>
-      <p>Hands-on experience with cloud migrations, security implementations, and infrastructure design. Currently pursuing AWS certifications.</p>
+      <p>Hands-on MSP experience with network security, endpoint protection, and infrastructure design. AWS Solutions Architect certified.</p>
     </div>
     <div class="expertise-item">
       <h3>Customer Success</h3>
-      <p>Track record of 100% client satisfaction through exceptional service delivery. Expert at building trust and managing complex relationships.</p>
+      <p>95%+ client satisfaction through reliable service delivery. Skilled at building trust and managing client relationships.</p>
     </div>
     <div class="expertise-item">
       <h3>Industry Knowledge</h3>
@@ -97,16 +97,16 @@ permalink: /about/
   <h2>Professional Experience Highlights</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Security Operations Specialist</h3>
-      <p>Managed security for 30+ clients across critical sectors with zero ransomware incidents. Implemented security frameworks, secured 100+ endpoints, and achieved 100% incident response success rate.</p>
+      <h3>MSP Security Operations</h3>
+      <p>Managed security for 30+ clients with zero ransomware incidents for fully managed clients. Deployed 11 enterprise firewalls, secured 100+ endpoints with EDR and monitoring.</p>
     </div>
     <div class="expertise-item">
       <h3>Cloud Transformations</h3>
       <p>Managed comprehensive IT infrastructure including network design, security implementation, and system integrations. Maintained zero ransomware incidents across all client environments.</p>
     </div>
     <div class="expertise-item">
-      <h3>Enterprise Security Implementation</h3>
-      <p>Led technical security implementation for 5,000+ system deployment at Vanderbilt Hospital. Delivered on time and budget with zero security incidents.</p>
+      <h3>Enterprise Deployment</h3>
+      <p>Led 11-person team through 5,000+ system HIPAA-compliant deployment at Vanderbilt Hospital. Delivered on time with zero security incidents.</p>
     </div>
     <div class="expertise-item">
       <h3>Strategic Consulting</h3>
@@ -124,8 +124,8 @@ permalink: /about/
       <p>HIPAA compliance, EMR integrations, clinical workflow optimization. Supported medical practices and hospitals.</p>
     </div>
     <div class="expertise-item">
-      <h3>Financial Services</h3>
-      <p>Security frameworks, compliance requirements, high-availability systems. Worked with banks and investment firms.</p>
+      <h3>Finance & Accounting</h3>
+      <p>Security frameworks for SMB accounting and finance clients. Compliance requirements and secure document handling.</p>
     </div>
     <div class="expertise-item">
       <h3>Manufacturing</h3>
@@ -148,8 +148,8 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Technical Content</h3>
-      <p>Publishing content on cloud business value</p>
-      <p>Speaking at industry events</p>
+      <p>Publishing articles on cloud security and career transitions</p>
+      <p>Medium and Dev.to contributor</p>
     </div>
     <div class="expertise-item">
       <h3>Contact</h3>
