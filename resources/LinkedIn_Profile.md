@@ -28,7 +28,7 @@ IT Infrastructure professional with proven business leadership expanding into cl
 
 **PROVEN BUSINESS RESULTS:**
 - Founded MSP, scaled to $160,000+ serving 30+ business clients
-- 100% client satisfaction, zero ransomware incidents
+- Zero clients lost to competition, zero ransomware incidents
 - Full P&L responsibility and team management experience
 
 **TECHNICAL FOUNDATION:**
@@ -106,7 +106,7 @@ Built managed IT services company from startup to $160,000+ annual revenue, demo
 - Scaled from zero to 40+ SMB clients with complex technical requirements
 - Built relationships with 4,000+ business owners through intensive networking
 - Achieved profitability and generated strong monthly recurring revenue
-- Maintained 100% client satisfaction throughout business lifecycle
+- Zero clients lost to competition throughout business lifecycle
 
 **Technical Excellence:**
 - Personally managed heterogeneous environments (Linux, Apple, Windows)

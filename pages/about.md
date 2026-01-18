@@ -84,7 +84,7 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Customer Success</h3>
-      <p>95%+ client satisfaction through reliable service delivery. Skilled at building trust and managing client relationships.</p>
+      <p>Zero clients lost to competition through reliable service delivery. Skilled at building trust and managing client relationships.</p>
     </div>
     <div class="expertise-item">
       <h3>Industry Knowledge</h3>

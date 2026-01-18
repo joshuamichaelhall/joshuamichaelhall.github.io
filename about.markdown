@@ -15,7 +15,7 @@ Cloud Security Engineer with 3+ years of MSP security experience including firew
 ### Security Achievements
 - Zero ransomware incidents for all fully managed clients over 2+ years of MSP operations
 - Deployed and managed: 11 firewalls, 33 WAPs, 8 servers
-- 95%+ client satisfaction rate from MSP ownership
+- Zero clients lost to competition during MSP ownership
 - Built HIPAA-compliant infrastructure translating to federal compliance frameworks
 
 ### Core Competencies

@@ -121,7 +121,7 @@ while improving performance and maintaining compliance.
 ### 5. Add Credibility Metrics
 - 30+ businesses served
 - $2M+ in documented savings
-- 100% client satisfaction
+- Zero clients lost to competition
 - Multi-cloud expertise
 
 ## Content Strategy
