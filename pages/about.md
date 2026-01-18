@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-# Cloud Security Engineer
+# Cloud Security & Compliance Professional
 
 <div class="content-section with-divider">
-  <p>Cloud Security Professional with proven P&L ownership and zero ransomware incidents for all fully managed clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, CMMC RP credentialed (CCP exam passed, pending Tier 3). Targeting Cloud Security Engineer roles in Dallas.</p>
+  <p>Cloud Security & Compliance Professional with proven P&L ownership and zero ransomware incidents for all fully managed clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, CMMC RP credentialed (CCP exam passed, pending Tier 3). Targeting Senior Security Analyst, GRC Analyst, Compliance Lead, or Cloud Security Engineer roles in Dallas.</p>
 
   <p><strong>Zero Ransomware Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero ransomware incidents for all fully managed clients. Called when others failed - inherited and stabilized multiple compromised environments.</p>
 
@@ -15,7 +15,7 @@ permalink: /about/
 
   <p><strong>AWS Expertise:</strong> Solutions Architect Associate certified. Built serverless cloud resume demonstrating S3, CloudFront, Lambda, API Gateway, and IAM. Pursuing AWS Security Specialty certification.</p>
 
-  <p><strong>Focus:</strong> Cloud Security Engineer roles in Dallas. Open to financial services, healthcare, defense, energy, or enterprise technology sectors. Ready to contribute immediately to security teams.</p>
+  <p><strong>Focus:</strong> Senior Security Analyst, GRC Analyst, Compliance Lead, or Cloud Security Engineer roles in Dallas. Open to financial services, healthcare, defense, energy, or enterprise technology sectors. Ready to contribute immediately to security teams.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -153,7 +153,7 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Contact</h3>
-      <p>Open to Cloud Security Engineer opportunities in Dallas</p>
+      <p>Open to Senior Security Analyst, GRC, or Cloud Security opportunities in Dallas</p>
       <p>Currently in AR, relocating for the right role</p>
     </div>
   </div>
