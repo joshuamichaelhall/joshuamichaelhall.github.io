@@ -1,5 +1,5 @@
 # Joshua Michael Hall
-## IT Infrastructure Professional | MSP Founder ($160K+ Revenue) | Expanding into Cloud Architecture | AWS Focused
+## Cloud Security & Compliance Professional | AWS SAA | Security+ | CMMC RP | Seeking GRC / Senior Analyst Roles
 **Location:** United States (Moving to Dallas Soon)
 
 ## Contact Information
@@ -9,63 +9,60 @@
 - **GitHub:** github.com/joshuamichaelhall
 
 ## Top Skills
-- Project Management
-- P&L Management
-- MSP Operations
+- Security Compliance (HIPAA, PCI-DSS, CMMC)
+- GRC (Governance, Risk, Compliance)
+- AWS Security Architecture
 
 ## Certifications
+- AWS Solutions Architect Associate (Nov 2025)
+- CompTIA Security+ CE (Nov 2025) - DoD 8570 IAT II
+- CMMC Registered Practitioner (Dec 2025)
+- CMMC CCP Exam Passed (Jan 2026) - certification pending Tier 3 clearance
 - Google Project Management Certificate
 - Project+
 - Google AI Essentials
-- AWS Solutions Architect Associate (In Progress - Target: August 2025)
 - CompTIA Cloud Essentials+
 
 ## Honors & Awards
 - Jolly Academic Scholarship
 
 ## Summary
-IT Infrastructure professional with proven business leadership expanding into cloud architecture.
+Cloud Security Professional with 3+ years of hands-on MSP security operations with zero ransomware incidents for fully managed clients over 2+ years.
 
-**PROVEN BUSINESS RESULTS:**
-- Founded MSP, scaled to $160,000+ serving 30+ business clients
-- Zero clients lost to competition, zero ransomware incidents
-- Full P&L responsibility and team management experience
+I founded and operated an MSP serving 30+ clients with 100+ endpoints, maintaining zero ransomware incidents through operational discipline, not luck. I deployed enterprise firewalls, implemented EDR solutions, and stabilized compromised environments others couldn't handle.
 
-**TECHNICAL FOUNDATION:**
-- Managed heterogeneous environments (Linux, Windows, macOS)
-- Enterprise networking, security, and compliance implementation
-- Infrastructure automation and monitoring experience
-- Currently advancing AWS cloud architecture capabilities
+That experience translates directly to enterprise security:
+• HIPAA compliance → Healthcare security programs
+• PCI-DSS → Financial services requirements
+• MSP operations → Multi-tenant security architecture
+• Incident response → Security operations maturity
 
-**SEEKING:** Associate-level cloud infrastructure or solutions architect opportunities where business acumen accelerates technical implementation.
+Currently pursuing CISSP Associate (~Mar 2026) and AWS Security Specialty (~Apr 2026) to complement existing AWS Solutions Architect Associate, Security+, and CMMC RP certifications.
+
+**SEEKING:** Senior Security Analyst, GRC Analyst, or Compliance Lead roles in Dallas. Currently in Arkansas, relocating for the right opportunity. Open to financial services, healthcare, or enterprise technology sectors.
 
 ## Experience
 
 ### Self-employed
-**IT Infrastructure Consultant & Technology Advisor**
-*August 2023 - Present (2 years 2 months) | Remote*
+**Cloud Security Professional (Certification & Job Search)**
+*August 2023 - Present | Remote*
 
-Providing infrastructure consulting and technology advisory services while expanding expertise into enterprise cloud architecture.
+Full-time certification study and professional development while pursuing cloud security and GRC roles.
 
-**Consulting Services:**
-- IT infrastructure assessment and optimization for select clients
-- Security framework implementation and compliance guidance
-- Technology strategy development for growing businesses
-- System integration and automation solutions
+**Certifications Earned:**
+- AWS Solutions Architect Associate (Nov 2025)
+- CompTIA Security+ CE (Nov 2025)
+- CMMC Registered Practitioner (Dec 2025)
+- CMMC CCP Exam Passed (Jan 2026)
 
-**Professional Development:**
-- Advanced AWS cloud architecture certification and training
-- Enterprise-grade cloud project portfolio development
-- Strategic networking with cloud professionals and industry leaders
-- Market research and positioning for cloud infrastructure opportunities
+**Currently Pursuing:**
+- CISSP Associate (~Mar 2026)
+- AWS Security Specialty (~Apr 2026)
 
-**Technical Capabilities:**
-- Managed heterogeneous environments (Linux, Windows, macOS) across 20+ client sites
-- Zero ransomware incidents through comprehensive security framework implementation
-- Infrastructure automation, monitoring, and optimization expertise
-- Strong foundation in networking, security, and compliance requirements
+**Portfolio Project:**
+- Federal Cloud Resume (joshuahall.tech) - Serverless AWS architecture with S3, CloudFront, Lambda, DynamoDB, API Gateway, WAF protection, and NIST 800-53 control mapping
 
-Currently seeking Associate Cloud Infrastructure or Solutions Architect opportunities where business acumen accelerates technical implementation.
+Currently seeking Senior Security Analyst, GRC Analyst, or Compliance Lead opportunities in Dallas where hands-on security experience and compliance expertise drive security program success.
 
 ### Eureka Gardens, LLC
 **Founder and Manager**
