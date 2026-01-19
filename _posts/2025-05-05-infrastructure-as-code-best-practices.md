@@ -3,15 +3,25 @@ layout: post
 title: "Infrastructure as Code Best Practices for Financial Services"
 date: 2025-05-05
 categories: devops terraform aws
-tags: infrastructure-as-code terraform aws financial-services security
+tags: infrastructure-as-code terraform aws financial-services security compliance
 featured: true
-excerpt: "A comprehensive guide to implementing secure, compliant infrastructure using Terraform and AWS services for financial applications."
+excerpt: "Lessons from building secure AWS infrastructure with Terraform—what I learned from 3 years of MSP operations and my Cloud Resume Challenge project."
 image: "/assets/images/infrastructure_as_code_article_icon.png"
 published: true
 ---
-Infrastructure as Code (IaC) has transformed how organizations deploy and manage cloud resources. For financial services, where security and compliance requirements are especially stringent, implementing proper IaC practices is crucial. This post explores best practices for using Terraform to build secure, compliant AWS infrastructure for financial applications.
+After running an MSP for three years and building my Cloud Resume Challenge project entirely in Terraform, I've learned that Infrastructure as Code isn't just about automation—it's about creating auditable, reproducible security controls that survive personnel changes and satisfy compliance auditors.
 
-## Why Infrastructure as Code Matters for Financial Services
+This post shares what I've learned about IaC for regulated environments, combining lessons from managing 30+ client infrastructures with hands-on AWS architecture experience.
+
+## Why I Became a Believer in Infrastructure as Code
+
+When I ran my MSP, I inherited networks where the previous provider had no documentation. Firewall rules existed with no explanation. Security groups were configured months ago by someone who'd left. When clients asked "why is this port open?", nobody knew.
+
+I swore I'd never create that situation for someone else. Every firewall rule I configured had a comment explaining why. Every change was logged. When I closed the MSP, I spent weeks documenting everything so my successor could understand what they were inheriting.
+
+Infrastructure as Code takes this discipline and makes it automatic. The code IS the documentation. The Git history IS the changelog. The Terraform state IS the source of truth.
+
+## Why IaC Matters for Financial Services
 
 Financial institutions face unique challenges when deploying infrastructure:
 
@@ -399,14 +409,20 @@ Key recommendations:
 - Create detailed deployment documentation
 - Implement automated rollback procedures
 
-## Conclusion
+## Lessons from My Cloud Resume Challenge
 
-Implementing Infrastructure as Code for financial services requires careful attention to security, compliance, and operational excellence. By following these best practices, you can create a robust, secure, and compliant infrastructure that meets the demanding requirements of the financial industry.
+When I built my Cloud Resume Challenge project, I applied these principles at a smaller scale. My entire AWS infrastructure—S3, CloudFront, Lambda, DynamoDB, API Gateway, WAF, CloudTrail, GuardDuty—is defined in Terraform.
 
-In future posts, I'll dive deeper into specific aspects of financial services infrastructure, including:
+The result: when someone asks "show me your security controls," I don't screenshot the AWS console. I show them the Git repository. When they ask "has this changed?", I show them the commit history.
 
-1. Implementing advanced security controls for PCI-DSS compliance
-2. Building secure CI/CD pipelines for financial applications
-3. Automating compliance reporting for regulatory requirements
+This is Configuration Management (CM-2, CM-3, CM-6 in NIST 800-171 terms). But I didn't implement it because a compliance framework told me to. I implemented it because I'd seen what happens when infrastructure isn't documented—and I never want to create that problem for someone else.
 
-Have questions about implementing IaC for financial services? Share your thoughts in the comments!
+## The Bottom Line
+
+Infrastructure as Code for financial services isn't about following a checklist. It's about building systems that can prove their own security posture. When the auditor asks "how do you know this is configured correctly?", the answer should be "because the code says so, and here's the Git history proving it hasn't changed."
+
+That's the difference between compliance theater and actual security. The infrastructure that's defined in code, version-controlled, and automatically validated is the infrastructure you can trust.
+
+---
+
+*Based on lessons learned from 3 years of MSP operations (30+ clients, zero security breaches) and hands-on AWS architecture with Terraform. See my [Cloud Resume Challenge project](https://github.com/joshuamichaelhall/federal-cloud-resume) for a working example of these principles.*

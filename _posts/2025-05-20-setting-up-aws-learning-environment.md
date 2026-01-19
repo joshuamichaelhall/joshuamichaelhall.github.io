@@ -5,7 +5,7 @@ date: 2025-05-20 10:00:00 -0500
 categories: infrastructure
 tags: aws terraform security best-practices
 image: "/assets/images/set_secure_aws_article_icon.png"
-published: true
+published: false
 ---
 
 When starting a DevOps learning journey, having the right environment to practice is crucial. This post details how I've set up my AWS learning environment with security and financial services best practices in mind from the beginning. By following a "defense in depth" approach even for learning projects, I'm building security habits that will be essential for production environments.

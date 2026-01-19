@@ -5,6 +5,7 @@ date: 2025-05-26
 categories: [devops, career, certifications]
 tags: [aws, terraform, security, career-transition, certifications]
 excerpt: "Leveraging my focused IT background and systematic learning approach to transition into DevOps with a specialization in financial services"
+published: false
 ---
 
 After gaining valuable experience in IT services, software engineering foundations, and project leadership, I'm excited to share my strategic approach to transitioning into DevOps/SRE. Through careful research and planning, I've developed a certification roadmap that builds on my existing expertise while targeting the specialized needs of financial services organizations.
