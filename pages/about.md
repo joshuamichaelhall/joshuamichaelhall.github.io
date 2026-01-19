@@ -7,15 +7,15 @@ permalink: /about/
 # Cloud Security & Compliance Professional
 
 <div class="content-section with-divider">
-  <p>Cloud Security & Compliance Professional with proven P&L ownership and zero ransomware incidents for all fully managed clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, CMMC RP credentialed (CCP exam passed, pending Tier 3). Targeting Senior Security Analyst, GRC Analyst, Compliance Lead, or Cloud Security Engineer roles in Dallas.</p>
+  <p>Cloud Security & Compliance Professional with 3+ years of client-facing security advisory experience and zero ransomware incidents for all fully managed clients. Delivered security assessments, risk advisory, and compliance support to 30+ clients across healthcare, manufacturing, finance, and legal sectors. AWS Solutions Architect and Security+ certified, CMMC RP credentialed (CCP exam passed, pending Tier 3). Targeting Security Consultant, GRC Analyst, or Cloud Security Engineer roles in Dallas.</p>
 
-  <p><strong>Zero Ransomware Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero ransomware incidents for all fully managed clients. Called when others failed - inherited and stabilized multiple compromised environments.</p>
+  <p><strong>Client Advisory Experience:</strong> Delivered security assessments to 30+ clients across diverse industries. Advised C-suite stakeholders on security strategy and risk management. Called when others failed - inherited and stabilized multiple compromised environments.</p>
 
-  <p><strong>Cloud Security Focus:</strong> Building Federal Cloud Resume with security controls implementation on AWS. Deep HIPAA compliance experience translating to PCI-DSS, SOX, and NIST frameworks for regulated industries.</p>
+  <p><strong>Compliance Framework Experience:</strong> Gap assessments and remediation implementation for HIPAA, PCI-DSS adjacent, and NIST-based requirements. Deep compliance experience translating across regulated industries.</p>
 
   <p><strong>AWS Expertise:</strong> Solutions Architect Associate certified. Built serverless cloud resume demonstrating S3, CloudFront, Lambda, API Gateway, and IAM. Pursuing AWS Security Specialty certification.</p>
 
-  <p><strong>Focus:</strong> Senior Security Analyst, GRC Analyst, Compliance Lead, or Cloud Security Engineer roles in Dallas. Open to financial services, healthcare, defense, energy, or enterprise technology sectors. Ready to contribute immediately to security teams.</p>
+  <p><strong>Focus:</strong> Security Consultant, GRC Analyst, or Cloud Security Engineer roles in Dallas. Open to consulting firms, financial services, healthcare, defense, or enterprise technology sectors. Ready to contribute immediately to security and compliance teams.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -97,20 +97,20 @@ permalink: /about/
   <h2>Professional Experience Highlights</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>MSP Security Operations</h3>
-      <p>Managed security for 30+ clients with zero ransomware incidents for fully managed clients. Deployed 11 enterprise firewalls, secured 100+ endpoints with EDR and monitoring.</p>
+      <h3>Client Advisory Services</h3>
+      <p>Delivered security assessments and advisory services to 30+ clients across healthcare, manufacturing, finance, and legal sectors. End-to-end engagement ownership from assessment to remediation.</p>
     </div>
     <div class="expertise-item">
-      <h3>Cloud Transformations</h3>
-      <p>Managed comprehensive IT infrastructure including network design, security implementation, and system integrations. Maintained zero ransomware incidents across all client environments.</p>
+      <h3>Compliance Implementation</h3>
+      <p>Conducted gap assessments and implemented remediation for HIPAA, PCI-DSS adjacent requirements. Framework experience translates across regulated industries.</p>
     </div>
     <div class="expertise-item">
       <h3>Enterprise Deployment</h3>
       <p>Led 11-person team through 5,000+ system HIPAA-compliant deployment at Vanderbilt Hospital. Delivered on time with zero security incidents.</p>
     </div>
     <div class="expertise-item">
-      <h3>Strategic Consulting</h3>
-      <p>Current consulting work includes IT infrastructure assessment and technology strategy development while building cloud architecture expertise through hands-on projects.</p>
+      <h3>Security Architecture</h3>
+      <p>Designed and deployed 11 enterprise firewalls with network segmentation. Stabilized multiple compromised environments others had abandoned.</p>
     </div>
   </div>
 </div>
@@ -153,13 +153,13 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Contact</h3>
-      <p>Open to Senior Security Analyst, GRC, or Cloud Security opportunities in Dallas</p>
+      <p>Open to Security Consultant, GRC Analyst, or Cloud Security opportunities in Dallas</p>
       <p>Currently in AR, relocating for the right role</p>
     </div>
   </div>
 
   <div class="quote">
-    <p>Helping enterprises build secure cloud infrastructure through operational experience and compliance expertise.</p>
-    <div class="quote-author">— Cloud Security Professional | Former MSP Owner | Dallas 2026</div>
+    <p>Helping organizations build secure infrastructure through client-facing advisory and compliance expertise.</p>
+    <div class="quote-author">— Security & Compliance Professional | Dallas 2026</div>
   </div>
 </div>

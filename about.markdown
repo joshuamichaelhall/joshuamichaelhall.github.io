@@ -4,24 +4,24 @@ title: About
 permalink: /about/
 ---
 
-# Cloud Security Engineer | 3+ Years MSP Security Experience
+# Security Consultant | 3+ Years Client-Facing Advisory Experience
 
 ## Professional Summary
 
-Cloud Security Engineer with 3+ years of MSP security experience including firewall deployment, HIPAA compliance, and zero ransomware incidents for fully managed clients over 2+ years. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Specializing in cloud security, incident response, and compliance. Called when others fail.
+Security & Compliance Professional with 3+ years of client-facing security advisory experience including risk assessments, compliance support, and zero ransomware incidents for fully managed clients over 2+ years. Delivered security advisory services to 30+ clients across healthcare, manufacturing, finance, and legal sectors. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Targeting Security Consultant, GRC Analyst, or Cloud Security Engineer roles in Dallas.
 
-## Security Operations Experience
+## Client Advisory Experience
 
-### Security Achievements
-- Zero ransomware incidents for all fully managed clients over 2+ years of MSP operations
-- Deployed and managed: 11 firewalls, 33 WAPs, 8 servers
-- Zero clients lost to competition during MSP ownership
-- Built HIPAA-compliant infrastructure translating to federal compliance frameworks
+### Advisory Achievements
+- Delivered security assessments and advisory services to 30+ clients across diverse industries
+- Zero ransomware incidents for all fully managed clients over 2+ years
+- End-to-end engagement ownership from assessment to remediation
+- Advised C-suite stakeholders on security strategy and risk management
 
 ### Core Competencies
-- **Security Operations**: Firewall deployment, EDR, monitoring, incident response
+- **Security Advisory**: Gap assessments, risk analysis, compliance support, executive communication
 - **AWS Architecture**: IAM, S3, CloudFront, Lambda, API Gateway, DynamoDB (SAA certified)
-- **Compliance**: HIPAA implementation experience, CMMC RP credentialed
+- **Compliance Frameworks**: HIPAA, PCI-DSS adjacent, NIST foundations, CMMC RP credentialed
 - **Scripting**: Ruby, Bash, Python fundamentals
 
 ## Technical Expertise
@@ -91,10 +91,9 @@ Actively building and improving:
 ## Career Goals
 
 ### Career Focus
-- Cloud Security Engineer roles in Dallas
-- Open to financial services, healthcare, defense, energy, or enterprise technology sectors
-- Security clearance sponsorship opportunities
-- Long-term growth to Senior Security Engineer
+- Security Consultant, GRC Analyst, or Cloud Security Engineer roles in Dallas
+- Open to consulting firms, financial services, healthcare, defense, or enterprise technology
+- Long-term path toward security leadership (Director → VP → CISO)
 
 ## Personal Philosophy
 
@@ -107,4 +106,4 @@ Actively building and improving:
 - **Email**: contact@joshuamichaelhall.com
 - **Location**: Dallas, TX (Relocating Q1 2026)
 
-Ready to contribute to security teams. Let's discuss how my security operations experience can strengthen your organization's security posture.
+Ready to contribute to security and compliance teams. Let's discuss how my client advisory experience can add value to your organization.
