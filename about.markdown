@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-# Security Consultant | 3+ Years Client-Facing Advisory Experience
+# Cloud Security & GRC Professional | 3+ Years Client-Facing Advisory Experience
 
 ## Professional Summary
 
-Security & Compliance Professional with 3+ years of client-facing security advisory experience including risk assessments, compliance support, and zero ransomware incidents for fully managed clients over 2+ years. Delivered security advisory services to 30+ clients across healthcare, manufacturing, finance, and legal sectors. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Targeting Security Consultant, GRC Analyst, or Cloud Security Engineer roles in Dallas.
+Security & Compliance Professional with 3+ years of client-facing security advisory experience including risk assessments, compliance support, and zero ransomware incidents for fully managed clients over 2+ years. Delivered security advisory services to 30+ clients across healthcare, manufacturing, finance, and legal sectors. AWS Solutions Architect Associate and Security+ (DoD 8570 IAT II) certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Targeting cleared GRC Analyst, Security Analyst, or Security Consultant roles in Huntsville, AL or Dallas, TX. Clearance eligible with clean background.
 
 ## Client Advisory Experience
 
@@ -91,9 +91,10 @@ Actively building and improving:
 ## Career Goals
 
 ### Career Focus
-- Security Consultant, GRC Analyst, or Cloud Security Engineer roles in Dallas
-- Open to consulting firms, financial services, healthcare, defense, or enterprise technology
-- Long-term path toward security leadership (Director → VP → CISO)
+- Cleared GRC Analyst, Security Analyst, or Security Consultant roles in Huntsville, AL or Dallas, TX
+- Open to defense contractors (clearance sponsorship), consulting firms, financial services, or healthcare
+- Long-term specialization: AI governance and compliance
+- Path toward security leadership (Manager → Director → VP/CISO)
 
 ## Personal Philosophy
 
@@ -104,6 +105,7 @@ Actively building and improving:
 - **LinkedIn**: [joshuamichaelhall](https://www.linkedin.com/in/joshuamichaelhall/)
 - **GitHub**: [joshuamichaelhall](https://github.com/joshuamichaelhall)
 - **Email**: contact@joshuamichaelhall.com
-- **Location**: Dallas, TX (Relocating Q1 2026)
+- **Location**: Huntsville, AL or Dallas, TX (Relocating Q1 2026)
+- **Clearance**: Eligible, clean background, ready for sponsorship
 
-Ready to contribute to security and compliance teams. Let's discuss how my client advisory experience can add value to your organization.
+Ready to contribute to security and compliance teams. Open to defense contractors with clearance sponsorship. Let's discuss how my client advisory experience can add value to your organization.
