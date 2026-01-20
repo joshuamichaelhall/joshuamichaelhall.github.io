@@ -4,24 +4,24 @@ title: About
 permalink: /about/
 ---
 
-# Cloud Security & GRC Professional | 3+ Years Client-Facing Advisory Experience
+# Cloud Security Engineer | 3+ Years MSP Security Experience
 
 ## Professional Summary
 
-Security & Compliance Professional with 3+ years of client-facing security advisory experience including risk assessments, compliance support, and zero ransomware incidents for fully managed clients over 2+ years. Delivered security advisory services to 30+ clients across healthcare, manufacturing, finance, and legal sectors. AWS Solutions Architect Associate and Security+ (DoD 8570 IAT II) certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Targeting cleared GRC Analyst, Security Analyst, or Security Consultant roles in Huntsville, AL or Dallas, TX. Clearance eligible with clean background.
+Cloud Security Engineer with 3+ years of MSP security experience including firewall deployment, HIPAA compliance, and zero ransomware incidents for fully managed clients over 2+ years. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Specializing in cloud security, incident response, and compliance. Called when others fail.
 
-## Client Advisory Experience
+## Security Operations Experience
 
-### Advisory Achievements
-- Delivered security assessments and advisory services to 30+ clients across diverse industries
-- Zero ransomware incidents for all fully managed clients over 2+ years
-- End-to-end engagement ownership from assessment to remediation
-- Advised C-suite stakeholders on security strategy and risk management
+### Security Achievements
+- Zero ransomware incidents for all fully managed clients over 2+ years of MSP operations
+- Deployed and managed: 11 firewalls, 33 WAPs, 8 servers
+- Zero clients lost to competition during MSP ownership
+- Built HIPAA-compliant infrastructure translating to federal compliance frameworks
 
 ### Core Competencies
-- **Security Advisory**: Gap assessments, risk analysis, compliance support, executive communication
+- **Security Operations**: Firewall deployment, EDR, monitoring, incident response
 - **AWS Architecture**: IAM, S3, CloudFront, Lambda, API Gateway, DynamoDB (SAA certified)
-- **Compliance Frameworks**: HIPAA, PCI-DSS adjacent, NIST foundations, CMMC RP credentialed
+- **Compliance**: HIPAA implementation experience, CMMC RP credentialed
 - **Scripting**: Ruby, Bash, Python fundamentals
 
 ## Technical Expertise
@@ -91,10 +91,10 @@ Actively building and improving:
 ## Career Goals
 
 ### Career Focus
-- Cleared GRC Analyst, Security Analyst, or Security Consultant roles in Huntsville, AL or Dallas, TX
-- Open to defense contractors (clearance sponsorship), consulting firms, financial services, or healthcare
-- Long-term specialization: AI governance and compliance
-- Path toward security leadership (Manager → Director → VP/CISO)
+- Cloud Security Engineer roles in Dallas
+- Open to financial services, healthcare, defense, energy, or enterprise technology sectors
+- Security clearance sponsorship opportunities
+- Long-term growth to Senior Security Engineer
 
 ## Personal Philosophy
 
@@ -105,7 +105,6 @@ Actively building and improving:
 - **LinkedIn**: [joshuamichaelhall](https://www.linkedin.com/in/joshuamichaelhall/)
 - **GitHub**: [joshuamichaelhall](https://github.com/joshuamichaelhall)
 - **Email**: contact@joshuamichaelhall.com
-- **Location**: Huntsville, AL or Dallas, TX (Relocating Q1 2026)
-- **Clearance**: Eligible, clean background, ready for sponsorship
+- **Location**: Dallas, TX (Relocating Q1 2026)
 
-Ready to contribute to security and compliance teams. Open to defense contractors with clearance sponsorship. Let's discuss how my client advisory experience can add value to your organization.
+Ready to contribute to security teams. Let's discuss how my security operations experience can strengthen your organization's security posture.
