@@ -83,11 +83,11 @@ permalink: /contact/
     <div class="tab-content" id="compliance-tab">
       <div class="services-box">
         <h3>Federal Compliance & RMF Controls</h3>
-        <p>Deep HIPAA compliance experience translating to NIST and FedRAMP frameworks. Building Federal Cloud Resume with RMF controls implementation. Understanding of DoD security requirements and clearance processes.</p>
+        <p>HIPAA environment experience applicable to NIST and FedRAMP frameworks. Building Federal Cloud Resume with RMF controls implementation. Understanding of DoD security requirements and clearance processes.</p>
         
         <h4>Compliance Expertise:</h4>
         <ul class="service-areas">
-          <li><strong>HIPAA to Federal Translation</strong> - Applying healthcare compliance to federal requirements</li>
+          <li><strong>Regulated Industry Background</strong> - Healthcare security experience applicable to federal requirements</li>
           <li><strong>RMF Controls Implementation</strong> - Risk Management Framework for federal clouds</li>
           <li><strong>NIST Framework</strong> - Cybersecurity framework implementation</li>
           <li><strong>FedRAMP Readiness</strong> - Federal cloud authorization requirements</li>

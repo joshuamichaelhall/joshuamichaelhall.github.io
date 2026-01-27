@@ -7,15 +7,15 @@ permalink: /about/
 # Cloud Security & Compliance Professional
 
 <div class="content-section with-divider">
-  <p>Cloud Security & Compliance Professional with proven P&L ownership and zero ransomware incidents for all fully managed clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, CMMC RP credentialed (CCP exam passed, pending Tier 3). Targeting Senior Security Analyst, GRC Analyst, Compliance Lead, or Cloud Security Engineer roles in Dallas.</p>
+  <p>Cloud Security & Compliance Professional with proven P&L ownership and zero ransomware incidents for all fully managed clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, CMMC RP credentialed (CCP exam passed, pending Tier 3). Targeting Senior Security Analyst, GRC Analyst, Compliance Lead, or Cloud Security Engineer roles in Dallas or San Antonio.</p>
 
   <p><strong>Zero Ransomware Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero ransomware incidents for all fully managed clients. Called when others failed - inherited and stabilized multiple compromised environments.</p>
 
-  <p><strong>Cloud Security Focus:</strong> Building Federal Cloud Resume with security controls implementation on AWS. Deep HIPAA compliance experience translating to PCI-DSS, SOX, and NIST frameworks for regulated industries.</p>
+  <p><strong>Cloud Security Focus:</strong> Building Federal Cloud Resume with security controls implementation on AWS. HIPAA environment experience applicable to regulated industry security requirements (PCI-DSS, SOX, NIST frameworks).</p>
 
   <p><strong>AWS Expertise:</strong> Solutions Architect Associate certified. Built serverless cloud resume demonstrating S3, CloudFront, Lambda, API Gateway, and IAM. Pursuing AWS Security Specialty certification.</p>
 
-  <p><strong>Focus:</strong> Senior Security Analyst, GRC Analyst, Compliance Lead, or Cloud Security Engineer roles in Dallas. Open to financial services, healthcare, defense, energy, or enterprise technology sectors. Ready to contribute immediately to security teams.</p>
+  <p><strong>Focus:</strong> Senior Security Analyst, GRC Analyst, Compliance Lead, or Cloud Security Engineer roles in Dallas or San Antonio. Open to financial services, healthcare, defense, energy, or enterprise technology sectors. Ready to contribute immediately to security teams.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -50,9 +50,9 @@ permalink: /about/
         <h4>Compliance & Readiness</h4>
         <ul class="cert-list">
           <li><strong>Clearance Eligible</strong> - Clean background ready for security clearance sponsorship</li>
-          <li><strong>Compliance Translation</strong> - HIPAA experience applicable to PCI-DSS, SOX, NIST</li>
+          <li><strong>Regulated Industry Experience</strong> - Healthcare, finance, legal sector security implementations</li>
           <li><strong>CMMC Expertise</strong> - RP credentialed, CCP exam passed</li>
-          <li><strong>Location</strong> - Relocating to Dallas for the right opportunity</li>
+          <li><strong>Location</strong> - Relocating to Dallas or San Antonio for the right opportunity</li>
           <li><strong>Industry Focus</strong> - Financial services, healthcare, defense, energy, enterprise tech</li>
         </ul>
       </div>
@@ -62,11 +62,12 @@ permalink: /about/
     <h3>Current Certifications & Education</h3>
     <ul class="cert-list in-progress">
       <li><strong>AWS Solutions Architect Associate</strong> - November 2025</li>
-      <li><strong>CompTIA Security+</strong> - November 2025</li>
+      <li><strong>CompTIA Security+ CE</strong> - November 2025 (DoD 8570 IAT II)</li>
+      <li><strong>CMMC Registered Practitioner (RP)</strong> - December 2025</li>
       <li><strong>CMMC CCP Exam Passed</strong> - January 16, 2026 (certification pending Tier 3 clearance)</li>
+      <li><strong>CISSP Associate</strong> - In Progress (target ~March 2026)</li>
+      <li><strong>AWS Security Specialty</strong> - In Progress (target ~April 2026)</li>
       <li><strong>Launch School Backend Software Engineering</strong> - Completed 9 rigorous courses (mastery-based learning)</li>
-      <li><strong>CompTIA Project+</strong> - Active (Previous certification)</li>
-      <li><strong>CompTIA Cloud Essentials+</strong> - Active (Previous certification)</li>
     </ul>
   </div>
 </div>
@@ -120,8 +121,8 @@ permalink: /about/
   <p>Deep understanding across multiple verticals:</p>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Healthcare</h3>
-      <p>HIPAA compliance, EMR integrations, clinical workflow optimization. Supported medical practices and hospitals.</p>
+      <h3>Healthcare (BMA Inc. & Vanderbilt)</h3>
+      <p>HIPAA-regulated environments, clinical workflow support. Experience from BMA Inc. medical clients and Vanderbilt Hospital deployment.</p>
     </div>
     <div class="expertise-item">
       <h3>Finance & Accounting</h3>
@@ -153,13 +154,13 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Contact</h3>
-      <p>Open to Senior Security Analyst, GRC, or Cloud Security opportunities in Dallas</p>
+      <p>Open to GRC Analyst, Security Compliance Analyst, or Compliance Lead opportunities in Dallas or San Antonio</p>
       <p>Currently in AR, relocating for the right role</p>
     </div>
   </div>
 
   <div class="quote">
     <p>Helping enterprises build secure cloud infrastructure through operational experience and compliance expertise.</p>
-    <div class="quote-author">— Cloud Security Professional | Former MSP Owner | Dallas 2026</div>
+    <div class="quote-author">— Cloud Security Professional | Former MSP Owner | Texas 2026</div>
   </div>
 </div>

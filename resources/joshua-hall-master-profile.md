@@ -97,20 +97,15 @@ Joshua Michael Hall is an accomplished technology professional with a unique com
 
 **BMA Inc. - IT Technician** (2020-2021)
 - Supported medical and professional service clients
-- Maintained HIPAA compliance through security implementations
+- Supported HIPAA-regulated environments through security implementations
 - Managed Windows environments, firewalls, and network infrastructure
 - System monitoring using Datto RMM platform
 
 **Apex Systems - Technical Team Lead** (2015)
 - Led 13-person team through 5,000+ system deployments
 - Delivered enterprise project at Vanderbilt Hospital
-- Maintained HIPAA compliance through security implementations
+- Supported HIPAA-regulated environments through security implementations
 - Mentored junior technicians
-
-**Apex Systems - IT Customer Service** (2014)
-- Provided technical support for Elsevier publishing systems
-- Resolved software and hardware issues
-- Delivered professional support to business users
 
 ### Leadership Experience
 

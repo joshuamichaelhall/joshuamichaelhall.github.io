@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Professional Summary
 
-Cloud Security Engineer with 3+ years of MSP security experience including firewall deployment, HIPAA compliance, and zero ransomware incidents for fully managed clients over 2+ years. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Specializing in cloud security, incident response, and compliance. Called when others fail.
+Cloud Security Engineer with 3+ years of MSP security experience including firewall deployment and zero ransomware incidents for fully managed clients over 2+ years. HIPAA environment experience from BMA Inc. and Vanderbilt Hospital deployments. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Specializing in cloud security, incident response, and compliance. Called when others fail.
 
 ## Security Operations Experience
 
@@ -16,12 +16,12 @@ Cloud Security Engineer with 3+ years of MSP security experience including firew
 - Zero ransomware incidents for all fully managed clients over 2+ years of MSP operations
 - Deployed and managed: 11 firewalls, 33 WAPs, 8 servers
 - Zero clients lost to competition during MSP ownership
-- Built HIPAA-compliant infrastructure translating to federal compliance frameworks
+- Supported HIPAA-regulated environments at BMA Inc. and Vanderbilt Hospital
 
 ### Core Competencies
 - **Security Operations**: Firewall deployment, EDR, monitoring, incident response
 - **AWS Architecture**: IAM, S3, CloudFront, Lambda, API Gateway, DynamoDB (SAA certified)
-- **Compliance**: HIPAA implementation experience, CMMC RP credentialed
+- **Compliance**: HIPAA environment experience (BMA/Vanderbilt), CMMC RP credentialed
 - **Scripting**: Ruby, Bash, Python fundamentals
 
 ## Technical Expertise
@@ -31,7 +31,7 @@ Cloud Security Engineer with 3+ years of MSP security experience including firew
 - **Network Security**: Enterprise firewalls (WatchGuard/Fortinet), VPNs, network segmentation
 - **Endpoint Security**: EDR solutions, patch management, monitoring
 - **Operating Systems**: Windows, Linux, macOS administration
-- **Compliance**: HIPAA implementation, CMMC training completed
+- **Compliance**: HIPAA environment experience (BMA/Vanderbilt), CMMC training completed
 - **Incident Response**: Real-world containment and remediation from MSP operations
 
 ### Current Certifications
@@ -60,7 +60,7 @@ Called when other providers failed - real-world security crisis management:
 
 ### Federal Compliance Experience
 Practical implementation translating to federal requirements:
-- HIPAA compliance experience translating to NIST 800-171 and CMMC
+- HIPAA environment experience applicable to NIST 800-171 and CMMC
 - Account management and access control implementation
 - Network segmentation and boundary protection
 - Vulnerability management and patching programs
@@ -68,7 +68,7 @@ Practical implementation translating to federal requirements:
 
 ### Practical Security Implementation
 Real-world experience beyond just certifications:
-- 3+ years MSP security experience including firewall deployment, HIPAA compliance
+- 3+ years MSP security experience including firewall deployment for regulated industries
 - Hands-on experience with heterogeneous environments (Linux/Windows/macOS)
 - AWS serverless implementation demonstrated at joshuahall.tech
 - Infrastructure security hardening and compliance
@@ -91,7 +91,7 @@ Actively building and improving:
 ## Career Goals
 
 ### Career Focus
-- Cloud Security Engineer roles in Dallas
+- Cloud Security Engineer roles in Dallas or San Antonio
 - Open to financial services, healthcare, defense, energy, or enterprise technology sectors
 - Security clearance sponsorship opportunities
 - Long-term growth to Senior Security Engineer
@@ -105,6 +105,6 @@ Actively building and improving:
 - **LinkedIn**: [joshuamichaelhall](https://www.linkedin.com/in/joshuamichaelhall/)
 - **GitHub**: [joshuamichaelhall](https://github.com/joshuamichaelhall)
 - **Email**: contact@joshuamichaelhall.com
-- **Location**: Dallas, TX (Relocating Q1 2026)
+- **Location**: Dallas or San Antonio, TX (Relocating Q1 2026)
 
 Ready to contribute to security teams. Let's discuss how my security operations experience can strengthen your organization's security posture.

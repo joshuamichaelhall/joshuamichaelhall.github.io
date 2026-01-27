@@ -58,7 +58,7 @@ permalink: /portfolio/
               <li>Fixed copyright violations, active compromises, and malware infestations</li>
               <li>Implemented comprehensive security controls that prevented all future incidents</li>
               <li>Zero successful breaches across 30+ production environments after implementation</li>
-              <li>Maintained PCI compliance for retail/restaurant clients, HIPAA readiness for healthcare</li>
+              <li>Implemented security controls aligned with FTC Safeguards Rule for CPA clients and state bar requirements for legal clients</li>
             </ul>
 
             <p class="technologies">

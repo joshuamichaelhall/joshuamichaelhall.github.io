@@ -64,9 +64,21 @@ permalink: /certifications/
   <div class="cert-item current">
     <h3>CompTIA Security+</h3>
     <p>Cybersecurity fundamentals, threat detection, incident response, and risk management</p>
-    <span class="cert-meta">Current Certification</span>
+    <span class="cert-meta">Current Certification (November 2025)</span>
   </div>
-  
+
+  <div class="cert-item current">
+    <h3>CMMC Registered Practitioner (RP)</h3>
+    <p>CMMC gap assessments and SSP documentation support</p>
+    <span class="cert-meta">Current Certification (December 2025)</span>
+  </div>
+
+  <div class="cert-item current">
+    <h3>CMMC Certified Professional (CCP)</h3>
+    <p>CMMC assessment methodology, NIST 800-171 controls, and compliance verification</p>
+    <span class="cert-meta">Exam Passed (January 2026) - Certification pending Tier 3 clearance</span>
+  </div>
+
   <div class="cert-item current">
     <h3>CompTIA Project+</h3>
     <p>IT project lifecycle, communication, resources, and stakeholder management</p>
@@ -94,12 +106,13 @@ permalink: /certifications/
   
   <div class="earned-list">
     <ul>
-      <li><strong>CompTIA Security+ ce</strong> - Expired 2023 (Planning renewal in 2025)</li>
       <li><strong>CompTIA Network+ ce</strong> - Expired 2023</li>
       <li><strong>CompTIA Cloud+ ce</strong> - Expired 2024</li>
       <li><strong>CompTIA Server+</strong> - Expired</li>
     </ul>
   </div>
+
+  <p><em>Note: Security+ was renewed in November 2025 and is now current (listed above).</em></p>
   
   <h3>📦 CompTIA Stackables (Expired)</h3>
   <p>These stackable certifications expired when their prerequisite certifications expired:</p>
@@ -171,7 +184,7 @@ permalink: /certifications/
   <div class="strategy-grid">
     <div class="strategy-item">
       <h3>🎯 Zero-Breach Foundation</h3>
-      <p>Zero-breach operations managing 43+ organizations and 500+ endpoints validates practical security skills</p>
+      <p>Zero-breach operations managing 30+ clients and 100+ endpoints validates practical security skills</p>
     </div>
     <div class="strategy-item">
       <h3>💰 Federal Requirements Focus</h3>
@@ -194,8 +207,8 @@ permalink: /certifications/
   <p><strong>Current Status (Fully Verifiable):</strong></p>
   <ul>
     <li>AWS Solutions Architect Associate certification verifiable through AWS</li>
-    <li>CompTIA certifications verifiable through CompTIA verification system</li>
-    <li>Security+ exam scheduled for November 22, 2025</li>
+    <li>CompTIA Security+ CE (November 2025) verifiable through CompTIA</li>
+    <li>CMMC CCP exam passed (January 2026) - certification pending Tier 3 clearance</li>
     <li>Zero-breach MSP track record documented and verifiable</li>
   </ul>
   

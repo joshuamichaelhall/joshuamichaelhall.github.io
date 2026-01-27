@@ -136,7 +136,7 @@
 - **SIEM/Logging:** Splunk fundamentals, Windows Event forwarding
 
 ### Compliance Frameworks
-- **HIPAA:** Implemented technical safeguards for 3 healthcare clients
+- **HIPAA:** Supported HIPAA-regulated environments at BMA Inc. and Vanderbilt Hospital
 - **PCI DSS:** Network segmentation and access controls for retail clients
 - **NIST Cybersecurity Framework:** Natural alignment through security best practices
 - **SOC 2 Type II:** Supported client audits with documentation and controls
