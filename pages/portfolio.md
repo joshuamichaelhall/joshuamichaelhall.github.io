@@ -40,7 +40,7 @@ permalink: /portfolio/
               <li><strong>Discovery:</strong> 30 employees sharing 2 RDP accounts, password on sticky note on wall</li>
               <li><strong>NIST Mapping:</strong> AC-2 (Account Management), IA-5 (Authenticator Management)</li>
               <li><strong>Solution:</strong> Complete infrastructure rebuild, individual accounts, MFA, network segmentation</li>
-              <li><strong>Result:</strong> Zero security incidents post-implementation</li>
+              <li><strong>Result:</strong> Zero ransomware incidents for fully managed clients post-implementation</li>
             </ul>
 
             <p><strong>Critical Incident #3: Accounting Firm Total Compromise</strong></p>
@@ -156,7 +156,7 @@ permalink: /portfolio/
             <p><strong>Project Outcomes:</strong></p>
             <ul>
               <li>Successfully deployed 5,000+ systems across hospital facilities</li>
-              <li>Zero security incidents during deployment</li>
+              <li>Delivered on time and on budget</li>
               <li>Met all compliance and regulatory requirements</li>
               <li>Positive feedback from clinical and administrative stakeholders</li>
             </ul>

@@ -107,7 +107,7 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Enterprise Deployment</h3>
-      <p>Led 11-person team through 5,000+ system HIPAA-compliant deployment at Vanderbilt Hospital. Delivered on time with zero security incidents.</p>
+      <p>Led 11-person team through 5,000+ system HIPAA-compliant deployment at Vanderbilt Hospital. Delivered on time and on budget.</p>
     </div>
     <div class="expertise-item">
       <h3>Strategic Consulting</h3>

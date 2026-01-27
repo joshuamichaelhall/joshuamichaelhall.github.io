@@ -51,7 +51,7 @@
 - Established network segmentation (10.125.50.x/24)
 - Implemented WatchGuard firewall rules
 
-**Result:** Zero security incidents, 100% uptime maintained, passed subsequent security audits, client retained for 2+ years.
+**Result:** Zero ransomware incidents, 100% uptime maintained, passed subsequent security audits, client retained for 2+ years.
 
 **NIST 800-53 Mapping:** SI-2 (Flaw Remediation), CM-3 (Configuration Change Control), CP-9 (Information System Backup), SC-7 (Boundary Protection)
 
@@ -99,7 +99,7 @@
 - Established role-based access control (RBAC) for client data
 - Created security awareness training program
 
-**Result:** Zero security incidents through 3 tax seasons, passed client security audits, became trusted advisor for other CPA firms.
+**Result:** Zero ransomware incidents through 3 tax seasons, passed client security audits, became trusted advisor for other CPA firms.
 
 **NIST 800-53 Mapping:** AC-2 (Account Management), IA-5 (Authenticator Management), MP-5 (Media Transport), AT-2 (Security Awareness Training)
 
@@ -166,7 +166,7 @@
 5. **Trusted Advisor Role → Clearance Worthiness**
    - Maintained access to 30+ organizations' critical infrastructure
    - Demonstrated reliability during high-pressure situations
-   - Zero security incidents from insider threat perspective
+   - Maintained trusted access without any security concerns
 
 ### Key Federal Differentiators
 
