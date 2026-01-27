@@ -108,8 +108,6 @@ Supported my team of technicians, managing schedule, and directing daily activit
 
 CompTIA Project+
 
-ITIL 4 Foundation
-
 CompTIA Cloud+
 
 CompTIA Security+

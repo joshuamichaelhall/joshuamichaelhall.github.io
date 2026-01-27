@@ -63,7 +63,6 @@ Joshua Michael Hall is an accomplished technology professional with a unique com
 - CompTIA Network+
 - CompTIA Security+
 - CompTIA Linux+
-- ITIL 4
 - CompTIA Cloud+
 - 3CX Basic and Intermediate
 
