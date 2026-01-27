@@ -98,7 +98,7 @@ categories:
       - name: "Federal Location Flexibility"
         level: 100
         description: "Open to Huntsville, Dallas, Colorado Springs, San Antonio positions"
-      - name: "Zero-Breach Track Record"
+      - name: "Zero Ransomware Breaches Track Record"
         level: 100
         description: "Documented security success with 30+ MSP clients over multiple years"
       - name: "AWS re:Invent Preparation"

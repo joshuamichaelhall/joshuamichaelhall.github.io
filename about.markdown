@@ -8,12 +8,12 @@ permalink: /about/
 
 ## Professional Summary
 
-Cloud Security Engineer with 3+ years of MSP security experience including firewall deployment and zero ransomware incidents for fully managed clients over 2+ years. HIPAA environment experience from BMA Inc. and Vanderbilt Hospital deployments. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Specializing in cloud security, incident response, and compliance. Called when others fail.
+Cloud Security Engineer with 3+ years of MSP security experience including firewall deployment and zero ransomware breaches for all fully managed clients over 2+ years. HIPAA environment experience from BMA Inc. and Vanderbilt Hospital deployments. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Specializing in cloud security, incident response, and compliance. Called when others fail.
 
 ## Security Operations Experience
 
 ### Security Achievements
-- Zero ransomware incidents for all fully managed clients over 2+ years of MSP operations
+- Zero ransomware breaches for all fully managed clients over 2+ years of MSP operations
 - Deployed and managed: 11 firewalls, 33 WAPs, 8 servers
 - Zero clients lost to competition during MSP ownership
 - Supported HIPAA-regulated environments at BMA Inc. and Vanderbilt Hospital
@@ -98,7 +98,7 @@ Actively building and improving:
 
 ## Personal Philosophy
 
-"Security isn't just about implementing tools—it's about protecting what matters most. My track record of zero ransomware incidents for fully managed clients comes from understanding that every configuration, every script, and every security control exists to safeguard critical operations and sensitive data."
+"Security isn't just about implementing tools—it's about protecting what matters most. My track record of zero ransomware breaches for all fully managed clients comes from understanding that every configuration, every script, and every security control exists to safeguard critical operations and sensitive data."
 
 ## Connect With Me
 

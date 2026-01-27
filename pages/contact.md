@@ -18,7 +18,7 @@ permalink: /contact/
     <p><strong>Status:</strong> Available for Cloud Security Engineer Roles | Defense Contractors | Clearance Sponsorship</p>
   </div>
 
-  <p>Cloud Security Professional with zero ransomware incidents for fully managed clients across 30+ clients and 100+ endpoints. AWS Solutions Architect Associate certified with Security+. Ready for immediate contribution to cloud security initiatives.</p>
+  <p>Cloud Security Professional with zero ransomware breaches for all fully managed clients across 30+ clients and 100+ endpoints. AWS Solutions Architect Associate certified with Security+. Ready for immediate contribution to cloud security initiatives.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -31,7 +31,7 @@ permalink: /contact/
     <li><strong>Clearance Sponsorship</strong> - Clean background eligible for security clearance</li>
     <li><strong>Federal Cloud Security</strong> - RMF controls and NIST framework expertise</li>
     <li><strong>Compliance Automation</strong> - Infrastructure as Code with security controls</li>
-    <li><strong>Zero Ransomware Record</strong> - Proven track record across 30+ fully managed clients</li>
+    <li><strong>Zero Ransomware Breaches</strong> - Proven track record across 30+ fully managed clients</li>
     <li><strong>AWS Security Services</strong> - GuardDuty, Security Hub, CloudTrail, IAM expertise</li>
   </ul>
 </div>
@@ -67,7 +67,7 @@ permalink: /contact/
     <div class="tab-content" id="incident-tab">
       <div class="services-box">
         <h3>Incident Response & Threat Detection</h3>
-        <p>Zero ransomware incidents for fully managed clients from MSP operations. Real-world experience resolving complex security incidents that other providers couldn't handle. Expert in containment, investigation, and remediation.</p>
+        <p>Zero ransomware breaches for all fully managed clients from MSP operations. Real-world experience resolving complex security incidents that other providers couldn't handle. Expert in containment, investigation, and remediation.</p>
         
         <h4>Incident Response Capabilities:</h4>
         <ul class="service-areas">

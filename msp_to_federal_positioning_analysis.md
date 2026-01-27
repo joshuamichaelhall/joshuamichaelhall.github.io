@@ -4,7 +4,7 @@
 
 **Key Differentiators:**
 - **30+ business clients** managed across critical sectors (finance, healthcare, legal, manufacturing)
-- **Zero-breach track record** with proactive security posture management
+- **Zero ransomware breaches track record** with proactive security posture management
 - **24/7 crisis response capability** with documented emergency interventions
 - **Multi-environment expertise** spanning Windows Server 2016/2019, Active Directory, Linux, cloud, and legacy systems
 - **"Called when others failed" positioning** - inherited and stabilized multiple compromised environments
@@ -51,7 +51,7 @@
 - Established network segmentation (10.125.50.x/24)
 - Implemented WatchGuard firewall rules
 
-**Result:** Zero ransomware incidents, 100% uptime maintained, passed subsequent security audits, client retained for 2+ years.
+**Result:** Zero ransomware breaches, 100% uptime maintained, passed subsequent security audits, client retained for 2+ years.
 
 **NIST 800-53 Mapping:** SI-2 (Flaw Remediation), CM-3 (Configuration Change Control), CP-9 (Information System Backup), SC-7 (Boundary Protection)
 
@@ -99,7 +99,7 @@
 - Established role-based access control (RBAC) for client data
 - Created security awareness training program
 
-**Result:** Zero ransomware incidents through 3 tax seasons, passed client security audits, became trusted advisor for other CPA firms.
+**Result:** Zero ransomware breaches through 3 tax seasons, passed client security audits, became trusted advisor for other CPA firms.
 
 **NIST 800-53 Mapping:** AC-2 (Account Management), IA-5 (Authenticator Management), MP-5 (Media Transport), AT-2 (Security Awareness Training)
 

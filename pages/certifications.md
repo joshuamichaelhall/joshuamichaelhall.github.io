@@ -34,7 +34,7 @@ permalink: /certifications/
 ## Defense Contractor Certification Strategy
 
 <div class="philosophy-section">
-  <p>Strategic certification approach focused on immediate Cloud Security Engineer readiness for defense contractors. AWS Solutions Architect Associate provides cloud foundation, Security+ demonstrates security fundamentals, and AWS Security Specialty targets federal cloud specialization. Zero-breach MSP track record validates real-world security implementation beyond certifications.</p>
+  <p>Strategic certification approach focused on immediate Cloud Security Engineer readiness for defense contractors. AWS Solutions Architect Associate provides cloud foundation, Security+ demonstrates security fundamentals, and AWS Security Specialty targets federal cloud specialization. Zero ransomware breaches MSP track record validates real-world security implementation beyond certifications.</p>
   
   <div class="philosophy-points">
     <div class="point-item">
@@ -43,7 +43,7 @@ permalink: /certifications/
     </div>
     <div class="point-item">
       <h4>💡 Practical Experience</h4>
-      <p>Zero-breach MSP operations validate security implementation skills</p>
+      <p>Zero ransomware breaches MSP operations validate security implementation skills</p>
     </div>
     <div class="point-item">
       <h4>📈 Clearance Ready</h4>
@@ -183,8 +183,8 @@ permalink: /certifications/
 <div class="strategy-section">
   <div class="strategy-grid">
     <div class="strategy-item">
-      <h3>🎯 Zero-Breach Foundation</h3>
-      <p>Zero-breach operations managing 30+ clients and 100+ endpoints validates practical security skills</p>
+      <h3>🎯 Zero Ransomware Breaches Foundation</h3>
+      <p>Zero ransomware breaches operations managing 30+ clients and 100+ endpoints validates practical security skills</p>
     </div>
     <div class="strategy-item">
       <h3>💰 Federal Requirements Focus</h3>
@@ -209,15 +209,15 @@ permalink: /certifications/
     <li>AWS Solutions Architect Associate certification verifiable through AWS</li>
     <li>CompTIA Security+ CE (November 2025) verifiable through CompTIA</li>
     <li>CMMC CCP exam passed (January 2026) - certification pending Tier 3 clearance</li>
-    <li>Zero-breach MSP track record documented and verifiable</li>
+    <li>Zero ransomware breaches MSP track record documented and verifiable</li>
   </ul>
   
-  <p class="credibility-note">Real security experience combined with targeted certifications creates immediate value for defense contractors. My zero-breach MSP operations demonstrate practical security implementation beyond just passing exams.</p>
+  <p class="credibility-note">Real security experience combined with targeted certifications creates immediate value for defense contractors. My zero ransomware breaches MSP operations demonstrate practical security implementation beyond just passing exams.</p>
 </div>
 
 <div class="cta-section">
   <h3>Ready for Defense Contractor Opportunities?</h3>
-  <p>Ready to contribute to defense contractor cloud security initiatives. Let's discuss how my zero-breach experience and federal cloud expertise can strengthen your security mission.</p>
+  <p>Ready to contribute to defense contractor cloud security initiatives. Let's discuss how my zero ransomware breaches experience and federal cloud expertise can strengthen your security mission.</p>
   <a href="/contact" class="btn primary-btn">Discuss Opportunities</a>
 </div>
 

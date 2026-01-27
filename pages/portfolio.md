@@ -7,8 +7,8 @@ permalink: /portfolio/
 # Cloud Security Engineering Portfolio
 
 <div class="content-section with-divider">
-  <h2>Security Engineering & Zero-Breach Operations</h2>
-  <p class="section-intro-text">Proven cloud security expertise demonstrated through zero-breach MSP operations serving 30+ clients and current federal cloud security projects. Showcasing real-world security implementation and defense contractor readiness.</p>
+  <h2>Security Engineering & Zero Ransomware Breaches Operations</h2>
+  <p class="section-intro-text">Proven cloud security expertise demonstrated through zero ransomware breaches MSP operations serving 30+ clients and current federal cloud security projects. Showcasing real-world security implementation and defense contractor readiness.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
@@ -40,7 +40,7 @@ permalink: /portfolio/
               <li><strong>Discovery:</strong> 30 employees sharing 2 RDP accounts, password on sticky note on wall</li>
               <li><strong>NIST Mapping:</strong> AC-2 (Account Management), IA-5 (Authenticator Management)</li>
               <li><strong>Solution:</strong> Complete infrastructure rebuild, individual accounts, MFA, network segmentation</li>
-              <li><strong>Result:</strong> Zero ransomware incidents for fully managed clients post-implementation</li>
+              <li><strong>Result:</strong> Zero ransomware breaches for all fully managed clients post-implementation</li>
             </ul>
 
             <p><strong>Critical Incident #3: Accounting Firm Total Compromise</strong></p>
@@ -52,7 +52,7 @@ permalink: /portfolio/
               <li><strong>Result:</strong> Clean network, maintained compliance, zero incidents since</li>
             </ul>
 
-            <p><strong>The Zero-Breach Achievement:</strong></p>
+            <p><strong>The Zero Ransomware Breaches Achievement:</strong></p>
             <ul>
               <li>100% of new clients came to us already compromised or vulnerable</li>
               <li>Fixed copyright violations, active compromises, and malware infestations</li>

@@ -7,9 +7,9 @@ permalink: /about/
 # Cloud Security & Compliance Professional
 
 <div class="content-section with-divider">
-  <p>Cloud Security & Compliance Professional with proven P&L ownership and zero ransomware incidents for all fully managed clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, CMMC RP credentialed (CCP exam passed, pending Tier 3). Targeting Senior Security Analyst, GRC Analyst, Compliance Lead, or Cloud Security Engineer roles in Dallas or San Antonio.</p>
+  <p>Cloud Security & Compliance Professional with proven P&L ownership and zero ransomware breaches for all fully managed clients. Built profitable MSP to $160K+ revenue. AWS Solutions Architect and Security+ certified, CMMC RP credentialed (CCP exam passed, pending Tier 3). Targeting Senior Security Analyst, GRC Analyst, Compliance Lead, or Cloud Security Engineer roles in Dallas or San Antonio.</p>
 
-  <p><strong>Zero Ransomware Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero ransomware incidents for all fully managed clients. Called when others failed - inherited and stabilized multiple compromised environments.</p>
+  <p><strong>Zero Ransomware Operations:</strong> Managed security for 30+ business clients across healthcare, finance, legal sectors with zero ransomware breaches for all fully managed clients. Called when others failed - inherited and stabilized multiple compromised environments.</p>
 
   <p><strong>Cloud Security Focus:</strong> Building Federal Cloud Resume with security controls implementation on AWS. HIPAA environment experience applicable to regulated industry security requirements (PCI-DSS, SOX, NIST frameworks).</p>
 
@@ -41,7 +41,7 @@ permalink: /about/
           <li><strong>Incident Response</strong> - Real-world security incident resolution and containment</li>
           <li><strong>Network Security</strong> - 11 enterprise firewall deployments, network segmentation</li>
           <li><strong>Endpoint Security</strong> - EDR deployment, patching, 100+ endpoints managed</li>
-          <li><strong>Zero Ransomware for Managed Clients</strong> - 2+ years, 30+ clients, fully managed</li>
+          <li><strong>Zero Ransomware Breaches for Managed Clients</strong> - 2+ years, 30+ clients, fully managed</li>
           <li><strong>Compromised Environment Recovery</strong> - Inherited and stabilized multiple failed environments</li>
         </ul>
       </div>
@@ -99,11 +99,11 @@ permalink: /about/
   <div class="expertise-grid">
     <div class="expertise-item">
       <h3>MSP Security Operations</h3>
-      <p>Managed security for 30+ clients with zero ransomware incidents for fully managed clients. Deployed 11 enterprise firewalls, secured 100+ endpoints with EDR and monitoring.</p>
+      <p>Managed security for 30+ clients with zero ransomware breaches for all fully managed clients. Deployed 11 enterprise firewalls, secured 100+ endpoints with EDR and monitoring.</p>
     </div>
     <div class="expertise-item">
       <h3>Cloud Transformations</h3>
-      <p>Managed comprehensive IT infrastructure including network design, security implementation, and system integrations. Maintained zero ransomware incidents across all client environments.</p>
+      <p>Managed comprehensive IT infrastructure including network design, security implementation, and system integrations. Maintained zero ransomware breaches across all client environments.</p>
     </div>
     <div class="expertise-item">
       <h3>Enterprise Deployment</h3>
