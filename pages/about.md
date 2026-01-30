@@ -28,7 +28,7 @@ permalink: /about/
           <li><strong>CMMC Registered Practitioner (RP)</strong> - December 2025</li>
           <li><strong>CMMC CCP Exam Passed</strong> - January 2026 (certification pending Tier 3 background)</li>
           <li><strong>CCA Exam</strong> - Target February 2026</li>
-          <li><strong>CISSP Associate</strong> - Target March 2026</li>
+          <li><strong>CISSP Associate</strong> - Target April 2026</li>
         </ul>
       </div>
 

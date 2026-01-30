@@ -84,8 +84,8 @@ Actively building and improving:
 
 ### Professional Development
 - CMMC CCP Exam Passed (January 16, 2026) - certification pending Tier 3 clearance
-- CISSP Associate (Target March 2026)
-- AWS Security Specialty (Target April 2026)
+- CISSP Associate (Target April 2026)
+- AWS Security Specialty (Target May 2026)
 - Active job search in progress
 
 ## Career Goals
