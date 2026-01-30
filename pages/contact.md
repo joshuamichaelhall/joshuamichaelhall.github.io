@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-# Cloud Security Engineer - Ready for Defense Contractors
+# CMMC Consultant - Ready for C3PAO Opportunities
 
 <div class="contact-hero">
   <div class="contact-image">
@@ -15,51 +15,51 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> Available for Cloud Security Engineer Roles | Defense Contractors | Clearance Sponsorship</p>
+    <p><strong>Status:</strong> Available for CMMC Consultant Roles | C3PAOs | Clearance Sponsorship</p>
   </div>
 
-  <p>Cloud Security Professional with zero ransomware breaches for all fully managed clients across 30+ clients and 100+ endpoints. AWS Solutions Architect Associate certified with Security+. Ready for immediate contribution to cloud security initiatives.</p>
+  <p>CMMC Registered Practitioner with CCP exam passed (Tier 3 pending). Zero ransomware incidents across 100+ managed endpoints. 3+ years building security programs for SMBs in manufacturing, finance, and legal sectors. Ready for immediate contribution to assessment and readiness work.</p>
 </div>
 
 <div class="content-section with-divider">
   <h2>Target Locations & Requirements</h2>
 
-  <p>Available for Cloud Security Engineer opportunities with defense contractors:</p>
+  <p>Available for CMMC Consultant opportunities at C3PAOs:</p>
 
   <ul class="interests-list">
-    <li><strong>Location</strong> - Dallas or San Antonio, TX area</li>
-    <li><strong>Clearance Sponsorship</strong> - Clean background eligible for security clearance</li>
-    <li><strong>Federal Cloud Security</strong> - RMF controls and NIST framework expertise</li>
-    <li><strong>Compliance Automation</strong> - Infrastructure as Code with security controls</li>
-    <li><strong>Zero Ransomware Breaches</strong> - Proven track record across 30+ fully managed clients</li>
-    <li><strong>AWS Security Services</strong> - GuardDuty, Security Hub, CloudTrail, IAM expertise</li>
+    <li><strong>Location</strong> - Remote preferred | San Antonio | Dallas</li>
+    <li><strong>Clearance Sponsorship</strong> - U.S. Citizen, clean background, clearance-ready</li>
+    <li><strong>CMMC Credentials</strong> - RP (active), CCP exam passed, CCA target February 2026</li>
+    <li><strong>Gap Assessments</strong> - 30+ client environments assessed and remediated</li>
+    <li><strong>Zero Ransomware</strong> - Proven track record across 100+ managed endpoints</li>
+    <li><strong>Compliance Frameworks</strong> - NIST 800-171, HIPAA, PCI-DSS familiarity</li>
   </ul>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Cloud Security Expertise</h2>
+  <h2>CMMC & Compliance Expertise</h2>
   
   <div class="services-tabs">
     <div class="tab-headers">
-      <button class="tab-button active" data-tab="security">AWS Security</button>
-      <button class="tab-button" data-tab="incident">Incident Response</button>
-      <button class="tab-button" data-tab="compliance">Federal Compliance</button>
-      <button class="tab-button" data-tab="automation">Security Automation</button>
+      <button class="tab-button active" data-tab="security">CMMC Assessment</button>
+      <button class="tab-button" data-tab="incident">Gap Remediation</button>
+      <button class="tab-button" data-tab="compliance">Policy Development</button>
+      <button class="tab-button" data-tab="automation">Security Operations</button>
     </div>
     
     <div class="tab-content active" id="security-tab">
       <div class="services-box">
-        <h3>AWS Security Services</h3>
-        <p>AWS Solutions Architect Associate certified with hands-on experience implementing AWS security services. Focus on GuardDuty, Security Hub, CloudTrail, and IAM for comprehensive cloud security.</p>
-        
-        <h4>AWS Security Capabilities:</h4>
+        <h3>CMMC Assessment Readiness</h3>
+        <p>CMMC Registered Practitioner with hands-on experience implementing NIST 800-171 controls for SMB clients. CCP exam passed, CCA targeted February 2026.</p>
+
+        <h4>CMMC Capabilities:</h4>
         <ul class="service-areas">
-          <li><strong>GuardDuty Implementation</strong> - Threat detection and automated response</li>
-          <li><strong>Security Hub Integration</strong> - Centralized security finding management</li>
-          <li><strong>CloudTrail Configuration</strong> - Comprehensive audit logging and monitoring</li>
-          <li><strong>IAM Security</strong> - Least privilege access and policy management</li>
-          <li><strong>VPC Security</strong> - Network segmentation and security group optimization</li>
-          <li><strong>Config Rules</strong> - Automated compliance checking and remediation</li>
+          <li><strong>Gap Assessments</strong> - Identified control gaps across 30+ client environments</li>
+          <li><strong>Remediation Tracking</strong> - Managed POA&Ms through closure</li>
+          <li><strong>Policy Development</strong> - Created security policies and procedures for audit readiness</li>
+          <li><strong>SSP Documentation</strong> - System Security Plan development and maintenance</li>
+          <li><strong>Control Implementation</strong> - Hands-on deployment of technical and administrative controls</li>
+          <li><strong>Client Advisory</strong> - C-suite communication on compliance strategy and risk</li>
         </ul>
       </div>
     </div>
@@ -112,7 +112,7 @@ permalink: /contact/
       </div>
     </div>
     
-    <p class="services-cta">Ready to discuss Cloud Security Engineer opportunities? <a href="#contact-form">Contact me</a> about defense contractor positions and clearance sponsorship.</p>
+    <p class="services-cta">Ready to discuss CMMC Consultant opportunities? <a href="#contact-form">Contact me</a> about C3PAO positions and clearance sponsorship.</p>
   </div>
 </div>
 
@@ -157,17 +157,16 @@ permalink: /contact/
         <label for="subject">Subject</label>
         <select name="subject" id="subject" required>
           <option value="" disabled selected>Select a topic...</option>
-          <optgroup label="Security Engineering Opportunities">
-            <option value="Cloud Security Engineer Role">Cloud Security Engineer Role</option>
-            <option value="Defense Contractor Position">Defense Contractor Position</option>
-            <option value="Federal Cloud Security">Federal Cloud Security</option>
+          <optgroup label="CMMC Opportunities">
+            <option value="CMMC Consultant Role">CMMC Consultant Role</option>
+            <option value="C3PAO Position">C3PAO Position</option>
+            <option value="CMMC Assessment Work">CMMC Assessment Work</option>
             <option value="Clearance Sponsorship">Clearance Sponsorship Discussion</option>
           </optgroup>
-          <optgroup label="Security Expertise">
-            <option value="AWS Security Services">AWS Security Services</option>
-            <option value="Incident Response">Incident Response</option>
-            <option value="Federal Compliance">Federal Compliance & RMF</option>
-            <option value="Security Automation">Security Automation</option>
+          <optgroup label="Compliance Expertise">
+            <option value="Gap Assessment">Gap Assessment & Remediation</option>
+            <option value="Security Program Development">Security Program Development</option>
+            <option value="NIST 800-171 Compliance">NIST 800-171 Compliance</option>
           </optgroup>
           <option value="Other">Other</option>
         </select>
