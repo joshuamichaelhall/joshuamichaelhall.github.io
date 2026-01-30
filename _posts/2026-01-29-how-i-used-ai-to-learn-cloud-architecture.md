@@ -7,6 +7,8 @@ tags: aws serverless cloud-architecture ai-assisted-learning nist-800-53
 description: "An honest account of using AI as a learning tool to build a production AWS architecture, from zero cloud knowledge to a live serverless site."
 ---
 
+![Cloud Resume Challenge Architecture](/assets/images/article_cloud_project.png)
+
 Six months ago, I knew nothing about AWS. I had built websites, configured cloud sync solutions, and played with virtualization on local machines. But actual cloud architecture - compute services, serverless functions, IAM policies, CDN configurations - was foreign territory.
 
 Today I have a production serverless architecture running at joshuahall.tech, I passed the AWS Solutions Architect Associate exam, and I understand cloud security concepts I could not have defined before starting.
