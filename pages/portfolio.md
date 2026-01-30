@@ -7,8 +7,8 @@ permalink: /portfolio/
 # Cloud Security Engineering Portfolio
 
 <div class="content-section with-divider">
-  <h2>Security Engineering & Zero Ransomware Breaches Operations</h2>
-  <p class="section-intro-text">Proven cloud security expertise demonstrated through zero ransomware breaches MSP operations serving 30+ clients and current federal cloud security projects. Showcasing real-world security implementation and defense contractor readiness.</p>
+  <h2>CMMC Assessment Readiness & Security Operations</h2>
+  <p class="section-intro-text">CMMC Registered Practitioner with CCP exam passed demonstrating hands-on security implementation for SMB clients in regulated industries. Zero ransomware incidents across 100+ managed endpoints. Showcasing gap assessment experience and Defense Industrial Base readiness.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
@@ -73,7 +73,7 @@ permalink: /portfolio/
           <h2>Federal Cloud Resume Challenge</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">Current Project - AWS Security with RMF Controls</div>
+          <div class="project-status">Current Project - AWS Security with NIST 800-171 Controls</div>
         </div>
         <div class="project-content-section">
           <div class="project-description">
@@ -88,7 +88,7 @@ permalink: /portfolio/
             </ul>
             <p><strong>Federal Compliance Focus:</strong></p>
             <ul>
-              <li>RMF controls implementation and documentation</li>
+              <li>NIST 800-171 controls implementation and documentation</li>
               <li>NIST cybersecurity framework alignment</li>
               <li>Automated compliance monitoring and reporting</li>
               <li>Security baseline enforcement and validation</li>
