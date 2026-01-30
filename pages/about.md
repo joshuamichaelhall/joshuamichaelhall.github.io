@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-# CMMC Registered Practitioner
+# CMMC Registered Practitioner | Seeking C3PAO Opportunities
 
 <div class="content-section with-divider">
-  <p>CMMC Registered Practitioner with 3+ years of hands-on MSP security experience helping SMBs in regulated industries achieve compliance. CCP exam passed (certification pending Tier 3 background). Zero ransomware incidents across 100+ endpoints for fully managed clients over 2+ years.</p>
+  <p>CMMC Registered Practitioner with 3+ years of hands-on MSP security experience helping SMBs in regulated industries achieve compliance. CCP exam passed (certification pending Tier 3 background). CCA exam targeted February 2026. Zero ransomware incidents across 100+ endpoints for fully managed clients over 2+ years.</p>
 
   <p><strong>CMMC Expertise:</strong> Registered Practitioner credential from CyberAB with CCP exam passed. Experienced in NIST 800-171 control implementation, gap assessments, security program development, and compliance documentation for manufacturing, finance, and legal sector clients.</p>
 
@@ -27,6 +27,8 @@ permalink: /about/
         <ul class="cert-list">
           <li><strong>CMMC Registered Practitioner (RP)</strong> - December 2025</li>
           <li><strong>CMMC CCP Exam Passed</strong> - January 2026 (certification pending Tier 3 background)</li>
+          <li><strong>CCA Exam</strong> - Target February 2026</li>
+          <li><strong>CISSP Associate</strong> - Target March 2026</li>
         </ul>
       </div>
 
@@ -130,12 +132,12 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Location</h3>
-      <p>Arkansas, relocating to San Antonio or Dallas area</p>
+      <p>Remote preferred | San Antonio | Dallas | Available immediately</p>
     </div>
   </div>
 
   <div class="quote">
-    <p>Helping organizations in regulated industries build and maintain security programs that meet compliance requirements.</p>
-    <div class="quote-author">- CMMC Registered Practitioner | Former MSP Owner</div>
+    <p>Seeking CMMC Consultant or Assessment Support roles at C3PAOs. Clearance-ready (U.S. Citizen, clean background).</p>
+    <div class="quote-author">- CMMC RP | CCP (Exam Passed) | Security+ | Clearance-Ready</div>
   </div>
 </div>
