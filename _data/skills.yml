@@ -1,22 +1,40 @@
-# Cloud Security Engineering Skills
+# Security Program Management Skills
 categories:
-  - name: "AWS Cloud Security"
+  - name: "Security Program Management"
     skills:
-      - name: "AWS Security Services"
-        level: 75
-        description: "GuardDuty, Security Hub, CloudTrail, Config, IAM - Solutions Architect certified"
-      - name: "AWS Infrastructure"
-        level: 80
-        description: "VPC, EC2, S3, Lambda security configurations and best practices"
-      - name: "Cloud Compliance"
-        level: 70
-        description: "Building Federal Cloud Resume with RMF controls implementation"
-      - name: "Security Automation"
-        level: 75
-        description: "Terraform for secure infrastructure, Python security scripting"
-      - name: "Incident Response"
+      - name: "Security Program Development"
+        level: 90
+        description: "Built security programs from scratch for 30+ SMB clients - policy, controls, monitoring"
+      - name: "Risk Assessment & Management"
         level: 85
-        description: "Real-world security incident resolution from MSP operations"
+        description: "Gap assessments, risk identification, remediation planning and tracking"
+      - name: "Security Policy & Documentation"
+        level: 85
+        description: "SSP development, policy creation, compliance documentation for regulated industries"
+      - name: "Executive Communication"
+        level: 90
+        description: "C-suite advisory, board presentations, translating technical risk to business impact"
+      - name: "Vendor & Third-Party Management"
+        level: 85
+        description: "Technology procurement, vendor relationships, contract negotiation"
+
+  - name: "CMMC & Compliance Expertise"
+    skills:
+      - name: "CMMC 2.0 Framework"
+        level: 90
+        description: "CMMC RP credentialed, CCP exam passed - deep understanding of Level 1-3 requirements"
+      - name: "NIST 800-171 Implementation"
+        level: 85
+        description: "Practical implementation of 110 security requirements for CUI protection"
+      - name: "NIST 800-53 Controls"
+        level: 80
+        description: "Control selection, implementation, and documentation for federal requirements"
+      - name: "Gap Assessment & Remediation"
+        level: 90
+        description: "Identifying gaps, developing POA&Ms, tracking remediation to closure"
+      - name: "HIPAA/PCI Compliance"
+        level: 85
+        description: "Healthcare and payment card compliance experience translatable to federal frameworks"
 
   - name: "Crisis Response & Incident Resolution"
     skills:
@@ -36,23 +54,23 @@ categories:
         level: 95
         description: "Identified that 100% of clients came already compromised - became 'last resort' MSP"
 
-  - name: "NIST 800-53 Controls - Implemented in Practice"
+  - name: "AWS Cloud Security"
     skills:
-      - name: "AC-2 Account Management"
-        level: 95
-        description: "Fixed 30 employees sharing 2 accounts - implemented individual access controls"
-      - name: "IA-5 Authenticator Management"
-        level: 90
-        description: "Eliminated passwords on sticky notes - implemented strong auth with MFA"
-      - name: "SC-7 Boundary Protection"
-        level: 90
-        description: "Stopped copyright violations - implemented network segmentation and guest isolation"
-      - name: "SI-2 Flaw Remediation"
-        level: 85
-        description: "Cleaned infected networks - implemented automated patching and vulnerability management"
-      - name: "PCI/HIPAA to RMF Translation"
+      - name: "AWS Security Services"
+        level: 75
+        description: "GuardDuty, Security Hub, CloudTrail, Config, IAM - Solutions Architect certified"
+      - name: "AWS Infrastructure"
         level: 80
-        description: "Retail, restaurant, healthcare compliance directly applicable to federal frameworks"
+        description: "VPC, EC2, S3, Lambda security configurations and best practices"
+      - name: "Cloud Compliance"
+        level: 70
+        description: "Building Federal Cloud Resume with RMF controls implementation"
+      - name: "Security Automation"
+        level: 75
+        description: "Terraform for secure infrastructure, Python security scripting"
+      - name: "Incident Response"
+        level: 85
+        description: "Real-world security incident resolution from MSP operations"
 
   - name: "Infrastructure & Systems Security"
     skills:
@@ -72,38 +90,38 @@ categories:
         level: 75
         description: "Security automation, log analysis, compliance checking"
 
-  - name: "Professional Certifications & Education"
+  - name: "Professional Certifications"
     skills:
+      - name: "CISSP (Target Q2 2026)"
+        level: 60
+        description: "Gating credential for Security Manager roles - active study in progress"
+      - name: "CMMC CCP (Exam Passed)"
+        level: 95
+        description: "Passed January 2026 - certification pending Tier 3 clearance"
+      - name: "CMMC CCA (Knowledge Investment)"
+        level: 70
+        description: "Target 2026 - deep assessment knowledge valuable for program building"
       - name: "AWS Solutions Architect Associate"
         level: 100
         description: "Completed November 2025 - Cloud architecture and security foundations"
-      - name: "CompTIA Security+"
-        level: 95
-        description: "Taking exam November 22, 2025 - Cybersecurity fundamentals"
-      - name: "AWS Security Specialty"
-        level: 60
-        description: "Target: January 2026 - Federal cloud security specialization"
-      - name: "Launch School Backend Engineering"
-        level: 90
-        description: "Mastery-based learning - 9 rigorous courses completed"
-      - name: "Federal Cloud Security Study"
-        level: 70
-        description: "RMF controls, NIST framework, defense contractor requirements"
+      - name: "CompTIA Security+ CE"
+        level: 100
+        description: "Completed November 2025 - DoD 8570 IAT Level II baseline"
 
-  - name: "Defense Contractor Readiness"
+  - name: "DIB Contractor Value Proposition"
     skills:
       - name: "Security Clearance Eligibility"
         level: 100
-        description: "Clean background, ready for clearance sponsorship process"
-      - name: "Federal Location Flexibility"
+        description: "Clean background, U.S. Citizen, ready for clearance sponsorship"
+      - name: "Location Flexibility"
         level: 100
-        description: "Open to Huntsville, Dallas, Colorado Springs, San Antonio positions"
-      - name: "Zero Ransomware Breaches Track Record"
+        description: "San Antonio (primary) | Dallas (secondary) | Remote"
+      - name: "Zero Ransomware Track Record"
         level: 100
         description: "Documented security success with 30+ MSP clients over multiple years"
-      - name: "AWS re:Invent Preparation"
-        level: 90
-        description: "Dec 1-6, 2024 attendance focused on federal cloud security sessions"
-      - name: "Defense Industry Understanding"
-        level: 75
-        description: "Learning DoD requirements, security protocols, and contractor expectations"
+      - name: "Rare Credential Stack"
+        level: 95
+        description: "CCP + AWS SAA + CMMC RP - uncommon combination for Security Manager roles"
+      - name: "Builder Not Assessor"
+        level: 100
+        description: "Program ownership capability - built $160K MSP from scratch"

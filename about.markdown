@@ -4,11 +4,29 @@ title: About
 permalink: /about/
 ---
 
-# Cloud Security Engineer | 3+ Years MSP Security Experience
+# Security Manager | CMMC Compliance Specialist
 
 ## Professional Summary
 
-Cloud Security Engineer with 3+ years of MSP security experience including firewall deployment and zero ransomware breaches for all fully managed clients over 2+ years. HIPAA environment experience from BMA Inc. and Vanderbilt Hospital deployments. AWS Solutions Architect Associate and Security+ certified. CMMC RP credentialed (CCP exam passed January 2026, certification pending Tier 3 clearance). Specializing in cloud security, incident response, and compliance. Called when others fail.
+Security Manager with 3+ years of hands-on experience BUILDING and OWNING security programs for SMB clients. Built $160K MSP from scratch, implementing security programs for 30+ clients across manufacturing, finance, and legal sectors. Zero ransomware breaches for all fully managed clients. CMMC RP credentialed with CCP exam passed (January 2026). Targeting CISSP Q2 2026 as gating credential for Security Manager roles. Ready to OWN the security program for a DIB contractor, not just consult on it.
+
+## Why I'm Right for DIB Contractors
+
+### Program Ownership, Not Consulting
+I don't just advise—I BUILD and OWN security programs:
+- **Built from scratch:** Created complete security programs for 30+ SMB clients
+- **Rare credential stack:** CCP + AWS SAA + CMMC RP - uncommon combination
+- **Zero ransomware track record:** Not a single breach across 100+ managed endpoints
+- **Business builder:** Grew MSP to $160K annual revenue with complete P&L ownership
+- **Called when others fail:** Became the "last resort" MSP that actually fixed problems
+
+### Perfect Fit for 20-200 Employee DIB Contractors
+Small defense contractors need someone who can:
+- OWN the entire security program, not just one piece
+- Navigate CMMC compliance from assessment through certification
+- Implement practical controls that work for lean organizations
+- Communicate risk to leadership in business terms
+- Build sustainable programs without enterprise-level budgets
 
 ## Security Operations Experience
 
@@ -19,10 +37,10 @@ Cloud Security Engineer with 3+ years of MSP security experience including firew
 - Supported HIPAA-regulated environments at BMA Inc. and Vanderbilt Hospital
 
 ### Core Competencies
-- **Security Operations**: Firewall deployment, EDR, monitoring, incident response
+- **Security Program Management**: Policy development, risk assessment, compliance documentation
+- **CMMC & Compliance**: NIST 800-171, gap assessments, SSP development, POA&M management
 - **AWS Architecture**: IAM, S3, CloudFront, Lambda, API Gateway, DynamoDB (SAA certified)
-- **Compliance**: HIPAA environment experience (BMA/Vanderbilt), CMMC RP credentialed
-- **Scripting**: Ruby, Bash, Python fundamentals
+- **Crisis Response**: Real-world incident containment and recovery
 
 ## Technical Expertise
 
@@ -31,16 +49,20 @@ Cloud Security Engineer with 3+ years of MSP security experience including firew
 - **Network Security**: Enterprise firewalls (WatchGuard/Fortinet), VPNs, network segmentation
 - **Endpoint Security**: EDR solutions, patch management, monitoring
 - **Operating Systems**: Windows, Linux, macOS administration
-- **Compliance**: HIPAA environment experience (BMA/Vanderbilt), CMMC training completed
+- **Compliance**: HIPAA environment experience (BMA/Vanderbilt), CMMC RP credentialed
 - **Incident Response**: Real-world containment and remediation from MSP operations
 
-### Current Certifications
-- AWS Solutions Architect Associate (November 2025)
-- CompTIA Security+ CE (November 2025) - DoD 8570 IAT Level II
+### Certifications
+
+**Current:**
 - CMMC Registered Practitioner (December 2025)
 - CMMC CCP Exam Passed (January 2026) - certification pending Tier 3 clearance
-- CompTIA Project+
-- CompTIA Cloud Essentials+
+- AWS Solutions Architect Associate (November 2025)
+- CompTIA Security+ CE (November 2025) - DoD 8570 IAT Level II
+
+**In Progress:**
+- CISSP (Target Q2 2026) - Gating credential for Security Manager roles
+- CMMC CCA (Knowledge investment) - Deep assessment knowledge for program building
 
 ### Technical Education
 - Launch School Backend Engineering - mastery-based learning
@@ -66,45 +88,30 @@ Practical implementation translating to federal requirements:
 - Vulnerability management and patching programs
 - Compliance documentation and client advisory
 
-### Practical Security Implementation
-Real-world experience beyond just certifications:
-- 3+ years MSP security experience including firewall deployment for regulated industries
-- Hands-on experience with heterogeneous environments (Linux/Windows/macOS)
-- AWS serverless implementation demonstrated at joshuahall.tech
-- Infrastructure security hardening and compliance
-- Incident response and threat detection capabilities
-
-## Current Projects & Focus
-
-### Federal Cloud Security Projects
-Actively building and improving:
-- Federal Cloud Resume live at joshuahall.tech demonstrating AWS serverless architecture
-- Preparing for Security Engineer II and CMMC Specialist interviews
-- Building interview prep skills: AWS security services, IAM policies, Python/Bash
-
-### Professional Development
-- CMMC CCP Exam Passed (January 16, 2026) - certification pending Tier 3 clearance
-- CISSP Associate (Target April 2026)
-- AWS Security Specialty (Target May 2026)
-- Active job search in progress
-
 ## Career Goals
 
-### Career Focus
-- Cloud Security Engineer roles in Dallas or San Antonio
-- Open to financial services, healthcare, defense, energy, or enterprise technology sectors
-- Security clearance sponsorship opportunities
-- Long-term growth to Senior Security Engineer
+### Target Role
+Security Manager / CMMC Compliance Manager at DIB contractors (20-200 employees)
+
+### What I Bring
+- Complete security program ownership - not just advisory
+- Hands-on implementation plus strategic planning
+- CMMC expertise to guide you through certification
+- Business acumen from building and running my own company
+- Clearance eligibility (U.S. Citizen, clean background)
+
+### Location
+San Antonio (primary) | Dallas (secondary) | Remote
 
 ## Personal Philosophy
 
-"Security isn't just about implementing tools—it's about protecting what matters most. My track record of zero ransomware breaches for all fully managed clients comes from understanding that every configuration, every script, and every security control exists to safeguard critical operations and sensitive data."
+"Security isn't about checking boxes—it's about building programs that actually protect the mission. My track record of zero ransomware breaches comes from understanding that every control, every policy, and every procedure exists to safeguard what matters most. I don't consult on security programs—I own them."
 
 ## Connect With Me
 
 - **LinkedIn**: [joshuamichaelhall](https://www.linkedin.com/in/joshuamichaelhall/)
 - **GitHub**: [joshuamichaelhall](https://github.com/joshuamichaelhall)
 - **Email**: contact@joshuamichaelhall.com
-- **Location**: Dallas or San Antonio, TX (Relocating Q1 2026)
+- **Location**: San Antonio (primary) | Dallas (secondary) | Remote
 
-Ready to contribute to security teams. Let's discuss how my security operations experience can strengthen your organization's security posture.
+**Ready to OWN your security program.** Let's discuss how my program-building experience can protect your organization and achieve CMMC certification.
