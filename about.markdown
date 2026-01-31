@@ -4,25 +4,24 @@ title: About
 permalink: /about/
 ---
 
-# Security Manager | CMMC Compliance Specialist
+# Security Analyst | CMMC Compliance Specialist
 
 ## Professional Summary
 
-Security Manager with 3+ years of hands-on experience BUILDING and OWNING security programs for SMB clients. Built $160K MSP from scratch, implementing security programs for 30+ clients across manufacturing, finance, and legal sectors. Zero ransomware breaches for all fully managed clients. CMMC RP credentialed with CCP exam passed (January 2026). Targeting CISSP Q2 2026 as gating credential for Security Manager roles. Ready to OWN the security program for a DIB contractor, not just consult on it.
+Security professional with 3+ years of hands-on experience BUILDING security programs for SMB clients. Founded and operated MSP implementing security programs for 30+ clients across manufacturing, finance, and legal sectors. Zero ransomware breaches for all fully managed clients. CMMC RP credentialed with CCP exam passed (January 2026). Targeting Junior ISSO, CMMC Compliance Analyst, or GRC Analyst roles at DIB contractors (20-200 employees) with path to Security Manager.
 
 ## Why I'm Right for DIB Contractors
 
-### Program Ownership, Not Consulting
-I don't just advise—I BUILD and OWN security programs:
+### Builder Mindset, Compliance Expertise
+I don't just advise - I BUILD security programs:
 - **Built from scratch:** Created complete security programs for 30+ SMB clients
 - **Rare credential stack:** CCP + AWS SAA + CMMC RP - uncommon combination
 - **Zero ransomware track record:** Not a single breach across 100+ managed endpoints
-- **Business builder:** Grew MSP to $160K annual revenue with complete P&L ownership
 - **Called when others fail:** Became the "last resort" MSP that actually fixed problems
 
 ### Perfect Fit for 20-200 Employee DIB Contractors
 Small defense contractors need someone who can:
-- OWN the entire security program, not just one piece
+- Contribute to the security program with a builder mindset
 - Navigate CMMC compliance from assessment through certification
 - Implement practical controls that work for lean organizations
 - Communicate risk to leadership in business terms
@@ -37,20 +36,20 @@ Small defense contractors need someone who can:
 - Supported HIPAA-regulated environments at BMA Inc. and Vanderbilt Hospital
 
 ### Core Competencies
-- **Security Program Management**: Policy development, risk assessment, compliance documentation
-- **CMMC & Compliance**: NIST 800-171, gap assessments, SSP development, POA&M management
-- **AWS Architecture**: IAM, S3, CloudFront, Lambda, API Gateway, DynamoDB (SAA certified)
-- **Crisis Response**: Real-world incident containment and recovery
+- **Compliance:** NIST 800-171, CMMC, gap assessments, SSP development, POA&M management
+- **Security Operations:** Policy development, risk assessment, compliance documentation
+- **AWS Architecture:** IAM, S3, CloudFront, Lambda, API Gateway, DynamoDB (SAA certified)
+- **Crisis Response:** Real-world incident containment and recovery
 
 ## Technical Expertise
 
 ### Technology Experience
-- **AWS**: S3, CloudFront, Lambda, API Gateway, IAM, DynamoDB (SAA certified)
-- **Network Security**: Enterprise firewalls (WatchGuard/Fortinet), VPNs, network segmentation
-- **Endpoint Security**: EDR solutions, patch management, monitoring
-- **Operating Systems**: Windows, Linux, macOS administration
-- **Compliance**: HIPAA environment experience (BMA/Vanderbilt), CMMC RP credentialed
-- **Incident Response**: Real-world containment and remediation from MSP operations
+- **AWS:** S3, CloudFront, Lambda, API Gateway, IAM, DynamoDB (SAA certified)
+- **Network Security:** Enterprise firewalls (WatchGuard/Fortinet), VPNs, network segmentation
+- **Endpoint Security:** EDR solutions, patch management, monitoring
+- **Operating Systems:** Windows, Linux, macOS administration
+- **Compliance:** HIPAA environment experience (BMA/Vanderbilt), CMMC RP credentialed
+- **Incident Response:** Real-world containment and remediation from MSP operations
 
 ### Certifications
 
@@ -60,9 +59,9 @@ Small defense contractors need someone who can:
 - AWS Solutions Architect Associate (November 2025)
 - CompTIA Security+ CE (November 2025) - DoD 8570 IAT Level II
 
-**In Progress:**
-- CISSP (Target Q2 2026) - Gating credential for Security Manager roles
-- CMMC CCA (Knowledge investment) - Deep assessment knowledge for program building
+**Post-Hire Targets:**
+- CISSP (Target within first 6 months of employment)
+- WGU MS Cybersecurity (Employer tuition assistance)
 
 ### Technical Education
 - Launch School Backend Engineering - mastery-based learning
@@ -91,27 +90,27 @@ Practical implementation translating to federal requirements:
 ## Career Goals
 
 ### Target Role
-Security Manager / CMMC Compliance Manager at DIB contractors (20-200 employees)
+Junior ISSO, CMMC Compliance Analyst, or GRC Analyst at DIB contractors (20-200 employees)
 
 ### What I Bring
-- Complete security program ownership - not just advisory
-- Hands-on implementation plus strategic planning
-- CMMC expertise to guide you through certification
+- Builder mindset with hands-on implementation experience
+- CMMC expertise to contribute from day one
 - Business acumen from building and running my own company
 - Clearance eligibility (U.S. Citizen, clean background)
+- Commitment to growth: CISSP and MS Cybersecurity post-hire
 
 ### Location
-San Antonio (primary) | Dallas (secondary) | Remote
+San Antonio (primary) | Huntsville | Remote | Dallas
 
 ## Personal Philosophy
 
-"Security isn't about checking boxes—it's about building programs that actually protect the mission. My track record of zero ransomware breaches comes from understanding that every control, every policy, and every procedure exists to safeguard what matters most. I don't consult on security programs—I own them."
+"Security isn't about checking boxes - it's about building programs that actually protect the mission. My track record of zero ransomware breaches comes from understanding that every control, every policy, and every procedure exists to safeguard what matters most."
 
 ## Connect With Me
 
 - **LinkedIn**: [joshuamichaelhall](https://www.linkedin.com/in/joshuamichaelhall/)
 - **GitHub**: [joshuamichaelhall](https://github.com/joshuamichaelhall)
 - **Email**: contact@joshuamichaelhall.com
-- **Location**: San Antonio (primary) | Dallas (secondary) | Remote
+- **Location**: San Antonio (primary) | Huntsville | Remote | Dallas
 
-**Ready to OWN your security program.** Let's discuss how my program-building experience can protect your organization and achieve CMMC certification.
+**Builder mindset, compliance expertise.** Let's discuss how my experience can contribute to your security program.
