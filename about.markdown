@@ -17,6 +17,7 @@ I don't just advise - I BUILD security programs:
 - **Built from scratch:** Created complete security programs for 30+ SMB clients
 - **Rare credential stack:** CCP + AWS SAA + CMMC RP - uncommon combination
 - **Zero ransomware track record:** Not a single breach across 100+ managed endpoints
+- **Business builder:** Grew MSP to $160K annual revenue with complete P&L ownership
 - **Called when others fail:** Became the "last resort" MSP that actually fixed problems
 
 ### Perfect Fit for 20-200 Employee DIB Contractors
