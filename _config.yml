@@ -2,10 +2,9 @@
 title: Joshua Michael Hall
 email: contact@joshuamichaelhall.com
 description: >-
-  Security Manager | CMMC Compliance Specialist |
-  Building & Leading Security Programs for DIB Contractors (20-200 employees) |
-  CCP + AWS SAA + CMMC RP | CISSP Target Q2 2026 |
-  3+ Years MSP Security Experience | Zero Ransomware Track Record
+  Cybersecurity Operations Professional | CMMC RP | Security+ (DoD 8140) | AWS SAA |
+  4+ Years Security Operations | Zero Ransomware Track Record |
+  Huntsville, AL | Clearance-Sponsoring IT & Cybersecurity Roles | CMMC Consulting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuamichaelhall.com"
 github_username: JoshuaMichaelHall
@@ -28,6 +27,7 @@ future: true
 # Navigation
 header_pages:
   - pages/portfolio.md
+  - pages/certifications.md
   - pages/blog.md
   - pages/about.md
   - pages/contact.md

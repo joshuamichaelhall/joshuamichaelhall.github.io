@@ -1,127 +1,109 @@
-# Security Program Management Skills
+# Cybersecurity Skills
 categories:
   - name: "Security Program Management"
     skills:
-      - name: "Security Program Development"
+      - name: "Security Architecture Design"
         level: 90
-        description: "Built security programs from scratch for 30+ SMB clients - policy, controls, monitoring"
+        description: "Designed and implemented 11+ end-to-end security architectures for regulated industries"
       - name: "Risk Assessment & Management"
         level: 85
         description: "Gap assessments, risk identification, remediation planning and tracking"
       - name: "Security Policy & Documentation"
         level: 85
-        description: "SSP development, policy creation, compliance documentation for regulated industries"
+        description: "Policy creation, compliance documentation, procedures for regulated industries"
       - name: "Executive Communication"
         level: 90
-        description: "C-suite advisory, board presentations, translating technical risk to business impact"
+        description: "Business owner advisory, translating technical risk to business impact"
       - name: "Vendor & Third-Party Management"
         level: 85
-        description: "Technology procurement, vendor relationships, contract negotiation"
+        description: "Technology procurement, vendor relationships, SOC/SIEM coordination"
 
   - name: "CMMC & Compliance Expertise"
     skills:
       - name: "CMMC 2.0 Framework"
-        level: 90
-        description: "CMMC RP credentialed, CCP exam passed - deep understanding of Level 1-3 requirements"
+        level: 85
+        description: "CMMC Registered Practitioner, CCP exam passed (pending Tier 3). NIST 800-171 implementation."
       - name: "NIST 800-171 Implementation"
         level: 85
-        description: "Practical implementation of 110 security requirements for CUI protection"
+        description: "Practical implementation of security requirements for regulated industries"
       - name: "NIST 800-53 Controls"
         level: 80
         description: "Control selection, implementation, and documentation for federal requirements"
       - name: "Gap Assessment & Remediation"
         level: 90
-        description: "Identifying gaps, developing POA&Ms, tracking remediation to closure"
-      - name: "HIPAA/PCI Compliance"
+        description: "Identifying gaps, developing remediation plans, tracking closure"
+      - name: "HIPAA Compliance"
         level: 85
-        description: "Healthcare and payment card compliance experience translatable to federal frameworks"
+        description: "Healthcare compliance experience from BMA Inc. and Vanderbilt Hospital"
 
   - name: "Crisis Response & Incident Resolution"
     skills:
       - name: "Active Compromise Response"
         level: 95
-        description: "Stopped live attacks including mouse control, copyright violations, malware"
+        description: "Stopped live attacks including remote access compromises and malware incidents"
       - name: "Post-Breach Recovery"
         level: 90
-        description: "Called after other providers failed - 100% success rate in cleaning compromised environments"
+        description: "Called after other providers failed - stabilized compromised environments"
       - name: "Security Recovery"
         level: 85
         description: "Multiple successful recoveries, then zero reoccurrence with proper controls"
       - name: "Network Compromise Cleanup"
         level: 90
-        description: "Total infrastructure rebuilds after complete compromise - accounting firms, manufacturers"
-      - name: "Crisis Pattern Recognition"
+        description: "Total infrastructure rebuilds after complete compromise"
+      - name: "Defense-in-Depth Implementation"
         level: 95
-        description: "Identified that 100% of clients came already compromised - became 'last resort' MSP"
+        description: "Layered security approach resulting in zero ransomware losses across 100+ endpoints"
 
   - name: "AWS Cloud Security"
     skills:
       - name: "AWS Security Services"
         level: 75
-        description: "GuardDuty, Security Hub, CloudTrail, Config, IAM - Solutions Architect certified"
+        description: "IAM, S3 encryption, HTTPS enforcement, Origin Access Control - Solutions Architect certified"
       - name: "AWS Infrastructure"
         level: 80
-        description: "VPC, EC2, S3, Lambda security configurations and best practices"
+        description: "S3, Lambda, CloudFront, API Gateway, DynamoDB security configurations"
       - name: "Cloud Compliance"
         level: 70
-        description: "Building Federal Cloud Resume with RMF controls implementation"
-      - name: "Security Automation"
+        description: "NIST 800-53 control foundations documented in Federal Cloud Resume project"
+      - name: "Python & Scripting"
         level: 75
-        description: "Terraform for secure infrastructure, Python security scripting"
+        description: "Python, Ruby, Bash for security automation and operations"
       - name: "Incident Response"
         level: 85
         description: "Real-world security incident resolution from MSP operations"
 
   - name: "Infrastructure & Systems Security"
     skills:
-      - name: "Linux Security Hardening"
-        level: 85
-        description: "Security configuration, access controls, system monitoring"
-      - name: "Windows Security Management"
-        level: 80
-        description: "Active Directory security, Group Policy, system hardening"
       - name: "Network Security"
         level: 85
-        description: "Firewall configuration, VPN management, network monitoring"
-      - name: "Terraform Infrastructure as Code"
+        description: "Enterprise firewalls (WatchGuard, Fortinet), VPN, network segmentation"
+      - name: "Windows Security Management"
         level: 80
-        description: "Secure infrastructure deployment, compliance automation"
-      - name: "Python Security Scripting"
-        level: 75
-        description: "Security automation, log analysis, compliance checking"
+        description: "Active Directory, Azure AD, group policy, system hardening"
+      - name: "Endpoint Protection"
+        level: 85
+        description: "EDR, RMM, patch management across 100+ endpoints"
+      - name: "Identity & Access Management"
+        level: 85
+        description: "61 cloud identity accounts managed, MFA enforcement, role-based access"
+      - name: "Backup & Disaster Recovery"
+        level: 80
+        description: "10+ backup/DR solutions implemented ensuring business continuity"
 
-  - name: "Professional Certifications"
-    skills:
-      - name: "CISSP (Target Q2 2026)"
-        level: 60
-        description: "Gating credential for Security Manager roles - active study in progress"
-      - name: "CMMC CCP (Exam Passed)"
-        level: 95
-        description: "Passed January 2026 - certification pending Tier 3 clearance"
-      - name: "CMMC CCA (Knowledge Investment)"
-        level: 70
-        description: "Target 2026 - deep assessment knowledge valuable for program building"
-      - name: "AWS Solutions Architect Associate"
-        level: 100
-        description: "Completed November 2025 - Cloud architecture and security foundations"
-      - name: "CompTIA Security+ CE"
-        level: 100
-        description: "Completed November 2025 - DoD 8570 IAT Level II baseline"
-
-  - name: "DIB Contractor Value Proposition"
+  - name: "Clearance & Employment Readiness"
     skills:
       - name: "Security Clearance Eligibility"
         level: 100
-        description: "Clean background, U.S. Citizen, ready for clearance sponsorship"
+        description: "U.S. Citizen, clean background, Tier 3 investigation in progress"
       - name: "Location Flexibility"
         level: 100
-        description: "San Antonio (primary) | Dallas (secondary) | Remote"
+        description: "Huntsville, AL (Relocating March 2026)"
       - name: "Zero Ransomware Track Record"
         level: 100
-        description: "Documented security success with 30+ MSP clients over multiple years"
-      - name: "Rare Credential Stack"
+        description: "Zero ransomware losses across 30+ clients and 100+ endpoints over 2+ years"
+      - name: "CMMC Credentials"
         level: 95
-        description: "CCP + AWS SAA + CMMC RP - uncommon combination for Security Manager roles"
-      - name: "Builder Not Assessor"
+        description: "CMMC RP (active) + CCP exam passed (pending Tier 3) + Security+ (DoD 8140) + AWS SAA"
+      - name: "Operational Experience"
         level: 100
-        description: "Program ownership capability - built $160K MSP from scratch"
+        description: "4+ years hands-on security operations with P&L responsibility"

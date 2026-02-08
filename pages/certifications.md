@@ -4,37 +4,37 @@ title: Professional Certifications
 permalink: /certifications/
 ---
 
-# Cloud Security Certification Strategy
+# Cybersecurity Certifications
 
 <div class="cert-hero">
   <div class="cert-summary">
-    <h2>Defense Contractor Focused Credentials</h2>
-    <p>Targeted certification strategy aligned with defense contractor requirements and federal cloud security. Current AWS Solutions Architect with Security+ certification. Pursuing AWS Security Specialty for federal cloud readiness.</p>
+    <h2>Federal Cybersecurity Credentials</h2>
+    <p>Targeted certification strategy aligned with federal cybersecurity requirements. CMMC Registered Practitioner with Security+ (DoD 8140 baseline) and AWS Solutions Architect credentials. Zero ransomware track record validates real-world security implementation beyond certifications.</p>
     <div class="cert-stats-row">
       <div class="stat-item">
-        <span class="stat-number">AWS SAA</span>
-        <span class="stat-label">Completed Nov 2025</span>
+        <span class="stat-number">CMMC RP</span>
+        <span class="stat-label">Active Dec 2025</span>
       </div>
       <div class="stat-item">
         <span class="stat-number">Sec+</span>
-        <span class="stat-label">Current</span>
+        <span class="stat-label">DoD 8140</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number">AWS Security</span>
-        <span class="stat-label">In Progress</span>
+        <span class="stat-number">AWS SAA</span>
+        <span class="stat-label">Active Nov 2025</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number">Federal</span>
-        <span class="stat-label">Cloud Ready</span>
+        <span class="stat-number">CCP</span>
+        <span class="stat-label">Exam Passed</span>
       </div>
     </div>
   </div>
 </div>
 
-## Defense Contractor Certification Strategy
+## Federal Cybersecurity Certification Strategy
 
 <div class="philosophy-section">
-  <p>Strategic certification approach focused on immediate Cloud Security Engineer readiness for defense contractors. AWS Solutions Architect Associate provides cloud foundation, Security+ demonstrates security fundamentals, and AWS Security Specialty targets federal cloud specialization. Zero ransomware breaches MSP track record validates real-world security implementation beyond certifications.</p>
+  <p>Strategic certification approach focused on federal cybersecurity readiness. CMMC Registered Practitioner credential and CCP exam passed (pending Tier 3) demonstrate compliance expertise. Security+ provides DoD 8140 baseline. AWS Solutions Architect Associate provides cloud security foundation. Zero ransomware track record across 30+ clients validates real-world security implementation beyond certifications.</p>
   
   <div class="philosophy-points">
     <div class="point-item">
@@ -143,60 +143,60 @@ permalink: /certifications/
     <div class="timeline-item current">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h4>Current Focus: AWS Security Specialty</h4>
+        <h4>Current: Federal Cybersecurity Readiness</h4>
         <ul>
-          <li><strong>AWS Security Specialty</strong> - In Progress</li>
+          <li><strong>CMMC RP</strong> - Active (December 2025)</li>
+          <li><strong>CCP Exam Passed</strong> - Certification pending Tier 3 (January 2026)</li>
           <li>Federal cloud security and compliance frameworks</li>
-          <li>Advanced security services and automation</li>
         </ul>
       </div>
     </div>
-    
+
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h4>Federal Security Implementation</h4>
+        <h4>NIST Framework Implementation</h4>
         <ul>
-          <li><strong>RMF Controls Implementation</strong> - Ongoing</li>
-          <li>Federal Cloud Resume with NIST compliance</li>
-          <li>Security automation for federal environments</li>
+          <li><strong>NIST 800-53 Control Mapping</strong> - Documented in Federal Cloud Resume</li>
+          <li>NIST 800-171 compliance experience from MSP operations</li>
+          <li>CMMC 2.0 assessment methodology</li>
         </ul>
       </div>
     </div>
-    
+
     <div class="timeline-item">
       <div class="timeline-marker"></div>
       <div class="timeline-content">
-        <h4>Defense Contractor Readiness</h4>
+        <h4>Federal Career Progression</h4>
         <ul>
           <li>Security clearance process initiation with sponsorship</li>
-          <li>Continued RMF and NIST framework study</li>
-          <li>Federal compliance automation projects</li>
+          <li>Continued NIST and CMMC framework development</li>
+          <li>Federal cybersecurity operations experience</li>
         </ul>
       </div>
     </div>
   </div>
 </div>
 
-## Defense Contractor Alignment Strategy
+## Federal Cybersecurity Alignment
 
 <div class="strategy-section">
   <div class="strategy-grid">
     <div class="strategy-item">
-      <h3>🎯 Zero Ransomware Breaches Foundation</h3>
-      <p>Zero ransomware breaches operations managing 30+ clients and 100+ endpoints validates practical security skills</p>
+      <h3>Zero Ransomware Foundation</h3>
+      <p>Zero ransomware losses across 30+ clients and 100+ endpoints validates practical security operations skills</p>
     </div>
     <div class="strategy-item">
-      <h3>💰 Federal Requirements Focus</h3>
-      <p>Security+ and AWS certifications align with defense contractor minimum requirements</p>
+      <h3>DoD 8140 Compliance</h3>
+      <p>Security+ CE meets DoD 8140 baseline requirements for federal cybersecurity positions</p>
     </div>
     <div class="strategy-item">
-      <h3>⏱️ Clearance Eligible</h3>
-      <p>Clean background ready for security clearance sponsorship opportunities</p>
+      <h3>Clearance Eligible</h3>
+      <p>U.S. Citizen, clean background, Tier 3 investigation in progress. Ready for clearance sponsorship.</p>
     </div>
     <div class="strategy-item">
-      <h3>🚀 Federal Cloud Focus</h3>
-      <p>Specialized expertise in federal cloud security requirements and compliance</p>
+      <h3>CMMC Expertise</h3>
+      <p>Registered Practitioner with CCP exam passed. Hands-on NIST 800-171 implementation experience.</p>
     </div>
   </div>
 </div>
@@ -212,12 +212,12 @@ permalink: /certifications/
     <li>Zero ransomware breaches MSP track record documented and verifiable</li>
   </ul>
   
-  <p class="credibility-note">Real security experience combined with targeted certifications creates immediate value for defense contractors. My zero ransomware breaches MSP operations demonstrate practical security implementation beyond just passing exams.</p>
+  <p class="credibility-note">Real security experience combined with targeted certifications creates immediate value for federal cybersecurity operations. Zero ransomware losses across MSP operations demonstrate practical security implementation beyond certifications alone.</p>
 </div>
 
 <div class="cta-section">
-  <h3>Ready for Defense Contractor Opportunities?</h3>
-  <p>Ready to contribute to defense contractor cloud security initiatives. Let's discuss how my zero ransomware breaches experience and federal cloud expertise can strengthen your security mission.</p>
+  <h3>Ready for Federal Cybersecurity Opportunities?</h3>
+  <p>Ready to contribute to defense contractor cybersecurity and CMMC compliance. Operational security experience and compliance framework knowledge ready for immediate contribution.</p>
   <a href="/contact" class="btn primary-btn">Discuss Opportunities</a>
 </div>
 

@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 <div class="content-section with-divider">
   <h2>CMMC Assessment Readiness & Security Operations</h2>
-  <p class="section-intro-text">CMMC Registered Practitioner with CCP exam passed demonstrating hands-on security implementation for SMB clients in regulated industries. Zero ransomware incidents across 100+ managed endpoints. Showcasing gap assessment experience and Defense Industrial Base readiness.</p>
+  <p class="section-intro-text">CMMC Registered Practitioner with CCP exam passed demonstrating hands-on security implementation for SMB clients in regulated industries. Zero ransomware incidents across 100+ managed endpoints. Showcasing gap assessment experience and Defense Industrial Base readiness. Available for CMMC gap assessments and compliance consulting.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">
@@ -77,24 +77,23 @@ permalink: /portfolio/
         </div>
         <div class="project-content-section">
           <div class="project-description">
-            <p>Building serverless resume website on AWS with comprehensive RMF (Risk Management Framework) controls implementation. Demonstrates AWS security services integration and federal compliance automation for defense contractor readiness.</p>
+            <p>Production serverless resume website on AWS demonstrating security best practices and NIST 800-53 control mapping documentation.</p>
             <p><strong>Security Implementation:</strong></p>
             <ul>
-              <li>AWS Security Hub centralized security finding management</li>
-              <li>GuardDuty threat detection and automated incident response</li>
-              <li>CloudTrail comprehensive audit logging and monitoring</li>
-              <li>IAM security with least privilege access controls</li>
-              <li>Infrastructure as Code with Terraform security controls</li>
+              <li>IAM least privilege - Lambda role scoped to specific DynamoDB table and actions</li>
+              <li>HTTPS enforcement via CloudFront with TLS termination</li>
+              <li>S3 Origin Access Control - no direct bucket access</li>
+              <li>DynamoDB encryption at rest</li>
             </ul>
-            <p><strong>Federal Compliance Focus:</strong></p>
+            <p><strong>Architecture:</strong></p>
             <ul>
-              <li>NIST 800-171 controls implementation and documentation</li>
-              <li>NIST cybersecurity framework alignment</li>
-              <li>Automated compliance monitoring and reporting</li>
-              <li>Security baseline enforcement and validation</li>
+              <li>S3 + CloudFront CDN + API Gateway + Lambda + DynamoDB</li>
+              <li>Custom domain with ACM certificate management</li>
+              <li>Atomic visitor counter with race condition prevention</li>
+              <li>NIST 800-53 control foundations documented</li>
             </ul>
             <p class="technologies">
-              <strong>Technologies:</strong> AWS Security Hub, GuardDuty, CloudTrail, IAM, S3, Lambda, Terraform, Python security automation
+              <strong>Technologies:</strong> AWS S3, CloudFront, Lambda, API Gateway, DynamoDB, IAM, ACM, Python
             </p>
           </div>
         </div>
@@ -140,14 +139,14 @@ permalink: /portfolio/
           <h2>Vanderbilt Hospital Enterprise Deployment</h2>
         </div>
         <div class="project-status-line">
-          <div class="project-status">2015 - Led 13-Person Team, 5,000+ System Deployment</div>
+          <div class="project-status">2015 - Led 11-Person Team, 5,000+ System Deployment</div>
         </div>
         <div class="project-content-section">
           <div class="project-description">
             <p>Managed enterprise-scale technology deployment demonstrating technical leadership and project management capabilities in healthcare environment with strict HIPAA compliance requirements.</p>
             <p><strong>Leadership Responsibilities:</strong></p>
             <ul>
-              <li>Led 13-person technical team through complex deployment project</li>
+              <li>Led 11-person technical team through complex deployment project</li>
               <li>Coordinated with clinical staff and hospital administration</li>
               <li>Ensured HIPAA compliance throughout deployment process</li>
               <li>Mentored junior technicians and managed daily team activities</li>
@@ -198,13 +197,13 @@ permalink: /portfolio/
     </div>
 
     <div class="value-area-item">
-      <h3>Cloud Architecture (Developing)</h3>
+      <h3>Cloud Security</h3>
       <ul>
-        <li>AWS Services and serverless patterns</li>
-        <li>Infrastructure as Code with Terraform</li>
-        <li>CI/CD pipeline development</li>
+        <li>AWS services and serverless patterns</li>
+        <li>IAM least privilege and encryption</li>
+        <li>NIST 800-53 control mapping</li>
         <li>Security and compliance automation</li>
-        <li>Cost optimization strategies</li>
+        <li>Federal cloud readiness</li>
       </ul>
     </div>
 
