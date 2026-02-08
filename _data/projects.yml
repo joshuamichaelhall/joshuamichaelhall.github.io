@@ -1,60 +1,40 @@
-# Portfolio Projects - Honest Current Status
-- title: "Phase 1: Network Security Infrastructure"
-  description: "Currently implementing pfSense-based network security infrastructure. Real-world project demonstrating security fundamentals, network architecture, and infrastructure management skills. Part of structured 48-week platform engineering journey."
-  technologies: ["pfSense", "Network Security", "Firewall Management", "VPN", "VLAN", "Network Monitoring"]
+# Portfolio Projects
+- title: "Critical Security Incident Resolution"
+  description: "Real-world security incident response across 30+ MSP clients. Resolved active compromises, copyright violation crises, and total network compromises. Mapped to NIST 800-53 controls. Zero ransomware losses across 100+ endpoints over 2+ years."
+  technologies: ["WatchGuard", "Fortinet", "EDR", "SIEM/SOC", "Active Directory", "MFA", "Network Segmentation"]
   github: "#"
   image: "/assets/images/security-automation.png"
   featured: true
-  category: "infrastructure"
-  status: "Active Implementation"
-  business_value: "Practical security implementation experience, network architecture understanding, hands-on infrastructure management"
+  category: "security-operations"
+  status: "2020-2023"
+  business_value: "Zero ransomware losses, 30+ clients secured, compromised environments stabilized"
 
-- title: "Phase 2: CRM Implementation"
-  description: "Upcoming project to implement customer relationship management system. Combines business process understanding from 5+ years of business ownership with technical implementation skills."
-  technologies: ["CRM Platform", "API Integration", "Database Management", "Business Process Automation"]
-  github: "#"
+- title: "Federal Cloud Resume"
+  description: "Production serverless architecture on AWS demonstrating security best practices. NIST 800-53 control foundations documented. IAM least privilege, encryption, HTTPS enforcement. Live at joshuahall.tech."
+  technologies: ["AWS S3", "CloudFront", "Lambda", "API Gateway", "DynamoDB", "IAM", "ACM", "Python"]
+  github: "https://github.com/joshuamichaelhall/federal-cloud-resume"
   image: "/assets/images/devops_sre_mastery_project.png"
   featured: true
-  category: "business-systems"
-  status: "Starting Soon"
-  business_value: "Business process automation, customer data management, practical value delivery"
+  category: "cloud-security"
+  status: "Production - Live"
+  business_value: "AWS security architecture demonstration, NIST 800-53 compliance mapping, serverless security patterns"
 
-- title: "Platform Engineering Portfolio"
-  description: "Building portfolio of platform engineering projects through daily Kubernetes study and hands-on practice. Focus on practical implementations that demonstrate readiness for platform engineering roles."
-  technologies: ["Kubernetes", "Docker", "Terraform", "CI/CD", "GitHub Actions", "Monitoring"]
-  github: "#"
+- title: "Launch School Backend Engineering"
+  description: "Completed backend engineering coursework through mastery-based learning methodology requiring 80%+ scores to advance. Ruby, PostgreSQL, networking, databases. Programming foundation supporting security automation."
+  technologies: ["Ruby", "PostgreSQL", "Python", "Git", "Shell Scripting", "HTTP Protocol"]
+  github: "https://github.com/JoshuaMichaelHall"
   image: "/assets/images/kubernetes.png"
-  featured: true
-  category: "platform"
-  status: "In Progress"
-  business_value: "Demonstrating platform engineering capabilities, building practical skills, contract-to-hire readiness"
-
-- title: "Daily Kubernetes Study"
-  description: "Dedicated daily study routine for Kubernetes mastery. Working through CKA curriculum with hands-on labs and practice clusters. Target certification: March 2025."
-  technologies: ["Kubernetes", "Container Orchestration", "Linux", "Networking", "Security"]
-  github: "#"
-  image: "/assets/images/kubernetes-operator.png"
   featured: false
-  category: "learning"
-  status: "Daily Progress"
-  business_value: "CKA certification preparation, hands-on Kubernetes experience, platform engineering readiness"
+  category: "development"
+  status: "Completed 2023-2025"
+  business_value: "Programming foundation for security automation, systematic problem-solving methodology"
 
-- title: "Infrastructure as Code Learning"
-  description: "Learning Terraform through practical projects. Building reusable modules and understanding GitOps workflows for infrastructure management."
-  technologies: ["Terraform", "AWS", "GitOps", "Infrastructure Automation"]
+- title: "Vanderbilt Hospital Enterprise Deployment"
+  description: "Led 11-person technical team through 5,000+ system deployment in HIPAA-regulated hospital environment. Coordinated with clinical and administrative stakeholders. Zero security incidents throughout deployment."
+  technologies: ["Windows Enterprise", "Healthcare IT", "HIPAA Compliance", "Project Management"]
   github: "#"
-  image: "/assets/images/terraform-aws.png"
-  featured: false
-  category: "infrastructure"
-  status: "Active Learning"
-  business_value: "IaC skills development, automation capabilities, modern infrastructure practices"
-
-- title: "Enhanced Terminal Environment"
-  description: "Customized developer terminal environment with integrated tooling. Practical project for improving daily development workflow."
-  technologies: ["Shell", "Neovim", "Tmux", "Git", "Zsh"]
-  github: "https://github.com/JoshuaMichaelHall/enhanced-terminal-environment"
   image: "/assets/images/enhanced_terminal_environment.png"
   featured: false
-  category: "developer-tools"
-  status: "Ongoing Enhancement"
-  business_value: "Productivity improvement, development workflow optimization, tool mastery"
+  category: "infrastructure"
+  status: "Completed 2015"
+  business_value: "Enterprise-scale deployment leadership, HIPAA compliance, team management"

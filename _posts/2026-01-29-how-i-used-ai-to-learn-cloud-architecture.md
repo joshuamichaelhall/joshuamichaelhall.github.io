@@ -63,8 +63,7 @@ CloudFront (CDN + SSL/TLS)
 - **DynamoDB** for storing visitor data
 - **IAM** for access control
 - **Route 53** for DNS
-- **WAF** for application-layer protection
-- **CloudWatch** for logging
+- **CloudWatch** for Lambda execution logging
 
 **Security controls implemented:**
 
@@ -154,6 +153,6 @@ If you are learning cloud architecture, consider the dialogue-driven approach. D
 
 ---
 
-*Joshua Hall is a CMMC Registered Practitioner with CCP exam passed (certification pending Tier 3 background). He spent 3 years building security programs for SMBs with zero ransomware incidents across 100+ managed endpoints. He is currently seeking CMMC Consultant roles at C3PAOs.*
+*Joshua Hall is a CMMC Registered Practitioner with 4+ years building security programs for regulated industries. Zero ransomware losses across 100+ managed endpoints. He is currently seeking federal cybersecurity roles.*
 
 *Connect on [LinkedIn](https://linkedin.com/in/joshuamichaelhall).*
