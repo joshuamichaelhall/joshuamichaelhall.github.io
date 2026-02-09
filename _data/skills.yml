@@ -103,7 +103,7 @@ categories:
         description: "Zero ransomware losses across 30+ clients and 100+ endpoints over 2+ years"
       - name: "CMMC Credentials"
         level: 95
-        description: "CMMC RP (active) + CCP exam passed (pending Tier 3) + Security+ (DoD 8140) + AWS SAA"
+        description: "Security+ (DoD 8570/8140 IAT II) + AWS SAA + CMMC RP + CCP (Exam Passed, Tier 3 Pending)"
       - name: "Operational Experience"
         level: 100
         description: "4+ years hands-on security operations with P&L responsibility"

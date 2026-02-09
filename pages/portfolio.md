@@ -40,7 +40,7 @@ permalink: /portfolio/
               <li><strong>Discovery:</strong> 30 employees sharing 2 RDP accounts, password on sticky note on wall</li>
               <li><strong>NIST Mapping:</strong> AC-2 (Account Management), IA-5 (Authenticator Management)</li>
               <li><strong>Solution:</strong> Complete infrastructure rebuild, individual accounts, MFA, network segmentation</li>
-              <li><strong>Result:</strong> Zero ransomware breaches for all fully managed clients post-implementation</li>
+              <li><strong>Result:</strong> Zero ransomware losses for all fully managed clients post-implementation</li>
             </ul>
 
             <p><strong>Critical Incident #3: Accounting Firm Total Compromise</strong></p>
@@ -57,7 +57,7 @@ permalink: /portfolio/
               <li>100% of new clients came to us already compromised or vulnerable</li>
               <li>Fixed copyright violations, active compromises, and malware infestations</li>
               <li>Implemented comprehensive security controls that prevented all future incidents</li>
-              <li>Zero successful breaches across 30+ production environments after implementation</li>
+              <li>Zero successful attacks across 30+ production environments after implementation</li>
               <li>Implemented security controls aligned with FTC Safeguards Rule for CPA clients and state bar requirements for legal clients</li>
             </ul>
 

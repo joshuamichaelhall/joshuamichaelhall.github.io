@@ -43,7 +43,7 @@ permalink: /certifications/
     </div>
     <div class="point-item">
       <h4>💡 Practical Experience</h4>
-      <p>Zero ransomware breaches MSP operations validate security implementation skills</p>
+      <p>Zero ransomware losses across MSP operations validate security implementation skills</p>
     </div>
     <div class="point-item">
       <h4>📈 Clearance Ready</h4>
@@ -209,7 +209,7 @@ permalink: /certifications/
     <li>AWS Solutions Architect Associate certification verifiable through AWS</li>
     <li>CompTIA Security+ CE (November 2025) verifiable through CompTIA</li>
     <li>CMMC CCP exam passed (January 2026) - certification pending Tier 3 clearance</li>
-    <li>Zero ransomware breaches MSP track record documented and verifiable</li>
+    <li>Zero ransomware losses across MSP operations documented and verifiable</li>
   </ul>
   
   <p class="credibility-note">Real security experience combined with targeted certifications creates immediate value for federal cybersecurity operations. Zero ransomware losses across MSP operations demonstrate practical security implementation beyond certifications alone.</p>

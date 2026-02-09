@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-# Cybersecurity Operations Professional
+# IT Security Professional | Clearance-Ready
 
 <div class="content-section with-divider">
-  <p>Cybersecurity operations professional with 4+ years building and managing security programs for regulated industries. CMMC Registered Practitioner with proven zero-breach track record across 30+ clients and 100+ endpoints. Experienced in security architecture design, risk assessment, incident response, and identity management with recent training in NIST 800-171 and CMMC frameworks. AWS-certified solutions architect. Seeking clearance-sponsoring IT and cybersecurity roles in Huntsville, AL. Available for CMMC compliance consulting.</p>
+  <p>I implement security controls that actually work. For nearly three years, I built and maintained security programs across 30+ clients in manufacturing, finance, and legal sectors. Zero ransomware losses across 100+ managed endpoints — not luck, but defense-in-depth: enterprise firewalls, EDR, MFA, network segmentation, documented policies, and 24/7 SOC coordination. Now bringing that hands-on experience to the defense industrial base. Seeking IT/security roles with Secret clearance sponsorship in Huntsville, AL. Available immediately.</p>
 
   <p><strong>Security Operations:</strong> Designed and implemented 11+ end-to-end security architectures. Managed IT for 30+ business clients across manufacturing, finance, legal, and professional services. Deployed enterprise firewalls, implemented endpoint protection, established identity and access management controls, and coordinated with third-party SOC for threat monitoring.</p>
 
@@ -30,7 +30,7 @@ permalink: /about/
       <div class="cert-category">
         <h4>Security</h4>
         <ul class="cert-list">
-          <li><strong>CompTIA Security+ CE</strong> - November 2025 (DoD 8140 Baseline)</li>
+          <li><strong>CompTIA Security+ CE</strong> - November 2025 (DoD 8570/8140 IAT Level II)</li>
           <li><strong>AWS Solutions Architect Associate</strong> - November 2025</li>
         </ul>
       </div>
@@ -63,8 +63,8 @@ permalink: /about/
       <p>AWS (IAM, S3, Lambda, CloudFront, API Gateway, DynamoDB), Active Directory, firewalls (WatchGuard, Fortinet), EDR, SIEM/SOC, network segmentation.</p>
     </div>
     <div class="expertise-item">
-      <h3>Leadership</h3>
-      <p>Former business owner with P&L responsibility. Executive advisory, stakeholder communication, team leadership, project management.</p>
+      <h3>Team Contribution</h3>
+      <p>Strong collaborator with project management experience. Stakeholder communication, team coordination, and proven ability to deliver in structured environments.</p>
     </div>
   </div>
 </div>
@@ -132,7 +132,7 @@ permalink: /about/
   </div>
 
   <div class="quote">
-    <p>Available for CMMC gap assessments and compliance consulting. Seeking clearance-sponsoring IT and cybersecurity roles at Huntsville-area defense contractors. Clearance-ready (U.S. Citizen, clean background).</p>
-    <div class="quote-author">- CMMC RP | CCP (Exam Passed, Pending Tier 3) | Security+ | Clearance-Ready</div>
+    <p>Seeking IT/security roles with Secret clearance sponsorship in Huntsville, AL. Available immediately. CMMC consulting also available.</p>
+    <div class="quote-author">- Security+ (DoD 8570/8140 IAT II) | AWS SAA | CMMC RP | CCP (Exam Passed, Tier 3 Pending) | Clearance-Ready</div>
   </div>
 </div>

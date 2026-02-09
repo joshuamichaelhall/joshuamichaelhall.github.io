@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-# Cybersecurity Operations Professional - Available for Defense Contractor & CMMC Consulting Opportunities
+# IT Security Professional - Seeking Clearance-Sponsoring Roles
 
 <div class="contact-hero">
   <div class="contact-image">
@@ -15,22 +15,22 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> Seeking Clearance-Sponsoring Roles | CMMC Compliance Consulting</p>
+    <p><strong>Status:</strong> Available Immediately | Seeking W-2 IT/Security Roles with Secret Clearance Sponsorship | Huntsville, AL</p>
   </div>
 
-  <p>Cybersecurity operations professional with 4+ years building and managing security programs for regulated industries. CMMC Registered Practitioner with proven zero-breach track record across 30+ clients and 100+ endpoints. Seeking clearance-sponsoring IT and cybersecurity roles at Huntsville-area defense contractors. Also available for CMMC gap assessment and compliance consulting.</p>
+  <p>I implement security controls that actually work. For nearly three years, I built and maintained security programs across 30+ clients. Zero ransomware losses across 100+ managed endpoints — defense-in-depth, not luck. Security+ (DoD 8570/8140 IAT Level II) certified. Seeking federal contractor roles with clearance sponsorship. CMMC consulting also available.</p>
 </div>
 
 <div class="content-section with-divider">
-  <h2>Availability and Requirements</h2>
+  <h2>Target Roles & Requirements</h2>
 
   <ul class="interests-list">
-    <li><strong>Location</strong> - Huntsville, AL (Relocating March 2026)</li>
-    <li><strong>Clearance Sponsorship</strong> - U.S. Citizen, clean background, clearance-ready, Tier 3 investigation in progress</li>
-    <li><strong>CMMC Credentials</strong> - RP (active), CCP exam passed (pending Tier 3)</li>
-    <li><strong>Security Operations</strong> - 11+ security architectures designed and implemented, 30+ business clients managed</li>
+    <li><strong>Target Roles</strong> - Systems Administrator, IT Specialist, IT Support Specialist, Compliance Analyst, Help Desk (Tier II/III)</li>
+    <li><strong>Location</strong> - Relocating to Huntsville, AL (March 2026)</li>
+    <li><strong>Clearance Sponsorship</strong> - U.S. Citizen, clean background, clearance-ready</li>
+    <li><strong>Certifications</strong> - Security+ (DoD 8570/8140 IAT II), AWS SAA, CMMC RP, CCP (Exam Passed, Tier 3 Pending)</li>
     <li><strong>Zero Ransomware</strong> - Proven track record across 100+ managed endpoints</li>
-    <li><strong>Compliance Frameworks</strong> - NIST 800-171, NIST 800-53, CMMC 2.0, HIPAA</li>
+    <li><strong>Also Available</strong> - CMMC gap assessment and compliance consulting</li>
   </ul>
 </div>
 
