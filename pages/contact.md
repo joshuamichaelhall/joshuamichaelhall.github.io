@@ -86,7 +86,7 @@ permalink: /contact/
         <h4>Operations Experience:</h4>
         <ul class="service-areas">
           <li><strong>Security Architecture</strong> - 11+ end-to-end security architectures designed and implemented</li>
-          <li><strong>Identity Management</strong> - Active Directory, Azure AD, multi-factor authentication enforcement</li>
+          <li><strong>Identity Management</strong> - User account management, multi-factor authentication enforcement</li>
           <li><strong>Network Security</strong> - Enterprise firewalls (WatchGuard, Fortinet), VPN, network segmentation</li>
           <li><strong>Endpoint Protection</strong> - EDR, RMM, patch management across 100+ endpoints</li>
           <li><strong>Backup & DR</strong> - 10+ disaster recovery solutions implemented</li>

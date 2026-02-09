@@ -73,6 +73,7 @@ exclude:
   - .github/
   - README.md
   - post_template
+  - resources/archive_feb2026/
 
   # Google Analytics
 google_analytics: G-H2DLTHZZ3C  # Replace with your tracking ID

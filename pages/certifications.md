@@ -192,7 +192,7 @@ permalink: /certifications/
     </div>
     <div class="strategy-item">
       <h3>Clearance Eligible</h3>
-      <p>U.S. Citizen, clean background, Tier 3 investigation in progress. Ready for clearance sponsorship.</p>
+      <p>U.S. Citizen, clean background, Tier 3 pending. Ready for clearance sponsorship.</p>
     </div>
     <div class="strategy-item">
       <h3>CMMC Expertise</h3>
