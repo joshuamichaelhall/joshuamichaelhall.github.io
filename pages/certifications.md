@@ -108,7 +108,7 @@ permalink: /certifications/
     <ul>
       <li><strong>CompTIA Network+ ce</strong> - Expired 2023</li>
       <li><strong>CompTIA Cloud+ ce</strong> - Expired 2024</li>
-      <li><strong>CompTIA Server+</strong> - Expired</li>
+      <li><strong>CompTIA Linux+</strong> - Expired</li>
     </ul>
   </div>
 
@@ -123,57 +123,15 @@ permalink: /certifications/
     </div>
     <div class="achievement-item">
       <h4>CompTIA Cloud Admin Professional (CCAP)</h4>
-      <p>Required: Cloud+ AND Server+ (Both expired)</p>
+      <p>Required: Cloud+ AND Linux+ (Both expired)</p>
     </div>
     <div class="achievement-item">
       <h4>CompTIA Secure Infrastructure Specialist (CSIS)</h4>
-      <p>Required: Security+ AND Server+ (Both expired)</p>
+      <p>Required: Security+ AND Linux+ (Both expired)</p>
     </div>
     <div class="achievement-item">
       <h4>CompTIA IT Operations Specialist (CIOS)</h4>
       <p>Required: A+ AND Network+ (Network+ expired)</p>
-    </div>
-  </div>
-</div>
-
-## 2025-2026 Security Certification Roadmap
-
-<div class="progress-section">
-  <div class="timeline">
-    <div class="timeline-item current">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
-        <h4>Current: Federal Cybersecurity Readiness</h4>
-        <ul>
-          <li><strong>CMMC RP</strong> - Active (December 2025)</li>
-          <li><strong>CCP Exam Passed</strong> - Certification pending Tier 3 (January 2026)</li>
-          <li>Federal cloud security and compliance frameworks</li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
-        <h4>NIST Framework Implementation</h4>
-        <ul>
-          <li><strong>NIST 800-53 Control Mapping</strong> - Documented in Federal Cloud Resume</li>
-          <li>NIST 800-171 compliance experience from MSP operations</li>
-          <li>CMMC 2.0 assessment methodology</li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <div class="timeline-content">
-        <h4>Federal Career Progression</h4>
-        <ul>
-          <li>Security clearance process initiation with sponsorship</li>
-          <li>Continued NIST and CMMC framework development</li>
-          <li>Federal cybersecurity operations experience</li>
-        </ul>
-      </div>
     </div>
   </div>
 </div>
