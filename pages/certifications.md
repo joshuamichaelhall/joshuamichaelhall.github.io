@@ -123,11 +123,11 @@ permalink: /certifications/
     </div>
     <div class="achievement-item">
       <h4>CompTIA Cloud Admin Professional (CCAP)</h4>
-      <p>Required: Cloud+ AND Linux+ (Both expired)</p>
+      <p>Required: Network+ AND Cloud+ (Both expired)</p>
     </div>
     <div class="achievement-item">
       <h4>CompTIA Secure Infrastructure Specialist (CSIS)</h4>
-      <p>Required: Security+ AND Linux+ (Both expired)</p>
+      <p>Required: A+ AND Network+ AND Security+ (Network+ expired)</p>
     </div>
     <div class="achievement-item">
       <h4>CompTIA IT Operations Specialist (CIOS)</h4>
