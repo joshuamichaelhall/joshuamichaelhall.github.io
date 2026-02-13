@@ -108,7 +108,7 @@ permalink: /certifications/
     <ul>
       <li><strong>CompTIA Network+ ce</strong> - Expired 2023</li>
       <li><strong>CompTIA Cloud+ ce</strong> - Expired 2024</li>
-      <li><strong>CompTIA Linux+</strong> - Expired</li>
+      <li><strong>CompTIA Linux+</strong> - Expired 2023</li>
     </ul>
   </div>
 
