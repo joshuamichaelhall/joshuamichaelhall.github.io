@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 <div class="content-section with-divider">
   <h2>CMMC Assessment Readiness & Security Operations</h2>
-  <p class="section-intro-text">CMMC Registered Practitioner with CCP exam passed demonstrating hands-on security implementation for SMB clients in regulated industries. Zero ransomware incidents across 100+ managed endpoints. Showcasing gap assessment experience and Defense Industrial Base readiness. Available for CMMC gap assessments and compliance consulting.</p>
+  <p class="section-intro-text">CMMC Registered Practitioner with CCP exam passed demonstrating hands-on security implementation for SMB clients in regulated industries. Zero ransomware incidents across 100+ managed endpoints. Showcasing gap assessment experience and Defense Industrial Base readiness.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">

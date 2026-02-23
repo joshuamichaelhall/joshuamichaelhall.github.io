@@ -73,6 +73,10 @@ permalink: /about/
   <h2>Professional Experience Highlights</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
+      <h3>Current: CMMC Registered Practitioner</h3>
+      <p>Mojave Corp (Contract) | February 2026 - Present. Supporting CMMC readiness assessments for Defense Industrial Base clients. Assisting with NIST 800-171 compliance documentation and gap analysis.</p>
+    </div>
+    <div class="expertise-item">
       <h3>Security Architecture</h3>
       <p>Designed and implemented 11+ end-to-end security architectures. Managed IT for 30+ business clients. Developed policies, implemented controls, established documentation standards.</p>
     </div>
@@ -86,7 +90,7 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Executive Advisory</h3>
-      <p>Advised business owners on security strategy and compliance requirements across manufacturing, finance, and legal sectors. Generated $160K+ annual MSP revenue.</p>
+      <p>Advised business owners on security strategy and compliance requirements across manufacturing, finance, and legal sectors.</p>
     </div>
   </div>
 </div>
@@ -132,7 +136,7 @@ permalink: /about/
   </div>
 
   <div class="quote">
-    <p>Seeking IT/security roles with Secret clearance sponsorship in Huntsville, AL. Available immediately. CMMC consulting also available.</p>
+    <p>Seeking IT/security roles with Secret clearance sponsorship in Huntsville, AL. Available immediately.</p>
     <div class="quote-author">- Security+ (DoD 8570/8140 IAT II) | AWS SAA | CMMC RP | CCP (Exam Passed, Tier 3 Pending) | Clearance-Ready</div>
   </div>
 </div>

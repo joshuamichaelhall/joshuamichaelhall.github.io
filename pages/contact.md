@@ -18,7 +18,7 @@ permalink: /contact/
     <p><strong>Status:</strong> Available Immediately | Seeking W-2 IT/Security Roles with Secret Clearance Sponsorship | Huntsville, AL</p>
   </div>
 
-  <p>I implement security controls that actually work. For nearly three years, I built and maintained security programs across 30+ clients. Zero ransomware losses across 100+ managed endpoints — defense-in-depth, not luck. Security+ (DoD 8570/8140 IAT Level II) certified. Seeking federal contractor roles with clearance sponsorship. CMMC consulting also available.</p>
+  <p>I implement security controls that actually work. For nearly three years, I built and maintained security programs across 30+ clients. Zero ransomware losses across 100+ managed endpoints — defense-in-depth, not luck. Security+ (DoD 8570/8140 IAT Level II) certified. Seeking federal contractor roles with clearance sponsorship.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -30,7 +30,6 @@ permalink: /contact/
     <li><strong>Clearance Sponsorship</strong> - U.S. Citizen, clean background, clearance-ready</li>
     <li><strong>Certifications</strong> - Security+ (DoD 8570/8140 IAT II), AWS SAA, CMMC RP, CCP (Exam Passed, Tier 3 Pending)</li>
     <li><strong>Zero Ransomware</strong> - Proven track record across 100+ managed endpoints</li>
-    <li><strong>Also Available</strong> - CMMC gap assessment and compliance consulting</li>
   </ul>
 </div>
 
@@ -110,7 +109,7 @@ permalink: /contact/
       </div>
     </div>
 
-    <p class="services-cta">Interested in discussing defense contractor cybersecurity opportunities or CMMC consulting? <a href="#contact-form">Contact me</a>.</p>
+    <p class="services-cta">Interested in discussing defense contractor cybersecurity opportunities? <a href="#contact-form">Contact me</a>.</p>
   </div>
 </div>
 
@@ -158,7 +157,6 @@ permalink: /contact/
           <optgroup label="Employment Opportunities">
             <option value="Clearance-Sponsoring IT/Cyber Role">Clearance-Sponsoring IT/Cyber Role</option>
             <option value="Defense Contractor Role">Defense Contractor Role</option>
-            <option value="CMMC Consulting Inquiry">CMMC Consulting Inquiry</option>
           </optgroup>
           <optgroup label="Cybersecurity Expertise">
             <option value="CMMC Compliance">CMMC Compliance</option>
