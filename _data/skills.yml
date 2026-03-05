@@ -97,7 +97,7 @@ categories:
         description: "U.S. Citizen, clean background, Tier 3 investigation in progress"
       - name: "Location Flexibility"
         level: 100
-        description: "Huntsville, AL (Relocating March 2026)"
+        description: "Huntsville, AL"
       - name: "Zero Ransomware Track Record"
         level: 100
         description: "Zero ransomware losses across 30+ clients and 100+ endpoints over 2+ years"

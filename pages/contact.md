@@ -26,7 +26,7 @@ permalink: /contact/
 
   <ul class="interests-list">
     <li><strong>Target Roles</strong> - Systems Administrator, IT Specialist, IT Support Specialist, Compliance Analyst, Help Desk (Tier II/III)</li>
-    <li><strong>Location</strong> - Relocating to Huntsville, AL (March 2026)</li>
+    <li><strong>Location</strong> - Huntsville, AL</li>
     <li><strong>Clearance Sponsorship</strong> - U.S. Citizen, clean background, clearance-ready</li>
     <li><strong>Certifications</strong> - Security+ (DoD 8570/8140 IAT II), AWS SAA, CMMC RP, CCP (Exam Passed, Tier 3 Pending)</li>
     <li><strong>Zero Ransomware</strong> - Proven track record across 100+ managed endpoints</li>

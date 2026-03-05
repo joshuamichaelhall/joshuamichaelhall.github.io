@@ -131,7 +131,7 @@ permalink: /about/
     </div>
     <div class="expertise-item">
       <h3>Availability</h3>
-      <p>Huntsville, AL (Relocating March 2026) | Available immediately</p>
+      <p>Huntsville, AL | Available immediately</p>
     </div>
   </div>
 
