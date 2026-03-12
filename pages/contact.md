@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-# IT Security Professional - Seeking Clearance-Sponsoring Roles
+# Systems Administrator - Seeking Clearance-Sponsoring Roles
 
 <div class="contact-hero">
   <div class="contact-image">
@@ -15,10 +15,10 @@ permalink: /contact/
 <div class="content-section with-divider">
   <div class="availability-status">
     <span class="status-indicator available"></span>
-    <p><strong>Status:</strong> Available Immediately | Seeking W-2 IT/Security Roles with Secret Clearance Sponsorship | Huntsville, AL</p>
+    <p><strong>Status:</strong> Available Immediately | Seeking Systems Administrator Role with Secret Clearance Sponsorship | Huntsville, AL</p>
   </div>
 
-  <p>I implement security controls that actually work. For nearly three years, I built and maintained security programs across 30+ clients. Zero ransomware losses across 100+ managed endpoints — defense-in-depth, not luck. Security+ (DoD 8570/8140 IAT Level II) certified. Seeking federal contractor roles with clearance sponsorship.</p>
+  <p>Systems Administrator with 3+ years managing Windows and Linux servers, network infrastructure, and security tools across 30+ client environments. Zero ransomware losses across 100+ managed endpoints. CompTIA Security+ certified (DoD 8570/8140 IAT Level II). Seeking Systems Administrator role with clearance sponsorship.</p>
 </div>
 
 <div class="content-section with-divider">
@@ -28,7 +28,7 @@ permalink: /contact/
     <li><strong>Target Roles</strong> - Systems Administrator, IT Specialist, IT Support Specialist, Compliance Analyst, Help Desk (Tier II/III)</li>
     <li><strong>Location</strong> - Huntsville, AL</li>
     <li><strong>Clearance Sponsorship</strong> - U.S. Citizen, clean background, clearance-ready</li>
-    <li><strong>Certifications</strong> - Security+ (DoD 8570/8140 IAT II), AWS SAA, CMMC RP, CCP (Exam Passed, Tier 3 Pending)</li>
+    <li><strong>Certifications</strong> - Security+ (DoD 8570/8140 IAT II), AWS SAA, CompTIA A+, CMMC RP, CCP (Exam Passed, Tier 3 Pending), CompTIA Project+</li>
     <li><strong>Zero Ransomware</strong> - Proven track record across 100+ managed endpoints</li>
   </ul>
 </div>
@@ -80,7 +80,7 @@ permalink: /contact/
     <div class="tab-content" id="compliance-tab">
       <div class="services-box">
         <h3>Security Operations</h3>
-        <p>4+ years hands-on security operations across regulated industries. Experience applicable to federal cybersecurity requirements including NIST and CMMC frameworks.</p>
+        <p>3+ years hands-on systems administration and security operations across regulated industries. Experience applicable to federal IT and cybersecurity requirements.</p>
 
         <h4>Operations Experience:</h4>
         <ul class="service-areas">
@@ -103,7 +103,7 @@ permalink: /contact/
           <li><strong>AWS Architecture</strong> - S3, CloudFront, Lambda, API Gateway, DynamoDB, IAM</li>
           <li><strong>Security Controls</strong> - IAM least privilege, encryption, HTTPS enforcement</li>
           <li><strong>Compliance Mapping</strong> - NIST 800-53 control documentation for cloud environments</li>
-          <li><strong>Scripting</strong> - Python, Ruby, Bash for security automation</li>
+          <li><strong>Productivity</strong> - M365 Administration, Exchange, Teams, SharePoint, OneDrive</li>
           <li><strong>Federal Cloud</strong> - RMF controls understanding and NIST framework alignment</li>
         </ul>
       </div>

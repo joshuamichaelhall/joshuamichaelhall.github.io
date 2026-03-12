@@ -4,24 +4,24 @@ title: Professional Certifications
 permalink: /certifications/
 ---
 
-# Cybersecurity Certifications
+# Professional Certifications
 
 <div class="cert-hero">
   <div class="cert-summary">
-    <h2>Federal Cybersecurity Credentials</h2>
-    <p>Targeted certification strategy aligned with federal cybersecurity requirements. CMMC Registered Practitioner with Security+ (DoD 8140 baseline) and AWS Solutions Architect credentials. Zero ransomware track record validates real-world security implementation beyond certifications.</p>
+    <h2>Federal IT Credentials</h2>
+    <p>CompTIA Security+ certified (DoD 8570/8140 IAT Level II) with AWS Solutions Architect Associate and CMMC Registered Practitioner credentials. Zero ransomware track record validates real-world security implementation beyond certifications.</p>
     <div class="cert-stats-row">
       <div class="stat-item">
-        <span class="stat-number">CMMC RP</span>
-        <span class="stat-label">Active Dec 2025</span>
-      </div>
-      <div class="stat-item">
         <span class="stat-number">Sec+</span>
-        <span class="stat-label">DoD 8140</span>
+        <span class="stat-label">DoD 8140 IAT II</span>
       </div>
       <div class="stat-item">
         <span class="stat-number">AWS SAA</span>
         <span class="stat-label">Active Nov 2025</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">CMMC RP</span>
+        <span class="stat-label">Active Dec 2025</span>
       </div>
       <div class="stat-item">
         <span class="stat-number">CCP</span>
@@ -31,10 +31,10 @@ permalink: /certifications/
   </div>
 </div>
 
-## Federal Cybersecurity Certification Strategy
+## Certification Strategy
 
 <div class="philosophy-section">
-  <p>Strategic certification approach focused on federal cybersecurity readiness. CMMC Registered Practitioner credential and CCP exam passed (pending Tier 3) demonstrate compliance expertise. Security+ provides DoD 8140 baseline. AWS Solutions Architect Associate provides cloud security foundation. Zero ransomware track record across 30+ clients validates real-world security implementation beyond certifications.</p>
+  <p>Certifications aligned with federal IT and defense contractor requirements. Security+ provides DoD 8140 IAT Level II baseline. AWS Solutions Architect Associate demonstrates cloud architecture skills. CMMC credentials support compliance work. Zero ransomware track record across 30+ clients validates real-world implementation beyond certifications.</p>
   
   <div class="philosophy-points">
     <div class="point-item">
@@ -52,45 +52,53 @@ permalink: /certifications/
   </div>
 </div>
 
-## Current Cloud Security Credentials
+## Security Certifications
 
 <div class="active-certs">
   <div class="cert-item current">
-    <h3>AWS Solutions Architect Associate</h3>
-    <p>Cloud architecture, AWS services, security best practices, and infrastructure design</p>
-    <span class="cert-meta">Current Certification</span>
-  </div>
-  
-  <div class="cert-item current">
-    <h3>CompTIA Security+</h3>
-    <p>Cybersecurity fundamentals, threat detection, incident response, and risk management</p>
+    <h3>CompTIA Security+ CE</h3>
+    <p>DoD 8570/8140 IAT Level II. Cybersecurity fundamentals, threat detection, incident response, and risk management</p>
     <span class="cert-meta">Current Certification (November 2025)</span>
   </div>
 
   <div class="cert-item current">
+    <h3>AWS Certified Solutions Architect - Associate</h3>
+    <p>Cloud architecture, AWS services, security best practices, and infrastructure design</p>
+    <span class="cert-meta">Current Certification (November 2025)</span>
+  </div>
+
+  <div class="cert-item current">
+    <h3>CompTIA A+</h3>
+    <p>IT fundamentals, hardware, networking, and troubleshooting</p>
+    <span class="cert-meta">Current Certification</span>
+  </div>
+</div>
+
+## CMMC Certifications
+
+<div class="active-certs">
+  <div class="cert-item current">
     <h3>CMMC Registered Practitioner (RP)</h3>
     <p>CMMC gap assessments and SSP documentation support</p>
-    <span class="cert-meta">Current Certification (December 2025)</span>
+    <span class="cert-meta">Active (December 2025)</span>
   </div>
 
   <div class="cert-item current">
     <h3>CMMC Certified Professional (CCP)</h3>
     <p>CMMC assessment methodology, NIST 800-171 controls, and compliance verification</p>
-    <span class="cert-meta">Exam Passed (January 2026) - Certification pending Tier 3 clearance</span>
+    <span class="cert-meta">Exam Passed - Tier 3 Adjudication Pending</span>
   </div>
+</div>
 
+## Project Management Certifications
+
+<div class="active-certs">
   <div class="cert-item current">
     <h3>CompTIA Project+</h3>
     <p>IT project lifecycle, communication, resources, and stakeholder management</p>
     <span class="cert-meta">Lifetime certification (December 2020)</span>
   </div>
-  
-  <div class="cert-item current">
-    <h3>CompTIA Cloud Essentials+</h3>
-    <p>Cloud concepts, business principles, and cloud service management</p>
-    <span class="cert-meta">Lifetime certification (September 2020)</span>
-  </div>
-  
+
   <div class="cert-item current">
     <h3>Google Project Management Certificate</h3>
     <p>Project management methodologies supporting technical implementation</p>
@@ -136,7 +144,7 @@ permalink: /certifications/
   </div>
 </div>
 
-## Federal Cybersecurity Alignment
+## Federal IT Alignment
 
 <div class="strategy-section">
   <div class="strategy-grid">
@@ -174,8 +182,8 @@ permalink: /certifications/
 </div>
 
 <div class="cta-section">
-  <h3>Ready for Federal Cybersecurity Opportunities?</h3>
-  <p>Ready to contribute to defense contractor cybersecurity and CMMC compliance. Operational security experience and compliance framework knowledge ready for immediate contribution.</p>
+  <h3>Ready for Federal IT Opportunities?</h3>
+  <p>Ready to contribute to defense contractor IT operations and security. Systems administration experience and compliance framework knowledge ready for immediate contribution.</p>
   <a href="/contact" class="btn primary-btn">Discuss Opportunities</a>
 </div>
 

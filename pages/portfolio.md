@@ -4,11 +4,11 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Cloud Security Engineering Portfolio
+# Systems Administration & Security Portfolio
 
 <div class="content-section with-divider">
-  <h2>CMMC Assessment Readiness & Security Operations</h2>
-  <p class="section-intro-text">CMMC Registered Practitioner with CCP exam passed demonstrating hands-on security implementation for SMB clients in regulated industries. Zero ransomware incidents across 100+ managed endpoints. Showcasing gap assessment experience and Defense Industrial Base readiness.</p>
+  <h2>Infrastructure & Security Operations</h2>
+  <p class="section-intro-text">Systems Administrator with 3+ years managing Windows/Linux servers, network infrastructure, and security tools across 30+ client environments. Zero ransomware incidents across 100+ managed endpoints. CMMC Registered Practitioner with hands-on implementation experience.</p>
 
   <div class="portfolio-timeline">
     <div class="timeline-section">

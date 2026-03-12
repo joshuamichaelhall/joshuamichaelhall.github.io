@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-# IT Security Professional | Clearance-Ready
+# Systems Administrator | Clearance-Ready
 
 <div class="content-section with-divider">
-  <p>I implement security controls that actually work. For nearly three years, I built and maintained security programs across 30+ clients in manufacturing, finance, and legal sectors. Zero ransomware losses across 100+ managed endpoints — not luck, but defense-in-depth: enterprise firewalls, EDR, MFA, network segmentation, documented policies, and 24/7 SOC coordination. Now bringing that hands-on experience to the defense industrial base. Seeking IT/security roles with Secret clearance sponsorship in Huntsville, AL. Available immediately.</p>
+  <p>Systems Administrator with 3+ years managing Windows and Linux servers, network infrastructure, and security tools across 30+ client environments. Zero ransomware losses across 100+ managed endpoints — not luck, but defense-in-depth: enterprise firewalls, EDR, MFA, network segmentation, documented policies, and 24/7 SOC coordination. CompTIA Security+ certified (DoD 8570/8140 IAT Level II). AWS Solutions Architect Associate. Seeking Systems Administrator role with Secret clearance sponsorship in Huntsville, AL. Available immediately.</p>
 
-  <p><strong>Security Operations:</strong> Designed and implemented 11+ end-to-end security architectures. Managed IT for 30+ business clients across manufacturing, finance, legal, and professional services. Deployed enterprise firewalls, implemented endpoint protection, established identity and access management controls, and coordinated with third-party SOC for threat monitoring.</p>
+  <p><strong>Infrastructure & Security Operations:</strong> Managed IT infrastructure and security for 30+ client organizations across manufacturing, finance, legal, and professional services. Deployed 11+ WatchGuard firewalls, 33 Ubiquiti Unifi APs, implemented endpoint protection, and administered Windows and Linux servers.</p>
 
   <p><strong>Regulated Environment Experience:</strong> HIPAA environment experience from BMA Inc. and Vanderbilt Hospital. Led 11-person team through 5,000+ system deployment in healthcare setting.</p>
 </div>
@@ -20,27 +20,27 @@ permalink: /about/
   <div class="certifications-section">
     <div class="cert-categories">
       <div class="cert-category">
-        <h4>CMMC</h4>
-        <ul class="cert-list">
-          <li><strong>CMMC Registered Practitioner (RP)</strong> - December 2025</li>
-          <li><strong>CMMC CCP Exam Passed</strong> - January 2026 (certification pending Tier 3 background)</li>
-        </ul>
-      </div>
-
-      <div class="cert-category">
         <h4>Security</h4>
         <ul class="cert-list">
-          <li><strong>CompTIA Security+ CE</strong> - November 2025 (DoD 8570/8140 IAT Level II)</li>
-          <li><strong>AWS Solutions Architect Associate</strong> - November 2025</li>
+          <li><strong>CompTIA Security+ CE</strong> - DoD 8570/8140 IAT Level II (November 2025)</li>
+          <li><strong>AWS Certified Solutions Architect - Associate</strong> (November 2025)</li>
+          <li><strong>CompTIA A+</strong></li>
         </ul>
       </div>
 
       <div class="cert-category">
-        <h4>Other</h4>
+        <h4>CMMC</h4>
         <ul class="cert-list">
-          <li><strong>CompTIA A+ CE</strong></li>
+          <li><strong>CMMC Registered Practitioner (RP)</strong> - Active (December 2025)</li>
+          <li><strong>CMMC CCP Exam Passed</strong> - January 2026 (Exam Passed, Tier 3 Adjudication Pending)</li>
+        </ul>
+      </div>
+
+      <div class="cert-category">
+        <h4>Project Management</h4>
+        <ul class="cert-list">
+          <li><strong>CompTIA Project+</strong></li>
           <li><strong>Google Project Management Certificate</strong></li>
-          <li><strong>Google AI Essentials</strong></li>
         </ul>
       </div>
     </div>
@@ -48,23 +48,23 @@ permalink: /about/
 </div>
 
 <div class="content-section with-divider">
-  <h2>Core Competencies</h2>
+  <h2>Technical Skills</h2>
   <div class="expertise-grid">
     <div class="expertise-item">
-      <h3>Security Operations</h3>
-      <p>Risk assessment, security architecture design, incident response, vulnerability management, access control, security event triage, defense-in-depth.</p>
+      <h3>Network & Security</h3>
+      <p>Enterprise Firewalls (WatchGuard T20/T80), VLANs, Network Segmentation, VPN, TCP/IP, Switches, Ubiquiti Unifi Wireless (33 APs deployed).</p>
     </div>
     <div class="expertise-item">
-      <h3>Compliance Frameworks</h3>
-      <p>NIST 800-171, NIST 800-53, CMMC 2.0, HIPAA, policy development, gap assessment, remediation tracking, audit preparation.</p>
+      <h3>Server Administration</h3>
+      <p>Windows Server, Linux Server, DNS, DHCP, System Imaging, Backup/Recovery.</p>
     </div>
     <div class="expertise-item">
-      <h3>Technical</h3>
-      <p>AWS (IAM, S3, Lambda, CloudFront, API Gateway, DynamoDB), Active Directory, firewalls (WatchGuard, Fortinet), EDR, SIEM/SOC, network segmentation.</p>
+      <h3>Endpoint & Security Tools</h3>
+      <p>Windows 10/11, Atera RMM, BitDefender Gravity Zone, Huntress EDR, MFA Configuration, LastPass, Axcient 360 Backup, Wireshark.</p>
     </div>
     <div class="expertise-item">
-      <h3>Team Contribution</h3>
-      <p>Strong collaborator with project management experience. Stakeholder communication, team coordination, and proven ability to deliver in structured environments.</p>
+      <h3>Cloud & Productivity</h3>
+      <p>M365 Administration, Exchange, Teams, SharePoint, OneDrive, AWS (IAM, S3, CloudFront, Lambda, DynamoDB, API Gateway).</p>
     </div>
   </div>
 </div>
@@ -77,20 +77,16 @@ permalink: /about/
       <p>Mojave Corp (Contract) | February 2026 - Present. Supporting CMMC readiness assessments for Defense Industrial Base clients. Assisting with NIST 800-171 compliance documentation and gap analysis.</p>
     </div>
     <div class="expertise-item">
-      <h3>Security Architecture</h3>
-      <p>Designed and implemented 11+ end-to-end security architectures. Managed IT for 30+ business clients. Developed policies, implemented controls, established documentation standards.</p>
+      <h3>Co-Founder & Security Program Manager</h3>
+      <p>TimothyTek (Eureka Technical Services, LLC) | December 2020 - July 2023. Managed IT infrastructure and security for 30+ client organizations. Zero ransomware losses across 100+ endpoints. Led $98K+ infrastructure modernization project.</p>
     </div>
     <div class="expertise-item">
-      <h3>Zero Ransomware Track Record</h3>
-      <p>Maintained zero ransomware losses across 100+ endpoints through defense-in-depth security strategy over 2+ years. Stabilized previously compromised environments.</p>
+      <h3>IT Technician</h3>
+      <p>BMA Inc. | October 2020 - May 2021. Provided systems support in HIPAA-compliant environments. Supported user account management, access controls, and WatchGuard firewall configuration.</p>
     </div>
     <div class="expertise-item">
-      <h3>Healthcare Compliance</h3>
-      <p>HIPAA environment experience from BMA Inc. and Vanderbilt Hospital. Led 11-person team through 5,000+ system deployment.</p>
-    </div>
-    <div class="expertise-item">
-      <h3>Executive Advisory</h3>
-      <p>Advised business owners on security strategy and compliance requirements across manufacturing, finance, and legal sectors.</p>
+      <h3>Technical Team Lead</h3>
+      <p>Apex Systems (Vanderbilt University Hospital) | February - June 2015. Led 11-person technical team in enterprise deployment of 5,000+ systems. Maintained HIPAA-compliant procedures with zero security incidents.</p>
     </div>
   </div>
 </div>
@@ -117,6 +113,16 @@ permalink: /about/
   </div>
 </div>
 
+<div class="content-section with-divider">
+  <h2>Professional Affiliations</h2>
+  <div class="expertise-grid">
+    <div class="expertise-item">
+      <h3>Memberships</h3>
+      <p>InfraGard Member (FBI Public-Private Partnership) | ISACA Member | ISSA Member</p>
+    </div>
+  </div>
+</div>
+
 <div class="content-section">
   <h2>Connect</h2>
   <div class="expertise-grid">
@@ -136,7 +142,7 @@ permalink: /about/
   </div>
 
   <div class="quote">
-    <p>Seeking IT/security roles with Secret clearance sponsorship in Huntsville, AL. Available immediately.</p>
-    <div class="quote-author">- Security+ (DoD 8570/8140 IAT II) | AWS SAA | CMMC RP | CCP (Exam Passed, Tier 3 Pending) | Clearance-Ready</div>
+    <p>Seeking Systems Administrator role with Secret clearance sponsorship in Huntsville, AL. Available immediately.</p>
+    <div class="quote-author">- Security+ (DoD 8570/8140 IAT II) | AWS SAA | CMMC RP | Clearance-Ready</div>
   </div>
 </div>
